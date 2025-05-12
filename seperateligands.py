@@ -10,10 +10,10 @@ class SingleLigandSelect(Select):
 
 # Load structure
 parser = PDBParser(QUIET=True)
-structure = parser.get_structure("complex", "ligands.pdb")  # <-- your file
+structure = parser.get_structure("complex", "ligands-2.pdb")  # <-- your file
 
 # Prepare output directory
-output_dir = "separated_ligands"
+output_dir = "ligands"
 os.makedirs(output_dir, exist_ok=True)
 
 # Loop through and extract individual ligands

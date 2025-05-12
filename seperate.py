@@ -11,16 +11,16 @@ class LigandSelect(Select):
 
 # Parse PDB
 parser = PDBParser(QUIET=True)
-structure = parser.get_structure("complex", "2pit.pdb")  # <-- change filename
+structure = parser.get_structure("complex", "1z95.pdb")  # <-- change filename
 
 # Save protein
 protein_io = PDBIO()
 protein_io.set_structure(structure)
-protein_io.save("protein.pdb", ProteinSelect())
+protein_io.save("protein-2.pdb", ProteinSelect())
 
 # Save all ligands
 ligand_io = PDBIO()
 ligand_io.set_structure(structure)
-ligand_io.save("ligands.pdb", LigandSelect())
+ligand_io.save("ligands-2.pdb", LigandSelect())
 
-print("Saved: protein.pdb and ligands.pdb")
+print("Saved: protein.pdb and ligands-2.pdb")
