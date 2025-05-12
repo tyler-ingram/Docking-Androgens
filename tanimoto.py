@@ -14,6 +14,6 @@ for file in os.listdir(folder_path):
         tanimoto_similarity = DataStructs.TanimotoSimilarity(fp1, fp2)
         print(f'Tanimoto similarity between {file} and DHT_A_931: {tanimoto_similarity:.4f}')
         prefix = file.split('.')[0]
-        open(f'./results/{prefix}_log.txt', 'a').write(f'{tanimoto_similarity:.4f}\n')
+        open(f'./results/{prefix}_log.txt', 'a').write(f'Tanimoto index: {tanimoto_similarity:.4f}\n')
     else:
         print(f'Failed to read {file}')
