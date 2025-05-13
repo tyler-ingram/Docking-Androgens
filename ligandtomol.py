@@ -19,6 +19,6 @@ for filename in os.listdir(input_dir):
             if result.returncode != 0:
                 raise RuntimeError(result.stderr.strip())
 
-            print(f"✅ Converted {filename} → {output_filename}")
+            print(f"Converted {filename} → {output_filename}")
         except Exception as e:
-            print(f"❌ Failed to convert {filename}: {e}")
+            print(f"Failed to convert {filename}: {e}")
