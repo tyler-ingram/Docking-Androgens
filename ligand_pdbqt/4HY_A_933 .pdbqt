@@ -1,0 +1,41 @@
+REMARK  Name = ligand_pdbs\4HY_A_933 .pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C13_13
+REMARK    2  A    between atoms: C2_2  and  O2_19
+REMARK    3  A    between atoms: C7_7  and  O2_19
+REMARK    4  A    between atoms: C13_13  and  C14_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  4HY A 933      15.297  19.920  27.322  0.00  0.00    +0.000 A 
+ATOM      2  C3  4HY A 933      15.318  19.853  28.712  0.00  0.00    +0.000 A 
+ATOM      3  C5  4HY A 933      15.790  18.710  29.350  0.00  0.00    +0.000 A 
+ATOM      4  C7  4HY A 933      16.247  17.628  28.600  0.00  0.00    +0.000 A 
+ATOM      5  C9  4HY A 933      16.219  17.695  27.208  0.00  0.00    +0.000 A 
+ATOM      6  C11 4HY A 933      15.748  18.838  26.570  0.00  0.00    +0.000 A 
+ATOM      7  I1  4HY A 933      15.772  18.627  31.444  0.00  0.00    +0.000 I 
+ATOM      8  I3  4HY A 933      16.748  16.019  26.068  0.00  0.00    +0.000 I 
+ENDROOT
+BRANCH   1   9
+ATOM      9  C13 4HY A 933      14.788  21.182  26.622  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C14 4HY A 933      13.262  21.256  26.721  0.00  0.00    +0.000 C 
+ATOM     11  O3  4HY A 933      12.609  20.881  25.724  0.00  0.00    +0.000 OA
+ATOM     12  O4  4HY A 933      12.784  21.687  27.793  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+BRANCH   4  13
+ATOM     13  O2  4HY A 933      16.651  16.475  29.202  0.00  0.00    +0.000 OA
+BRANCH  13  14
+ATOM     14  C2  4HY A 933      17.836  16.512  29.876  0.00  0.00    +0.000 A 
+ATOM     15  C4  4HY A 933      18.842  17.435  29.594  0.00  0.00    +0.000 A 
+ATOM     16  C6  4HY A 933      20.031  17.424  30.320  0.00  0.00    +0.000 A 
+ATOM     17  C8  4HY A 933      20.224  16.478  31.322  0.00  0.00    +0.000 A 
+ATOM     18  C10 4HY A 933      19.225  15.552  31.606  0.00  0.00    +0.000 A 
+ATOM     19  C12 4HY A 933      18.035  15.574  30.885  0.00  0.00    +0.000 A 
+ATOM     20  I2  4HY A 933      21.493  18.892  30.004  0.00  0.00    +0.000 I 
+ATOM     21  O1  4HY A 933      21.394  16.449  32.015  0.00  0.00    +0.000 OA
+ENDBRANCH  13  14
+ENDBRANCH   4  13
+TORSDOF 4

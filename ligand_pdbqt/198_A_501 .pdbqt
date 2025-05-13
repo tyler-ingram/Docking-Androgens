@@ -1,0 +1,58 @@
+REMARK  Name = ligand_pdbs\198_A_501 .pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C15_7  and  S14_8
+REMARK    2  A    between atoms: S14_8  and  C13_11
+REMARK    3  A    between atoms: C13_11  and  C11_12
+REMARK    4  A    between atoms: C11_12  and  C10_15
+REMARK    5  A    between atoms: N9_17  and  C1_18
+REMARK    6  A    between atoms: C4_22  and  C8_23
+REMARK    7  A    between atoms: C3_25  and  C7_26
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C10 198 A 501      28.449   1.087   4.823  0.00  0.00    +0.000 C 
+ATOM      2  O10 198 A 501      27.444   0.641   5.376  0.00  0.00    +0.000 OA
+ATOM      3  N9  198 A 501      28.625   2.357   4.466  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   3   4
+ATOM      4  C1  198 A 501      27.706   3.322   4.518  0.00  0.00    +0.000 A 
+ATOM      5  C2  198 A 501      26.366   3.088   4.819  0.00  0.00    +0.000 A 
+ATOM      6  C6  198 A 501      28.095   4.603   4.142  0.00  0.00    +0.000 A 
+ATOM      7  C5  198 A 501      27.150   5.622   4.083  0.00  0.00    +0.000 A 
+ATOM      8  C4  198 A 501      25.815   5.373   4.388  0.00  0.00    +0.000 A 
+ATOM      9  C3  198 A 501      25.395   4.090   4.755  0.00  0.00    +0.000 A 
+BRANCH   9  10
+ATOM     10  C7  198 A 501      23.931   3.731   5.075  0.00  0.00    +0.000 C 
+ATOM     11  F7B 198 A 501      23.714   3.872   6.379  0.00  0.00    +0.000 F 
+ATOM     12  F7C 198 A 501      23.030   4.473   4.437  0.00  0.00    +0.000 F 
+ATOM     13  F7A 198 A 501      23.640   2.474   4.749  0.00  0.00    +0.000 F 
+ENDBRANCH   9  10
+BRANCH   8  14
+ATOM     14  C8  198 A 501      24.933   6.499   4.324  0.00  0.00    +0.000 C 
+ATOM     15  N8  198 A 501      24.243   7.402   4.263  0.00  0.00    +0.000 NA
+ENDBRANCH   8  14
+ENDBRANCH   3   4
+BRANCH   1  16
+ATOM     16  C11 198 A 501      29.681   0.203   4.612  0.00  0.00    +0.000 C 
+ATOM     17  O11 198 A 501      30.666   0.959   3.903  0.00  0.00    +0.000 OA
+ATOM     18  C12 198 A 501      29.276  -1.021   3.788  0.00  0.00    +0.000 C 
+BRANCH  16  19
+ATOM     19  C13 198 A 501      30.257  -0.233   5.962  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  S14 198 A 501      30.961   1.123   6.971  0.00  0.00    +0.000 S 
+ATOM     21  O14 198 A 501      30.501   2.450   6.443  0.00  0.00    +0.000 OA
+ATOM     22  O15 198 A 501      32.458   1.053   6.927  0.00  0.00    +0.000 OA
+BRANCH  20  29
+ATOM     23  C16 198 A 501      29.185   1.467   9.015  0.00  0.00    +0.000 A 
+ATOM     24  C17 198 A 501      28.748   1.307  10.327  0.00  0.00    +0.000 A 
+ATOM     25  C18 198 A 501      29.543   0.626  11.244  0.00  0.00    +0.000 A 
+ATOM     26  F18 198 A 501      29.127   0.466  12.516  0.00  0.00    +0.000 F 
+ATOM     27  C19 198 A 501      30.773   0.107  10.852  0.00  0.00    +0.000 A 
+ATOM     28  C20 198 A 501      31.210   0.269   9.541  0.00  0.00    +0.000 A 
+ATOM     29  C15 198 A 501      30.416   0.948   8.623  0.00  0.00    +0.000 A 
+ENDBRANCH  20  29
+ENDBRANCH  19  20
+ENDBRANCH  16  19
+ENDBRANCH   1  16
+TORSDOF 7
