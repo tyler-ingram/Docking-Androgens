@@ -9,13 +9,13 @@ def get_pocket_coordinates(pdb_file, residue_ids):
         residue_ids (list): List of residue IDs to extract coordinates for.
         
     Returns:
-        list: List of coordinates for the specified residues.
+        Pair of numpy arrays: The center and size of the pocket.
     """
-    # === Load structure ===
+    # Get the structure from the PDB file
     parser = PDBParser(QUIET=True)
     structure = parser.get_structure("protein", pdb_file)
 
-    # === Collect atom coordinates from target residues ===
+    # Get the coordinates of the specified residues
     coords = []
     for model in structure:
         for chain in model:
@@ -23,10 +23,11 @@ def get_pocket_coordinates(pdb_file, residue_ids):
                 if res.get_id()[1] in residue_ids:
                     for atom in res:
                         coords.append(atom.coord)
-    
+    #Get the min and max coordinates for x y and z to create the box
     coords = np.array(coords)
     min_coords = coords.min(axis=0)
     max_coords = coords.max(axis=0)
+    # Calculate the center and size of the pocket
     center = (min_coords + max_coords) / 2
     size = max_coords - min_coords
 

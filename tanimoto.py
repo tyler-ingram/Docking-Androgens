@@ -2,10 +2,17 @@ from rdkit import Chem
 from rdkit.Chem import DataStructs, AllChem
 import os
 
+"""
+This script calculates the Tanimoto similarity between a reference ligand and a set of ligands in a specified folder.
+It uses the RDKit library to generate fingerprints and compute the similarity. This is meant to be used after running run.py and ligandtomol.py.
+"""
+
 folder_path = './ligand_mols'
 output_path = './results'
 os.makedirs(output_path, exist_ok=True)
+#DHT is the reference ligand
 mol1 = Chem.MolFromMolFile('ligand_mols/DHT_A_931.mol')
+#Loop through all the ligands in the folder
 for file in os.listdir(folder_path):
     mol2 = Chem.MolFromMolFile(os.path.join(folder_path, file))
     if mol2 is not None:
@@ -16,6 +23,7 @@ for file in os.listdir(folder_path):
         tanimoto_similarity = DataStructs.TanimotoSimilarity(fp1, fp2)
         print(f'Tanimoto similarity between {file} and DHT_A_931: {tanimoto_similarity:.4f}')
         prefix = file.split('.')[0]
+        #Append the results to a log file after doing the docking
         open(f'./results/{prefix}_log.txt', 'a').write(f'\nTanimoto index: {tanimoto_similarity:.4f}\n')
     else:
         print(f'Failed to read {file}')

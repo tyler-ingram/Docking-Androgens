@@ -1,6 +1,9 @@
 import os
 import subprocess
-
+"""This script converts PDB files to MOL files using Open Babel.
+MOL files are needed for calculating Tanimoto similarity using RDKit.
+This script should be run after running the separate.py and seperateligands.py scripts.
+"""
 input_dir = "ligand_pdbs"
 output_dir = "ligand_mols"
 os.makedirs(output_dir, exist_ok=True)
