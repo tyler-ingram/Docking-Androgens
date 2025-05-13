@@ -1,4 +1,4 @@
-name: pybelenv
+name: obabel3
 channels:
   - defaults
   - https://repo.anaconda.com/pkgs/main
@@ -48,4 +48,4 @@ dependencies:
       - typing-extensions==4.13.2
       - tzdata==2025.2
       - urllib3==2.4.0
-prefix: /opt/anaconda3/envs/pybelenv
+prefix: /opt/anaconda3/envs/obabel3

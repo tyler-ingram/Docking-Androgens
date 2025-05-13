@@ -40,3 +40,5 @@ mode |   affinity | dist from best mode
    4         -6.8      1.730      7.074
    5         -6.4      1.933      7.043
 Writing output ... done.
+
+Tanimoto index: 0.2941
