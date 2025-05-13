@@ -1,0 +1,180 @@
+MODEL 1
+REMARK VINA RESULT:      -3.1      0.000      0.000
+REMARK  Name = ligand_pdbs\GOL_A_1002 .pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  GOL A1002      23.938   4.862   4.807  0.00  0.00    +0.000 C 
+ATOM      2  O2  GOL A1002      22.806   4.311   4.348  0.00  0.00    +0.000 OA
+ATOM      3  C3  GOL A1002      24.479   6.133   4.452  0.00  0.00    +0.000 C 
+ATOM      4  O3  GOL A1002      25.437   7.362   4.400  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   5
+ATOM      5  C1  GOL A1002      24.686   4.126   5.728  0.00  0.00    +0.000 C 
+ATOM      6  O1  GOL A1002      26.245   4.342   6.055  0.00  0.00    +0.000 OA
+ENDBRANCH   1   5
+TORSDOF 1
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -3.0      1.924      3.719
+REMARK  Name = ligand_pdbs\GOL_A_1002 .pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  GOL A1002      26.218   6.622   4.996  0.00  0.00    +0.000 C 
+ATOM      2  O2  GOL A1002      27.540   6.416   5.076  0.00  0.00    +0.000 OA
+ATOM      3  C3  GOL A1002      25.195   5.628   4.989  0.00  0.00    +0.000 C 
+ATOM      4  O3  GOL A1002      23.781   4.972   4.941  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   5
+ATOM      5  C1  GOL A1002      25.775   7.942   4.903  0.00  0.00    +0.000 C 
+ATOM      6  O1  GOL A1002      25.033   8.766   6.067  0.00  0.00    +0.000 OA
+ENDBRANCH   1   5
+TORSDOF 1
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -3.0      0.612      2.514
+REMARK  Name = ligand_pdbs\GOL_A_1002 .pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  GOL A1002      23.984   4.723   4.887  0.00  0.00    +0.000 C 
+ATOM      2  O2  GOL A1002      22.830   4.315   4.339  0.00  0.00    +0.000 OA
+ATOM      3  C3  GOL A1002      24.799   4.001   5.807  0.00  0.00    +0.000 C 
+ATOM      4  O3  GOL A1002      25.971   3.651   6.773  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   5
+ATOM      5  C1  GOL A1002      24.449   5.992   4.537  0.00  0.00    +0.000 C 
+ATOM      6  O1  GOL A1002      25.713   6.740   5.191  0.00  0.00    +0.000 OA
+ENDBRANCH   1   5
+TORSDOF 1
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -3.0      1.734      3.106
+REMARK  Name = ligand_pdbs\GOL_A_1002 .pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  GOL A1002      25.756   6.784   4.722  0.00  0.00    +0.000 C 
+ATOM      2  O2  GOL A1002      25.969   8.095   4.536  0.00  0.00    +0.000 OA
+ATOM      3  C3  GOL A1002      24.516   6.092   4.596  0.00  0.00    +0.000 C 
+ATOM      4  O3  GOL A1002      23.470   4.935   4.594  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   5
+ATOM      5  C1  GOL A1002      26.850   5.999   5.087  0.00  0.00    +0.000 C 
+ATOM      6  O1  GOL A1002      27.980   5.445   4.086  0.00  0.00    +0.000 OA
+ENDBRANCH   1   5
+TORSDOF 1
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -3.0      2.005      3.041
+REMARK  Name = ligand_pdbs\GOL_A_1002 .pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  GOL A1002      26.566   6.068   4.666  0.00  0.00    +0.000 C 
+ATOM      2  O2  GOL A1002      27.816   5.672   4.389  0.00  0.00    +0.000 OA
+ATOM      3  C3  GOL A1002      26.165   7.325   5.207  0.00  0.00    +0.000 C 
+ATOM      4  O3  GOL A1002      25.259   8.470   5.755  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   5
+ATOM      5  C1  GOL A1002      25.533   5.164   4.414  0.00  0.00    +0.000 C 
+ATOM      6  O1  GOL A1002      23.962   5.469   4.572  0.00  0.00    +0.000 OA
+ENDBRANCH   1   5
+TORSDOF 1
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -2.9      1.579      2.966
+REMARK  Name = ligand_pdbs\GOL_A_1002 .pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  GOL A1002      25.815   4.540   5.633  0.00  0.00    +0.000 C 
+ATOM      2  O2  GOL A1002      26.499   3.774   6.495  0.00  0.00    +0.000 OA
+ATOM      3  C3  GOL A1002      24.461   4.368   5.222  0.00  0.00    +0.000 C 
+ATOM      4  O3  GOL A1002      23.103   4.604   4.492  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   5
+ATOM      5  C1  GOL A1002      26.486   5.622   5.060  0.00  0.00    +0.000 C 
+ATOM      6  O1  GOL A1002      27.918   5.557   4.333  0.00  0.00    +0.000 OA
+ENDBRANCH   1   5
+TORSDOF 1
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -2.9      1.666      2.630
+REMARK  Name = ligand_pdbs\GOL_A_1002 .pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  GOL A1002      24.842   5.576   4.564  0.00  0.00    +0.000 C 
+ATOM      2  O2  GOL A1002      23.766   4.867   4.935  0.00  0.00    +0.000 OA
+ATOM      3  C3  GOL A1002      26.046   5.070   3.990  0.00  0.00    +0.000 C 
+ATOM      4  O3  GOL A1002      27.480   5.027   3.379  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   5
+ATOM      5  C1  GOL A1002      24.802   6.957   4.761  0.00  0.00    +0.000 C 
+ATOM      6  O1  GOL A1002      26.055   7.958   4.636  0.00  0.00    +0.000 OA
+ENDBRANCH   1   5
+TORSDOF 1
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -2.8      2.503      3.722
+REMARK  Name = ligand_pdbs\GOL_A_1002 .pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  GOL A1002      26.978   5.902   4.733  0.00  0.00    +0.000 C 
+ATOM      2  O2  GOL A1002      27.567   6.997   5.234  0.00  0.00    +0.000 OA
+ATOM      3  C3  GOL A1002      27.624   4.762   4.170  0.00  0.00    +0.000 C 
+ATOM      4  O3  GOL A1002      27.831   3.370   3.498  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   5
+ATOM      5  C1  GOL A1002      25.583   5.857   4.749  0.00  0.00    +0.000 C 
+ATOM      6  O1  GOL A1002      24.690   4.660   5.347  0.00  0.00    +0.000 OA
+ENDBRANCH   1   5
+TORSDOF 1
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -2.8      3.043      4.037
+REMARK  Name = ligand_pdbs\GOL_A_1002 .pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  GOL A1002      27.314   5.295   4.485  0.00  0.00    +0.000 C 
+ATOM      2  O2  GOL A1002      26.745   5.220   3.273  0.00  0.00    +0.000 OA
+ATOM      3  C3  GOL A1002      27.844   4.215   5.252  0.00  0.00    +0.000 C 
+ATOM      4  O3  GOL A1002      28.517   3.431   6.419  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   5
+ATOM      5  C1  GOL A1002      27.398   6.554   5.080  0.00  0.00    +0.000 C 
+ATOM      6  O1  GOL A1002      26.151   7.491   5.471  0.00  0.00    +0.000 OA
+ENDBRANCH   1   5
+TORSDOF 1
+ENDMDL

@@ -1,0 +1,144 @@
+MODEL 1
+REMARK VINA RESULT:      -2.6      0.000      0.000
+REMARK  Name = ligand_pdbs\PO4_A_1919 .pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  P   PO4 A1919      24.369   4.649   4.874  0.00  0.00    +0.000 P 
+ATOM      2  O1  PO4 A1919      25.380   4.064   3.915  0.00  0.00    +0.000 OA
+ATOM      3  O2  PO4 A1919      22.974   4.389   4.374  0.00  0.00    +0.000 OA
+ATOM      4  O3  PO4 A1919      24.551   4.003   6.230  0.00  0.00    +0.000 OA
+ATOM      5  O4  PO4 A1919      24.593   6.139   4.990  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -2.6      0.047      1.916
+REMARK  Name = ligand_pdbs\PO4_A_1919 .pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  P   PO4 A1919      24.393   4.613   4.885  0.00  0.00    +0.000 P 
+ATOM      2  O1  PO4 A1919      24.609   6.104   5.009  0.00  0.00    +0.000 OA
+ATOM      3  O2  PO4 A1919      22.999   4.334   4.390  0.00  0.00    +0.000 OA
+ATOM      4  O3  PO4 A1919      25.401   4.054   3.906  0.00  0.00    +0.000 OA
+ATOM      5  O4  PO4 A1919      24.587   3.966   6.237  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -2.6      0.100      2.202
+REMARK  Name = ligand_pdbs\PO4_A_1919 .pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  P   PO4 A1919      24.340   4.612   4.830  0.00  0.00    +0.000 P 
+ATOM      2  O1  PO4 A1919      24.551   4.034   6.211  0.00  0.00    +0.000 OA
+ATOM      3  O2  PO4 A1919      24.504   6.107   4.865  0.00  0.00    +0.000 OA
+ATOM      4  O3  PO4 A1919      25.360   4.010   3.889  0.00  0.00    +0.000 OA
+ATOM      5  O4  PO4 A1919      22.947   4.269   4.353  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -2.6      0.009      2.206
+REMARK  Name = ligand_pdbs\PO4_A_1919 .pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  P   PO4 A1919      24.379   4.647   4.885  0.00  0.00    +0.000 P 
+ATOM      2  O1  PO4 A1919      24.597   6.139   4.994  0.00  0.00    +0.000 OA
+ATOM      3  O2  PO4 A1919      24.558   4.000   6.232  0.00  0.00    +0.000 OA
+ATOM      4  O3  PO4 A1919      22.975   4.394   4.382  0.00  0.00    +0.000 OA
+ATOM      5  O4  PO4 A1919      25.378   4.066   3.911  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -2.6      0.024      1.908
+REMARK  Name = ligand_pdbs\PO4_A_1919 .pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  P   PO4 A1919      24.367   4.628   4.871  0.00  0.00    +0.000 P 
+ATOM      2  O1  PO4 A1919      24.588   6.119   4.988  0.00  0.00    +0.000 OA
+ATOM      3  O2  PO4 A1919      25.360   4.034   3.908  0.00  0.00    +0.000 OA
+ATOM      4  O3  PO4 A1919      24.544   4.000   6.235  0.00  0.00    +0.000 OA
+ATOM      5  O4  PO4 A1919      22.964   4.369   4.372  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -2.6      0.011      1.911
+REMARK  Name = ligand_pdbs\PO4_A_1919 .pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  P   PO4 A1919      24.378   4.647   4.875  0.00  0.00    +0.000 P 
+ATOM      2  O1  PO4 A1919      24.537   4.008   6.236  0.00  0.00    +0.000 OA
+ATOM      3  O2  PO4 A1919      25.375   4.063   3.911  0.00  0.00    +0.000 OA
+ATOM      4  O3  PO4 A1919      22.974   4.386   4.375  0.00  0.00    +0.000 OA
+ATOM      5  O4  PO4 A1919      24.604   6.137   4.994  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -2.6      2.106      3.391
+REMARK  Name = ligand_pdbs\PO4_A_1919 .pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  P   PO4 A1919      25.534   6.945   4.756  0.00  0.00    +0.000 P 
+ATOM      2  O1  PO4 A1919      25.171   8.146   5.599  0.00  0.00    +0.000 OA
+ATOM      3  O2  PO4 A1919      24.769   5.736   5.224  0.00  0.00    +0.000 OA
+ATOM      4  O3  PO4 A1919      25.187   7.239   3.313  0.00  0.00    +0.000 OA
+ATOM      5  O4  PO4 A1919      27.017   6.680   4.876  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -2.6      2.530      3.450
+REMARK  Name = ligand_pdbs\PO4_A_1919 .pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  P   PO4 A1919      26.900   5.820   4.631  0.00  0.00    +0.000 P 
+ATOM      2  O1  PO4 A1919      26.434   4.835   5.679  0.00  0.00    +0.000 OA
+ATOM      3  O2  PO4 A1919      27.822   5.139   3.656  0.00  0.00    +0.000 OA
+ATOM      4  O3  PO4 A1919      25.692   6.359   3.897  0.00  0.00    +0.000 OA
+ATOM      5  O4  PO4 A1919      27.631   6.958   5.305  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -2.5      2.725      3.556
+REMARK  Name = ligand_pdbs\PO4_A_1919 .pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  P   PO4 A1919      27.224   5.462   4.856  0.00  0.00    +0.000 P 
+ATOM      2  O1  PO4 A1919      27.714   5.134   3.464  0.00  0.00    +0.000 OA
+ATOM      3  O2  PO4 A1919      27.657   6.850   5.242  0.00  0.00    +0.000 OA
+ATOM      4  O3  PO4 A1919      25.714   5.376   4.874  0.00  0.00    +0.000 OA
+ATOM      5  O4  PO4 A1919      27.800   4.464   5.835  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
