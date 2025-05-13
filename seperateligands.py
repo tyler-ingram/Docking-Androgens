@@ -32,7 +32,7 @@ for model in structure:
                 ligands_seen.add(ligand_key)
 
                 # Build filename and write file
-                filename = f"{resname}_{chain.id}_{resseq}{icode or ''}.pdb"
+                filename = f"{resname}_{chain.id}_{resseq}{icode or ''}".strip() + ".pdb"
                 filepath = os.path.join(output_dir, filename)
 
                 io.set_structure(structure)
