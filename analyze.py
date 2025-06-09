@@ -26,12 +26,15 @@ def calculate_centroid_distance(center1, center2):
     """
     return np.linalg.norm(center1 - center2)
 
-def tanimoto_similarity(id1, id2):
+def tanimoto_similarity(id1):
     """
     Calculate the Tanimoto similarity between two molecules.
     """
-    mol1 = Chem.MolFromMolFile(f'ligand_mols/{id1}.mol')
+    mol1 = Chem.MolFromMolFile(f'ligand_mols/{id1}.mol', sanitize=False)
     mol2 = Chem.MolFromMolFile(f'ligand_mols/DHT.mol')
+    # generator = GetMorganGenerator(radius=2, fpSize=2048)
+    # fp1 = generator.GetFingerprint(mol1)
+    # fp2 = generator.GetFingerprint(mol2)
     fp1 = AllChem.GetMorganFingerprint(mol1, radius=2)
     fp2 = AllChem.GetMorganFingerprint(mol2,radius=2)
     return DataStructs.TanimotoSimilarity(fp1, fp2)
@@ -48,6 +51,6 @@ def get_binding_affinity(id):
     with open(pdbqt_file) as f:
         for line in f:
             if line.strip().startswith("1 "):
-                affinity = float(line.split()[0])
+                affinity = float(line.split()[1])
                 break
     return affinity
