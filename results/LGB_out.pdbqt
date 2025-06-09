@@ -1,0 +1,132 @@
+MODEL 1
+REMARK VINA RESULT:      -9.2      0.000      0.000
+REMARK  Name = ligand_pdbs\LGB.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C8_8  and  C21_21
+REMARK    2  A    between atoms: N9_9  and  C10_10
+REMARK    3  A    between atoms: C13_13  and  C19_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  LGB A   1      27.143  -1.293   3.688  0.00  0.00    +0.000 C 
+ATOM      2  N2  LGB A   1      27.748  -0.424   4.729  0.00  0.00    +0.000 N 
+ATOM      3  C3  LGB A   1      29.179  -0.712   4.816  0.00  0.00    +0.000 C 
+ATOM      4  C4  LGB A   1      29.552  -1.397   3.483  0.00  0.00    +0.000 C 
+ATOM      5  C5  LGB A   1      28.245  -2.183   3.112  0.00  0.00    +0.000 C 
+ATOM      6  C6  LGB A   1      27.727   0.987   4.644  0.00  0.00    +0.000 C 
+ATOM      7  O7  LGB A   1      28.862   1.526   5.108  0.00  0.00    +0.000 OA
+ATOM      8  C8  LGB A   1      29.878   0.594   5.185  0.00  0.00    +0.000 C 
+ATOM      9  N9  LGB A   1      26.699   1.693   4.161  0.00  0.00    +0.000 NA
+ATOM     10  O18 LGB A   1      30.633  -2.277   3.630  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   9  11
+ATOM     11  C10 LGB A   1      26.524   3.038   4.185  0.00  0.00    +0.000 A 
+ATOM     12  C11 LGB A   1      25.212   3.531   4.354  0.00  0.00    +0.000 A 
+ATOM     13  C12 LGB A   1      25.043   4.912   4.377  0.00  0.00    +0.000 A 
+ATOM     14  C13 LGB A   1      26.127   5.802   4.238  0.00  0.00    +0.000 A 
+ATOM     15  C14 LGB A   1      27.409   5.327   4.075  0.00  0.00    +0.000 A 
+ATOM     16  C15 LGB A   1      27.606   3.945   4.049  0.00  0.00    +0.000 A 
+ATOM     17  C16 LGB A   1      24.044   2.586   4.503  0.00  0.00    +0.000 C 
+ATOM     18 CL17 LGB A   1      23.481   5.538   4.577  0.00  0.00    +0.000 Cl
+BRANCH  14  19
+ATOM     19  C19 LGB A   1      25.981   7.203   4.260  0.00  0.00    +0.000 C 
+ATOM     20  N20 LGB A   1      25.859   8.328   4.410  0.00  0.00    +0.000 NA
+ENDBRANCH  14  19
+ENDBRANCH   9  11
+BRANCH   8  21
+ATOM     21  C21 LGB A   1      30.289   0.603   6.645  0.00  0.00    +0.000 C 
+ATOM     22  F22 LGB A   1      30.063   1.818   7.129  0.00  0.00    +0.000 F 
+ATOM     23  F23 LGB A   1      31.577   0.282   6.829  0.00  0.00    +0.000 F 
+ATOM     24  F24 LGB A   1      29.563  -0.281   7.285  0.00  0.00    +0.000 F 
+ENDBRANCH   8  21
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -8.3      1.214      1.617
+REMARK  Name = ligand_pdbs\LGB.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C8_8  and  C21_21
+REMARK    2  A    between atoms: N9_9  and  C10_10
+REMARK    3  A    between atoms: C13_13  and  C19_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  LGB A   1      26.590  -1.673   4.528  0.00  0.00    +0.000 C 
+ATOM      2  N2  LGB A   1      27.358  -0.724   5.374  0.00  0.00    +0.000 N 
+ATOM      3  C3  LGB A   1      28.787  -0.924   5.133  0.00  0.00    +0.000 C 
+ATOM      4  C4  LGB A   1      28.888  -1.645   3.772  0.00  0.00    +0.000 C 
+ATOM      5  C5  LGB A   1      27.587  -2.521   3.737  0.00  0.00    +0.000 C 
+ATOM      6  C6  LGB A   1      27.224   0.678   5.254  0.00  0.00    +0.000 C 
+ATOM      7  O7  LGB A   1      28.396   1.302   5.425  0.00  0.00    +0.000 OA
+ATOM      8  C8  LGB A   1      29.462   0.436   5.291  0.00  0.00    +0.000 C 
+ATOM      9  N9  LGB A   1      26.067   1.301   5.002  0.00  0.00    +0.000 NA
+ATOM     10  O18 LGB A   1      30.030  -2.452   3.689  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   9  11
+ATOM     11  C10 LGB A   1      25.812   2.633   5.027  0.00  0.00    +0.000 A 
+ATOM     12  C11 LGB A   1      26.278   3.415   3.949  0.00  0.00    +0.000 A 
+ATOM     13  C12 LGB A   1      26.011   4.781   3.984  0.00  0.00    +0.000 A 
+ATOM     14  C13 LGB A   1      25.305   5.379   5.047  0.00  0.00    +0.000 A 
+ATOM     15  C14 LGB A   1      24.846   4.620   6.101  0.00  0.00    +0.000 A 
+ATOM     16  C15 LGB A   1      25.100   3.248   6.089  0.00  0.00    +0.000 A 
+ATOM     17  C16 LGB A   1      27.036   2.784   2.806  0.00  0.00    +0.000 C 
+ATOM     18 CL17 LGB A   1      26.556   5.750   2.706  0.00  0.00    +0.000 Cl
+BRANCH  14  19
+ATOM     19  C19 LGB A   1      25.022   6.757   5.103  0.00  0.00    +0.000 C 
+ATOM     20  N20 LGB A   1      24.876   7.880   5.250  0.00  0.00    +0.000 NA
+ENDBRANCH  14  19
+ENDBRANCH   9  11
+BRANCH   8  21
+ATOM     21  C21 LGB A   1      30.196   0.533   6.615  0.00  0.00    +0.000 C 
+ATOM     22  F22 LGB A   1      30.111   1.786   7.043  0.00  0.00    +0.000 F 
+ATOM     23  F23 LGB A   1      31.486   0.180   6.526  0.00  0.00    +0.000 F 
+ATOM     24  F24 LGB A   1      29.620  -0.277   7.470  0.00  0.00    +0.000 F 
+ENDBRANCH   8  21
+TORSDOF 3
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -7.3      4.032      7.458
+REMARK  Name = ligand_pdbs\LGB.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C8_8  and  C21_21
+REMARK    2  A    between atoms: N9_9  and  C10_10
+REMARK    3  A    between atoms: C13_13  and  C19_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  LGB A   1      27.301   6.596   5.379  0.00  0.00    +0.000 C 
+ATOM      2  N2  LGB A   1      26.393   5.421   5.417  0.00  0.00    +0.000 N 
+ATOM      3  C3  LGB A   1      25.191   5.724   4.641  0.00  0.00    +0.000 C 
+ATOM      4  C4  LGB A   1      25.576   6.892   3.708  0.00  0.00    +0.000 C 
+ATOM      5  C5  LGB A   1      26.623   7.694   4.557  0.00  0.00    +0.000 C 
+ATOM      6  C6  LGB A   1      26.770   4.156   4.912  0.00  0.00    +0.000 C 
+ATOM      7  O7  LGB A   1      25.743   3.536   4.317  0.00  0.00    +0.000 OA
+ATOM      8  C8  LGB A   1      24.720   4.414   4.014  0.00  0.00    +0.000 C 
+ATOM      9  N9  LGB A   1      28.001   3.643   5.017  0.00  0.00    +0.000 NA
+ATOM     10  O18 LGB A   1      24.473   7.697   3.393  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   9  11
+ATOM     11  C10 LGB A   1      28.414   2.388   4.709  0.00  0.00    +0.000 A 
+ATOM     12  C11 LGB A   1      29.344   1.768   5.570  0.00  0.00    +0.000 A 
+ATOM     13  C12 LGB A   1      29.760   0.480   5.244  0.00  0.00    +0.000 A 
+ATOM     14  C13 LGB A   1      29.285  -0.195   4.102  0.00  0.00    +0.000 A 
+ATOM     15  C14 LGB A   1      28.376   0.405   3.259  0.00  0.00    +0.000 A 
+ATOM     16  C15 LGB A   1      27.941   1.696   3.564  0.00  0.00    +0.000 A 
+ATOM     17  C16 LGB A   1      29.860   2.483   6.795  0.00  0.00    +0.000 C 
+ATOM     18 CL17 LGB A   1      30.878  -0.294   6.256  0.00  0.00    +0.000 Cl
+BRANCH  14  19
+ATOM     19  C19 LGB A   1      29.691  -1.497   3.754  0.00  0.00    +0.000 C 
+ATOM     20  N20 LGB A   1      29.920  -2.597   3.546  0.00  0.00    +0.000 NA
+ENDBRANCH  14  19
+ENDBRANCH   9  11
+BRANCH   8  21
+ATOM     21  C21 LGB A   1      23.515   3.857   4.748  0.00  0.00    +0.000 C 
+ATOM     22  F22 LGB A   1      23.490   2.544   4.561  0.00  0.00    +0.000 F 
+ATOM     23  F23 LGB A   1      22.357   4.388   4.331  0.00  0.00    +0.000 F 
+ATOM     24  F24 LGB A   1      23.643   4.131   6.023  0.00  0.00    +0.000 F 
+ENDBRANCH   8  21
+TORSDOF 3
+ENDMDL

@@ -1,0 +1,9 @@
+REMARK  Name = ligand_pdbs\CA.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 CA   CA  A2107       6.244 -23.120  -7.491  0.00  0.00    +0.000 Ca
+ENDROOT
+TORSDOF 0

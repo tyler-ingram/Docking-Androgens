@@ -1,0 +1,558 @@
+MODEL 1
+REMARK VINA RESULT:      -7.4      0.000      0.000
+REMARK  Name = ligand_pdbs\6L8.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_2  and  C13_8
+REMARK    2  A    between atoms: C6_4  and  C5_15
+REMARK    3  A    between atoms: C8_6  and  C12_7
+REMARK    4  A    between atoms: N2_18  and  C3_20
+REMARK    5  A    between atoms: C3_20  and  C2_21
+REMARK    6  A    between atoms: C2_21  and  C1'_22
+REMARK    7  A    between atoms: C2_21  and  C1_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C5  6L8 C1101      28.093   3.357   5.432  0.00  0.00    +0.000 C 
+ATOM      2  N3  6L8 C1101      29.001   3.495   6.438  0.00  0.00    +0.000 NA
+ATOM      3  C4  6L8 C1101      29.934   2.525   6.349  0.00  0.00    +0.000 C 
+ATOM      4  N2  6L8 C1101      29.591   1.789   5.296  0.00  0.00    +0.000 N 
+ATOM      5  N4  6L8 C1101      28.434   2.292   4.692  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   9
+ATOM      6  C9  6L8 C1101      24.668   5.797   4.691  0.00  0.00    +0.000 A 
+ATOM      7  C10 6L8 C1101      24.560   4.416   4.713  0.00  0.00    +0.000 A 
+ATOM      8  C11 6L8 C1101      25.681   3.630   4.953  0.00  0.00    +0.000 A 
+ATOM      9  C6  6L8 C1101      26.912   4.223   5.179  0.00  0.00    +0.000 A 
+ATOM     10  C7  6L8 C1101      27.026   5.609   5.154  0.00  0.00    +0.000 A 
+ATOM     11  C8  6L8 C1101      25.896   6.398   4.912  0.00  0.00    +0.000 A 
+BRANCH  11  12
+ATOM     12  C12 6L8 C1101      26.013   7.898   4.876  0.00  0.00    +0.000 C 
+ATOM     13  F6  6L8 C1101      27.280   8.187   5.024  0.00  0.00    +0.000 F 
+ATOM     14  F5  6L8 C1101      25.360   8.542   5.839  0.00  0.00    +0.000 F 
+ATOM     15  F4  6L8 C1101      25.571   8.286   3.693  0.00  0.00    +0.000 F 
+ENDBRANCH  11  12
+BRANCH   7  16
+ATOM     16  C13 6L8 C1101      23.223   3.783   4.470  0.00  0.00    +0.000 C 
+ATOM     17  F2  6L8 C1101      22.249   4.655   4.672  0.00  0.00    +0.000 F 
+ATOM     18  F1  6L8 C1101      23.161   3.375   3.226  0.00  0.00    +0.000 F 
+ATOM     19  F3  6L8 C1101      23.085   2.729   5.246  0.00  0.00    +0.000 F 
+ENDBRANCH   7  16
+ENDBRANCH   1   9
+BRANCH   4  20
+ATOM     20  C3  6L8 C1101      30.183   0.591   4.632  0.00  0.00    +0.000 C 
+BRANCH  20  21
+ATOM     21  C2  6L8 C1101      29.267  -0.644   4.651  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  C1' 6L8 C1101      27.898  -0.295   4.191  0.00  0.00    +0.000 A 
+ATOM     23  C4' 6L8 C1101      26.858  -0.331   5.114  0.00  0.00    +0.000 A 
+ATOM     24  N2' 6L8 C1101      25.622  -0.020   4.694  0.00  0.00    +0.000 NA
+ATOM     25  C3' 6L8 C1101      25.374   0.317   3.412  0.00  0.00    +0.000 A 
+ATOM     26  N1' 6L8 C1101      26.361   0.358   2.505  0.00  0.00    +0.000 NA
+ATOM     27  C2' 6L8 C1101      27.619   0.060   2.863  0.00  0.00    +0.000 A 
+ENDBRANCH  21  22
+BRANCH  21  28
+ATOM     28  C1  6L8 C1101      29.800  -1.796   3.809  0.00  0.00    +0.000 C 
+ATOM     29  O1  6L8 C1101      30.943  -1.696   3.358  0.00  0.00    +0.000 OA
+ATOM     30  N1  6L8 C1101      29.074  -2.908   3.562  0.00  0.00    +0.000 NA
+ENDBRANCH  21  28
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+TORSDOF 7
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -7.2      0.081      3.114
+REMARK  Name = ligand_pdbs\6L8.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_2  and  C13_8
+REMARK    2  A    between atoms: C6_4  and  C5_15
+REMARK    3  A    between atoms: C8_6  and  C12_7
+REMARK    4  A    between atoms: N2_18  and  C3_20
+REMARK    5  A    between atoms: C3_20  and  C2_21
+REMARK    6  A    between atoms: C2_21  and  C1'_22
+REMARK    7  A    between atoms: C2_21  and  C1_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C5  6L8 C1101      28.058   3.320   5.447  0.00  0.00    +0.000 C 
+ATOM      2  N3  6L8 C1101      28.955   3.462   6.462  0.00  0.00    +0.000 NA
+ATOM      3  C4  6L8 C1101      29.897   2.499   6.378  0.00  0.00    +0.000 C 
+ATOM      4  N2  6L8 C1101      29.569   1.765   5.319  0.00  0.00    +0.000 N 
+ATOM      5  N4  6L8 C1101      28.414   2.260   4.706  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   9
+ATOM      6  C9  6L8 C1101      24.682   5.829   4.710  0.00  0.00    +0.000 A 
+ATOM      7  C10 6L8 C1101      25.933   6.379   4.941  0.00  0.00    +0.000 A 
+ATOM      8  C11 6L8 C1101      27.025   5.553   5.182  0.00  0.00    +0.000 A 
+ATOM      9  C6  6L8 C1101      26.871   4.177   5.186  0.00  0.00    +0.000 A 
+ATOM     10  C7  6L8 C1101      25.617   3.621   4.958  0.00  0.00    +0.000 A 
+ATOM     11  C8  6L8 C1101      24.519   4.453   4.716  0.00  0.00    +0.000 A 
+BRANCH  11  12
+ATOM     12  C12 6L8 C1101      23.157   3.860   4.477  0.00  0.00    +0.000 C 
+ATOM     13  F6  6L8 C1101      23.082   3.575   3.202  0.00  0.00    +0.000 F 
+ATOM     14  F5  6L8 C1101      22.132   4.662   4.749  0.00  0.00    +0.000 F 
+ATOM     15  F4  6L8 C1101      23.083   2.767   5.215  0.00  0.00    +0.000 F 
+ENDBRANCH  11  12
+BRANCH   7  16
+ATOM     16  C13 6L8 C1101      26.091   7.869   4.932  0.00  0.00    +0.000 C 
+ATOM     17  F2  6L8 C1101      25.440   8.413   5.946  0.00  0.00    +0.000 F 
+ATOM     18  F1  6L8 C1101      27.361   8.167   5.050  0.00  0.00    +0.000 F 
+ATOM     19  F3  6L8 C1101      25.669   8.352   3.783  0.00  0.00    +0.000 F 
+ENDBRANCH   7  16
+ENDBRANCH   1   9
+BRANCH   4  20
+ATOM     20  C3  6L8 C1101      30.177   0.574   4.657  0.00  0.00    +0.000 C 
+BRANCH  20  21
+ATOM     21  C2  6L8 C1101      29.267  -0.666   4.654  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  C1' 6L8 C1101      27.900  -0.318   4.186  0.00  0.00    +0.000 A 
+ATOM     23  C4' 6L8 C1101      26.854  -0.360   5.101  0.00  0.00    +0.000 A 
+ATOM     24  N2' 6L8 C1101      25.621  -0.051   4.673  0.00  0.00    +0.000 NA
+ATOM     25  C3' 6L8 C1101      25.381   0.291   3.391  0.00  0.00    +0.000 A 
+ATOM     26  N1' 6L8 C1101      26.374   0.340   2.492  0.00  0.00    +0.000 NA
+ATOM     27  C2' 6L8 C1101      27.631   0.043   2.858  0.00  0.00    +0.000 A 
+ENDBRANCH  21  22
+BRANCH  21  28
+ATOM     28  C1  6L8 C1101      29.813  -1.806   3.804  0.00  0.00    +0.000 C 
+ATOM     29  O1  6L8 C1101      30.946  -1.680   3.335  0.00  0.00    +0.000 OA
+ATOM     30  N1  6L8 C1101      29.108  -2.934   3.568  0.00  0.00    +0.000 NA
+ENDBRANCH  21  28
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+TORSDOF 7
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.2      4.442      7.771
+REMARK  Name = ligand_pdbs\6L8.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_2  and  C13_8
+REMARK    2  A    between atoms: C6_4  and  C5_15
+REMARK    3  A    between atoms: C8_6  and  C12_7
+REMARK    4  A    between atoms: N2_18  and  C3_20
+REMARK    5  A    between atoms: C3_20  and  C2_21
+REMARK    6  A    between atoms: C2_21  and  C1'_22
+REMARK    7  A    between atoms: C2_21  and  C1_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C5  6L8 C1101      25.428   2.007   4.668  0.00  0.00    +0.000 C 
+ATOM      2  N3  6L8 C1101      24.321   1.754   3.916  0.00  0.00    +0.000 NA
+ATOM      3  C4  6L8 C1101      23.506   2.829   3.923  0.00  0.00    +0.000 C 
+ATOM      4  N2  6L8 C1101      24.110   3.735   4.687  0.00  0.00    +0.000 N 
+ATOM      5  N4  6L8 C1101      25.329   3.247   5.169  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   9
+ATOM      6  C9  6L8 C1101      28.725  -0.609   5.392  0.00  0.00    +0.000 A 
+ATOM      7  C10 6L8 C1101      28.764   0.711   5.813  0.00  0.00    +0.000 A 
+ATOM      8  C11 6L8 C1101      27.687   1.555   5.570  0.00  0.00    +0.000 A 
+ATOM      9  C6  6L8 C1101      26.564   1.081   4.914  0.00  0.00    +0.000 A 
+ATOM     10  C7  6L8 C1101      26.521  -0.242   4.486  0.00  0.00    +0.000 A 
+ATOM     11  C8  6L8 C1101      27.606  -1.090   4.731  0.00  0.00    +0.000 A 
+BRANCH  11  12
+ATOM     12  C12 6L8 C1101      27.570  -2.520   4.265  0.00  0.00    +0.000 C 
+ATOM     13  F6  6L8 C1101      26.960  -2.531   3.108  0.00  0.00    +0.000 F 
+ATOM     14  F5  6L8 C1101      26.906  -3.358   5.054  0.00  0.00    +0.000 F 
+ATOM     15  F4  6L8 C1101      28.826  -2.913   4.144  0.00  0.00    +0.000 F 
+ENDBRANCH  11  12
+BRANCH   7  16
+ATOM     16  C13 6L8 C1101      29.983   1.215   6.526  0.00  0.00    +0.000 C 
+ATOM     17  F2  6L8 C1101      30.419   0.320   7.396  0.00  0.00    +0.000 F 
+ATOM     18  F1  6L8 C1101      30.932   1.436   5.650  0.00  0.00    +0.000 F 
+ATOM     19  F3  6L8 C1101      29.708   2.358   7.118  0.00  0.00    +0.000 F 
+ENDBRANCH   7  16
+ENDBRANCH   1   9
+BRANCH   4  20
+ATOM     20  C3  6L8 C1101      23.778   5.129   5.100  0.00  0.00    +0.000 C 
+BRANCH  20  21
+ATOM     21  C2  6L8 C1101      25.010   5.995   5.409  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  C1' 6L8 C1101      26.206   5.493   4.684  0.00  0.00    +0.000 A 
+ATOM     23  C4' 6L8 C1101      27.339   5.162   5.419  0.00  0.00    +0.000 A 
+ATOM     24  N2' 6L8 C1101      28.417   4.713   4.759  0.00  0.00    +0.000 NA
+ATOM     25  C3' 6L8 C1101      28.424   4.585   3.417  0.00  0.00    +0.000 A 
+ATOM     26  N1' 6L8 C1101      27.343   4.897   2.688  0.00  0.00    +0.000 NA
+ATOM     27  C2' 6L8 C1101      26.231   5.349   3.289  0.00  0.00    +0.000 A 
+ENDBRANCH  21  22
+BRANCH  21  28
+ATOM     28  C1  6L8 C1101      24.804   7.468   5.078  0.00  0.00    +0.000 C 
+ATOM     29  O1  6L8 C1101      24.294   7.745   3.991  0.00  0.00    +0.000 OA
+ATOM     30  N1  6L8 C1101      25.146   8.456   5.934  0.00  0.00    +0.000 NA
+ENDBRANCH  21  28
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+TORSDOF 7
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.1      4.490      7.257
+REMARK  Name = ligand_pdbs\6L8.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_2  and  C13_8
+REMARK    2  A    between atoms: C6_4  and  C5_15
+REMARK    3  A    between atoms: C8_6  and  C12_7
+REMARK    4  A    between atoms: N2_18  and  C3_20
+REMARK    5  A    between atoms: C3_20  and  C2_21
+REMARK    6  A    between atoms: C2_21  and  C1'_22
+REMARK    7  A    between atoms: C2_21  and  C1_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C5  6L8 C1101      25.637   1.903   4.697  0.00  0.00    +0.000 C 
+ATOM      2  N3  6L8 C1101      24.554   1.630   3.918  0.00  0.00    +0.000 NA
+ATOM      3  C4  6L8 C1101      23.693   2.668   3.951  0.00  0.00    +0.000 C 
+ATOM      4  N2  6L8 C1101      24.245   3.570   4.757  0.00  0.00    +0.000 N 
+ATOM      5  N4  6L8 C1101      25.477   3.118   5.241  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   9
+ATOM      6  C9  6L8 C1101      28.975  -0.684   5.336  0.00  0.00    +0.000 A 
+ATOM      7  C10 6L8 C1101      27.877  -1.114   4.609  0.00  0.00    +0.000 A 
+ATOM      8  C11 6L8 C1101      26.794  -0.266   4.408  0.00  0.00    +0.000 A 
+ATOM      9  C6  6L8 C1101      26.810   1.018   4.927  0.00  0.00    +0.000 A 
+ATOM     10  C7  6L8 C1101      27.908   1.454   5.661  0.00  0.00    +0.000 A 
+ATOM     11  C8  6L8 C1101      28.996   0.598   5.862  0.00  0.00    +0.000 A 
+BRANCH  11  12
+ATOM     12  C12 6L8 C1101      30.185   1.059   6.661  0.00  0.00    +0.000 C 
+ATOM     13  F6  6L8 C1101      29.897   2.247   7.126  0.00  0.00    +0.000 F 
+ATOM     14  F5  6L8 C1101      31.317   1.183   5.975  0.00  0.00    +0.000 F 
+ATOM     15  F4  6L8 C1101      30.344   0.189   7.642  0.00  0.00    +0.000 F 
+ENDBRANCH  11  12
+BRANCH   7  16
+ATOM     16  C13 6L8 C1101      27.870  -2.504   4.048  0.00  0.00    +0.000 C 
+ATOM     17  F2  6L8 C1101      27.116  -3.302   4.785  0.00  0.00    +0.000 F 
+ATOM     18  F1  6L8 C1101      27.377  -2.475   2.834  0.00  0.00    +0.000 F 
+ATOM     19  F3  6L8 C1101      29.103  -2.956   3.970  0.00  0.00    +0.000 F 
+ENDBRANCH   7  16
+ENDBRANCH   1   9
+BRANCH   4  20
+ATOM     20  C3  6L8 C1101      23.845   4.932   5.216  0.00  0.00    +0.000 C 
+BRANCH  20  21
+ATOM     21  C2  6L8 C1101      25.033   5.881   5.452  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  C1' 6L8 C1101      26.237   5.415   4.715  0.00  0.00    +0.000 A 
+ATOM     23  C4' 6L8 C1101      27.374   5.082   5.443  0.00  0.00    +0.000 A 
+ATOM     24  N2' 6L8 C1101      28.460   4.667   4.775  0.00  0.00    +0.000 NA
+ATOM     25  C3' 6L8 C1101      28.470   4.573   3.429  0.00  0.00    +0.000 A 
+ATOM     26  N1' 6L8 C1101      27.385   4.887   2.707  0.00  0.00    +0.000 NA
+ATOM     27  C2' 6L8 C1101      26.266   5.307   3.317  0.00  0.00    +0.000 A 
+ENDBRANCH  21  22
+BRANCH  21  28
+ATOM     28  C1  6L8 C1101      24.733   7.323   5.062  0.00  0.00    +0.000 C 
+ATOM     29  O1  6L8 C1101      24.106   7.515   4.019  0.00  0.00    +0.000 OA
+ATOM     30  N1  6L8 C1101      25.116   8.371   5.822  0.00  0.00    +0.000 NA
+ENDBRANCH  21  28
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+TORSDOF 7
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -6.1      4.595      7.306
+REMARK  Name = ligand_pdbs\6L8.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_2  and  C13_8
+REMARK    2  A    between atoms: C6_4  and  C5_15
+REMARK    3  A    between atoms: C8_6  and  C12_7
+REMARK    4  A    between atoms: N2_18  and  C3_20
+REMARK    5  A    between atoms: C3_20  and  C2_21
+REMARK    6  A    between atoms: C2_21  and  C1'_22
+REMARK    7  A    between atoms: C2_21  and  C1_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C5  6L8 C1101      27.524   2.337   3.504  0.00  0.00    +0.000 C 
+ATOM      2  N3  6L8 C1101      26.518   2.211   2.595  0.00  0.00    +0.000 NA
+ATOM      3  C4  6L8 C1101      26.043   3.429   2.264  0.00  0.00    +0.000 C 
+ATOM      4  N2  6L8 C1101      26.751   4.299   2.980  0.00  0.00    +0.000 N 
+ATOM      5  N4  6L8 C1101      27.698   3.640   3.770  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   9
+ATOM      6  C9  6L8 C1101      29.744  -0.871   5.240  0.00  0.00    +0.000 A 
+ATOM      7  C10 6L8 C1101      28.891  -1.099   4.172  0.00  0.00    +0.000 A 
+ATOM      8  C11 6L8 C1101      28.170  -0.049   3.616  0.00  0.00    +0.000 A 
+ATOM      9  C6  6L8 C1101      28.307   1.234   4.120  0.00  0.00    +0.000 A 
+ATOM     10  C7  6L8 C1101      29.160   1.467   5.193  0.00  0.00    +0.000 A 
+ATOM     11  C8  6L8 C1101      29.884   0.409   5.752  0.00  0.00    +0.000 A 
+BRANCH  11  12
+ATOM     12  C12 6L8 C1101      30.803   0.652   6.918  0.00  0.00    +0.000 C 
+ATOM     13  F6  6L8 C1101      30.657   1.904   7.267  0.00  0.00    +0.000 F 
+ATOM     14  F5  6L8 C1101      32.097   0.474   6.669  0.00  0.00    +0.000 F 
+ATOM     15  F4  6L8 C1101      30.414  -0.161   7.885  0.00  0.00    +0.000 F 
+ENDBRANCH  11  12
+BRANCH   7  16
+ATOM     16  C13 6L8 C1101      28.751  -2.491   3.631  0.00  0.00    +0.000 C 
+ATOM     17  F2  6L8 C1101      29.917  -3.114   3.639  0.00  0.00    +0.000 F 
+ATOM     18  F1  6L8 C1101      27.918  -3.163   4.387  0.00  0.00    +0.000 F 
+ATOM     19  F3  6L8 C1101      28.245  -2.445   2.418  0.00  0.00    +0.000 F 
+ENDBRANCH   7  16
+ENDBRANCH   1   9
+BRANCH   4  20
+ATOM     20  C3  6L8 C1101      26.759   5.787   3.088  0.00  0.00    +0.000 C 
+BRANCH  20  21
+ATOM     21  C2  6L8 C1101      25.761   6.339   4.119  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  C1' 6L8 C1101      25.128   5.236   4.888  0.00  0.00    +0.000 A 
+ATOM     23  C4' 6L8 C1101      23.859   4.808   4.513  0.00  0.00    +0.000 A 
+ATOM     24  N2' 6L8 C1101      23.289   3.815   5.213  0.00  0.00    +0.000 NA
+ATOM     25  C3' 6L8 C1101      23.914   3.236   6.258  0.00  0.00    +0.000 A 
+ATOM     26  N1' 6L8 C1101      25.139   3.631   6.636  0.00  0.00    +0.000 NA
+ATOM     27  C2' 6L8 C1101      25.763   4.619   5.976  0.00  0.00    +0.000 A 
+ENDBRANCH  21  22
+BRANCH  21  28
+ATOM     28  C1  6L8 C1101      26.391   7.330   5.091  0.00  0.00    +0.000 C 
+ATOM     29  O1  6L8 C1101      27.600   7.230   5.306  0.00  0.00    +0.000 OA
+ATOM     30  N1  6L8 C1101      25.676   8.302   5.696  0.00  0.00    +0.000 NA
+ENDBRANCH  21  28
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+TORSDOF 7
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.9      4.604      7.770
+REMARK  Name = ligand_pdbs\6L8.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_2  and  C13_8
+REMARK    2  A    between atoms: C6_4  and  C5_15
+REMARK    3  A    between atoms: C8_6  and  C12_7
+REMARK    4  A    between atoms: N2_18  and  C3_20
+REMARK    5  A    between atoms: C3_20  and  C2_21
+REMARK    6  A    between atoms: C2_21  and  C1'_22
+REMARK    7  A    between atoms: C2_21  and  C1_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C5  6L8 C1101      27.530   2.335   3.502  0.00  0.00    +0.000 C 
+ATOM      2  N3  6L8 C1101      26.537   2.238   2.575  0.00  0.00    +0.000 NA
+ATOM      3  C4  6L8 C1101      26.084   3.469   2.258  0.00  0.00    +0.000 C 
+ATOM      4  N2  6L8 C1101      26.794   4.316   2.998  0.00  0.00    +0.000 N 
+ATOM      5  N4  6L8 C1101      27.719   3.630   3.792  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   9
+ATOM      6  C9  6L8 C1101      29.737  -0.858   5.282  0.00  0.00    +0.000 A 
+ATOM      7  C10 6L8 C1101      29.847   0.434   5.770  0.00  0.00    +0.000 A 
+ATOM      8  C11 6L8 C1101      29.126   1.467   5.182  0.00  0.00    +0.000 A 
+ATOM      9  C6  6L8 C1101      28.288   1.210   4.110  0.00  0.00    +0.000 A 
+ATOM     10  C7  6L8 C1101      28.177  -0.085   3.615  0.00  0.00    +0.000 A 
+ATOM     11  C8  6L8 C1101      28.903  -1.124   4.208  0.00  0.00    +0.000 A 
+BRANCH  11  12
+ATOM     12  C12 6L8 C1101      28.794  -2.525   3.673  0.00  0.00    +0.000 C 
+ATOM     13  F6  6L8 C1101      28.328  -2.436   2.454  0.00  0.00    +0.000 F 
+ATOM     14  F5  6L8 C1101      27.968  -3.325   4.340  0.00  0.00    +0.000 F 
+ATOM     15  F4  6L8 C1101      30.015  -3.031   3.680  0.00  0.00    +0.000 F 
+ENDBRANCH  11  12
+BRANCH   7  16
+ATOM     16  C13 6L8 C1101      30.754   0.703   6.932  0.00  0.00    +0.000 C 
+ATOM     17  F2  6L8 C1101      30.480  -0.112   7.937  0.00  0.00    +0.000 F 
+ATOM     18  F1  6L8 C1101      31.995   0.501   6.563  0.00  0.00    +0.000 F 
+ATOM     19  F3  6L8 C1101      30.643   1.962   7.298  0.00  0.00    +0.000 F 
+ENDBRANCH   7  16
+ENDBRANCH   1   9
+BRANCH   4  20
+ATOM     20  C3  6L8 C1101      26.822   5.802   3.132  0.00  0.00    +0.000 C 
+BRANCH  20  21
+ATOM     21  C2  6L8 C1101      25.794   6.354   4.134  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  C1' 6L8 C1101      25.136   5.250   4.880  0.00  0.00    +0.000 A 
+ATOM     23  C4' 6L8 C1101      23.865   4.847   4.486  0.00  0.00    +0.000 A 
+ATOM     24  N2' 6L8 C1101      23.273   3.853   5.166  0.00  0.00    +0.000 NA
+ATOM     25  C3' 6L8 C1101      23.877   3.251   6.211  0.00  0.00    +0.000 A 
+ATOM     26  N1' 6L8 C1101      25.103   3.623   6.607  0.00  0.00    +0.000 NA
+ATOM     27  C2' 6L8 C1101      25.749   4.610   5.967  0.00  0.00    +0.000 A 
+ENDBRANCH  21  22
+BRANCH  21  28
+ATOM     28  C1  6L8 C1101      26.396   7.341   5.126  0.00  0.00    +0.000 C 
+ATOM     29  O1  6L8 C1101      27.608   7.273   5.338  0.00  0.00    +0.000 OA
+ATOM     30  N1  6L8 C1101      25.654   8.279   5.753  0.00  0.00    +0.000 NA
+ENDBRANCH  21  28
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+TORSDOF 7
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.2      4.590      7.738
+REMARK  Name = ligand_pdbs\6L8.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_2  and  C13_8
+REMARK    2  A    between atoms: C6_4  and  C5_15
+REMARK    3  A    between atoms: C8_6  and  C12_7
+REMARK    4  A    between atoms: N2_18  and  C3_20
+REMARK    5  A    between atoms: C3_20  and  C2_21
+REMARK    6  A    between atoms: C2_21  and  C1'_22
+REMARK    7  A    between atoms: C2_21  and  C1_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C5  6L8 C1101      28.047   3.558   4.301  0.00  0.00    +0.000 C 
+ATOM      2  N3  6L8 C1101      27.917   3.927   2.997  0.00  0.00    +0.000 NA
+ATOM      3  C4  6L8 C1101      27.572   5.229   2.920  0.00  0.00    +0.000 C 
+ATOM      4  N2  6L8 C1101      27.480   5.652   4.178  0.00  0.00    +0.000 N 
+ATOM      5  N4  6L8 C1101      27.779   4.621   5.074  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   9
+ATOM      6  C9  6L8 C1101      29.158  -0.293   5.776  0.00  0.00    +0.000 A 
+ATOM      7  C10 6L8 C1101      29.992   0.799   5.954  0.00  0.00    +0.000 A 
+ATOM      8  C11 6L8 C1101      29.623   2.048   5.468  0.00  0.00    +0.000 A 
+ATOM      9  C6  6L8 C1101      28.415   2.211   4.810  0.00  0.00    +0.000 A 
+ATOM     10  C7  6L8 C1101      27.576   1.117   4.626  0.00  0.00    +0.000 A 
+ATOM     11  C8  6L8 C1101      27.949  -0.139   5.115  0.00  0.00    +0.000 A 
+BRANCH  11  12
+ATOM     12  C12 6L8 C1101      27.051  -1.329   4.914  0.00  0.00    +0.000 C 
+ATOM     13  F6  6L8 C1101      25.847  -0.966   5.275  0.00  0.00    +0.000 F 
+ATOM     14  F5  6L8 C1101      27.358  -2.402   5.636  0.00  0.00    +0.000 F 
+ATOM     15  F4  6L8 C1101      27.093  -1.624   3.626  0.00  0.00    +0.000 F 
+ENDBRANCH  11  12
+BRANCH   7  16
+ATOM     16  C13 6L8 C1101      31.296   0.615   6.669  0.00  0.00    +0.000 C 
+ATOM     17  F2  6L8 C1101      32.119   1.616   6.405  0.00  0.00    +0.000 F 
+ATOM     18  F1  6L8 C1101      31.077   0.590   7.961  0.00  0.00    +0.000 F 
+ATOM     19  F3  6L8 C1101      31.829  -0.539   6.329  0.00  0.00    +0.000 F 
+ENDBRANCH   7  16
+ENDBRANCH   1   9
+BRANCH   4  20
+ATOM     20  C3  6L8 C1101      27.160   6.966   4.807  0.00  0.00    +0.000 C 
+BRANCH  20  21
+ATOM     21  C2  6L8 C1101      25.661   7.310   4.798  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  C1' 6L8 C1101      24.835   6.080   4.921  0.00  0.00    +0.000 A 
+ATOM     23  C4' 6L8 C1101      25.125   5.186   5.946  0.00  0.00    +0.000 A 
+ATOM     24  N2' 6L8 C1101      24.381   4.075   6.051  0.00  0.00    +0.000 NA
+ATOM     25  C3' 6L8 C1101      23.375   3.812   5.192  0.00  0.00    +0.000 A 
+ATOM     26  N1' 6L8 C1101      23.077   4.661   4.197  0.00  0.00    +0.000 NA
+ATOM     27  C2' 6L8 C1101      23.784   5.791   4.040  0.00  0.00    +0.000 A 
+ENDBRANCH  21  22
+BRANCH  21  28
+ATOM     28  C1  6L8 C1101      25.266   8.292   5.894  0.00  0.00    +0.000 C 
+ATOM     29  O1  6L8 C1101      26.092   8.526   6.778  0.00  0.00    +0.000 OA
+ATOM     30  N1  6L8 C1101      24.065   8.909   5.912  0.00  0.00    +0.000 NA
+ENDBRANCH  21  28
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+TORSDOF 7
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.0      4.602      7.669
+REMARK  Name = ligand_pdbs\6L8.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_2  and  C13_8
+REMARK    2  A    between atoms: C6_4  and  C5_15
+REMARK    3  A    between atoms: C8_6  and  C12_7
+REMARK    4  A    between atoms: N2_18  and  C3_20
+REMARK    5  A    between atoms: C3_20  and  C2_21
+REMARK    6  A    between atoms: C2_21  and  C1'_22
+REMARK    7  A    between atoms: C2_21  and  C1_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C5  6L8 C1101      26.185   1.688   4.675  0.00  0.00    +0.000 C 
+ATOM      2  N3  6L8 C1101      24.972   1.330   4.169  0.00  0.00    +0.000 NA
+ATOM      3  C4  6L8 C1101      24.158   2.405   4.127  0.00  0.00    +0.000 C 
+ATOM      4  N2  6L8 C1101      24.870   3.416   4.615  0.00  0.00    +0.000 N 
+ATOM      5  N4  6L8 C1101      26.157   2.997   4.965  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   9
+ATOM      6  C9  6L8 C1101      29.524  -0.913   5.246  0.00  0.00    +0.000 A 
+ATOM      7  C10 6L8 C1101      28.498  -1.260   4.382  0.00  0.00    +0.000 A 
+ATOM      8  C11 6L8 C1101      27.414  -0.408   4.204  0.00  0.00    +0.000 A 
+ATOM      9  C6  6L8 C1101      27.357   0.797   4.884  0.00  0.00    +0.000 A 
+ATOM     10  C7  6L8 C1101      28.383   1.149   5.755  0.00  0.00    +0.000 A 
+ATOM     11  C8  6L8 C1101      29.472   0.290   5.933  0.00  0.00    +0.000 A 
+BRANCH  11  12
+ATOM     12  C12 6L8 C1101      30.582   0.659   6.879  0.00  0.00    +0.000 C 
+ATOM     13  F6  6L8 C1101      30.476   1.942   7.112  0.00  0.00    +0.000 F 
+ATOM     14  F5  6L8 C1101      31.812   0.456   6.418  0.00  0.00    +0.000 F 
+ATOM     15  F4  6L8 C1101      30.391  -0.044   7.982  0.00  0.00    +0.000 F 
+ENDBRANCH  11  12
+BRANCH   7  16
+ATOM     16  C13 6L8 C1101      28.569  -2.565   3.648  0.00  0.00    +0.000 C 
+ATOM     17  F2  6L8 C1101      29.809  -3.024   3.630  0.00  0.00    +0.000 F 
+ATOM     18  F1  6L8 C1101      27.813  -3.443   4.259  0.00  0.00    +0.000 F 
+ATOM     19  F3  6L8 C1101      28.102  -2.413   2.427  0.00  0.00    +0.000 F 
+ENDBRANCH   7  16
+ENDBRANCH   1   9
+BRANCH   4  20
+ATOM     20  C3  6L8 C1101      24.595   4.867   4.833  0.00  0.00    +0.000 C 
+BRANCH  20  21
+ATOM     21  C2  6L8 C1101      25.505   5.800   4.017  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  C1' 6L8 C1101      25.399   7.200   4.503  0.00  0.00    +0.000 A 
+ATOM     23  C4' 6L8 C1101      25.915   8.220   3.710  0.00  0.00    +0.000 A 
+ATOM     24  N2' 6L8 C1101      25.822   9.482   4.155  0.00  0.00    +0.000 NA
+ATOM     25  C3' 6L8 C1101      25.251   9.774   5.342  0.00  0.00    +0.000 A 
+ATOM     26  N1' 6L8 C1101      24.747   8.808   6.122  0.00  0.00    +0.000 NA
+ATOM     27  C2' 6L8 C1101      24.806   7.525   5.732  0.00  0.00    +0.000 A 
+ENDBRANCH  21  22
+BRANCH  21  28
+ATOM     28  C1  6L8 C1101      26.967   5.372   4.031  0.00  0.00    +0.000 C 
+ATOM     29  O1  6L8 C1101      27.598   5.524   5.079  0.00  0.00    +0.000 OA
+ATOM     30  N1  6L8 C1101      27.572   4.830   2.952  0.00  0.00    +0.000 NA
+ENDBRANCH  21  28
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+TORSDOF 7
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.0      4.611      8.125
+REMARK  Name = ligand_pdbs\6L8.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_2  and  C13_8
+REMARK    2  A    between atoms: C6_4  and  C5_15
+REMARK    3  A    between atoms: C8_6  and  C12_7
+REMARK    4  A    between atoms: N2_18  and  C3_20
+REMARK    5  A    between atoms: C3_20  and  C2_21
+REMARK    6  A    between atoms: C2_21  and  C1'_22
+REMARK    7  A    between atoms: C2_21  and  C1_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C5  6L8 C1101      26.181   1.639   4.748  0.00  0.00    +0.000 C 
+ATOM      2  N3  6L8 C1101      24.952   1.311   4.260  0.00  0.00    +0.000 NA
+ATOM      3  C4  6L8 C1101      24.160   2.403   4.243  0.00  0.00    +0.000 C 
+ATOM      4  N2  6L8 C1101      24.901   3.395   4.728  0.00  0.00    +0.000 N 
+ATOM      5  N4  6L8 C1101      26.185   2.945   5.052  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   9
+ATOM      6  C9  6L8 C1101      29.530  -0.953   5.296  0.00  0.00    +0.000 A 
+ATOM      7  C10 6L8 C1101      29.454   0.254   5.971  0.00  0.00    +0.000 A 
+ATOM      8  C11 6L8 C1101      28.361   1.092   5.784  0.00  0.00    +0.000 A 
+ATOM      9  C6  6L8 C1101      27.337   0.722   4.928  0.00  0.00    +0.000 A 
+ATOM     10  C7  6L8 C1101      27.411  -0.488   4.245  0.00  0.00    +0.000 A 
+ATOM     11  C8  6L8 C1101      28.512  -1.329   4.434  0.00  0.00    +0.000 A 
+BRANCH  11  12
+ATOM     12  C12 6L8 C1101      28.603  -2.635   3.693  0.00  0.00    +0.000 C 
+ATOM     13  F6  6L8 C1101      27.806  -3.476   4.299  0.00  0.00    +0.000 F 
+ATOM     14  F5  6L8 C1101      29.808  -3.197   3.678  0.00  0.00    +0.000 F 
+ATOM     15  F4  6L8 C1101      28.199  -2.401   2.457  0.00  0.00    +0.000 F 
+ENDBRANCH  11  12
+BRANCH   7  16
+ATOM     16  C13 6L8 C1101      30.565   0.646   6.899  0.00  0.00    +0.000 C 
+ATOM     17  F2  6L8 C1101      30.461   0.002   8.049  0.00  0.00    +0.000 F 
+ATOM     18  F1  6L8 C1101      31.712   0.330   6.351  0.00  0.00    +0.000 F 
+ATOM     19  F3  6L8 C1101      30.550   1.949   7.081  0.00  0.00    +0.000 F 
+ENDBRANCH   7  16
+ENDBRANCH   1   9
+BRANCH   4  20
+ATOM     20  C3  6L8 C1101      24.660   4.848   4.965  0.00  0.00    +0.000 C 
+BRANCH  20  21
+ATOM     21  C2  6L8 C1101      25.529   5.771   4.095  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  C1' 6L8 C1101      25.419   7.182   4.546  0.00  0.00    +0.000 A 
+ATOM     23  C4' 6L8 C1101      25.843   8.190   3.686  0.00  0.00    +0.000 A 
+ATOM     24  N2' 6L8 C1101      25.746   9.463   4.099  0.00  0.00    +0.000 NA
+ATOM     25  C3' 6L8 C1101      25.256   9.777   5.316  0.00  0.00    +0.000 A 
+ATOM     26  N1' 6L8 C1101      24.841   8.822   6.160  0.00  0.00    +0.000 NA
+ATOM     27  C2' 6L8 C1101      24.910   7.530   5.806  0.00  0.00    +0.000 A 
+ENDBRANCH  21  22
+BRANCH  21  28
+ATOM     28  C1  6L8 C1101      26.998   5.365   4.074  0.00  0.00    +0.000 C 
+ATOM     29  O1  6L8 C1101      27.650   5.521   5.107  0.00  0.00    +0.000 OA
+ATOM     30  N1  6L8 C1101      27.585   4.836   2.979  0.00  0.00    +0.000 NA
+ENDBRANCH  21  28
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+TORSDOF 7
+ENDMDL

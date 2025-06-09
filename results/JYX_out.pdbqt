@@ -1,0 +1,234 @@
+MODEL 1
+REMARK VINA RESULT:      -5.8      0.000      0.000
+REMARK  Name = ligand_pdbs\JYX.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  N1_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  JYX A 702      25.835   3.426   5.305  0.00  0.00    +0.000 N 
+ATOM      2  C3  JYX A 702      27.160   3.196   5.600  0.00  0.00    +0.000 C 
+ATOM      3  N2  JYX A 702      27.649   1.981   5.856  0.00  0.00    +0.000 NA
+ATOM      4  N3  JYX A 702      27.890   4.292   5.572  0.00  0.00    +0.000 NA
+ATOM      5  C4  JYX A 702      26.989   5.303   5.254  0.00  0.00    +0.000 C 
+ATOM      6  C5  JYX A 702      27.164   6.674   5.097  0.00  0.00    +0.000 C 
+ATOM      7  C6  JYX A 702      26.021   7.402   4.775  0.00  0.00    +0.000 C 
+ATOM      8  C7  JYX A 702      24.792   6.762   4.633  0.00  0.00    +0.000 C 
+ATOM      9  N4  JYX A 702      24.614   5.444   4.789  0.00  0.00    +0.000 NA
+ATOM     10  C8  JYX A 702      25.719   4.780   5.088  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  12
+ATOM     11  C1  JYX A 702      24.606   1.881   3.842  0.00  0.00    +0.000 C 
+ATOM     12  C2  JYX A 702      24.736   2.460   5.219  0.00  0.00    +0.000 C 
+ENDBRANCH   1  12
+TORSDOF 1
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -5.7      1.280      2.582
+REMARK  Name = ligand_pdbs\JYX.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  N1_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  JYX A 702      25.910   3.642   4.710  0.00  0.00    +0.000 N 
+ATOM      2  C3  JYX A 702      24.559   3.503   4.480  0.00  0.00    +0.000 C 
+ATOM      3  N2  JYX A 702      23.968   2.318   4.311  0.00  0.00    +0.000 NA
+ATOM      4  N3  JYX A 702      23.918   4.653   4.474  0.00  0.00    +0.000 NA
+ATOM      5  C4  JYX A 702      24.907   5.604   4.701  0.00  0.00    +0.000 C 
+ATOM      6  C5  JYX A 702      24.845   6.991   4.786  0.00  0.00    +0.000 C 
+ATOM      7  C6  JYX A 702      26.053   7.642   5.023  0.00  0.00    +0.000 C 
+ATOM      8  C7  JYX A 702      27.235   6.915   5.154  0.00  0.00    +0.000 C 
+ATOM      9  N4  JYX A 702      27.304   5.581   5.065  0.00  0.00    +0.000 NA
+ATOM     10  C8  JYX A 702      26.138   4.992   4.846  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  12
+ATOM     11  C1  JYX A 702      27.551   2.291   3.477  0.00  0.00    +0.000 C 
+ATOM     12  C2  JYX A 702      26.934   2.597   4.808  0.00  0.00    +0.000 C 
+ENDBRANCH   1  12
+TORSDOF 1
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -5.6      1.593      1.713
+REMARK  Name = ligand_pdbs\JYX.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  N1_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  JYX A 702      26.237   2.616   4.300  0.00  0.00    +0.000 N 
+ATOM      2  C3  JYX A 702      27.509   2.975   3.914  0.00  0.00    +0.000 C 
+ATOM      3  N2  JYX A 702      28.495   2.091   3.743  0.00  0.00    +0.000 NA
+ATOM      4  N3  JYX A 702      27.637   4.269   3.705  0.00  0.00    +0.000 NA
+ATOM      5  C4  JYX A 702      26.379   4.792   3.983  0.00  0.00    +0.000 C 
+ATOM      6  C5  JYX A 702      25.900   6.098   3.956  0.00  0.00    +0.000 C 
+ATOM      7  C6  JYX A 702      24.562   6.265   4.304  0.00  0.00    +0.000 C 
+ATOM      8  C7  JYX A 702      23.781   5.167   4.657  0.00  0.00    +0.000 C 
+ATOM      9  N4  JYX A 702      24.236   3.908   4.693  0.00  0.00    +0.000 NA
+ATOM     10  C8  JYX A 702      25.509   3.783   4.352  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  12
+ATOM     11  C1  JYX A 702      25.152   0.613   3.378  0.00  0.00    +0.000 C 
+ATOM     12  C2  JYX A 702      25.714   1.279   4.597  0.00  0.00    +0.000 C 
+ENDBRANCH   1  12
+TORSDOF 1
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -5.4      1.542      3.610
+REMARK  Name = ligand_pdbs\JYX.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  N1_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  JYX A 702      26.915   4.647   4.914  0.00  0.00    +0.000 N 
+ATOM      2  C3  JYX A 702      26.706   6.001   5.062  0.00  0.00    +0.000 C 
+ATOM      3  N2  JYX A 702      27.695   6.871   5.274  0.00  0.00    +0.000 NA
+ATOM      4  N3  JYX A 702      25.439   6.340   4.945  0.00  0.00    +0.000 NA
+ATOM      5  C4  JYX A 702      24.775   5.139   4.720  0.00  0.00    +0.000 C 
+ATOM      6  C5  JYX A 702      23.426   4.856   4.534  0.00  0.00    +0.000 C 
+ATOM      7  C6  JYX A 702      23.106   3.515   4.334  0.00  0.00    +0.000 C 
+ATOM      8  C7  JYX A 702      24.105   2.543   4.334  0.00  0.00    +0.000 C 
+ATOM      9  N4  JYX A 702      25.404   2.806   4.520  0.00  0.00    +0.000 NA
+ATOM     10  C8  JYX A 702      25.675   4.089   4.701  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  12
+ATOM     11  C1  JYX A 702      28.454   3.348   6.321  0.00  0.00    +0.000 C 
+ATOM     12  C2  JYX A 702      28.179   3.907   4.958  0.00  0.00    +0.000 C 
+ENDBRANCH   1  12
+TORSDOF 1
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -5.4      1.917      3.982
+REMARK  Name = ligand_pdbs\JYX.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  N1_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  JYX A 702      25.720   3.789   4.878  0.00  0.00    +0.000 N 
+ATOM      2  C3  JYX A 702      26.919   4.447   4.720  0.00  0.00    +0.000 C 
+ATOM      3  N2  JYX A 702      27.139   5.680   5.181  0.00  0.00    +0.000 NA
+ATOM      4  N3  JYX A 702      27.825   3.722   4.097  0.00  0.00    +0.000 NA
+ATOM      5  C4  JYX A 702      27.179   2.523   3.816  0.00  0.00    +0.000 C 
+ATOM      6  C5  JYX A 702      27.615   1.376   3.161  0.00  0.00    +0.000 C 
+ATOM      7  C6  JYX A 702      26.684   0.345   3.052  0.00  0.00    +0.000 C 
+ATOM      8  C7  JYX A 702      25.401   0.492   3.574  0.00  0.00    +0.000 C 
+ATOM      9  N4  JYX A 702      24.971   1.596   4.199  0.00  0.00    +0.000 NA
+ATOM     10  C8  JYX A 702      25.881   2.554   4.291  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  12
+ATOM     11  C1  JYX A 702      23.527   4.848   4.555  0.00  0.00    +0.000 C 
+ATOM     12  C2  JYX A 702      24.497   4.260   5.534  0.00  0.00    +0.000 C 
+ENDBRANCH   1  12
+TORSDOF 1
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.3      2.451      3.751
+REMARK  Name = ligand_pdbs\JYX.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  N1_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  JYX A 702      28.521   1.586   4.371  0.00  0.00    +0.000 N 
+ATOM      2  C3  JYX A 702      27.816   0.948   3.375  0.00  0.00    +0.000 C 
+ATOM      3  N2  JYX A 702      28.063  -0.308   2.999  0.00  0.00    +0.000 NA
+ATOM      4  N3  JYX A 702      26.861   1.696   2.862  0.00  0.00    +0.000 NA
+ATOM      5  C4  JYX A 702      26.953   2.900   3.551  0.00  0.00    +0.000 C 
+ATOM      6  C5  JYX A 702      26.224   4.080   3.441  0.00  0.00    +0.000 C 
+ATOM      7  C6  JYX A 702      26.595   5.109   4.303  0.00  0.00    +0.000 C 
+ATOM      8  C7  JYX A 702      27.644   4.933   5.204  0.00  0.00    +0.000 C 
+ATOM      9  N4  JYX A 702      28.356   3.804   5.310  0.00  0.00    +0.000 NA
+ATOM     10  C8  JYX A 702      27.974   2.845   4.482  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  12
+ATOM     11  C1  JYX A 702      29.145   0.392   6.426  0.00  0.00    +0.000 C 
+ATOM     12  C2  JYX A 702      29.629   1.072   5.181  0.00  0.00    +0.000 C 
+ENDBRANCH   1  12
+TORSDOF 1
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.3      1.767      4.706
+REMARK  Name = ligand_pdbs\JYX.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  N1_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  JYX A 702      26.238   3.688   4.854  0.00  0.00    +0.000 N 
+ATOM      2  C3  JYX A 702      24.862   3.760   4.824  0.00  0.00    +0.000 C 
+ATOM      3  N2  JYX A 702      24.173   4.763   5.372  0.00  0.00    +0.000 NA
+ATOM      4  N3  JYX A 702      24.310   2.755   4.176  0.00  0.00    +0.000 NA
+ATOM      5  C4  JYX A 702      25.383   1.971   3.769  0.00  0.00    +0.000 C 
+ATOM      6  C5  JYX A 702      25.431   0.774   3.061  0.00  0.00    +0.000 C 
+ATOM      7  C6  JYX A 702      26.701   0.254   2.827  0.00  0.00    +0.000 C 
+ATOM      8  C7  JYX A 702      27.834   0.917   3.293  0.00  0.00    +0.000 C 
+ATOM      9  N4  JYX A 702      27.797   2.065   3.982  0.00  0.00    +0.000 NA
+ATOM     10  C8  JYX A 702      26.576   2.536   4.183  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  12
+ATOM     11  C1  JYX A 702      27.599   5.703   4.499  0.00  0.00    +0.000 C 
+ATOM     12  C2  JYX A 702      27.189   4.626   5.457  0.00  0.00    +0.000 C 
+ENDBRANCH   1  12
+TORSDOF 1
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.3      2.269      4.406
+REMARK  Name = ligand_pdbs\JYX.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  N1_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  JYX A 702      26.709   2.238   4.716  0.00  0.00    +0.000 N 
+ATOM      2  C3  JYX A 702      27.003   3.572   4.538  0.00  0.00    +0.000 C 
+ATOM      3  N2  JYX A 702      26.160   4.434   3.966  0.00  0.00    +0.000 NA
+ATOM      4  N3  JYX A 702      28.185   3.905   5.015  0.00  0.00    +0.000 NA
+ATOM      5  C4  JYX A 702      28.703   2.719   5.524  0.00  0.00    +0.000 C 
+ATOM      6  C5  JYX A 702      29.918   2.436   6.139  0.00  0.00    +0.000 C 
+ATOM      7  C6  JYX A 702      30.111   1.112   6.528  0.00  0.00    +0.000 C 
+ATOM      8  C7  JYX A 702      29.126   0.155   6.293  0.00  0.00    +0.000 C 
+ATOM      9  N4  JYX A 702      27.957   0.418   5.695  0.00  0.00    +0.000 NA
+ATOM     10  C8  JYX A 702      27.802   1.685   5.343  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  12
+ATOM     11  C1  JYX A 702      25.533   1.054   2.912  0.00  0.00    +0.000 C 
+ATOM     12  C2  JYX A 702      25.493   1.512   4.339  0.00  0.00    +0.000 C 
+ENDBRANCH   1  12
+TORSDOF 1
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.2      2.331      4.889
+REMARK  Name = ligand_pdbs\JYX.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  N1_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  JYX A 702      26.945   2.894   5.013  0.00  0.00    +0.000 N 
+ATOM      2  C3  JYX A 702      25.990   1.946   4.718  0.00  0.00    +0.000 C 
+ATOM      3  N2  JYX A 702      24.796   2.250   4.205  0.00  0.00    +0.000 NA
+ATOM      4  N3  JYX A 702      26.392   0.717   4.969  0.00  0.00    +0.000 NA
+ATOM      5  C4  JYX A 702      27.681   0.867   5.470  0.00  0.00    +0.000 C 
+ATOM      6  C5  JYX A 702      28.605  -0.068   5.923  0.00  0.00    +0.000 C 
+ATOM      7  C6  JYX A 702      29.822   0.443   6.368  0.00  0.00    +0.000 C 
+ATOM      8  C7  JYX A 702      30.061   1.815   6.351  0.00  0.00    +0.000 C 
+ATOM      9  N4  JYX A 702      29.173   2.723   5.924  0.00  0.00    +0.000 NA
+ATOM     10  C8  JYX A 702      28.031   2.204   5.503  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  12
+ATOM     11  C1  JYX A 702      27.377   4.788   3.508  0.00  0.00    +0.000 C 
+ATOM     12  C2  JYX A 702      26.870   4.348   4.849  0.00  0.00    +0.000 C 
+ENDBRANCH   1  12
+TORSDOF 1
+ENDMDL

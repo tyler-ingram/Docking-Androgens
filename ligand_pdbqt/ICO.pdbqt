@@ -1,0 +1,23 @@
+REMARK  Name = ligand_pdbs\ICO.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAC_9  and  CAH_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA ICO L 935      16.112  50.669  28.639  0.00  0.00    +0.000 C 
+ATOM      2  CAD ICO L 935      15.059  51.569  28.748  0.00  0.00    +0.000 C 
+ATOM      3  CAI ICO L 935      14.873  52.261  29.944  0.00  0.00    +0.000 C 
+ATOM      4  CAJ ICO L 935      15.738  52.047  31.012  0.00  0.00    +0.000 C 
+ATOM      5  CAF ICO L 935      16.789  51.144  30.894  0.00  0.00    +0.000 C 
+ATOM      6  CAB ICO L 935      16.978  50.449  29.704  0.00  0.00    +0.000 C 
+ATOM      7  NAE ICO L 935      17.879  49.548  29.317  0.00  0.00    +0.000 NA
+ATOM      8  CAG ICO L 935      17.638  49.170  28.061  0.00  0.00    +0.000 C 
+ATOM      9  CAC ICO L 935      16.571  49.838  27.625  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   9  10
+ATOM     10  CAH ICO L 935      15.947  49.678  26.240  0.00  0.00    +0.000 C 
+ATOM     11  OAL ICO L 935      16.464  48.954  25.402  0.00  0.00    +0.000 OA
+ATOM     12  OAK ICO L 935      14.903  50.284  25.949  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+TORSDOF 1

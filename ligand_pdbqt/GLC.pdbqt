@@ -1,0 +1,23 @@
+REMARK  Name = ligand_pdbs\GLC.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C5_5  and  C6_6
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  GLC E   1      -8.015 -11.775 -14.799  0.00  0.00    +0.000 C 
+ATOM      2  C2  GLC E   1      -6.650 -12.188 -15.345  0.00  0.00    +0.000 C 
+ATOM      3  C3  GLC E   1      -6.264 -13.595 -14.907  0.00  0.00    +0.000 C 
+ATOM      4  C4  GLC E   1      -6.347 -13.660 -13.379  0.00  0.00    +0.000 C 
+ATOM      5  C5  GLC E   1      -7.772 -13.288 -12.962  0.00  0.00    +0.000 C 
+ATOM      6  O1  GLC E   1      -9.039 -12.552 -15.425  0.00  0.00    +0.000 OA
+ATOM      7  O2  GLC E   1      -6.643 -12.116 -16.775  0.00  0.00    +0.000 OA
+ATOM      8  O3  GLC E   1      -4.933 -13.820 -15.380  0.00  0.00    +0.000 OA
+ATOM      9  O4  GLC E   1      -5.967 -14.877 -12.695  0.00  0.00    +0.000 OA
+ATOM     10  O5  GLC E   1      -8.063 -11.951 -13.380  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   5  11
+ATOM     11  C6  GLC E   1      -7.957 -13.418 -11.454  0.00  0.00    +0.000 C 
+ATOM     12  O6  GLC E   1      -8.109 -14.796 -11.098  0.00  0.00    +0.000 OA
+ENDBRANCH   5  11
+TORSDOF 1

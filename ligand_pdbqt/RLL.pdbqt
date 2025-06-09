@@ -1,0 +1,64 @@
+REMARK  Name = ligand_pdbs\RLL.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_9  and  CAY_25
+REMARK    2  A    between atoms: CAJ_10  and  CAZ_26
+REMARK    3  A    between atoms: CAT_20  and  OAV_22
+REMARK    4  A    between atoms: CAT_20  and  CBE_31
+REMARK    5  A    between atoms: NAU_21  and  CAX_24
+REMARK    6  A    between atoms: OAV_22  and  CBA_27
+REMARK    7  A    between atoms: CAW_23  and  CBE_31
+REMARK    8  A    between atoms: CBB_28  and  CBF_32
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA RLL A   1      29.366  -1.077   2.701  0.00  0.00    +0.000 C 
+ATOM      2  OAE RLL A   1      30.551   1.035   2.985  0.00  0.00    +0.000 OA
+ATOM      3  CBE RLL A   1      29.549   0.185   3.549  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   3   6
+ATOM      4  OAD RLL A   1      27.167   0.393   3.833  0.00  0.00    +0.000 OA
+ATOM      5  NAU RLL A   1      28.404   2.282   3.522  0.00  0.00    +0.000 NA
+ATOM      6  CAW RLL A   1      28.238   0.967   3.643  0.00  0.00    +0.000 C 
+BRANCH   5  10
+ATOM      7  CAM RLL A   1      27.842   4.533   3.427  0.00  0.00    +0.000 A 
+ATOM      8  CAN RLL A   1      26.915   5.556   3.574  0.00  0.00    +0.000 A 
+ATOM      9  CAS RLL A   1      26.122   2.922   3.883  0.00  0.00    +0.000 A 
+ATOM     10  CAX RLL A   1      27.450   3.209   3.584  0.00  0.00    +0.000 A 
+ATOM     11  CAY RLL A   1      25.590   5.265   3.878  0.00  0.00    +0.000 A 
+ATOM     12  CBB RLL A   1      25.184   3.941   4.034  0.00  0.00    +0.000 A 
+BRANCH  12  16
+ATOM     13  FAF RLL A   1      23.516   2.289   4.209  0.00  0.00    +0.000 F 
+ATOM     14  FAG RLL A   1      23.519   3.867   5.679  0.00  0.00    +0.000 F 
+ATOM     15  FAH RLL A   1      22.857   4.256   3.658  0.00  0.00    +0.000 F 
+ATOM     16  CBF RLL A   1      23.736   3.586   4.398  0.00  0.00    +0.000 C 
+ENDBRANCH  12  16
+BRANCH  11  18
+ATOM     17  NAB RLL A   1      23.983   7.250   4.160  0.00  0.00    +0.000 NA
+ATOM     18  CAI RLL A   1      24.691   6.368   4.038  0.00  0.00    +0.000 C 
+ENDBRANCH  11  18
+ENDBRANCH   5  10
+ENDBRANCH   3   6
+BRANCH   3  19
+ATOM     19  CAT RLL A   1      29.959  -0.187   4.964  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  OAV RLL A   1      29.975   1.043   5.703  0.00  0.00    +0.000 OA
+BRANCH  20  28
+ATOM     21  CAK RLL A   1      27.305   3.712   8.934  0.00  0.00    +0.000 A 
+ATOM     22  CAL RLL A   1      27.615   3.857   7.586  0.00  0.00    +0.000 A 
+ATOM     23  CAO RLL A   1      29.842  -0.387   9.066  0.00  0.00    +0.000 A 
+ATOM     24  CAP RLL A   1      30.146  -0.240   7.717  0.00  0.00    +0.000 A 
+ATOM     25  CAQ RLL A   1      27.788   2.617   9.643  0.00  0.00    +0.000 A 
+ATOM     26  CAR RLL A   1      28.407   2.907   6.952  0.00  0.00    +0.000 A 
+ATOM     27  CAZ RLL A   1      29.059   0.564   9.713  0.00  0.00    +0.000 A 
+ATOM     28  CBA RLL A   1      29.669   0.861   7.016  0.00  0.00    +0.000 A 
+ATOM     29  CBC RLL A   1      28.581   1.666   9.011  0.00  0.00    +0.000 A 
+ATOM     30  CBD RLL A   1      28.889   1.813   7.662  0.00  0.00    +0.000 A 
+BRANCH  27  32
+ATOM     31  NAC RLL A   1      28.500   0.235  12.199  0.00  0.00    +0.000 NA
+ATOM     32  CAJ RLL A   1      28.746   0.386  11.098  0.00  0.00    +0.000 C 
+ENDBRANCH  27  32
+ENDBRANCH  20  28
+ENDBRANCH  19  20
+ENDBRANCH   3  19
+TORSDOF 8

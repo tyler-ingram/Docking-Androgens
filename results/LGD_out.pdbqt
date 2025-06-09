@@ -1,0 +1,495 @@
+MODEL 1
+REMARK VINA RESULT:      -9.0      0.000      0.000
+REMARK  Name = ligand_pdbs\LGD.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C11_14
+REMARK    2  A    between atoms: C7_10  and  N13_16
+REMARK    3  A    between atoms: C12_15  and  N13_16
+REMARK    4  A    between atoms: C12_15  and  C15_21
+REMARK    5  A    between atoms: N13_16  and  C14_17
+REMARK    6  A    between atoms: C14_17  and  C16_25
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  LGD A2226      23.680   2.936   4.292  0.00  0.00    +0.000 NA
+ATOM      2  C2  LGD A2226      23.542   4.323   4.492  0.00  0.00    +0.000 C 
+ATOM      3  C3  LGD A2226      24.713   5.147   4.707  0.00  0.00    +0.000 C 
+ATOM      4  C4  LGD A2226      26.051   4.543   4.724  0.00  0.00    +0.000 C 
+ATOM      5  C5  LGD A2226      26.174   3.088   4.517  0.00  0.00    +0.000 C 
+ATOM      6  C6  LGD A2226      27.439   2.379   4.518  0.00  0.00    +0.000 C 
+ATOM      7  C7  LGD A2226      27.552   0.946   4.303  0.00  0.00    +0.000 C 
+ATOM      8  C8  LGD A2226      26.289   0.202   4.076  0.00  0.00    +0.000 C 
+ATOM      9  C9  LGD A2226      25.006   0.865   4.077  0.00  0.00    +0.000 C 
+ATOM     10  C10 LGD A2226      24.933   2.288   4.296  0.00  0.00    +0.000 C 
+ATOM     11  O21 LGD A2226      22.423   4.811   4.473  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  15
+ATOM     12  F1  LGD A2226      28.009   5.022   6.006  0.00  0.00    +0.000 F 
+ATOM     13  F2  LGD A2226      28.166   5.442   3.870  0.00  0.00    +0.000 F 
+ATOM     14  F3  LGD A2226      27.022   6.761   5.257  0.00  0.00    +0.000 F 
+ATOM     15  C11 LGD A2226      27.329   5.497   4.952  0.00  0.00    +0.000 C 
+ENDBRANCH   4  15
+BRANCH   7  16
+ATOM     16  N13 LGD A2226      28.940   0.292   4.320  0.00  0.00    +0.000 NA
+BRANCH  16  17
+ATOM     17  C12 LGD A2226      30.149   0.944   4.977  0.00  0.00    +0.000 C 
+BRANCH  17  21
+ATOM     18  F4  LGD A2226      29.720   1.802   6.808  0.00  0.00    +0.000 F 
+ATOM     19  F5  LGD A2226      29.291  -0.187   6.819  0.00  0.00    +0.000 F 
+ATOM     20  F6  LGD A2226      31.299   0.295   6.984  0.00  0.00    +0.000 F 
+ATOM     21  C15 LGD A2226      30.152   0.630   6.375  0.00  0.00    +0.000 C 
+ENDBRANCH  17  21
+ENDBRANCH  16  17
+BRANCH  16  22
+ATOM     22  C14 LGD A2226      29.253  -0.899   3.500  0.00  0.00    +0.000 C 
+BRANCH  22  26
+ATOM     23  F7  LGD A2226      28.184  -2.293   2.619  0.00  0.00    +0.000 F 
+ATOM     24  F8  LGD A2226      29.818  -2.928   3.657  0.00  0.00    +0.000 F 
+ATOM     25  F9  LGD A2226      28.145  -2.430   4.750  0.00  0.00    +0.000 F 
+ATOM     26  C16 LGD A2226      28.895  -2.090   3.696  0.00  0.00    +0.000 C 
+ENDBRANCH  22  26
+ENDBRANCH  16  22
+ENDBRANCH   7  16
+TORSDOF 6
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -9.0      0.220      2.821
+REMARK  Name = ligand_pdbs\LGD.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C11_14
+REMARK    2  A    between atoms: C7_10  and  N13_16
+REMARK    3  A    between atoms: C12_15  and  N13_16
+REMARK    4  A    between atoms: C12_15  and  C15_21
+REMARK    5  A    between atoms: N13_16  and  C14_17
+REMARK    6  A    between atoms: C14_17  and  C16_25
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  LGD A2226      23.752   2.839   4.229  0.00  0.00    +0.000 NA
+ATOM      2  C2  LGD A2226      23.589   4.216   4.471  0.00  0.00    +0.000 C 
+ATOM      3  C3  LGD A2226      24.746   5.059   4.687  0.00  0.00    +0.000 C 
+ATOM      4  C4  LGD A2226      26.097   4.484   4.663  0.00  0.00    +0.000 C 
+ATOM      5  C5  LGD A2226      26.246   3.038   4.412  0.00  0.00    +0.000 C 
+ATOM      6  C6  LGD A2226      27.526   2.356   4.369  0.00  0.00    +0.000 C 
+ATOM      7  C7  LGD A2226      27.665   0.933   4.111  0.00  0.00    +0.000 C 
+ATOM      8  C8  LGD A2226      26.414   0.169   3.886  0.00  0.00    +0.000 C 
+ATOM      9  C9  LGD A2226      25.118   0.804   3.930  0.00  0.00    +0.000 C 
+ATOM     10  C10 LGD A2226      25.018   2.218   4.191  0.00  0.00    +0.000 C 
+ATOM     11  O21 LGD A2226      22.460   4.680   4.486  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  15
+ATOM     12  F1  LGD A2226      26.886   6.687   5.142  0.00  0.00    +0.000 F 
+ATOM     13  F2  LGD A2226      28.070   5.065   5.997  0.00  0.00    +0.000 F 
+ATOM     14  F3  LGD A2226      28.157   5.583   3.830  0.00  0.00    +0.000 F 
+ATOM     15  C11 LGD A2226      27.359   5.458   4.895  0.00  0.00    +0.000 C 
+ENDBRANCH   4  15
+BRANCH   7  16
+ATOM     16  N13 LGD A2226      29.067   0.309   4.084  0.00  0.00    +0.000 NA
+BRANCH  16  17
+ATOM     17  C12 LGD A2226      29.452  -0.808   3.123  0.00  0.00    +0.000 C 
+BRANCH  17  21
+ATOM     18  F4  LGD A2226      28.175  -2.374   2.692  0.00  0.00    +0.000 F 
+ATOM     19  F5  LGD A2226      29.830  -3.035   3.674  0.00  0.00    +0.000 F 
+ATOM     20  F6  LGD A2226      28.404  -2.102   4.853  0.00  0.00    +0.000 F 
+ATOM     21  C15 LGD A2226      29.018  -2.062   3.661  0.00  0.00    +0.000 C 
+ENDBRANCH  17  21
+ENDBRANCH  16  17
+BRANCH  16  22
+ATOM     22  C14 LGD A2226      30.066   0.585   5.140  0.00  0.00    +0.000 C 
+BRANCH  22  26
+ATOM     23  F7  LGD A2226      31.120   0.339   6.781  0.00  0.00    +0.000 F 
+ATOM     24  F8  LGD A2226      29.591   1.683   6.881  0.00  0.00    +0.000 F 
+ATOM     25  F9  LGD A2226      29.095  -0.314   6.978  0.00  0.00    +0.000 F 
+ATOM     26  C16 LGD A2226      29.896   0.578   6.387  0.00  0.00    +0.000 C 
+ENDBRANCH  22  26
+ENDBRANCH  16  22
+ENDBRANCH   7  16
+TORSDOF 6
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -8.9      2.949      6.208
+REMARK  Name = ligand_pdbs\LGD.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C11_14
+REMARK    2  A    between atoms: C7_10  and  N13_16
+REMARK    3  A    between atoms: C12_15  and  N13_16
+REMARK    4  A    between atoms: C12_15  and  C15_21
+REMARK    5  A    between atoms: N13_16  and  C14_17
+REMARK    6  A    between atoms: C14_17  and  C16_25
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  LGD A2226      27.989  -1.126   3.062  0.00  0.00    +0.000 NA
+ATOM      2  C2  LGD A2226      29.097  -1.607   3.786  0.00  0.00    +0.000 C 
+ATOM      3  C3  LGD A2226      29.779  -0.746   4.729  0.00  0.00    +0.000 C 
+ATOM      4  C4  LGD A2226      29.326   0.635   4.933  0.00  0.00    +0.000 C 
+ATOM      5  C5  LGD A2226      28.167   1.121   4.162  0.00  0.00    +0.000 C 
+ATOM      6  C6  LGD A2226      27.632   2.465   4.273  0.00  0.00    +0.000 C 
+ATOM      7  C7  LGD A2226      26.482   2.932   3.517  0.00  0.00    +0.000 C 
+ATOM      8  C8  LGD A2226      25.850   1.961   2.593  0.00  0.00    +0.000 C 
+ATOM      9  C9  LGD A2226      26.355   0.617   2.441  0.00  0.00    +0.000 C 
+ATOM     10  C10 LGD A2226      27.499   0.188   3.207  0.00  0.00    +0.000 C 
+ATOM     11  O21 LGD A2226      29.460  -2.758   3.607  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  15
+ATOM     12  F1  LGD A2226      30.891   0.756   6.734  0.00  0.00    +0.000 F 
+ATOM     13  F2  LGD A2226      30.917   2.452   5.359  0.00  0.00    +0.000 F 
+ATOM     14  F3  LGD A2226      29.304   2.177   6.874  0.00  0.00    +0.000 F 
+ATOM     15  C11 LGD A2226      30.104   1.557   6.002  0.00  0.00    +0.000 C 
+ENDBRANCH   4  15
+BRANCH   7  16
+ATOM     16  N13 LGD A2226      25.993   4.374   3.712  0.00  0.00    +0.000 NA
+BRANCH  16  17
+ATOM     17  C12 LGD A2226      26.942   5.562   3.797  0.00  0.00    +0.000 C 
+BRANCH  17  21
+ATOM     18  F4  LGD A2226      28.105   6.751   5.024  0.00  0.00    +0.000 F 
+ATOM     19  F5  LGD A2226      26.150   6.821   5.584  0.00  0.00    +0.000 F 
+ATOM     20  F6  LGD A2226      27.180   5.112   6.144  0.00  0.00    +0.000 F 
+ATOM     21  C15 LGD A2226      27.021   6.006   5.157  0.00  0.00    +0.000 C 
+ENDBRANCH  17  21
+ENDBRANCH  16  17
+BRANCH  16  22
+ATOM     22  C14 LGD A2226      24.589   4.682   4.064  0.00  0.00    +0.000 C 
+BRANCH  22  26
+ATOM     23  F7  LGD A2226      22.794   4.864   4.843  0.00  0.00    +0.000 F 
+ATOM     24  F8  LGD A2226      23.510   2.966   4.656  0.00  0.00    +0.000 F 
+ATOM     25  F9  LGD A2226      24.232   4.092   6.222  0.00  0.00    +0.000 F 
+ATOM     26  C16 LGD A2226      23.869   4.127   4.935  0.00  0.00    +0.000 C 
+ENDBRANCH  22  26
+ENDBRANCH  16  22
+ENDBRANCH   7  16
+TORSDOF 6
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -8.1      2.863      6.684
+REMARK  Name = ligand_pdbs\LGD.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C11_14
+REMARK    2  A    between atoms: C7_10  and  N13_16
+REMARK    3  A    between atoms: C12_15  and  N13_16
+REMARK    4  A    between atoms: C12_15  and  C15_21
+REMARK    5  A    between atoms: N13_16  and  C14_17
+REMARK    6  A    between atoms: C14_17  and  C16_25
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  LGD A2226      27.783  -1.191   3.438  0.00  0.00    +0.000 NA
+ATOM      2  C2  LGD A2226      29.044  -1.714   3.782  0.00  0.00    +0.000 C 
+ATOM      3  C3  LGD A2226      29.920  -0.978   4.669  0.00  0.00    +0.000 C 
+ATOM      4  C4  LGD A2226      29.504   0.321   5.212  0.00  0.00    +0.000 C 
+ATOM      5  C5  LGD A2226      28.180   0.854   4.837  0.00  0.00    +0.000 C 
+ATOM      6  C6  LGD A2226      27.662   2.125   5.304  0.00  0.00    +0.000 C 
+ATOM      7  C7  LGD A2226      26.353   2.638   4.938  0.00  0.00    +0.000 C 
+ATOM      8  C8  LGD A2226      25.533   1.794   4.036  0.00  0.00    +0.000 C 
+ATOM      9  C9  LGD A2226      26.012   0.526   3.538  0.00  0.00    +0.000 C 
+ATOM     10  C10 LGD A2226      27.317   0.050   3.922  0.00  0.00    +0.000 C 
+ATOM     11  O21 LGD A2226      29.376  -2.796   3.324  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  15
+ATOM     12  F1  LGD A2226      31.518   0.276   6.496  0.00  0.00    +0.000 F 
+ATOM     13  F2  LGD A2226      31.032   2.201   5.587  0.00  0.00    +0.000 F 
+ATOM     14  F3  LGD A2226      29.956   1.431   7.381  0.00  0.00    +0.000 F 
+ATOM     15  C11 LGD A2226      30.501   1.102   6.207  0.00  0.00    +0.000 C 
+ENDBRANCH   4  15
+BRANCH   7  16
+ATOM     16  N13 LGD A2226      25.898   3.995   5.491  0.00  0.00    +0.000 NA
+BRANCH  16  17
+ATOM     17  C12 LGD A2226      24.438   4.318   5.782  0.00  0.00    +0.000 C 
+BRANCH  17  21
+ATOM     18  F4  LGD A2226      22.639   4.690   4.835  0.00  0.00    +0.000 F 
+ATOM     19  F5  LGD A2226      23.836   6.336   4.795  0.00  0.00    +0.000 F 
+ATOM     20  F6  LGD A2226      24.323   4.844   3.442  0.00  0.00    +0.000 F 
+ATOM     21  C15 LGD A2226      23.897   5.074   4.693  0.00  0.00    +0.000 C 
+ENDBRANCH  17  21
+ENDBRANCH  16  17
+BRANCH  16  22
+ATOM     22  C14 LGD A2226      26.811   5.158   5.558  0.00  0.00    +0.000 C 
+BRANCH  22  26
+ATOM     23  F7  LGD A2226      27.795   6.827   5.225  0.00  0.00    +0.000 F 
+ATOM     24  F8  LGD A2226      28.403   5.192   4.171  0.00  0.00    +0.000 F 
+ATOM     25  F9  LGD A2226      26.697   6.146   3.523  0.00  0.00    +0.000 F 
+ATOM     26  C16 LGD A2226      27.377   5.754   4.605  0.00  0.00    +0.000 C 
+ENDBRANCH  22  26
+ENDBRANCH  16  22
+ENDBRANCH   7  16
+TORSDOF 6
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -7.7      3.200      6.978
+REMARK  Name = ligand_pdbs\LGD.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C11_14
+REMARK    2  A    between atoms: C7_10  and  N13_16
+REMARK    3  A    between atoms: C12_15  and  N13_16
+REMARK    4  A    between atoms: C12_15  and  C15_21
+REMARK    5  A    between atoms: N13_16  and  C14_17
+REMARK    6  A    between atoms: C14_17  and  C16_25
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  LGD A2226      29.488   1.720   6.420  0.00  0.00    +0.000 NA
+ATOM      2  C2  LGD A2226      29.656   0.420   5.904  0.00  0.00    +0.000 C 
+ATOM      3  C3  LGD A2226      28.836  -0.037   4.802  0.00  0.00    +0.000 C 
+ATOM      4  C4  LGD A2226      27.820   0.848   4.217  0.00  0.00    +0.000 C 
+ATOM      5  C5  LGD A2226      27.658   2.204   4.774  0.00  0.00    +0.000 C 
+ATOM      6  C6  LGD A2226      26.687   3.164   4.284  0.00  0.00    +0.000 C 
+ATOM      7  C7  LGD A2226      26.540   4.502   4.832  0.00  0.00    +0.000 C 
+ATOM      8  C8  LGD A2226      27.443   4.870   5.949  0.00  0.00    +0.000 C 
+ATOM      9  C9  LGD A2226      28.417   3.943   6.476  0.00  0.00    +0.000 C 
+ATOM     10  C10 LGD A2226      28.533   2.623   5.908  0.00  0.00    +0.000 C 
+ATOM     11  O21 LGD A2226      30.505  -0.303   6.399  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  15
+ATOM     12  F1  LGD A2226      27.744  -0.417   2.192  0.00  0.00    +0.000 F 
+ATOM     13  F2  LGD A2226      25.949  -0.528   3.431  0.00  0.00    +0.000 F 
+ATOM     14  F3  LGD A2226      26.436   1.270   2.205  0.00  0.00    +0.000 F 
+ATOM     15  C11 LGD A2226      26.938   0.306   2.982  0.00  0.00    +0.000 C 
+ENDBRANCH   4  15
+BRANCH   7  16
+ATOM     16  N13 LGD A2226      25.482   5.443   4.239  0.00  0.00    +0.000 NA
+BRANCH  16  17
+ATOM     17  C12 LGD A2226      25.839   6.762   3.566  0.00  0.00    +0.000 C 
+BRANCH  17  21
+ATOM     18  F4  LGD A2226      27.205   7.549   4.901  0.00  0.00    +0.000 F 
+ATOM     19  F5  LGD A2226      25.960   8.997   4.196  0.00  0.00    +0.000 F 
+ATOM     20  F6  LGD A2226      25.155   7.753   5.644  0.00  0.00    +0.000 F 
+ATOM     21  C15 LGD A2226      25.949   7.784   4.563  0.00  0.00    +0.000 C 
+ENDBRANCH  17  21
+ENDBRANCH  16  17
+BRANCH  16  22
+ATOM     22  C14 LGD A2226      24.036   5.248   4.486  0.00  0.00    +0.000 C 
+BRANCH  22  26
+ATOM     23  F7  LGD A2226      23.640   3.904   5.865  0.00  0.00    +0.000 F 
+ATOM     24  F8  LGD A2226      22.170   4.259   4.498  0.00  0.00    +0.000 F 
+ATOM     25  F9  LGD A2226      23.748   3.080   3.896  0.00  0.00    +0.000 F 
+ATOM     26  C16 LGD A2226      23.410   4.163   4.604  0.00  0.00    +0.000 C 
+ENDBRANCH  22  26
+ENDBRANCH  16  22
+ENDBRANCH   7  16
+TORSDOF 6
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -7.6      2.887      3.681
+REMARK  Name = ligand_pdbs\LGD.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C11_14
+REMARK    2  A    between atoms: C7_10  and  N13_16
+REMARK    3  A    between atoms: C12_15  and  N13_16
+REMARK    4  A    between atoms: C12_15  and  C15_21
+REMARK    5  A    between atoms: N13_16  and  C14_17
+REMARK    6  A    between atoms: C14_17  and  C16_25
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  LGD A2226      27.605   5.445   5.372  0.00  0.00    +0.000 NA
+ATOM      2  C2  LGD A2226      26.330   5.979   5.105  0.00  0.00    +0.000 C 
+ATOM      3  C3  LGD A2226      25.233   5.102   4.752  0.00  0.00    +0.000 C 
+ATOM      4  C4  LGD A2226      25.443   3.652   4.664  0.00  0.00    +0.000 C 
+ATOM      5  C5  LGD A2226      26.787   3.113   4.943  0.00  0.00    +0.000 C 
+ATOM      6  C6  LGD A2226      27.117   1.701   4.883  0.00  0.00    +0.000 C 
+ATOM      7  C7  LGD A2226      28.441   1.178   5.169  0.00  0.00    +0.000 C 
+ATOM      8  C8  LGD A2226      29.485   2.164   5.537  0.00  0.00    +0.000 C 
+ATOM      9  C9  LGD A2226      29.206   3.579   5.599  0.00  0.00    +0.000 C 
+ATOM     10  C10 LGD A2226      27.879   4.063   5.307  0.00  0.00    +0.000 C 
+ATOM     11  O21 LGD A2226      26.170   7.187   5.185  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  15
+ATOM     12  F1  LGD A2226      24.011   1.845   5.290  0.00  0.00    +0.000 F 
+ATOM     13  F2  LGD A2226      23.049   3.453   4.170  0.00  0.00    +0.000 F 
+ATOM     14  F3  LGD A2226      24.386   1.961   3.192  0.00  0.00    +0.000 F 
+ATOM     15  C11 LGD A2226      24.193   2.709   4.282  0.00  0.00    +0.000 C 
+ENDBRANCH   4  15
+BRANCH   7  16
+ATOM     16  N13 LGD A2226      28.685  -0.335   5.080  0.00  0.00    +0.000 NA
+BRANCH  16  17
+ATOM     17  C12 LGD A2226      27.792  -1.355   5.775  0.00  0.00    +0.000 C 
+BRANCH  17  21
+ATOM     18  F4  LGD A2226      25.774  -1.117   5.401  0.00  0.00    +0.000 F 
+ATOM     19  F5  LGD A2226      26.810  -1.372   3.667  0.00  0.00    +0.000 F 
+ATOM     20  F6  LGD A2226      26.475  -3.094   4.770  0.00  0.00    +0.000 F 
+ATOM     21  C15 LGD A2226      26.777  -1.790   4.863  0.00  0.00    +0.000 C 
+ENDBRANCH  17  21
+ENDBRANCH  16  17
+BRANCH  16  22
+ATOM     22  C14 LGD A2226      29.931  -0.894   4.511  0.00  0.00    +0.000 C 
+BRANCH  22  26
+ATOM     23  F7  LGD A2226      29.453  -0.975   2.606  0.00  0.00    +0.000 F 
+ATOM     24  F8  LGD A2226      31.225  -1.834   3.131  0.00  0.00    +0.000 F 
+ATOM     25  F9  LGD A2226      29.508  -2.896   3.540  0.00  0.00    +0.000 F 
+ATOM     26  C16 LGD A2226      30.054  -1.675   3.532  0.00  0.00    +0.000 C 
+ENDBRANCH  22  26
+ENDBRANCH  16  22
+ENDBRANCH   7  16
+TORSDOF 6
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -7.6      2.515      4.132
+REMARK  Name = ligand_pdbs\LGD.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C11_14
+REMARK    2  A    between atoms: C7_10  and  N13_16
+REMARK    3  A    between atoms: C12_15  and  N13_16
+REMARK    4  A    between atoms: C12_15  and  C15_21
+REMARK    5  A    between atoms: N13_16  and  C14_17
+REMARK    6  A    between atoms: C14_17  and  C16_25
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  LGD A2226      26.636   6.431   5.156  0.00  0.00    +0.000 NA
+ATOM      2  C2  LGD A2226      25.312   6.844   4.912  0.00  0.00    +0.000 C 
+ATOM      3  C3  LGD A2226      24.279   5.864   4.653  0.00  0.00    +0.000 C 
+ATOM      4  C4  LGD A2226      24.604   4.432   4.636  0.00  0.00    +0.000 C 
+ATOM      5  C5  LGD A2226      25.998   4.020   4.890  0.00  0.00    +0.000 C 
+ATOM      6  C6  LGD A2226      26.440   2.638   4.894  0.00  0.00    +0.000 C 
+ATOM      7  C7  LGD A2226      27.813   2.240   5.154  0.00  0.00    +0.000 C 
+ATOM      8  C8  LGD A2226      28.785   3.327   5.424  0.00  0.00    +0.000 C 
+ATOM      9  C9  LGD A2226      28.392   4.716   5.420  0.00  0.00    +0.000 C 
+ATOM     10  C10 LGD A2226      27.020   5.074   5.155  0.00  0.00    +0.000 C 
+ATOM     11  O21 LGD A2226      25.057   8.038   4.931  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  15
+ATOM     12  F1  LGD A2226      23.371   2.536   5.405  0.00  0.00    +0.000 F 
+ATOM     13  F2  LGD A2226      22.215   4.010   4.282  0.00  0.00    +0.000 F 
+ATOM     14  F3  LGD A2226      23.625   2.598   3.287  0.00  0.00    +0.000 F 
+ATOM     15  C11 LGD A2226      23.424   3.371   4.358  0.00  0.00    +0.000 C 
+ENDBRANCH   4  15
+BRANCH   7  16
+ATOM     16  N13 LGD A2226      28.177   0.749   5.139  0.00  0.00    +0.000 NA
+BRANCH  16  17
+ATOM     17  C12 LGD A2226      27.131  -0.353   5.043  0.00  0.00    +0.000 C 
+BRANCH  17  21
+ATOM     18  F4  LGD A2226      25.777  -0.403   3.482  0.00  0.00    +0.000 F 
+ATOM     19  F5  LGD A2226      27.676  -0.163   2.791  0.00  0.00    +0.000 F 
+ATOM     20  F6  LGD A2226      27.176  -2.086   3.381  0.00  0.00    +0.000 F 
+ATOM     21  C15 LGD A2226      27.027  -0.787   3.682  0.00  0.00    +0.000 C 
+ENDBRANCH  17  21
+ENDBRANCH  16  17
+BRANCH  16  22
+ATOM     22  C14 LGD A2226      29.544   0.275   5.450  0.00  0.00    +0.000 C 
+BRANCH  22  26
+ATOM     23  F7  LGD A2226      29.458  -0.409   7.291  0.00  0.00    +0.000 F 
+ATOM     24  F8  LGD A2226      31.322  -0.104   6.525  0.00  0.00    +0.000 F 
+ATOM     25  F9  LGD A2226      30.285   1.557   7.164  0.00  0.00    +0.000 F 
+ATOM     26  C16 LGD A2226      30.173   0.382   6.535  0.00  0.00    +0.000 C 
+ENDBRANCH  22  26
+ENDBRANCH  16  22
+ENDBRANCH   7  16
+TORSDOF 6
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -7.5      2.532      3.387
+REMARK  Name = ligand_pdbs\LGD.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C11_14
+REMARK    2  A    between atoms: C7_10  and  N13_16
+REMARK    3  A    between atoms: C12_15  and  N13_16
+REMARK    4  A    between atoms: C12_15  and  C15_21
+REMARK    5  A    between atoms: N13_16  and  C14_17
+REMARK    6  A    between atoms: C14_17  and  C16_25
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  LGD A2226      26.623   6.386   5.191  0.00  0.00    +0.000 NA
+ATOM      2  C2  LGD A2226      25.299   6.787   4.925  0.00  0.00    +0.000 C 
+ATOM      3  C3  LGD A2226      24.281   5.796   4.645  0.00  0.00    +0.000 C 
+ATOM      4  C4  LGD A2226      24.621   4.368   4.630  0.00  0.00    +0.000 C 
+ATOM      5  C5  LGD A2226      26.014   3.969   4.907  0.00  0.00    +0.000 C 
+ATOM      6  C6  LGD A2226      26.471   2.592   4.915  0.00  0.00    +0.000 C 
+ATOM      7  C7  LGD A2226      27.843   2.207   5.199  0.00  0.00    +0.000 C 
+ATOM      8  C8  LGD A2226      28.798   3.303   5.489  0.00  0.00    +0.000 C 
+ATOM      9  C9  LGD A2226      28.391   4.688   5.482  0.00  0.00    +0.000 C 
+ATOM     10  C10 LGD A2226      27.021   5.033   5.194  0.00  0.00    +0.000 C 
+ATOM     11  O21 LGD A2226      25.031   7.978   4.943  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  15
+ATOM     12  F1  LGD A2226      23.382   2.469   5.379  0.00  0.00    +0.000 F 
+ATOM     13  F2  LGD A2226      22.246   3.925   4.215  0.00  0.00    +0.000 F 
+ATOM     14  F3  LGD A2226      23.692   2.517   3.268  0.00  0.00    +0.000 F 
+ATOM     15  C11 LGD A2226      23.457   3.297   4.327  0.00  0.00    +0.000 C 
+ENDBRANCH   4  15
+BRANCH   7  16
+ATOM     16  N13 LGD A2226      28.222   0.720   5.186  0.00  0.00    +0.000 NA
+BRANCH  16  17
+ATOM     17  C12 LGD A2226      29.665   0.238   5.250  0.00  0.00    +0.000 C 
+BRANCH  17  21
+ATOM     18  F4  LGD A2226      31.324  -0.216   6.397  0.00  0.00    +0.000 F 
+ATOM     19  F5  LGD A2226      30.330   1.390   7.157  0.00  0.00    +0.000 F 
+ATOM     20  F6  LGD A2226      29.472  -0.457   7.541  0.00  0.00    +0.000 F 
+ATOM     21  C15 LGD A2226      30.112   0.268   6.611  0.00  0.00    +0.000 C 
+ENDBRANCH  17  21
+ENDBRANCH  16  17
+BRANCH  16  22
+ATOM     22  C14 LGD A2226      27.233  -0.336   4.875  0.00  0.00    +0.000 C 
+BRANCH  22  26
+ATOM     23  F7  LGD A2226      26.651  -1.991   3.988  0.00  0.00    +0.000 F 
+ATOM     24  F8  LGD A2226      25.730  -0.273   3.394  0.00  0.00    +0.000 F 
+ATOM     25  F9  LGD A2226      27.623  -0.626   2.663  0.00  0.00    +0.000 F 
+ATOM     26  C16 LGD A2226      26.840  -0.721   3.743  0.00  0.00    +0.000 C 
+ENDBRANCH  22  26
+ENDBRANCH  16  22
+ENDBRANCH   7  16
+TORSDOF 6
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -7.2      3.169      7.395
+REMARK  Name = ligand_pdbs\LGD.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C11_14
+REMARK    2  A    between atoms: C7_10  and  N13_16
+REMARK    3  A    between atoms: C12_15  and  N13_16
+REMARK    4  A    between atoms: C12_15  and  C15_21
+REMARK    5  A    between atoms: N13_16  and  C14_17
+REMARK    6  A    between atoms: C14_17  and  C16_25
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  LGD A2226      29.938   1.674   6.553  0.00  0.00    +0.000 NA
+ATOM      2  C2  LGD A2226      30.075   0.320   6.191  0.00  0.00    +0.000 C 
+ATOM      3  C3  LGD A2226      29.167  -0.273   5.232  0.00  0.00    +0.000 C 
+ATOM      4  C4  LGD A2226      28.093   0.530   4.634  0.00  0.00    +0.000 C 
+ATOM      5  C5  LGD A2226      27.964   1.945   5.029  0.00  0.00    +0.000 C 
+ATOM      6  C6  LGD A2226      26.942   2.835   4.511  0.00  0.00    +0.000 C 
+ATOM      7  C7  LGD A2226      26.829   4.231   4.897  0.00  0.00    +0.000 C 
+ATOM      8  C8  LGD A2226      27.822   4.738   5.874  0.00  0.00    +0.000 C 
+ATOM      9  C9  LGD A2226      28.850   3.886   6.424  0.00  0.00    +0.000 C 
+ATOM     10  C10 LGD A2226      28.931   2.505   6.019  0.00  0.00    +0.000 C 
+ATOM     11  O21 LGD A2226      30.973  -0.335   6.696  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  15
+ATOM     12  F1  LGD A2226      27.168   0.559   2.431  0.00  0.00    +0.000 F 
+ATOM     13  F2  LGD A2226      27.548  -1.426   3.259  0.00  0.00    +0.000 F 
+ATOM     14  F3  LGD A2226      25.826  -0.173   3.921  0.00  0.00    +0.000 F 
+ATOM     15  C11 LGD A2226      27.112  -0.163   3.560  0.00  0.00    +0.000 C 
+ENDBRANCH   4  15
+BRANCH   7  16
+ATOM     16  N13 LGD A2226      25.712   5.090   4.287  0.00  0.00    +0.000 NA
+BRANCH  16  17
+ATOM     17  C12 LGD A2226      24.454   4.489   3.672  0.00  0.00    +0.000 C 
+BRANCH  17  21
+ATOM     18  F4  LGD A2226      23.638   2.854   4.637  0.00  0.00    +0.000 F 
+ATOM     19  F5  LGD A2226      23.846   4.424   5.916  0.00  0.00    +0.000 F 
+ATOM     20  F6  LGD A2226      22.243   4.542   4.607  0.00  0.00    +0.000 F 
+ATOM     21  C15 LGD A2226      23.527   4.170   4.716  0.00  0.00    +0.000 C 
+ENDBRANCH  17  21
+ENDBRANCH  16  17
+BRANCH  16  22
+ATOM     22  C14 LGD A2226      25.885   6.539   4.043  0.00  0.00    +0.000 C 
+BRANCH  22  26
+ATOM     23  F7  LGD A2226      25.938   8.504   4.060  0.00  0.00    +0.000 F 
+ATOM     24  F8  LGD A2226      24.467   7.629   5.166  0.00  0.00    +0.000 F 
+ATOM     25  F9  LGD A2226      26.365   7.637   5.965  0.00  0.00    +0.000 F 
+ATOM     26  C16 LGD A2226      25.662   7.490   4.837  0.00  0.00    +0.000 C 
+ENDBRANCH  22  26
+ENDBRANCH  16  22
+ENDBRANCH   7  16
+TORSDOF 6
+ENDMDL

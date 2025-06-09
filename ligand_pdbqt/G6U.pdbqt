@@ -1,0 +1,60 @@
+REMARK  Name = ligand_pdbs\G6U.pdb
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: S10_2  and  C12_3
+REMARK    2  A    between atoms: S10_2  and  C09_17
+REMARK    3  A    between atoms: C16_6  and  C18_7
+REMARK    4  A    between atoms: C14_12  and  C22_13
+REMARK    5  A    between atoms: C08_18  and  C07_19
+REMARK    6  A    between atoms: C07_19  and  N06_20
+REMARK    7  A    between atoms: N06_20  and  C05_21
+REMARK    8  A    between atoms: C05_21  and  C04_22
+REMARK    9  A    between atoms: C04_22  and  C02_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C12 G6U C1101     -21.314 -19.973 -27.549  0.00  0.00    +0.000 A 
+ATOM      2  C13 G6U C1101     -22.498 -19.255 -27.311  0.00  0.00    +0.000 A 
+ATOM      3  C17 G6U C1101     -20.089 -19.300 -27.405  0.00  0.00    +0.000 A 
+ATOM      4  C16 G6U C1101     -20.047 -17.953 -27.022  0.00  0.00    +0.000 A 
+ATOM      5  C15 G6U C1101     -21.230 -17.262 -26.788  0.00  0.00    +0.000 A 
+ATOM      6  C14 G6U C1101     -22.457 -17.907 -26.931  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  C18 G6U C1101     -18.754 -17.200 -26.866  0.00  0.00    +0.000 C 
+ATOM      8  F19 G6U C1101     -18.595 -16.806 -25.619  0.00  0.00    +0.000 F 
+ATOM      9  F20 G6U C1101     -18.821 -16.116 -27.629  0.00  0.00    +0.000 F 
+ATOM     10  F21 G6U C1101     -17.725 -17.963 -27.204  0.00  0.00    +0.000 F 
+ENDBRANCH   4   7
+BRANCH   6  11
+ATOM     11  C22 G6U C1101     -23.717 -17.121 -26.668  0.00  0.00    +0.000 C 
+ATOM     12  F24 G6U C1101     -23.622 -15.952 -27.285  0.00  0.00    +0.000 F 
+ATOM     13  F23 G6U C1101     -24.784 -17.759 -27.127  0.00  0.00    +0.000 F 
+ATOM     14  F25 G6U C1101     -23.838 -16.927 -25.365  0.00  0.00    +0.000 F 
+ENDBRANCH   6  11
+BRANCH   1  16
+ATOM     15  O11 G6U C1101     -20.218 -22.130 -27.181  0.00  0.00    +0.000 OA
+ATOM     16  S10 G6U C1101     -21.297 -21.571 -28.029  0.00  0.00    +0.000 S 
+BRANCH  16  17
+ATOM     17  C09 G6U C1101     -22.842 -21.975 -27.704  0.00  0.00    +0.000 C 
+ATOM     18  C08 G6U C1101     -23.200 -22.676 -26.624  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  C07 G6U C1101     -24.651 -23.045 -26.357  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  N06 G6U C1101     -24.898 -24.496 -26.541  0.00  0.00    +0.000 NA
+BRANCH  20  21
+ATOM     21  C05 G6U C1101     -23.862 -25.322 -25.881  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  C04 G6U C1101     -24.315 -26.766 -25.684  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C02 G6U C1101     -23.163 -27.784 -25.754  0.00  0.00    +0.000 C 
+ATOM     24  C01 G6U C1101     -23.683 -29.188 -25.437  0.00  0.00    +0.000 C 
+ATOM     25  C03 G6U C1101     -21.963 -27.436 -24.866  0.00  0.00    +0.000 C 
+ENDBRANCH  22  23
+ENDBRANCH  21  22
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  16  17
+ENDBRANCH   1  16
+TORSDOF 9

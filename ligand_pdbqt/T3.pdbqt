@@ -1,0 +1,46 @@
+REMARK  Name = ligand_pdbs\T3.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C13_13
+REMARK    2  A    between atoms: C2_2  and  O2_21
+REMARK    3  A    between atoms: C7_7  and  O2_21
+REMARK    4  A    between atoms: C13_13  and  CA_14
+REMARK    5  A    between atoms: CA_14  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  T3  A 933      15.798  19.619  28.568  0.00  0.00    +0.000 A 
+ATOM      2  C3  T3  A 933      15.950  19.612  30.003  0.00  0.00    +0.000 A 
+ATOM      3  C5  T3  A 933      16.536  18.516  30.617  0.00  0.00    +0.000 A 
+ATOM      4  C7  T3  A 933      17.000  17.409  29.853  0.00  0.00    +0.000 A 
+ATOM      5  C9  T3  A 933      16.843  17.446  28.432  0.00  0.00    +0.000 A 
+ATOM      6  C11 T3  A 933      16.232  18.586  27.794  0.00  0.00    +0.000 A 
+ATOM      7  I1  T3  A 933      16.695  18.501  32.725  0.00  0.00    +0.000 I 
+ATOM      8  I3  T3  A 933      17.509  15.798  27.281  0.00  0.00    +0.000 I 
+ENDROOT
+BRANCH   1   9
+ATOM      9  C13 T3  A 933      15.448  20.825  27.830  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  CA  T3  A 933      14.097  21.359  28.189  0.00  0.00    +0.000 C 
+ATOM     11  N   T3  A 933      13.083  20.337  28.200  0.00  0.00    +0.000 NA
+BRANCH  10  12
+ATOM     12  C   T3  A 933      13.828  22.536  27.296  0.00  0.00    +0.000 C 
+ATOM     13  OXT T3  A 933      13.009  22.359  26.284  0.00  0.00    +0.000 OA
+ATOM     14  O   T3  A 933      14.292  23.683  27.517  0.00  0.00    +0.000 OA
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+BRANCH   4  15
+ATOM     15  O2  T3  A 933      17.602  16.271  30.403  0.00  0.00    +0.000 OA
+BRANCH  15  16
+ATOM     16  C2  T3  A 933      18.751  16.299  31.201  0.00  0.00    +0.000 A 
+ATOM     17  C4  T3  A 933      19.826  17.043  30.745  0.00  0.00    +0.000 A 
+ATOM     18  C6  T3  A 933      20.961  17.175  31.482  0.00  0.00    +0.000 A 
+ATOM     19  C8  T3  A 933      21.062  16.513  32.741  0.00  0.00    +0.000 A 
+ATOM     20  C10 T3  A 933      19.972  15.740  33.227  0.00  0.00    +0.000 A 
+ATOM     21  C12 T3  A 933      18.805  15.630  32.442  0.00  0.00    +0.000 A 
+ATOM     22  I2  T3  A 933      22.497  18.392  30.783  0.00  0.00    +0.000 I 
+ATOM     23  O1  T3  A 933      22.244  16.642  33.482  0.00  0.00    +0.000 OA
+ENDBRANCH  15  16
+ENDBRANCH   4  15
+TORSDOF 5

@@ -1,0 +1,308 @@
+MODEL 1
+REMARK VINA RESULT:      -7.8      0.000      0.000
+REMARK  Name = ligand_pdbs\84W.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_1  and  C7_3
+REMARK    2  A    between atoms: C15_6  and  C16_13
+REMARK    3  A    between atoms: C1_7  and  N2_10
+REMARK    4  A    between atoms: C16_13  and  N17_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  84W A 702      25.907   2.852   4.648  0.00  0.00    +0.000 A 
+ATOM      2  C8  84W A 702      25.169   1.838   4.056  0.00  0.00    +0.000 A 
+ATOM      3  C10 84W A 702      26.981   0.266   4.538  0.00  0.00    +0.000 A 
+ATOM      4  C15 84W A 702      28.963   0.982   5.648  0.00  0.00    +0.000 A 
+ATOM      5  C9  84W A 702      25.685   0.551   3.995  0.00  0.00    +0.000 A 
+ATOM      6  C11 84W A 702      27.514  -1.038   4.482  0.00  0.00    +0.000 A 
+ATOM      7  C18 84W A 702      27.690   1.249   5.107  0.00  0.00    +0.000 A 
+ATOM      8  C19 84W A 702      27.154   2.573   5.172  0.00  0.00    +0.000 A 
+ATOM      9  N13 84W A 702      28.728  -1.289   4.996  0.00  0.00    +0.000 N 
+ATOM     10  N14 84W A 702      29.472  -0.257   5.591  0.00  0.00    +0.000 NA
+ATOM     11  O12 84W A 702      26.779  -2.070   3.891  0.00  0.00    +0.000 OA
+ATOM     12 H131 84W A 702      29.105  -2.215   4.954  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  13
+ATOM     13  C4  84W A 702      25.369   4.281   4.729  0.00  0.00    +0.000 A 
+ATOM     14  C5  84W A 702      24.072   4.653   4.513  0.00  0.00    +0.000 A 
+ATOM     15  C1  84W A 702      25.597   7.830   5.242  0.00  0.00    +0.000 C 
+ATOM     16  C3  84W A 702      26.088   5.407   5.020  0.00  0.00    +0.000 A 
+ATOM     17  N2  84W A 702      25.255   6.444   4.989  0.00  0.00    +0.000 N 
+ATOM     18  N6  84W A 702      23.990   5.971   4.670  0.00  0.00    +0.000 NA
+ENDBRANCH   1  13
+BRANCH   4  19
+ATOM     19  C16 84W A 702      29.761   2.110   6.291  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  N17 84W A 702      30.891   2.433   5.442  0.00  0.00    +0.000 N 
+ATOM     21 H171 84W A 702      31.744   2.304   5.957  0.00  0.00    +0.000 HD
+ATOM     22 H173 84W A 702      30.822   3.391   5.143  0.00  0.00    +0.000 HD
+ATOM     23 H172 84W A 702      30.890   1.830   4.638  0.00  0.00    +0.000 HD
+ENDBRANCH  19  20
+ENDBRANCH   4  19
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -7.6      2.409      6.170
+REMARK  Name = ligand_pdbs\84W.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_1  and  C7_3
+REMARK    2  A    between atoms: C15_6  and  C16_13
+REMARK    3  A    between atoms: C1_7  and  N2_10
+REMARK    4  A    between atoms: C16_13  and  N17_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  84W A 702      26.611   1.645   3.947  0.00  0.00    +0.000 A 
+ATOM      2  C8  84W A 702      25.281   1.269   3.834  0.00  0.00    +0.000 A 
+ATOM      3  C10 84W A 702      24.610   3.565   4.346  0.00  0.00    +0.000 A 
+ATOM      4  C15 84W A 702      26.237   5.254   4.765  0.00  0.00    +0.000 A 
+ATOM      5  C9  84W A 702      24.278   2.208   4.027  0.00  0.00    +0.000 A 
+ATOM      6  C11 84W A 702      23.598   4.527   4.542  0.00  0.00    +0.000 A 
+ATOM      7  C18 84W A 702      25.896   3.922   4.455  0.00  0.00    +0.000 A 
+ATOM      8  C19 84W A 702      26.928   2.954   4.253  0.00  0.00    +0.000 A 
+ATOM      9  N13 84W A 702      23.926   5.794   4.840  0.00  0.00    +0.000 N 
+ATOM     10  N14 84W A 702      25.275   6.168   4.955  0.00  0.00    +0.000 NA
+ATOM     11  O12 84W A 702      22.253   4.162   4.429  0.00  0.00    +0.000 OA
+ATOM     12 H131 84W A 702      23.206   6.475   4.980  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  13
+ATOM     13  C4  84W A 702      27.741   0.635   3.744  0.00  0.00    +0.000 A 
+ATOM     14  C5  84W A 702      29.032   0.944   3.420  0.00  0.00    +0.000 A 
+ATOM     15  C1  84W A 702      29.199  -2.647   3.597  0.00  0.00    +0.000 C 
+ATOM     16  C3  84W A 702      27.647  -0.726   3.845  0.00  0.00    +0.000 A 
+ATOM     17  N2  84W A 702      28.848  -1.240   3.594  0.00  0.00    +0.000 N 
+ATOM     18  N6  84W A 702      29.717  -0.192   3.326  0.00  0.00    +0.000 NA
+ENDBRANCH   1  13
+BRANCH   4  19
+ATOM     19  C16 84W A 702      27.704   5.648   4.888  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  N17 84W A 702      27.788   7.052   5.240  0.00  0.00    +0.000 N 
+ATOM     21 H171 84W A 702      28.647   7.222   5.732  0.00  0.00    +0.000 HD
+ATOM     22 H173 84W A 702      27.010   7.297   5.829  0.00  0.00    +0.000 HD
+ATOM     23 H172 84W A 702      27.764   7.609   4.404  0.00  0.00    +0.000 HD
+ENDBRANCH  19  20
+ENDBRANCH   4  19
+TORSDOF 3
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -7.2      1.876      3.036
+REMARK  Name = ligand_pdbs\84W.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_1  and  C7_3
+REMARK    2  A    between atoms: C15_6  and  C16_13
+REMARK    3  A    between atoms: C1_7  and  N2_10
+REMARK    4  A    between atoms: C16_13  and  N17_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  84W A 702      27.488   3.781   5.379  0.00  0.00    +0.000 A 
+ATOM      2  C8  84W A 702      28.459   3.804   6.368  0.00  0.00    +0.000 A 
+ATOM      3  C10 84W A 702      29.162   1.558   5.702  0.00  0.00    +0.000 A 
+ATOM      4  C15 84W A 702      28.078   0.412   3.917  0.00  0.00    +0.000 A 
+ATOM      5  C9  84W A 702      29.299   2.712   6.540  0.00  0.00    +0.000 A 
+ATOM      6  C11 84W A 702      30.011   0.443   5.868  0.00  0.00    +0.000 A 
+ATOM      7  C18 84W A 702      28.221   1.539   4.750  0.00  0.00    +0.000 A 
+ATOM      8  C19 84W A 702      27.360   2.667   4.573  0.00  0.00    +0.000 A 
+ATOM      9  N13 84W A 702      29.870  -0.631   5.075  0.00  0.00    +0.000 N 
+ATOM     10  N14 84W A 702      28.882  -0.650   4.077  0.00  0.00    +0.000 NA
+ATOM     11  O12 84W A 702      30.996   0.455   6.859  0.00  0.00    +0.000 OA
+ATOM     12 H131 84W A 702      30.473  -1.420   5.195  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  13
+ATOM     13  C4  84W A 702      26.545   4.965   5.165  0.00  0.00    +0.000 A 
+ATOM     14  C5  84W A 702      25.184   4.888   5.067  0.00  0.00    +0.000 A 
+ATOM     15  C1  84W A 702      25.709   8.427   4.682  0.00  0.00    +0.000 C 
+ATOM     16  C3  84W A 702      26.902   6.278   5.032  0.00  0.00    +0.000 A 
+ATOM     17  N2  84W A 702      25.792   6.990   4.860  0.00  0.00    +0.000 N 
+ATOM     18  N6  84W A 702      24.713   6.117   4.881  0.00  0.00    +0.000 NA
+ENDBRANCH   1  13
+BRANCH   4  19
+ATOM     19  C16 84W A 702      27.001   0.402   2.839  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  N17 84W A 702      25.780  -0.146   3.395  0.00  0.00    +0.000 N 
+ATOM     21 H171 84W A 702      25.164   0.605   3.653  0.00  0.00    +0.000 HD
+ATOM     22 H173 84W A 702      25.999  -0.693   4.211  0.00  0.00    +0.000 HD
+ATOM     23 H172 84W A 702      25.331  -0.728   2.711  0.00  0.00    +0.000 HD
+ENDBRANCH  19  20
+ENDBRANCH   4  19
+TORSDOF 3
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.9      2.665      6.719
+REMARK  Name = ligand_pdbs\84W.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_1  and  C7_3
+REMARK    2  A    between atoms: C15_6  and  C16_13
+REMARK    3  A    between atoms: C1_7  and  N2_10
+REMARK    4  A    between atoms: C16_13  and  N17_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  84W A 702      27.460   1.974   4.755  0.00  0.00    +0.000 A 
+ATOM      2  C8  84W A 702      28.526   2.830   4.988  0.00  0.00    +0.000 A 
+ATOM      3  C10 84W A 702      26.980   4.726   4.975  0.00  0.00    +0.000 A 
+ATOM      4  C15 84W A 702      24.646   4.403   4.624  0.00  0.00    +0.000 A 
+ATOM      5  C9  84W A 702      28.305   4.195   5.102  0.00  0.00    +0.000 A 
+ATOM      6  C11 84W A 702      26.745   6.112   5.089  0.00  0.00    +0.000 A 
+ATOM      7  C18 84W A 702      25.954   3.895   4.748  0.00  0.00    +0.000 A 
+ATOM      8  C19 84W A 702      26.184   2.489   4.635  0.00  0.00    +0.000 A 
+ATOM      9  N13 84W A 702      25.498   6.593   4.968  0.00  0.00    +0.000 N 
+ATOM     10  N14 84W A 702      24.423   5.721   4.729  0.00  0.00    +0.000 NA
+ATOM     11  O12 84W A 702      27.810   6.985   5.328  0.00  0.00    +0.000 OA
+ATOM     12 H131 84W A 702      25.334   7.577   5.049  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  13
+ATOM     13  C4  84W A 702      27.668   0.466   4.622  0.00  0.00    +0.000 A 
+ATOM     14  C5  84W A 702      26.825  -0.497   5.101  0.00  0.00    +0.000 A 
+ATOM     15  C1  84W A 702      29.403  -2.513   3.605  0.00  0.00    +0.000 C 
+ATOM     16  C3  84W A 702      28.721  -0.162   4.016  0.00  0.00    +0.000 A 
+ATOM     17  N2  84W A 702      28.529  -1.474   4.116  0.00  0.00    +0.000 N 
+ATOM     18  N6  84W A 702      27.339  -1.685   4.798  0.00  0.00    +0.000 NA
+ENDBRANCH   1  13
+BRANCH   4  19
+ATOM     19  C16 84W A 702      23.488   3.448   4.363  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  N17 84W A 702      22.253   4.206   4.311  0.00  0.00    +0.000 N 
+ATOM     21 H171 84W A 702      22.283   4.942   4.995  0.00  0.00    +0.000 HD
+ATOM     22 H173 84W A 702      21.477   3.597   4.509  0.00  0.00    +0.000 HD
+ATOM     23 H172 84W A 702      22.141   4.604   3.396  0.00  0.00    +0.000 HD
+ENDBRANCH  19  20
+ENDBRANCH   4  19
+TORSDOF 3
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -6.5      2.700      6.667
+REMARK  Name = ligand_pdbs\84W.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_1  and  C7_3
+REMARK    2  A    between atoms: C15_6  and  C16_13
+REMARK    3  A    between atoms: C1_7  and  N2_10
+REMARK    4  A    between atoms: C16_13  and  N17_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  84W A 702      27.794   2.843   5.028  0.00  0.00    +0.000 A 
+ATOM      2  C8  84W A 702      28.438   4.062   5.170  0.00  0.00    +0.000 A 
+ATOM      3  C10 84W A 702      26.288   5.204   4.925  0.00  0.00    +0.000 A 
+ATOM      4  C15 84W A 702      24.276   3.973   4.594  0.00  0.00    +0.000 A 
+ATOM      5  C9  84W A 702      27.707   5.241   5.124  0.00  0.00    +0.000 A 
+ATOM      6  C11 84W A 702      25.536   6.396   4.878  0.00  0.00    +0.000 A 
+ATOM      7  C18 84W A 702      25.671   4.024   4.786  0.00  0.00    +0.000 A 
+ATOM      8  C19 84W A 702      26.426   2.811   4.838  0.00  0.00    +0.000 A 
+ATOM      9  N13 84W A 702      24.208   6.344   4.692  0.00  0.00    +0.000 N 
+ATOM     10  N14 84W A 702      23.561   5.106   4.545  0.00  0.00    +0.000 NA
+ATOM     11  O12 84W A 702      26.173   7.632   5.023  0.00  0.00    +0.000 OA
+ATOM     12 H131 84W A 702      23.677   7.192   4.658  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  13
+ATOM     13  C4  84W A 702      28.569   1.526   5.070  0.00  0.00    +0.000 A 
+ATOM     14  C5  84W A 702      29.367   1.109   6.099  0.00  0.00    +0.000 A 
+ATOM     15  C1  84W A 702      29.698  -1.640   3.800  0.00  0.00    +0.000 C 
+ATOM     16  C3  84W A 702      28.598   0.565   4.099  0.00  0.00    +0.000 A 
+ATOM     17  N2  84W A 702      29.389  -0.419   4.518  0.00  0.00    +0.000 N 
+ATOM     18  N6  84W A 702      29.872  -0.077   5.774  0.00  0.00    +0.000 NA
+ENDBRANCH   1  13
+BRANCH   4  19
+ATOM     19  C16 84W A 702      23.586   2.624   4.435  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  N17 84W A 702      24.213   1.897   3.348  0.00  0.00    +0.000 N 
+ATOM     21 H171 84W A 702      24.812   2.517   2.833  0.00  0.00    +0.000 HD
+ATOM     22 H173 84W A 702      23.503   1.532   2.736  0.00  0.00    +0.000 HD
+ATOM     23 H172 84W A 702      24.756   1.139   3.721  0.00  0.00    +0.000 HD
+ENDBRANCH  19  20
+ENDBRANCH   4  19
+TORSDOF 3
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -6.3      2.471      6.024
+REMARK  Name = ligand_pdbs\84W.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_1  and  C7_3
+REMARK    2  A    between atoms: C15_6  and  C16_13
+REMARK    3  A    between atoms: C1_7  and  N2_10
+REMARK    4  A    between atoms: C16_13  and  N17_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  84W A 702      26.384   0.617   4.075  0.00  0.00    +0.000 A 
+ATOM      2  C8  84W A 702      25.045   0.576   3.717  0.00  0.00    +0.000 A 
+ATOM      3  C10 84W A 702      24.816   2.918   4.386  0.00  0.00    +0.000 A 
+ATOM      4  C15 84W A 702      26.675   4.136   5.245  0.00  0.00    +0.000 A 
+ATOM      5  C9  84W A 702      24.255   1.708   3.862  0.00  0.00    +0.000 A 
+ATOM      6  C11 84W A 702      24.022   4.074   4.536  0.00  0.00    +0.000 A 
+ATOM      7  C18 84W A 702      26.109   2.951   4.732  0.00  0.00    +0.000 A 
+ATOM      8  C19 84W A 702      26.922   1.785   4.578  0.00  0.00    +0.000 A 
+ATOM      9  N13 84W A 702      24.563   5.200   5.028  0.00  0.00    +0.000 N 
+ATOM     10  N14 84W A 702      25.919   5.234   5.392  0.00  0.00    +0.000 NA
+ATOM     11  O12 84W A 702      22.672   4.047   4.176  0.00  0.00    +0.000 OA
+ATOM     12 H131 84W A 702      23.997   6.018   5.134  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  13
+ATOM     13  C4  84W A 702      27.281  -0.613   3.931  0.00  0.00    +0.000 A 
+ATOM     14  C5  84W A 702      26.853  -1.911   3.921  0.00  0.00    +0.000 A 
+ATOM     15  C1  84W A 702      30.405  -2.347   3.545  0.00  0.00    +0.000 C 
+ATOM     16  C3  84W A 702      28.642  -0.618   3.797  0.00  0.00    +0.000 A 
+ATOM     17  N2  84W A 702      29.040  -1.884   3.703  0.00  0.00    +0.000 N 
+ATOM     18  N6  84W A 702      27.917  -2.695   3.782  0.00  0.00    +0.000 NA
+ENDBRANCH   1  13
+BRANCH   4  19
+ATOM     19  C16 84W A 702      28.147   4.160   5.637  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  N17 84W A 702      28.249   4.246   7.081  0.00  0.00    +0.000 N 
+ATOM     21 H171 84W A 702      27.687   5.011   7.411  0.00  0.00    +0.000 HD
+ATOM     22 H173 84W A 702      29.209   4.401   7.340  0.00  0.00    +0.000 HD
+ATOM     23 H172 84W A 702      27.925   3.389   7.492  0.00  0.00    +0.000 HD
+ENDBRANCH  19  20
+ENDBRANCH   4  19
+TORSDOF 3
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.3      1.869      2.201
+REMARK  Name = ligand_pdbs\84W.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_1  and  C7_3
+REMARK    2  A    between atoms: C15_6  and  C16_13
+REMARK    3  A    between atoms: C1_7  and  N2_10
+REMARK    4  A    between atoms: C16_13  and  N17_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  84W A 702      26.474   1.969   4.030  0.00  0.00    +0.000 A 
+ATOM      2  C8  84W A 702      25.426   1.122   4.356  0.00  0.00    +0.000 A 
+ATOM      3  C10 84W A 702      26.927  -0.794   4.115  0.00  0.00    +0.000 A 
+ATOM      4  C15 84W A 702      29.213  -0.494   3.515  0.00  0.00    +0.000 A 
+ATOM      5  C9  84W A 702      25.634  -0.250   4.406  0.00  0.00    +0.000 A 
+ATOM      6  C11 84W A 702      27.150  -2.187   4.163  0.00  0.00    +0.000 A 
+ATOM      7  C18 84W A 702      27.935   0.028   3.799  0.00  0.00    +0.000 A 
+ATOM      8  C19 84W A 702      27.719   1.440   3.753  0.00  0.00    +0.000 A 
+ATOM      9  N13 84W A 702      28.367  -2.681   3.889  0.00  0.00    +0.000 N 
+ATOM     10  N14 84W A 702      29.424  -1.818   3.556  0.00  0.00    +0.000 NA
+ATOM     11  O12 84W A 702      26.102  -3.052   4.494  0.00  0.00    +0.000 OA
+ATOM     12 H131 84W A 702      28.522  -3.669   3.923  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  13
+ATOM     13  C4  84W A 702      26.278   3.484   3.965  0.00  0.00    +0.000 A 
+ATOM     14  C5  84W A 702      27.208   4.386   3.529  0.00  0.00    +0.000 A 
+ATOM     15  C1  84W A 702      24.471   6.563   4.375  0.00  0.00    +0.000 C 
+ATOM     16  C3  84W A 702      25.159   4.178   4.332  0.00  0.00    +0.000 A 
+ATOM     17  N2  84W A 702      25.392   5.471   4.124  0.00  0.00    +0.000 N 
+ATOM     18  N6  84W A 702      26.679   5.601   3.621  0.00  0.00    +0.000 NA
+ENDBRANCH   1  13
+BRANCH   4  19
+ATOM     19  C16 84W A 702      30.352   0.452   3.154  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  N17 84W A 702      30.865   0.096   1.846  0.00  0.00    +0.000 N 
+ATOM     21 H171 84W A 702      31.754   0.543   1.702  0.00  0.00    +0.000 HD
+ATOM     22 H173 84W A 702      30.219   0.401   1.138  0.00  0.00    +0.000 HD
+ATOM     23 H172 84W A 702      30.979  -0.901   1.790  0.00  0.00    +0.000 HD
+ENDBRANCH  19  20
+ENDBRANCH   4  19
+TORSDOF 3
+ENDMDL

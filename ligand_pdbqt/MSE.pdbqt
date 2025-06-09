@@ -1,0 +1,28 @@
+REMARK  Name = ligand_pdbs\MSE.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CG_6
+REMARK    4  A    between atoms: CG_6  and  SE_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   MSE B 175     -41.770 131.609  85.999  0.00  0.00    +0.000 NA
+ATOM      2  CA  MSE B 175     -42.502 130.354  86.149  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   3
+ATOM      3  C   MSE B 175     -41.651 129.149  85.748  0.00  0.00    +0.000 C 
+ATOM      4  O   MSE B 175     -41.629 128.132  86.445  0.00  0.00    +0.000 OA
+ENDBRANCH   2   3
+BRANCH   2   5
+ATOM      5  CB  MSE B 175     -43.786 130.372  85.308  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  CG  MSE B 175     -43.567 130.637  83.820  0.00  0.00    +0.000 C 
+BRANCH   6   7
+ATOM      7 SE   MSE B 175     -44.979 130.154  82.779  0.00  0.00    +0.000 Se
+ATOM      8  CE  MSE B 175     -46.233 131.355  83.292  0.00  0.00    +0.000 C 
+ENDBRANCH   6   7
+ENDBRANCH   5   6
+ENDBRANCH   2   5
+TORSDOF 4

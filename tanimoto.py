@@ -27,3 +27,13 @@ for file in os.listdir(folder_path):
         open(f'./results/{prefix}_log.txt', 'a').write(f'\nTanimoto index: {tanimoto_similarity:.4f}\n')
     else:
         print(f'Failed to read {file}')
+
+def tanimoto_similarity(id1, id2):
+    """
+    Calculate the Tanimoto similarity between two molecules.
+    """
+    mol1 = Chem.MolFromMolFile(f'ligand_mols/{id1}.mol')
+    mol2 = Chem.MolFromMolFile(f'ligand_mols/{id2}.mol')
+    fp1 = AllChem.GetMorganFingerprint(mol1, radius=2)
+    fp2 = AllChem.GetMorganFingerprint(mol2,radius=2)
+    return DataStructs.TanimotoSimilarity(fp1, fp2)

@@ -1,0 +1,288 @@
+MODEL 1
+REMARK VINA RESULT:      -4.0      0.000      0.000
+REMARK  Name = ligand_pdbs\GLU.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CG_6
+REMARK    4  A    between atoms: CG_6  and  CD_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  GLU C1102      24.187   5.462   4.727  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  N   GLU C1102      23.901   3.027   4.341  0.00  0.00    +0.000 NA
+ATOM      3  CA  GLU C1102      24.862   4.090   4.745  0.00  0.00    +0.000 C 
+BRANCH   3   4
+ATOM      4  C   GLU C1102      25.425   3.772   6.135  0.00  0.00    +0.000 C 
+ATOM      5  O   GLU C1102      26.650   3.927   6.303  0.00  0.00    +0.000 OA
+ENDBRANCH   3   4
+ENDBRANCH   1   3
+BRANCH   1   6
+ATOM      6  CG  GLU C1102      25.037   6.548   4.096  0.00  0.00    +0.000 C 
+BRANCH   6   7
+ATOM      7  CD  GLU C1102      25.861   7.367   5.073  0.00  0.00    +0.000 C 
+ATOM      8  OE1 GLU C1102      25.296   8.289   5.696  0.00  0.00    +0.000 OA
+ATOM      9  OE2 GLU C1102      27.066   7.082   5.211  0.00  0.00    +0.000 OA
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -3.9      2.602      3.636
+REMARK  Name = ligand_pdbs\GLU.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CG_6
+REMARK    4  A    between atoms: CG_6  and  CD_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  GLU C1102      26.504   5.315   3.510  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  N   GLU C1102      26.163   7.091   5.209  0.00  0.00    +0.000 NA
+ATOM      3  CA  GLU C1102      25.519   6.316   4.113  0.00  0.00    +0.000 C 
+BRANCH   3   4
+ATOM      4  C   GLU C1102      24.272   5.603   4.652  0.00  0.00    +0.000 C 
+ATOM      5  O   GLU C1102      24.452   4.682   5.471  0.00  0.00    +0.000 OA
+ENDBRANCH   3   4
+ENDBRANCH   1   3
+BRANCH   1   6
+ATOM      6  CG  GLU C1102      27.808   5.208   4.280  0.00  0.00    +0.000 C 
+BRANCH   6   7
+ATOM      7  CD  GLU C1102      27.985   3.922   5.067  0.00  0.00    +0.000 C 
+ATOM      8  OE1 GLU C1102      27.781   3.949   6.297  0.00  0.00    +0.000 OA
+ATOM      9  OE2 GLU C1102      28.323   2.895   4.449  0.00  0.00    +0.000 OA
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -3.9      1.982      2.078
+REMARK  Name = ligand_pdbs\GLU.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CG_6
+REMARK    4  A    between atoms: CG_6  and  CD_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  GLU C1102      27.358   4.931   3.478  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  N   GLU C1102      26.027   3.103   4.501  0.00  0.00    +0.000 NA
+ATOM      3  CA  GLU C1102      27.384   3.510   4.041  0.00  0.00    +0.000 C 
+BRANCH   3   4
+ATOM      4  C   GLU C1102      28.376   3.398   5.206  0.00  0.00    +0.000 C 
+ATOM      5  O   GLU C1102      27.991   3.795   6.322  0.00  0.00    +0.000 OA
+ENDBRANCH   3   4
+ENDBRANCH   1   3
+BRANCH   1   6
+ATOM      6  CG  GLU C1102      26.162   5.744   3.938  0.00  0.00    +0.000 C 
+BRANCH   6   7
+ATOM      7  CD  GLU C1102      26.480   6.846   4.934  0.00  0.00    +0.000 C 
+ATOM      8  OE1 GLU C1102      25.546   7.573   5.328  0.00  0.00    +0.000 OA
+ATOM      9  OE2 GLU C1102      27.658   6.973   5.315  0.00  0.00    +0.000 OA
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -3.9      2.689      3.425
+REMARK  Name = ligand_pdbs\GLU.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CG_6
+REMARK    4  A    between atoms: CG_6  and  CD_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  GLU C1102      25.849   3.163   3.678  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  N   GLU C1102      27.784   3.196   5.231  0.00  0.00    +0.000 NA
+ATOM      3  CA  GLU C1102      27.331   3.499   3.846  0.00  0.00    +0.000 C 
+BRANCH   3   4
+ATOM      4  C   GLU C1102      27.599   4.976   3.529  0.00  0.00    +0.000 C 
+ATOM      5  O   GLU C1102      27.812   5.736   4.493  0.00  0.00    +0.000 OA
+ENDBRANCH   3   4
+ENDBRANCH   1   3
+BRANCH   1   6
+ATOM      6  CG  GLU C1102      25.015   3.467   4.908  0.00  0.00    +0.000 C 
+BRANCH   6   7
+ATOM      7  CD  GLU C1102      24.048   4.628   4.757  0.00  0.00    +0.000 C 
+ATOM      8  OE1 GLU C1102      22.885   4.384   4.379  0.00  0.00    +0.000 OA
+ATOM      9  OE2 GLU C1102      24.459   5.774   5.020  0.00  0.00    +0.000 OA
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -3.8      2.066      2.307
+REMARK  Name = ligand_pdbs\GLU.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CG_6
+REMARK    4  A    between atoms: CG_6  and  CD_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  GLU C1102      27.055   5.530   4.346  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  N   GLU C1102      28.051   3.258   4.394  0.00  0.00    +0.000 NA
+ATOM      3  CA  GLU C1102      27.570   4.393   5.228  0.00  0.00    +0.000 C 
+BRANCH   3   4
+ATOM      4  C   GLU C1102      26.475   3.901   6.184  0.00  0.00    +0.000 C 
+ATOM      5  O   GLU C1102      25.346   3.698   5.699  0.00  0.00    +0.000 OA
+ENDBRANCH   3   4
+ENDBRANCH   1   3
+BRANCH   1   6
+ATOM      6  CG  GLU C1102      26.917   6.852   5.078  0.00  0.00    +0.000 C 
+BRANCH   6   7
+ATOM      7  CD  GLU C1102      25.504   7.401   5.151  0.00  0.00    +0.000 C 
+ATOM      8  OE1 GLU C1102      25.311   8.455   5.789  0.00  0.00    +0.000 OA
+ATOM      9  OE2 GLU C1102      24.598   6.775   4.567  0.00  0.00    +0.000 OA
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -3.8      2.650      3.111
+REMARK  Name = ligand_pdbs\GLU.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CG_6
+REMARK    4  A    between atoms: CG_6  and  CD_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  GLU C1102      26.683   5.509   5.091  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  N   GLU C1102      27.611   3.680   3.694  0.00  0.00    +0.000 NA
+ATOM      3  CA  GLU C1102      27.845   4.536   4.890  0.00  0.00    +0.000 C 
+BRANCH   3   4
+ATOM      4  C   GLU C1102      28.040   3.650   6.126  0.00  0.00    +0.000 C 
+ATOM      5  O   GLU C1102      27.477   2.539   6.125  0.00  0.00    +0.000 OA
+ENDBRANCH   3   4
+ENDBRANCH   1   3
+BRANCH   1   6
+ATOM      6  CG  GLU C1102      25.472   5.194   4.234  0.00  0.00    +0.000 C 
+BRANCH   6   7
+ATOM      7  CD  GLU C1102      24.287   4.613   4.986  0.00  0.00    +0.000 C 
+ATOM      8  OE1 GLU C1102      23.157   4.700   4.466  0.00  0.00    +0.000 OA
+ATOM      9  OE2 GLU C1102      24.496   4.074   6.089  0.00  0.00    +0.000 OA
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+TORSDOF 4
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -3.8      2.437      4.069
+REMARK  Name = ligand_pdbs\GLU.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CG_6
+REMARK    4  A    between atoms: CG_6  and  CD_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  GLU C1102      26.411   5.511   3.532  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  N   GLU C1102      24.375   5.677   4.940  0.00  0.00    +0.000 NA
+ATOM      3  CA  GLU C1102      25.847   5.895   4.900  0.00  0.00    +0.000 C 
+BRANCH   3   4
+ATOM      4  C   GLU C1102      26.158   7.360   5.231  0.00  0.00    +0.000 C 
+ATOM      5  O   GLU C1102      25.199   8.087   5.554  0.00  0.00    +0.000 OA
+ENDBRANCH   3   4
+ENDBRANCH   1   3
+BRANCH   1   6
+ATOM      6  CG  GLU C1102      27.658   4.650   3.609  0.00  0.00    +0.000 C 
+BRANCH   6   7
+ATOM      7  CD  GLU C1102      27.409   3.154   3.548  0.00  0.00    +0.000 C 
+ATOM      8  OE1 GLU C1102      26.289   2.756   3.168  0.00  0.00    +0.000 OA
+ATOM      9  OE2 GLU C1102      28.335   2.388   3.877  0.00  0.00    +0.000 OA
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+TORSDOF 4
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -3.7      3.079      4.442
+REMARK  Name = ligand_pdbs\GLU.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CG_6
+REMARK    4  A    between atoms: CG_6  and  CD_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  GLU C1102      26.621   4.631   3.866  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  N   GLU C1102      25.884   6.635   5.131  0.00  0.00    +0.000 NA
+ATOM      3  CA  GLU C1102      25.434   5.506   4.271  0.00  0.00    +0.000 C 
+BRANCH   3   4
+ATOM      4  C   GLU C1102      24.374   4.684   5.015  0.00  0.00    +0.000 C 
+ATOM      5  O   GLU C1102      23.204   4.750   4.594  0.00  0.00    +0.000 OA
+ENDBRANCH   3   4
+ENDBRANCH   1   3
+BRANCH   1   6
+ATOM      6  CG  GLU C1102      26.220   3.247   3.391  0.00  0.00    +0.000 C 
+BRANCH   6   7
+ATOM      7  CD  GLU C1102      27.332   2.213   3.415  0.00  0.00    +0.000 C 
+ATOM      8  OE1 GLU C1102      28.414   2.522   3.953  0.00  0.00    +0.000 OA
+ATOM      9  OE2 GLU C1102      27.113   1.101   2.899  0.00  0.00    +0.000 OA
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+TORSDOF 4
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -3.6      2.698      3.994
+REMARK  Name = ligand_pdbs\GLU.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CG_6
+REMARK    4  A    between atoms: CG_6  and  CD_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  GLU C1102      25.154   5.926   4.110  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  N   GLU C1102      25.997   8.202   4.627  0.00  0.00    +0.000 NA
+ATOM      3  CA  GLU C1102      26.008   6.775   5.052  0.00  0.00    +0.000 C 
+BRANCH   3   4
+ATOM      4  C   GLU C1102      27.453   6.262   5.095  0.00  0.00    +0.000 C 
+ATOM      5  O   GLU C1102      27.857   5.614   4.110  0.00  0.00    +0.000 OA
+ENDBRANCH   3   4
+ENDBRANCH   1   3
+BRANCH   1   6
+ATOM      6  CG  GLU C1102      24.384   4.825   4.815  0.00  0.00    +0.000 C 
+BRANCH   6   7
+ATOM      7  CD  GLU C1102      24.736   3.414   4.379  0.00  0.00    +0.000 C 
+ATOM      8  OE1 GLU C1102      25.715   3.256   3.621  0.00  0.00    +0.000 OA
+ATOM      9  OE2 GLU C1102      24.034   2.475   4.800  0.00  0.00    +0.000 OA
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+TORSDOF 4
+ENDMDL

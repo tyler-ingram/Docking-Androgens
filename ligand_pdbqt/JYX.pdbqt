@@ -1,0 +1,23 @@
+REMARK  Name = ligand_pdbs\JYX.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  N1_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  JYX A 702      20.926 -42.723 -10.207  0.00  0.00    +0.000 N 
+ATOM      2  C3  JYX A 702      19.602 -42.791  -9.833  0.00  0.00    +0.000 C 
+ATOM      3  N2  JYX A 702      18.876 -41.714  -9.526  0.00  0.00    +0.000 NA
+ATOM      4  N3  JYX A 702      19.129 -44.020  -9.840  0.00  0.00    +0.000 NA
+ATOM      5  C4  JYX A 702      20.208 -44.807 -10.228  0.00  0.00    +0.000 C 
+ATOM      6  C5  JYX A 702      20.328 -46.182 -10.400  0.00  0.00    +0.000 C 
+ATOM      7  C6  JYX A 702      21.581 -46.640 -10.800  0.00  0.00    +0.000 C 
+ATOM      8  C7  JYX A 702      22.630 -45.745 -11.000  0.00  0.00    +0.000 C 
+ATOM      9  N4  JYX A 702      22.525 -44.421 -10.829  0.00  0.00    +0.000 NA
+ATOM     10  C8  JYX A 702      21.321 -44.018 -10.455  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  12
+ATOM     11  C1  JYX A 702      22.736 -41.409  -9.190  0.00  0.00    +0.000 C 
+ATOM     12  C2  JYX A 702      21.780 -41.539 -10.337  0.00  0.00    +0.000 C 
+ENDBRANCH   1  12
+TORSDOF 1

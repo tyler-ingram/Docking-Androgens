@@ -1,0 +1,81 @@
+REMARK  Name = ligand_pdbs\RJA.pdb
+REMARK  13 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3
+REMARK    2  A    between atoms: C2_3  and  C3_5
+REMARK    3  A    between atoms: C3_5  and  C4_7
+REMARK    4  A    between atoms: C4_7  and  C5_9
+REMARK    5  A    between atoms: C5_9  and  C6_11
+REMARK    6  A    between atoms: C7_12  and  C8_13
+REMARK    7  A    between atoms: C9_14  and  C10_16
+REMARK    8  A    between atoms: C10_16  and  C11_17
+REMARK    9  A    between atoms: C11_17  and  C12_18
+REMARK   10  A    between atoms: C13_19  and  C14_20
+REMARK   11  A    between atoms: C15_21  and  C16_22
+REMARK   12  A    between atoms: C16_22  and  C17_23
+REMARK   13  A    between atoms: C21_27  and  C22_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C12 RJA C1101     -38.028  71.704  27.409  0.00  0.00    +0.000 C 
+ATOM      2  C13 RJA C1101     -39.211  71.264  27.826  0.00  0.00    +0.000 C 
+ATOM      3  C27 RJA C1101     -37.675  73.153  27.490  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   4
+ATOM      4  C14 RJA C1101     -40.205  72.151  28.404  0.00  0.00    +0.000 C 
+ATOM      5  C15 RJA C1101     -41.394  71.636  28.658  0.00  0.00    +0.000 C 
+BRANCH   5   7
+ATOM      6  O3  RJA C1101     -43.689  72.367  28.516  0.00  0.00    +0.000 OA
+ATOM      7  C16 RJA C1101     -42.490  72.443  29.293  0.00  0.00    +0.000 C 
+BRANCH   7  10
+ATOM      8  O4  RJA C1101     -43.977  72.573  33.728  0.00  0.00    +0.000 OA
+ATOM      9  O5  RJA C1101     -43.935  71.020  30.550  0.00  0.00    +0.000 OA
+ATOM     10  C17 RJA C1101     -42.712  71.723  30.611  0.00  0.00    +0.000 C 
+ATOM     11  C18 RJA C1101     -42.670  72.686  31.770  0.00  0.00    +0.000 C 
+ATOM     12  C19 RJA C1101     -42.886  71.945  33.073  0.00  0.00    +0.000 C 
+ATOM     13  C20 RJA C1101     -43.281  70.503  32.843  0.00  0.00    +0.000 C 
+ATOM     14  C21 RJA C1101     -44.352  70.420  31.767  0.00  0.00    +0.000 C 
+ATOM     15  C28 RJA C1101     -42.081  69.627  32.536  0.00  0.00    +0.000 C 
+BRANCH  14  16
+ATOM     16  C22 RJA C1101     -44.729  68.985  31.513  0.00  0.00    +0.000 C 
+ATOM     17  C23 RJA C1101     -46.006  68.688  31.368  0.00  0.00    +0.000 C 
+ATOM     18  C24 RJA C1101     -46.463  67.278  31.116  0.00  0.00    +0.000 C 
+ENDBRANCH  14  16
+ENDBRANCH   7  10
+ENDBRANCH   5   7
+ENDBRANCH   2   4
+BRANCH   1  19
+ATOM     19  C11 RJA C1101     -37.036  70.718  26.859  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  C10 RJA C1101     -36.042  70.407  27.968  0.00  0.00    +0.000 C 
+ATOM     21  C26 RJA C1101     -36.715  69.671  29.112  0.00  0.00    +0.000 C 
+BRANCH  20  23
+ATOM     22  C8  RJA C1101     -33.671  69.979  27.430  0.00  0.00    +0.000 C 
+ATOM     23  C9  RJA C1101     -34.930  69.550  27.438  0.00  0.00    +0.000 C 
+ATOM     24  C25 RJA C1101     -32.615  69.069  26.883  0.00  0.00    +0.000 C 
+BRANCH  22  26
+ATOM     25  C6  RJA C1101     -32.054  71.693  27.983  0.00  0.00    +0.000 C 
+ATOM     26  C7  RJA C1101     -33.327  71.323  27.933  0.00  0.00    +0.000 C 
+BRANCH  25  28
+ATOM     27  O2  RJA C1101     -30.430  72.861  29.297  0.00  0.00    +0.000 OA
+ATOM     28  C5  RJA C1101     -31.575  73.044  28.465  0.00  0.00    +0.000 C 
+BRANCH  28  29
+ATOM     29  C4  RJA C1101     -32.640  73.827  29.219  0.00  0.00    +0.000 C 
+BRANCH  29  30
+ATOM     30  C3  RJA C1101     -32.131  75.204  29.648  0.00  0.00    +0.000 C 
+BRANCH  30  31
+ATOM     31  C2  RJA C1101     -33.330  76.121  29.870  0.00  0.00    +0.000 C 
+BRANCH  31  32
+ATOM     32  C1  RJA C1101     -34.340  76.057  28.738  0.00  0.00    +0.000 C 
+ATOM     33  O1  RJA C1101     -35.559  76.097  28.998  0.00  0.00    +0.000 OA
+ATOM     34  O1' RJA C1101     -33.931  75.978  27.567  0.00  0.00    +0.000 OA
+ENDBRANCH  31  32
+ENDBRANCH  30  31
+ENDBRANCH  29  30
+ENDBRANCH  28  29
+ENDBRANCH  25  28
+ENDBRANCH  22  26
+ENDBRANCH  20  23
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 13

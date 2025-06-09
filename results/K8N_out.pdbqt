@@ -1,0 +1,324 @@
+MODEL 1
+REMARK VINA RESULT:      -6.0      0.000      0.000
+REMARK  Name = ligand_pdbs\K8N.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N4_10  and  C7_11
+REMARK    2  A    between atoms: C9_13  and  C10_14
+REMARK    3  A    between atoms: C10_14  and  C11_15
+REMARK    4  A    between atoms: C11_15  and  C12_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  K8N A 701      26.749  -0.264   4.305  0.00  0.00    +0.000 C 
+ATOM      2  C8  K8N A 701      27.391  -0.081   5.676  0.00  0.00    +0.000 C 
+ATOM      3  C9  K8N A 701      28.727  -0.834   5.632  0.00  0.00    +0.000 C 
+ATOM      4  C21 K8N A 701      29.022  -1.056   4.146  0.00  0.00    +0.000 C 
+ATOM      5  O1  K8N A 701      29.047  -2.456   3.900  0.00  0.00    +0.000 OA
+ATOM      6  C22 K8N A 701      27.961  -0.253   3.375  0.00  0.00    +0.000 C 
+ATOM      7  O2  K8N A 701      27.650  -0.789   2.099  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1  17
+ATOM      8  N1  K8N A 701      22.923   4.427   4.289  0.00  0.00    +0.000 NA
+ATOM      9  C1  K8N A 701      23.859   3.628   4.807  0.00  0.00    +0.000 C 
+ATOM     10  N2  K8N A 701      24.293   3.908   6.046  0.00  0.00    +0.000 NA
+ATOM     11  C2  K8N A 701      25.235   3.106   6.567  0.00  0.00    +0.000 C 
+ATOM     12  N3  K8N A 701      25.820   2.037   6.037  0.00  0.00    +0.000 NA
+ATOM     13  C3  K8N A 701      25.367   1.787   4.794  0.00  0.00    +0.000 C 
+ATOM     14  C4  K8N A 701      24.393   2.521   4.126  0.00  0.00    +0.000 C 
+ATOM     15  C5  K8N A 701      24.227   1.903   2.855  0.00  0.00    +0.000 C 
+ATOM     16  C6  K8N A 701      25.072   0.855   2.798  0.00  0.00    +0.000 C 
+ATOM     17  N4  K8N A 701      25.777   0.775   3.967  0.00  0.00    +0.000 N 
+ENDBRANCH   1  17
+BRANCH   3  18
+ATOM     18  C10 K8N A 701      29.843  -0.113   6.385  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  C11 K8N A 701      30.505   1.033   5.628  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  C12 K8N A 701      29.647   2.266   5.717  0.00  0.00    +0.000 C 
+ATOM     21  C13 K8N A 701      29.572   2.999   6.921  0.00  0.00    +0.000 C 
+ATOM     22  C14 K8N A 701      28.840   4.138   7.004  0.00  0.00    +0.000 C 
+ATOM     23  C15 K8N A 701      28.156   4.611   5.872  0.00  0.00    +0.000 C 
+ATOM     24  C16 K8N A 701      27.383   5.776   5.903  0.00  0.00    +0.000 C 
+ATOM     25  C17 K8N A 701      26.754   6.168   4.769  0.00  0.00    +0.000 C 
+ATOM     26 BR1  K8N A 701      25.772   7.776   4.791  0.00  0.00    +0.000 Br
+ATOM     27  C18 K8N A 701      26.891   5.422   3.565  0.00  0.00    +0.000 C 
+ATOM     28  N5  K8N A 701      26.254   5.819   2.444  0.00  0.00    +0.000 NA
+ATOM     29  N6  K8N A 701      27.591   4.308   3.511  0.00  0.00    +0.000 NA
+ATOM     30  C19 K8N A 701      28.232   3.900   4.659  0.00  0.00    +0.000 C 
+ATOM     31  C20 K8N A 701      28.992   2.723   4.607  0.00  0.00    +0.000 C 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH   3  18
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -5.3      3.453      6.843
+REMARK  Name = ligand_pdbs\K8N.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N4_10  and  C7_11
+REMARK    2  A    between atoms: C9_13  and  C10_14
+REMARK    3  A    between atoms: C10_14  and  C11_15
+REMARK    4  A    between atoms: C11_15  and  C12_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  K8N A 701      26.590   5.117   6.052  0.00  0.00    +0.000 C 
+ATOM      2  C8  K8N A 701      25.307   4.324   5.828  0.00  0.00    +0.000 C 
+ATOM      3  C9  K8N A 701      24.366   5.239   5.034  0.00  0.00    +0.000 C 
+ATOM      4  C21 K8N A 701      25.259   6.338   4.452  0.00  0.00    +0.000 C 
+ATOM      5  O1  K8N A 701      24.844   7.585   4.996  0.00  0.00    +0.000 OA
+ATOM      6  C22 K8N A 701      26.707   5.917   4.754  0.00  0.00    +0.000 C 
+ATOM      7  O2  K8N A 701      27.606   7.006   4.888  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1  17
+ATOM      8  N1  K8N A 701      31.111   1.102   5.770  0.00  0.00    +0.000 NA
+ATOM      9  C1  K8N A 701      30.066   1.786   5.298  0.00  0.00    +0.000 C 
+ATOM     10  N2  K8N A 701      29.676   1.525   4.040  0.00  0.00    +0.000 NA
+ATOM     11  C2  K8N A 701      28.625   2.213   3.564  0.00  0.00    +0.000 C 
+ATOM     12  N3  K8N A 701      27.879   3.136   4.164  0.00  0.00    +0.000 NA
+ATOM     13  C3  K8N A 701      28.300   3.376   5.419  0.00  0.00    +0.000 C 
+ATOM     14  C4  K8N A 701      29.364   2.742   6.051  0.00  0.00    +0.000 C 
+ATOM     15  C5  K8N A 701      29.445   3.300   7.358  0.00  0.00    +0.000 C 
+ATOM     16  C6  K8N A 701      28.465   4.218   7.470  0.00  0.00    +0.000 C 
+ATOM     17  N4  K8N A 701      27.764   4.281   6.298  0.00  0.00    +0.000 N 
+ENDBRANCH   1  17
+BRANCH   3  18
+ATOM     18  C10 K8N A 701      23.547   4.487   3.987  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  C11 K8N A 701      23.097   3.088   4.392  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  C12 K8N A 701      24.125   2.076   3.964  0.00  0.00    +0.000 C 
+ATOM     21  C13 K8N A 701      24.457   1.928   2.600  0.00  0.00    +0.000 C 
+ATOM     22  C14 K8N A 701      25.415   1.052   2.203  0.00  0.00    +0.000 C 
+ATOM     23  C15 K8N A 701      26.103   0.291   3.162  0.00  0.00    +0.000 C 
+ATOM     24  C16 K8N A 701      27.095  -0.630   2.807  0.00  0.00    +0.000 C 
+ATOM     25  C17 K8N A 701      27.714  -1.327   3.791  0.00  0.00    +0.000 C 
+ATOM     26 BR1  K8N A 701      29.101  -2.513   3.320  0.00  0.00    +0.000 Br
+ATOM     27  C18 K8N A 701      27.378  -1.115   5.157  0.00  0.00    +0.000 C 
+ATOM     28  N5  K8N A 701      27.997  -1.820   6.126  0.00  0.00    +0.000 NA
+ATOM     29  N6  K8N A 701      26.430  -0.275   5.519  0.00  0.00    +0.000 NA
+ATOM     30  C19 K8N A 701      25.794   0.437   4.528  0.00  0.00    +0.000 C 
+ATOM     31  C20 K8N A 701      24.795   1.345   4.906  0.00  0.00    +0.000 C 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH   3  18
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -5.1      5.300      7.911
+REMARK  Name = ligand_pdbs\K8N.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N4_10  and  C7_11
+REMARK    2  A    between atoms: C9_13  and  C10_14
+REMARK    3  A    between atoms: C10_14  and  C11_15
+REMARK    4  A    between atoms: C11_15  and  C12_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  K8N A 701      26.564   4.606   4.819  0.00  0.00    +0.000 C 
+ATOM      2  C8  K8N A 701      26.915   6.078   5.007  0.00  0.00    +0.000 C 
+ATOM      3  C9  K8N A 701      25.596   6.854   4.908  0.00  0.00    +0.000 C 
+ATOM      4  C21 K8N A 701      24.492   5.811   5.103  0.00  0.00    +0.000 C 
+ATOM      5  O1  K8N A 701      23.715   5.756   3.912  0.00  0.00    +0.000 OA
+ATOM      6  C22 K8N A 701      25.202   4.508   5.507  0.00  0.00    +0.000 C 
+ATOM      7  O2  K8N A 701      24.505   3.332   5.128  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1  17
+ATOM      8  N1  K8N A 701      30.133  -0.093   6.168  0.00  0.00    +0.000 NA
+ATOM      9  C1  K8N A 701      29.236   0.579   5.441  0.00  0.00    +0.000 C 
+ATOM     10  N2  K8N A 701      28.753  -0.025   4.344  0.00  0.00    +0.000 NA
+ATOM     11  C2  K8N A 701      27.853   0.651   3.612  0.00  0.00    +0.000 C 
+ATOM     12  N3  K8N A 701      27.339   1.860   3.814  0.00  0.00    +0.000 NA
+ATOM     13  C3  K8N A 701      27.847   2.439   4.917  0.00  0.00    +0.000 C 
+ATOM     14  C4  K8N A 701      28.778   1.865   5.776  0.00  0.00    +0.000 C 
+ATOM     15  C5  K8N A 701      29.023   2.821   6.800  0.00  0.00    +0.000 C 
+ATOM     16  C6  K8N A 701      28.261   3.902   6.539  0.00  0.00    +0.000 C 
+ATOM     17  N4  K8N A 701      27.545   3.687   5.394  0.00  0.00    +0.000 N 
+ENDBRANCH   1  17
+BRANCH   3  18
+ATOM     18  C10 K8N A 701      25.520   8.025   5.885  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  C11 K8N A 701      24.691   9.215   5.413  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  C12 K8N A 701      24.398  10.126   6.574  0.00  0.00    +0.000 C 
+ATOM     21  C13 K8N A 701      24.072  11.482   6.355  0.00  0.00    +0.000 C 
+ATOM     22  C14 K8N A 701      23.761  12.305   7.388  0.00  0.00    +0.000 C 
+ATOM     23  C15 K8N A 701      23.744  11.801   8.699  0.00  0.00    +0.000 C 
+ATOM     24  C16 K8N A 701      23.436  12.605   9.800  0.00  0.00    +0.000 C 
+ATOM     25  C17 K8N A 701      23.440  12.045  11.034  0.00  0.00    +0.000 C 
+ATOM     26 BR1  K8N A 701      22.953  13.110  12.510  0.00  0.00    +0.000 Br
+ATOM     27  C18 K8N A 701      23.733  10.664  11.207  0.00  0.00    +0.000 C 
+ATOM     28  N5  K8N A 701      23.740  10.119  12.441  0.00  0.00    +0.000 NA
+ATOM     29  N6  K8N A 701      24.052   9.887  10.191  0.00  0.00    +0.000 NA
+ATOM     30  C19 K8N A 701      24.053  10.446   8.934  0.00  0.00    +0.000 C 
+ATOM     31  C20 K8N A 701      24.377   9.624   7.846  0.00  0.00    +0.000 C 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH   3  18
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -5.0      1.593      4.315
+REMARK  Name = ligand_pdbs\K8N.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N4_10  and  C7_11
+REMARK    2  A    between atoms: C9_13  and  C10_14
+REMARK    3  A    between atoms: C10_14  and  C11_15
+REMARK    4  A    between atoms: C11_15  and  C12_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  K8N A 701      29.689   1.003   4.469  0.00  0.00    +0.000 C 
+ATOM      2  C8  K8N A 701      28.847   0.446   3.326  0.00  0.00    +0.000 C 
+ATOM      3  C9  K8N A 701      29.195  -1.044   3.219  0.00  0.00    +0.000 C 
+ATOM      4  C21 K8N A 701      29.875  -1.402   4.544  0.00  0.00    +0.000 C 
+ATOM      5  O1  K8N A 701      31.209  -1.809   4.264  0.00  0.00    +0.000 OA
+ATOM      6  C22 K8N A 701      29.720  -0.170   5.450  0.00  0.00    +0.000 C 
+ATOM      7  O2  K8N A 701      30.756  -0.027   6.408  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1  17
+ATOM      8  N1  K8N A 701      27.090   6.356   5.576  0.00  0.00    +0.000 NA
+ATOM      9  C1  K8N A 701      27.453   5.318   4.818  0.00  0.00    +0.000 C 
+ATOM     10  N2  K8N A 701      27.117   5.355   3.519  0.00  0.00    +0.000 NA
+ATOM     11  C2  K8N A 701      27.481   4.312   2.756  0.00  0.00    +0.000 C 
+ATOM     12  N3  K8N A 701      28.153   3.215   3.092  0.00  0.00    +0.000 NA
+ATOM     13  C3  K8N A 701      28.469   3.207   4.401  0.00  0.00    +0.000 C 
+ATOM     14  C4  K8N A 701      28.168   4.213   5.311  0.00  0.00    +0.000 C 
+ATOM     15  C5  K8N A 701      28.692   3.790   6.565  0.00  0.00    +0.000 C 
+ATOM     16  C6  K8N A 701      29.272   2.588   6.379  0.00  0.00    +0.000 C 
+ATOM     17  N4  K8N A 701      29.139   2.217   5.070  0.00  0.00    +0.000 N 
+ENDBRANCH   1  17
+BRANCH   3  18
+ATOM     18  C10 K8N A 701      27.985  -1.916   2.890  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  C11 K8N A 701      26.838  -1.846   3.891  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  C12 K8N A 701      26.197  -0.485   3.839  0.00  0.00    +0.000 C 
+ATOM     21  C13 K8N A 701      25.605  -0.019   2.646  0.00  0.00    +0.000 C 
+ATOM     22  C14 K8N A 701      24.982   1.186   2.595  0.00  0.00    +0.000 C 
+ATOM     23  C15 K8N A 701      24.908   1.980   3.751  0.00  0.00    +0.000 C 
+ATOM     24  C16 K8N A 701      24.284   3.232   3.753  0.00  0.00    +0.000 C 
+ATOM     25  C17 K8N A 701      24.254   3.939   4.909  0.00  0.00    +0.000 C 
+ATOM     26 BR1  K8N A 701      23.350   5.592   4.931  0.00  0.00    +0.000 Br
+ATOM     27  C18 K8N A 701      24.826   3.414   6.100  0.00  0.00    +0.000 C 
+ATOM     28  N5  K8N A 701      24.795   4.130   7.243  0.00  0.00    +0.000 NA
+ATOM     29  N6  K8N A 701      25.443   2.250   6.122  0.00  0.00    +0.000 NA
+ATOM     30  C19 K8N A 701      25.482   1.524   4.954  0.00  0.00    +0.000 C 
+ATOM     31  C20 K8N A 701      26.123   0.278   4.972  0.00  0.00    +0.000 C 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH   3  18
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.9      3.498      6.613
+REMARK  Name = ligand_pdbs\K8N.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N4_10  and  C7_11
+REMARK    2  A    between atoms: C9_13  and  C10_14
+REMARK    3  A    between atoms: C10_14  and  C11_15
+REMARK    4  A    between atoms: C11_15  and  C12_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  K8N A 701      27.022   4.309   6.126  0.00  0.00    +0.000 C 
+ATOM      2  C8  K8N A 701      25.821   3.393   6.337  0.00  0.00    +0.000 C 
+ATOM      3  C9  K8N A 701      24.609   4.128   5.753  0.00  0.00    +0.000 C 
+ATOM      4  C21 K8N A 701      25.188   5.221   4.851  0.00  0.00    +0.000 C 
+ATOM      5  O1  K8N A 701      24.796   6.485   5.373  0.00  0.00    +0.000 OA
+ATOM      6  C22 K8N A 701      26.702   4.959   4.780  0.00  0.00    +0.000 C 
+ATOM      7  O2  K8N A 701      27.478   6.126   4.562  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1  17
+ATOM      8  N1  K8N A 701      31.515   0.268   6.479  0.00  0.00    +0.000 NA
+ATOM      9  C1  K8N A 701      30.242   0.669   6.493  0.00  0.00    +0.000 C 
+ATOM     10  N2  K8N A 701      29.302  -0.266   6.707  0.00  0.00    +0.000 NA
+ATOM     11  C2  K8N A 701      28.021   0.136   6.719  0.00  0.00    +0.000 C 
+ATOM     12  N3  K8N A 701      27.518   1.356   6.556  0.00  0.00    +0.000 NA
+ATOM     13  C3  K8N A 701      28.485   2.267   6.339  0.00  0.00    +0.000 C 
+ATOM     14  C4  K8N A 701      29.850   2.006   6.305  0.00  0.00    +0.000 C 
+ATOM     15  C5  K8N A 701      30.491   3.251   6.054  0.00  0.00    +0.000 C 
+ATOM     16  C6  K8N A 701      29.530   4.190   5.950  0.00  0.00    +0.000 C 
+ATOM     17  N4  K8N A 701      28.305   3.606   6.114  0.00  0.00    +0.000 N 
+ENDBRANCH   1  17
+BRANCH   3  18
+ATOM     18  C10 K8N A 701      23.630   3.195   5.044  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  C11 K8N A 701      23.906   2.964   3.562  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  C12 K8N A 701      25.120   2.089   3.399  0.00  0.00    +0.000 C 
+ATOM     21  C13 K8N A 701      26.324   2.624   2.895  0.00  0.00    +0.000 C 
+ATOM     22  C14 K8N A 701      27.440   1.859   2.785  0.00  0.00    +0.000 C 
+ATOM     23  C15 K8N A 701      27.407   0.516   3.195  0.00  0.00    +0.000 C 
+ATOM     24  C16 K8N A 701      28.525  -0.318   3.099  0.00  0.00    +0.000 C 
+ATOM     25  C17 K8N A 701      28.414  -1.603   3.515  0.00  0.00    +0.000 C 
+ATOM     26 BR1  K8N A 701      29.940  -2.707   3.454  0.00  0.00    +0.000 Br
+ATOM     27  C18 K8N A 701      27.192  -2.090   4.057  0.00  0.00    +0.000 C 
+ATOM     28  N5  K8N A 701      27.092  -3.373   4.462  0.00  0.00    +0.000 NA
+ATOM     29  N6  K8N A 701      26.115  -1.336   4.136  0.00  0.00    +0.000 NA
+ATOM     30  C19 K8N A 701      26.216  -0.030   3.714  0.00  0.00    +0.000 C 
+ATOM     31  C20 K8N A 701      25.079   0.784   3.808  0.00  0.00    +0.000 C 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH   3  18
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -4.3      1.912      4.408
+REMARK  Name = ligand_pdbs\K8N.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N4_10  and  C7_11
+REMARK    2  A    between atoms: C9_13  and  C10_14
+REMARK    3  A    between atoms: C10_14  and  C11_15
+REMARK    4  A    between atoms: C11_15  and  C12_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  K8N A 701      28.594   0.206   4.266  0.00  0.00    +0.000 C 
+ATOM      2  C8  K8N A 701      27.959   0.896   3.063  0.00  0.00    +0.000 C 
+ATOM      3  C9  K8N A 701      26.851  -0.040   2.563  0.00  0.00    +0.000 C 
+ATOM      4  C21 K8N A 701      26.584  -1.010   3.717  0.00  0.00    +0.000 C 
+ATOM      5  O1  K8N A 701      26.900  -2.325   3.276  0.00  0.00    +0.000 OA
+ATOM      6  C22 K8N A 701      27.394  -0.485   4.914  0.00  0.00    +0.000 C 
+ATOM      7  O2  K8N A 701      27.798  -1.497   5.822  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1  17
+ATOM      8  N1  K8N A 701      30.055   4.549   8.221  0.00  0.00    +0.000 NA
+ATOM      9  C1  K8N A 701      29.219   3.796   7.501  0.00  0.00    +0.000 C 
+ATOM     10  N2  K8N A 701      27.905   4.045   7.621  0.00  0.00    +0.000 NA
+ATOM     11  C2  K8N A 701      27.065   3.288   6.898  0.00  0.00    +0.000 C 
+ATOM     12  N3  K8N A 701      27.336   2.304   6.046  0.00  0.00    +0.000 NA
+ATOM     13  C3  K8N A 701      28.660   2.078   5.953  0.00  0.00    +0.000 C 
+ATOM     14  C4  K8N A 701      29.649   2.780   6.631  0.00  0.00    +0.000 C 
+ATOM     15  C5  K8N A 701      30.891   2.212   6.231  0.00  0.00    +0.000 C 
+ATOM     16  C6  K8N A 701      30.622   1.222   5.356  0.00  0.00    +0.000 C 
+ATOM     17  N4  K8N A 701      29.270   1.124   5.182  0.00  0.00    +0.000 N 
+ENDBRANCH   1  17
+BRANCH   3  18
+ATOM     18  C10 K8N A 701      25.610   0.710   2.084  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  C11 K8N A 701      24.495   0.851   3.115  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  C12 K8N A 701      24.390   2.285   3.560  0.00  0.00    +0.000 C 
+ATOM     21  C13 K8N A 701      23.139   2.833   3.916  0.00  0.00    +0.000 C 
+ATOM     22  C14 K8N A 701      23.034   4.110   4.363  0.00  0.00    +0.000 C 
+ATOM     23  C15 K8N A 701      24.188   4.899   4.491  0.00  0.00    +0.000 C 
+ATOM     24  C16 K8N A 701      24.137   6.223   4.941  0.00  0.00    +0.000 C 
+ATOM     25  C17 K8N A 701      25.295   6.920   5.038  0.00  0.00    +0.000 C 
+ATOM     26 BR1  K8N A 701      25.235   8.679   5.713  0.00  0.00    +0.000 Br
+ATOM     27  C18 K8N A 701      26.539   6.316   4.709  0.00  0.00    +0.000 C 
+ATOM     28  N5  K8N A 701      27.684   7.023   4.804  0.00  0.00    +0.000 NA
+ATOM     29  N6  K8N A 701      26.616   5.081   4.258  0.00  0.00    +0.000 NA
+ATOM     30  C19 K8N A 701      25.446   4.364   4.153  0.00  0.00    +0.000 C 
+ATOM     31  C20 K8N A 701      25.521   3.043   3.689  0.00  0.00    +0.000 C 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH   3  18
+TORSDOF 4
+ENDMDL

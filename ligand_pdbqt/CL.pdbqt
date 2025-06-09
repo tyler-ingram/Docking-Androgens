@@ -1,0 +1,9 @@
+REMARK  Name = ligand_pdbs\CL.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 CL   CL  E 362      -2.067-107.807  -8.465  0.00  0.00    +0.000 Cl
+ENDROOT
+TORSDOF 0

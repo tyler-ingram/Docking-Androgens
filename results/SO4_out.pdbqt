@@ -1,0 +1,144 @@
+MODEL 1
+REMARK VINA RESULT:      -2.8      0.000      0.000
+REMARK  Name = ligand_pdbs\SO4.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  S   SO4 A1250      23.414  12.391  10.797  0.00  0.00    +0.000 S 
+ATOM      2  O1  SO4 A1250      22.473  13.180   9.989  0.00  0.00    +0.000 OA
+ATOM      3  O2  SO4 A1250      22.986  10.982  10.810  0.00  0.00    +0.000 OA
+ATOM      4  O3  SO4 A1250      24.755  12.489  10.205  0.00  0.00    +0.000 OA
+ATOM      5  O4  SO4 A1250      23.451  12.909  12.172  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -2.8      0.069      2.147
+REMARK  Name = ligand_pdbs\SO4.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  S   SO4 A1250      23.448  12.355  10.754  0.00  0.00    +0.000 S 
+ATOM      2  O1  SO4 A1250      22.973  10.965  10.764  0.00  0.00    +0.000 OA
+ATOM      3  O2  SO4 A1250      22.531  13.180   9.950  0.00  0.00    +0.000 OA
+ATOM      4  O3  SO4 A1250      23.481  12.862  12.132  0.00  0.00    +0.000 OA
+ATOM      5  O4  SO4 A1250      24.800  12.419  10.181  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -2.6      9.092      9.970
+REMARK  Name = ligand_pdbs\SO4.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  S   SO4 A1250      24.339   4.649   4.869  0.00  0.00    +0.000 S 
+ATOM      2  O1  SO4 A1250      25.325   4.084   3.937  0.00  0.00    +0.000 OA
+ATOM      3  O2  SO4 A1250      24.510   4.034   6.196  0.00  0.00    +0.000 OA
+ATOM      4  O3  SO4 A1250      24.552   6.099   4.973  0.00  0.00    +0.000 OA
+ATOM      5  O4  SO4 A1250      22.978   4.393   4.378  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -2.6      9.087      9.999
+REMARK  Name = ligand_pdbs\SO4.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  S   SO4 A1250      24.340   4.660   4.872  0.00  0.00    +0.000 S 
+ATOM      2  O1  SO4 A1250      24.501   4.044   6.195  0.00  0.00    +0.000 OA
+ATOM      3  O2  SO4 A1250      25.319   4.080   3.938  0.00  0.00    +0.000 OA
+ATOM      4  O3  SO4 A1250      22.981   4.395   4.380  0.00  0.00    +0.000 OA
+ATOM      5  O4  SO4 A1250      24.547   6.112   4.965  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -2.6      9.094     10.023
+REMARK  Name = ligand_pdbs\SO4.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  S   SO4 A1250      24.346   4.651   4.866  0.00  0.00    +0.000 S 
+ATOM      2  O1  SO4 A1250      22.982   4.397   4.384  0.00  0.00    +0.000 OA
+ATOM      3  O2  SO4 A1250      24.566   6.103   4.973  0.00  0.00    +0.000 OA
+ATOM      4  O3  SO4 A1250      24.511   4.033   6.189  0.00  0.00    +0.000 OA
+ATOM      5  O4  SO4 A1250      25.324   4.071   3.935  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -2.6      9.094      9.955
+REMARK  Name = ligand_pdbs\SO4.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  S   SO4 A1250      24.337   4.651   4.867  0.00  0.00    +0.000 S 
+ATOM      2  O1  SO4 A1250      25.313   4.065   3.939  0.00  0.00    +0.000 OA
+ATOM      3  O2  SO4 A1250      22.974   4.389   4.376  0.00  0.00    +0.000 OA
+ATOM      4  O3  SO4 A1250      24.505   4.039   6.192  0.00  0.00    +0.000 OA
+ATOM      5  O4  SO4 A1250      24.553   6.102   4.973  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -2.6      9.088     10.016
+REMARK  Name = ligand_pdbs\SO4.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  S   SO4 A1250      24.343   4.655   4.875  0.00  0.00    +0.000 S 
+ATOM      2  O1  SO4 A1250      25.316   4.080   3.935  0.00  0.00    +0.000 OA
+ATOM      3  O2  SO4 A1250      24.558   6.108   4.975  0.00  0.00    +0.000 OA
+ATOM      4  O3  SO4 A1250      22.985   4.395   4.379  0.00  0.00    +0.000 OA
+ATOM      5  O4  SO4 A1250      24.502   4.040   6.200  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -2.6      1.427      2.415
+REMARK  Name = ligand_pdbs\SO4.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  S   SO4 A1250      23.883  12.332   9.584  0.00  0.00    +0.000 S 
+ATOM      2  O1  SO4 A1250      25.053  12.696  10.396  0.00  0.00    +0.000 OA
+ATOM      3  O2  SO4 A1250      22.653  12.637  10.334  0.00  0.00    +0.000 OA
+ATOM      4  O3  SO4 A1250      23.902  13.110   8.338  0.00  0.00    +0.000 OA
+ATOM      5  O4  SO4 A1250      23.922  10.898   9.262  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -2.6      7.884      8.600
+REMARK  Name = ligand_pdbs\SO4.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  S   SO4 A1250      25.566   6.973   4.802  0.00  0.00    +0.000 S 
+ATOM      2  O1  SO4 A1250      24.850   5.773   5.255  0.00  0.00    +0.000 OA
+ATOM      3  O2  SO4 A1250      25.248   7.227   3.387  0.00  0.00    +0.000 OA
+ATOM      4  O3  SO4 A1250      25.140   8.122   5.612  0.00  0.00    +0.000 OA
+ATOM      5  O4  SO4 A1250      27.015   6.781   4.956  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+ENDMDL

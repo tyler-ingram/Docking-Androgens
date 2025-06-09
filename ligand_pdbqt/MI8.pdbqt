@@ -1,0 +1,86 @@
+REMARK  Name = ligand_pdbs\MI8.pdb
+REMARK  14 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C5_4
+REMARK    2  A    between atoms: C27_8  and  O4_9
+REMARK    3  A    between atoms: C27_8  and  C26_11
+REMARK    4  A    between atoms: C26_11  and  C25_12
+REMARK    5  A    between atoms: C25_12  and  C24_13
+REMARK    6  A    between atoms: C24_13  and  C23_14
+REMARK    7  A    between atoms: C23_14  and  C22_16
+REMARK    8  A    between atoms: C21_17  and  C19_18
+REMARK    9  A    between atoms: C17_20  and  C16_21
+REMARK   10  A    between atoms: C16_21  and  C15_23
+REMARK   11  A    between atoms: C15_23  and  C13_24
+REMARK   12  A    between atoms: C12_26  and  C11_27
+REMARK   13  A    between atoms: C10_28  and  C9_29
+REMARK   14  A    between atoms: C9_29  and  C3_31
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C15 MI8 C1124      19.137  17.027 -26.233  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C13 MI8 C1124      20.176  16.007 -26.652  0.00  0.00    +0.000 C 
+ATOM      3  C14 MI8 C1124      21.640  16.314 -26.436  0.00  0.00    +0.000 C 
+ATOM      4  C12 MI8 C1124      19.775  14.859 -27.237  0.00  0.00    +0.000 C 
+BRANCH   4   5
+ATOM      5  C11 MI8 C1124      20.739  13.857 -27.705  0.00  0.00    +0.000 C 
+ATOM      6  C10 MI8 C1124      20.309  12.777 -28.341  0.00  0.00    +0.000 C 
+BRANCH   6   7
+ATOM      7  C9  MI8 C1124      21.245  11.714 -28.873  0.00  0.00    +0.000 C 
+ATOM      8  N   MI8 C1124      21.163  10.548 -27.973  0.00  0.00    +0.000 NA
+BRANCH   7  12
+ATOM      9  C2  MI8 C1124      19.233  10.090 -31.575  0.00  0.00    +0.000 C 
+ATOM     10  C4  MI8 C1124      20.835  12.477 -31.253  0.00  0.00    +0.000 C 
+ATOM     11  C8  MI8 C1124      17.881  12.093 -32.415  0.00  0.00    +0.000 C 
+ATOM     12  C3  MI8 C1124      20.838  11.293 -30.291  0.00  0.00    +0.000 C 
+ATOM     13  C   MI8 C1124      20.425  12.026 -32.651  0.00  0.00    +0.000 C 
+ATOM     14  O1  MI8 C1124      21.507  11.231 -33.193  0.00  0.00    +0.000 OA
+ATOM     15  C1  MI8 C1124      19.123  11.215 -32.626  0.00  0.00    +0.000 C 
+ATOM     16  O   MI8 C1124      19.526  10.686 -30.309  0.00  0.00    +0.000 OA
+BRANCH   9  17
+ATOM     17  C5  MI8 C1124      18.005   9.182 -31.567  0.00  0.00    +0.000 C 
+ATOM     18  C6  MI8 C1124      17.237   9.013 -30.491  0.00  0.00    +0.000 C 
+ATOM     19  C7  MI8 C1124      16.049   8.088 -30.543  0.00  0.00    +0.000 C 
+ENDBRANCH   9  17
+ENDBRANCH   7  12
+ENDBRANCH   6   7
+ENDBRANCH   4   5
+ENDBRANCH   1   2
+BRANCH   1  20
+ATOM     20  C16 MI8 C1124      18.961  17.956 -27.435  0.00  0.00    +0.000 C 
+ATOM     21  C18 MI8 C1124      18.147  17.258 -28.518  0.00  0.00    +0.000 C 
+BRANCH  20  24
+ATOM     22  C19 MI8 C1124      18.912  20.491 -27.131  0.00  0.00    +0.000 C 
+ATOM     23  C20 MI8 C1124      17.971  21.610 -26.778  0.00  0.00    +0.000 C 
+ATOM     24  C17 MI8 C1124      18.300  19.276 -27.100  0.00  0.00    +0.000 C 
+BRANCH  22  26
+ATOM     25  C22 MI8 C1124      20.945  21.950 -27.388  0.00  0.00    +0.000 C 
+ATOM     26  C21 MI8 C1124      20.369  20.726 -27.421  0.00  0.00    +0.000 C 
+BRANCH  25  27
+ATOM     27  C23 MI8 C1124      22.430  22.197 -27.638  0.00  0.00    +0.000 C 
+ATOM     28  O2  MI8 C1124      23.082  20.940 -27.739  0.00  0.00    +0.000 OA
+BRANCH  27  29
+ATOM     29  C24 MI8 C1124      23.128  22.938 -26.469  0.00  0.00    +0.000 C 
+BRANCH  29  31
+ATOM     30  N1  MI8 C1124      25.058  24.057 -27.394  0.00  0.00    +0.000 NA
+ATOM     31  C25 MI8 C1124      23.736  24.321 -26.801  0.00  0.00    +0.000 C 
+BRANCH  31  32
+ATOM     32  C26 MI8 C1124      23.913  25.250 -25.573  0.00  0.00    +0.000 C 
+BRANCH  32  34
+ATOM     33  O3  MI8 C1124      24.859  27.353 -26.165  0.00  0.00    +0.000 OA
+ATOM     34  C27 MI8 C1124      23.846  26.764 -25.848  0.00  0.00    +0.000 C 
+BRANCH  34  35
+ATOM     35  O4  MI8 C1124      22.639  27.605 -25.729  0.00  0.00    +0.000 OA
+ATOM     36  C28 MI8 C1124      22.635  28.817 -24.958  0.00  0.00    +0.000 C 
+ENDBRANCH  34  35
+ENDBRANCH  32  34
+ENDBRANCH  31  32
+ENDBRANCH  29  31
+ENDBRANCH  27  29
+ENDBRANCH  25  27
+ENDBRANCH  22  26
+ENDBRANCH  20  24
+ENDBRANCH   1  20
+TORSDOF 14

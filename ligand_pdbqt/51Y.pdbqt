@@ -1,0 +1,35 @@
+REMARK  Name = ligand_pdbs\51Y.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_2  and  N8_8
+REMARK    2  A    between atoms: C2_7  and  C17_17
+REMARK    3  A    between atoms: N8_8  and  C9_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  51Y A1001     -27.714   3.467  -4.421  0.00  0.00    +0.000 A 
+ATOM      2  C6  51Y A1001     -26.716   2.543  -4.669  0.00  0.00    +0.000 A 
+ATOM      3  C1  51Y A1001     -27.451   4.818  -4.422  0.00  0.00    +0.000 A 
+ATOM      4  C5  51Y A1001     -24.348   2.001  -5.188  0.00  0.00    +0.000 C 
+ATOM      5  C4  51Y A1001     -25.437   2.989  -4.924  0.00  0.00    +0.000 A 
+ATOM      6  C3  51Y A1001     -25.175   4.340  -4.924  0.00  0.00    +0.000 A 
+ATOM      7  C2  51Y A1001     -26.172   5.258  -4.675  0.00  0.00    +0.000 A 
+ATOM      8 CL1  51Y A1001     -23.575   4.897  -5.236  0.00  0.00    +0.000 Cl
+ENDROOT
+BRANCH   7   9
+ATOM      9  C17 51Y A1001     -25.874   6.654  -4.685  0.00  0.00    +0.000 C 
+ATOM     10  N18 51Y A1001     -25.665   7.800  -4.731  0.00  0.00    +0.000 NA
+ENDBRANCH   7   9
+BRANCH   2  11
+ATOM     11  N8  51Y A1001     -26.919   1.154  -4.690  0.00  0.00    +0.000 NA
+BRANCH  11  12
+ATOM     12  C9  51Y A1001     -28.151   0.694  -4.095  0.00  0.00    +0.000 C 
+ATOM     13  C10 51Y A1001     -29.280   0.561  -5.098  0.00  0.00    +0.000 C 
+ATOM     14  O11 51Y A1001     -30.315   1.408  -4.649  0.00  0.00    +0.000 OA
+ATOM     15  C12 51Y A1001     -28.927   0.913  -6.528  0.00  0.00    +0.000 C 
+ATOM     16  C13 51Y A1001     -29.791  -0.852  -5.044  0.00  0.00    +0.000 C 
+ATOM     17  C14 51Y A1001     -29.105  -1.525  -3.886  0.00  0.00    +0.000 C 
+ATOM     18  C15 51Y A1001     -27.895  -0.692  -3.547  0.00  0.00    +0.000 C 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+TORSDOF 3

@@ -1,0 +1,20 @@
+REMARK  Name = ligand_pdbs\DQL.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAD DQL A2102       8.962   9.252   2.710  0.00  0.00    +0.000 C 
+ATOM      2  CAJ DQL A2102       8.459   9.856   3.850  0.00  0.00    +0.000 C 
+ATOM      3  OAB DQL A2102       7.415   9.218   4.546  0.00  0.00    +0.000 OA
+ATOM      4  CAL DQL A2102       9.007  11.085   4.294  0.00  0.00    +0.000 C 
+ATOM      5  NAF DQL A2102       8.588  11.785   5.422  0.00  0.00    +0.000 NA
+ATOM      6  CAI DQL A2102       9.239  12.925   5.657  0.00  0.00    +0.000 C 
+ATOM      7  NAA DQL A2102       8.996  13.829   6.751  0.00  0.00    +0.000 NA
+ATOM      8  SAG DQL A2102      10.425  13.133   4.447  0.00  0.00    +0.000 S 
+ATOM      9  CAK DQL A2102      10.049  11.692   3.593  0.00  0.00    +0.000 C 
+ATOM     10  CAE DQL A2102      10.548  11.087   2.440  0.00  0.00    +0.000 C 
+ATOM     11  CAH DQL A2102       9.996   9.879   2.013  0.00  0.00    +0.000 C 
+ATOM     12  SAC DQL A2102      10.646   9.106   0.518  0.00  0.00    +0.000 S 
+ENDROOT
+TORSDOF 0

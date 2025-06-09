@@ -1,0 +1,55 @@
+REMARK  Name = ligand_pdbs\5QH.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: NAT_10  and  CAS_11
+REMARK    2  A    between atoms: CAS_11  and  CAB_12
+REMARK    3  A    between atoms: CAB_12  and  CAC_14
+REMARK    4  A    between atoms: CAC_14  and  NAD_15
+REMARK    5  A    between atoms: CAE_16  and  CAG_18
+REMARK    6  A    between atoms: CAI_23  and  CAM_24
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  NAD 5QH A 702      19.698 -48.769 -10.527  0.00  0.00    +0.000 NA
+ATOM      2  CAE 5QH A 702      19.062 -49.436  -9.553  0.00  0.00    +0.000 C 
+ATOM      3  OAF 5QH A 702      17.894 -49.211  -9.233  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   2   4
+ATOM      4  CAG 5QH A 702      19.810 -50.433  -8.898  0.00  0.00    +0.000 A 
+ATOM      5  CAH 5QH A 702      21.192 -50.598  -9.095  0.00  0.00    +0.000 A 
+ATOM      6  CAL 5QH A 702      19.155 -51.272  -7.994  0.00  0.00    +0.000 A 
+ATOM      7  CAK 5QH A 702      19.841 -52.272  -7.305  0.00  0.00    +0.000 A 
+ATOM      8  CAJ 5QH A 702      21.205 -52.433  -7.511  0.00  0.00    +0.000 A 
+ATOM      9  CAI 5QH A 702      21.883 -51.602  -8.400  0.00  0.00    +0.000 A 
+BRANCH   9  10
+ATOM     10  CAM 5QH A 702      23.249 -51.808  -8.569  0.00  0.00    +0.000 A 
+ATOM     11  NAN 5QH A 702      23.790 -51.717  -9.809  0.00  0.00    +0.000 NA
+ATOM     12  CAO 5QH A 702      25.170 -51.925 -10.002  0.00  0.00    +0.000 A 
+ATOM     13  CAP 5QH A 702      25.960 -52.238  -8.892  0.00  0.00    +0.000 A 
+ATOM     14  CAQ 5QH A 702      25.411 -52.332  -7.611  0.00  0.00    +0.000 A 
+ATOM     15  CAR 5QH A 702      24.045 -52.114  -7.447  0.00  0.00    +0.000 A 
+ENDBRANCH   9  10
+ENDBRANCH   2   4
+BRANCH   1  16
+ATOM     16  CAC 5QH A 702      19.129 -47.630 -11.251  0.00  0.00    +0.000 C 
+BRANCH  16  17
+ATOM     17  CAB 5QH A 702      19.599 -46.461 -10.395  0.00  0.00    +0.000 C 
+ATOM     18  OAA 5QH A 702      18.931 -45.273 -10.751  0.00  0.00    +0.000 OA
+BRANCH  17  19
+ATOM     19  CAS 5QH A 702      21.132 -46.259 -10.546  0.00  0.00    +0.000 C 
+BRANCH  19  29
+ATOM     20  CAU 5QH A 702      22.715 -44.417 -10.653  0.00  0.00    +0.000 C 
+ATOM     21  CAV 5QH A 702      22.962 -43.037 -10.212  0.00  0.00    +0.000 C 
+ATOM     22  CAW 5QH A 702      22.950 -42.968  -8.806  0.00  0.00    +0.000 A 
+ATOM     23  CBC 5QH A 702      23.707 -41.975  -8.160  0.00  0.00    +0.000 A 
+ATOM     24  CBB 5QH A 702      23.734 -41.869  -6.769  0.00  0.00    +0.000 A 
+ATOM     25  CBA 5QH A 702      22.977 -42.754  -5.992  0.00  0.00    +0.000 A 
+ATOM     26  CAZ 5QH A 702      22.216 -43.744  -6.616  0.00  0.00    +0.000 A 
+ATOM     27  CAX 5QH A 702      22.199 -43.861  -8.015  0.00  0.00    +0.000 A 
+ATOM     28  CAY 5QH A 702      21.427 -44.879  -8.580  0.00  0.00    +0.000 C 
+ATOM     29  NAT 5QH A 702      21.478 -44.916 -10.053  0.00  0.00    +0.000 NA
+ENDBRANCH  19  29
+ENDBRANCH  17  19
+ENDBRANCH  16  17
+ENDBRANCH   1  16
+TORSDOF 6

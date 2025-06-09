@@ -1,0 +1,198 @@
+MODEL 1
+REMARK VINA RESULT:      -4.3      0.000      0.000
+REMARK  Name = ligand_pdbs\PRO.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   PRO A1101      25.926   4.615   5.578  0.00  0.00    +0.000 NA
+ATOM      2  CA  PRO A1101      25.798   5.673   4.568  0.00  0.00    +0.000 C 
+ATOM      3  CB  PRO A1101      24.284   5.874   4.471  0.00  0.00    +0.000 C 
+ATOM      4  CG  PRO A1101      23.731   4.531   4.784  0.00  0.00    +0.000 C 
+ATOM      5  CD  PRO A1101      24.648   3.920   5.813  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   6
+ATOM      6  C   PRO A1101      26.494   6.966   4.982  0.00  0.00    +0.000 C 
+ATOM      7  O   PRO A1101      27.687   6.970   5.293  0.00  0.00    +0.000 OA
+ATOM      8  OXT PRO A1101      25.879   8.034   5.015  0.00  0.00    +0.000 OA
+ENDBRANCH   2   6
+TORSDOF 1
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.3      2.574      3.554
+REMARK  Name = ligand_pdbs\PRO.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   PRO A1101      24.626   7.033   4.710  0.00  0.00    +0.000 NA
+ATOM      2  CA  PRO A1101      25.056   5.657   4.431  0.00  0.00    +0.000 C 
+ATOM      3  CB  PRO A1101      26.405   5.567   5.149  0.00  0.00    +0.000 C 
+ATOM      4  CG  PRO A1101      26.931   6.954   5.084  0.00  0.00    +0.000 C 
+ATOM      5  CD  PRO A1101      25.737   7.870   5.196  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   6
+ATOM      6  C   PRO A1101      24.079   4.617   4.973  0.00  0.00    +0.000 C 
+ATOM      7  O   PRO A1101      24.352   3.957   5.977  0.00  0.00    +0.000 OA
+ATOM      8  OXT PRO A1101      22.996   4.417   4.419  0.00  0.00    +0.000 OA
+ENDBRANCH   2   6
+TORSDOF 1
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -4.3      2.576      3.506
+REMARK  Name = ligand_pdbs\PRO.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   PRO A1101      26.185   6.062   5.093  0.00  0.00    +0.000 NA
+ATOM      2  CA  PRO A1101      25.308   5.289   4.204  0.00  0.00    +0.000 C 
+ATOM      3  CB  PRO A1101      26.263   4.267   3.583  0.00  0.00    +0.000 C 
+ATOM      4  CG  PRO A1101      27.567   4.978   3.552  0.00  0.00    +0.000 C 
+ATOM      5  CD  PRO A1101      27.610   5.846   4.785  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   6
+ATOM      6  C   PRO A1101      24.179   4.592   4.958  0.00  0.00    +0.000 C 
+ATOM      7  O   PRO A1101      23.044   4.532   4.482  0.00  0.00    +0.000 OA
+ATOM      8  OXT PRO A1101      24.378   4.075   6.059  0.00  0.00    +0.000 OA
+ENDBRANCH   2   6
+TORSDOF 1
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -4.2      2.548      3.491
+REMARK  Name = ligand_pdbs\PRO.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   PRO A1101      26.305   5.224   5.340  0.00  0.00    +0.000 NA
+ATOM      2  CA  PRO A1101      24.859   5.458   5.234  0.00  0.00    +0.000 C 
+ATOM      3  CB  PRO A1101      24.778   6.729   4.387  0.00  0.00    +0.000 C 
+ATOM      4  CG  PRO A1101      26.023   7.462   4.733  0.00  0.00    +0.000 C 
+ATOM      5  CD  PRO A1101      27.085   6.416   4.963  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   6
+ATOM      6  C   PRO A1101      24.127   4.303   4.556  0.00  0.00    +0.000 C 
+ATOM      7  O   PRO A1101      22.909   4.345   4.375  0.00  0.00    +0.000 OA
+ATOM      8  OXT PRO A1101      24.739   3.303   4.176  0.00  0.00    +0.000 OA
+ENDBRANCH   2   6
+TORSDOF 1
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.1      1.315      1.557
+REMARK  Name = ligand_pdbs\PRO.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   PRO A1101      25.587   3.624   4.202  0.00  0.00    +0.000 NA
+ATOM      2  CA  PRO A1101      25.823   5.073   4.232  0.00  0.00    +0.000 C 
+ATOM      3  CB  PRO A1101      24.578   5.610   4.941  0.00  0.00    +0.000 C 
+ATOM      4  CG  PRO A1101      23.516   4.642   4.565  0.00  0.00    +0.000 C 
+ATOM      5  CD  PRO A1101      24.179   3.290   4.481  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   6
+ATOM      6  C   PRO A1101      27.090   5.443   5.000  0.00  0.00    +0.000 C 
+ATOM      7  O   PRO A1101      27.751   4.580   5.581  0.00  0.00    +0.000 OA
+ATOM      8  OXT PRO A1101      27.478   6.611   5.054  0.00  0.00    +0.000 OA
+ENDBRANCH   2   6
+TORSDOF 1
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -4.0      1.733      2.343
+REMARK  Name = ligand_pdbs\PRO.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   PRO A1101      26.476   4.601   5.679  0.00  0.00    +0.000 NA
+ATOM      2  CA  PRO A1101      26.638   5.794   4.838  0.00  0.00    +0.000 C 
+ATOM      3  CB  PRO A1101      26.784   5.206   3.433  0.00  0.00    +0.000 C 
+ATOM      4  CG  PRO A1101      27.429   3.889   3.669  0.00  0.00    +0.000 C 
+ATOM      5  CD  PRO A1101      26.879   3.372   4.975  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   6
+ATOM      6  C   PRO A1101      25.436   6.731   4.914  0.00  0.00    +0.000 C 
+ATOM      7  O   PRO A1101      24.338   6.389   4.471  0.00  0.00    +0.000 OA
+ATOM      8  OXT PRO A1101      25.537   7.851   5.421  0.00  0.00    +0.000 OA
+ENDBRANCH   2   6
+TORSDOF 1
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -4.0      2.146      2.808
+REMARK  Name = ligand_pdbs\PRO.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   PRO A1101      26.275   4.019   5.624  0.00  0.00    +0.000 NA
+ATOM      2  CA  PRO A1101      26.132   5.239   4.819  0.00  0.00    +0.000 C 
+ATOM      3  CB  PRO A1101      26.617   4.797   3.436  0.00  0.00    +0.000 C 
+ATOM      4  CG  PRO A1101      27.626   3.749   3.737  0.00  0.00    +0.000 C 
+ATOM      5  CD  PRO A1101      27.134   3.021   4.962  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   6
+ATOM      6  C   PRO A1101      24.689   5.733   4.758  0.00  0.00    +0.000 C 
+ATOM      7  O   PRO A1101      24.436   6.918   4.533  0.00  0.00    +0.000 OA
+ATOM      8  OXT PRO A1101      23.747   4.958   4.932  0.00  0.00    +0.000 OA
+ENDBRANCH   2   6
+TORSDOF 1
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -4.0      6.344      7.148
+REMARK  Name = ligand_pdbs\PRO.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   PRO A1101      29.056  -0.881   4.124  0.00  0.00    +0.000 NA
+ATOM      2  CA  PRO A1101      27.992  -0.213   4.884  0.00  0.00    +0.000 C 
+ATOM      3  CB  PRO A1101      27.102  -1.377   5.325  0.00  0.00    +0.000 C 
+ATOM      4  CG  PRO A1101      27.263  -2.375   4.236  0.00  0.00    +0.000 C 
+ATOM      5  CD  PRO A1101      28.690  -2.261   3.760  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   6
+ATOM      6  C   PRO A1101      28.527   0.553   6.091  0.00  0.00    +0.000 C 
+ATOM      7  O   PRO A1101      29.383   0.056   6.825  0.00  0.00    +0.000 OA
+ATOM      8  OXT PRO A1101      28.114   1.683   6.357  0.00  0.00    +0.000 OA
+ENDBRANCH   2   6
+TORSDOF 1
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -3.9      2.331      2.697
+REMARK  Name = ligand_pdbs\PRO.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   PRO A1101      25.919   6.003   5.009  0.00  0.00    +0.000 NA
+ATOM      2  CA  PRO A1101      26.131   4.582   5.311  0.00  0.00    +0.000 C 
+ATOM      3  CB  PRO A1101      24.933   3.906   4.641  0.00  0.00    +0.000 C 
+ATOM      4  CG  PRO A1101      23.863   4.933   4.714  0.00  0.00    +0.000 C 
+ATOM      5  CD  PRO A1101      24.543   6.270   4.554  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   2   6
+ATOM      6  C   PRO A1101      27.445   4.052   4.744  0.00  0.00    +0.000 C 
+ATOM      7  O   PRO A1101      28.371   3.730   5.490  0.00  0.00    +0.000 OA
+ATOM      8  OXT PRO A1101      27.607   3.936   3.527  0.00  0.00    +0.000 OA
+ENDBRANCH   2   6
+TORSDOF 1
+ENDMDL

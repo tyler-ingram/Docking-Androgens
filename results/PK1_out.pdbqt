@@ -1,0 +1,82 @@
+MODEL 1
+REMARK VINA RESULT:      -8.5      0.000      0.000
+REMARK  Name = ligand_pdbs\PK1.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_8  and  C1B_9
+REMARK    2  A    between atoms: N1_16  and  C1A_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N4  PK1 A 950      24.294   3.066   4.608  0.00  0.00    +0.000 N 
+ATOM      2  C31 PK1 A 950      24.706   3.585   7.014  0.00  0.00    +0.000 C 
+ATOM      3  C4  PK1 A 950      22.883   3.475   4.416  0.00  0.00    +0.000 C 
+ATOM      4  O2  PK1 A 950      27.415   3.214   6.077  0.00  0.00    +0.000 OA
+ATOM      5  C2  PK1 A 950      26.448   2.960   5.414  0.00  0.00    +0.000 C 
+ATOM      6  S5  PK1 A 950      24.497   1.139   2.890  0.00  0.00    +0.000 S 
+ATOM      7  C5  PK1 A 950      24.997   2.013   3.930  0.00  0.00    +0.000 C 
+ATOM      8  C3  PK1 A 950      25.210   3.691   5.547  0.00  0.00    +0.000 C 
+ATOM      9  N1  PK1 A 950      26.349   1.941   4.454  0.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   9  10
+ATOM     10  C1A PK1 A 950      27.375   0.990   4.219  0.00  0.00    +0.000 A 
+ATOM     11  C2A PK1 A 950      28.629   1.348   3.730  0.00  0.00    +0.000 A 
+ATOM     12  C3A PK1 A 950      29.546   0.330   3.528  0.00  0.00    +0.000 A 
+ATOM     13  C4A PK1 A 950      29.238  -0.978   3.869  0.00  0.00    +0.000 A 
+ATOM     14  C5A PK1 A 950      27.985  -1.342   4.282  0.00  0.00    +0.000 A 
+ATOM     15  C6A PK1 A 950      27.083  -0.334   4.530  0.00  0.00    +0.000 A 
+ATOM     16 CL1  PK1 A 950      27.562  -2.962   4.663  0.00  0.00    +0.000 Cl
+ATOM     17 CL2  PK1 A 950      30.419  -2.206   3.590  0.00  0.00    +0.000 Cl
+ENDBRANCH   9  10
+BRANCH   8  18
+ATOM     18  C1B PK1 A 950      25.521   5.159   5.201  0.00  0.00    +0.000 A 
+ATOM     19  C2B PK1 A 950      24.498   5.988   4.761  0.00  0.00    +0.000 A 
+ATOM     20  C3B PK1 A 950      24.764   7.310   4.444  0.00  0.00    +0.000 A 
+ATOM     21  C4B PK1 A 950      26.058   7.837   4.537  0.00  0.00    +0.000 A 
+ATOM     22  C5B PK1 A 950      27.070   6.986   5.018  0.00  0.00    +0.000 A 
+ATOM     23  C6B PK1 A 950      26.798   5.670   5.360  0.00  0.00    +0.000 A 
+ATOM     24  O4  PK1 A 950      26.313   9.174   4.220  0.00  0.00    +0.000 OA
+ENDBRANCH   8  18
+TORSDOF 2
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -6.4      2.571      3.448
+REMARK  Name = ligand_pdbs\PK1.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_8  and  C1B_9
+REMARK    2  A    between atoms: N1_16  and  C1A_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N4  PK1 A 950      27.953   4.077   5.124  0.00  0.00    +0.000 N 
+ATOM      2  C31 PK1 A 950      27.701   4.911   2.785  0.00  0.00    +0.000 C 
+ATOM      3  C4  PK1 A 950      28.065   5.325   5.913  0.00  0.00    +0.000 C 
+ATOM      4  O2  PK1 A 950      26.904   2.152   2.456  0.00  0.00    +0.000 OA
+ATOM      5  C2  PK1 A 950      27.387   2.582   3.466  0.00  0.00    +0.000 C 
+ATOM      6  S5  PK1 A 950      29.380   2.452   6.550  0.00  0.00    +0.000 S 
+ATOM      7  C5  PK1 A 950      28.556   2.805   5.412  0.00  0.00    +0.000 C 
+ATOM      8  C3  PK1 A 950      27.191   3.947   3.894  0.00  0.00    +0.000 C 
+ATOM      9  N1  PK1 A 950      28.209   1.873   4.356  0.00  0.00    +0.000 N 
+ENDROOT
+BRANCH   9  10
+ATOM     10  C1A PK1 A 950      28.670   0.554   4.107  0.00  0.00    +0.000 A 
+ATOM     11  C2A PK1 A 950      29.906   0.292   3.522  0.00  0.00    +0.000 A 
+ATOM     12  C3A PK1 A 950      30.242  -1.036   3.316  0.00  0.00    +0.000 A 
+ATOM     13  C4A PK1 A 950      29.403  -2.053   3.744  0.00  0.00    +0.000 A 
+ATOM     14  C5A PK1 A 950      28.159  -1.798   4.254  0.00  0.00    +0.000 A 
+ATOM     15  C6A PK1 A 950      27.835  -0.486   4.505  0.00  0.00    +0.000 A 
+ATOM     16 CL1  PK1 A 950      27.080  -3.039   4.745  0.00  0.00    +0.000 Cl
+ATOM     17 CL2  PK1 A 950      29.872  -3.690   3.456  0.00  0.00    +0.000 Cl
+ENDBRANCH   9  10
+BRANCH   8  18
+ATOM     18  C1B PK1 A 950      25.676   4.134   4.099  0.00  0.00    +0.000 A 
+ATOM     19  C2B PK1 A 950      24.861   3.017   4.223  0.00  0.00    +0.000 A 
+ATOM     20  C3B PK1 A 950      23.496   3.170   4.406  0.00  0.00    +0.000 A 
+ATOM     21  C4B PK1 A 950      22.903   4.438   4.450  0.00  0.00    +0.000 A 
+ATOM     22  C5B PK1 A 950      23.756   5.554   4.357  0.00  0.00    +0.000 A 
+ATOM     23  C6B PK1 A 950      25.125   5.401   4.200  0.00  0.00    +0.000 A 
+ATOM     24  O4  PK1 A 950      21.526   4.581   4.641  0.00  0.00    +0.000 OA
+ENDBRANCH   8  18
+TORSDOF 2
+ENDMDL

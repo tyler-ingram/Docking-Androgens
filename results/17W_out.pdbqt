@@ -1,0 +1,405 @@
+MODEL 1
+REMARK VINA RESULT:      -7.2      0.000      0.000
+REMARK  Name = ligand_pdbs\17W.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C14_6  and  O13_7
+REMARK    2  A    between atoms: O13_7  and  C12_8
+REMARK    3  A    between atoms: C12_8  and  C11_9
+REMARK    4  A    between atoms: C11_9  and  S10_10
+REMARK    5  A    between atoms: S10_10  and  C8_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  S10 17W A1002      29.574   2.484   6.263  0.00  0.00    +0.000 S 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C8  17W A1002      28.109   3.337   5.789  0.00  0.00    +0.000 C 
+ATOM      3  N9  17W A1002      26.898   3.081   6.338  0.00  0.00    +0.000 NA
+ATOM      4  C2  17W A1002      26.039   3.925   5.705  0.00  0.00    +0.000 A 
+ATOM      5  N7  17W A1002      28.118   4.274   4.826  0.00  0.00    +0.000 NA
+ATOM      6  C3  17W A1002      26.842   4.703   4.720  0.00  0.00    +0.000 A 
+ATOM      7  C4  17W A1002      26.200   5.653   3.923  0.00  0.00    +0.000 A 
+ATOM      8  C5  17W A1002      24.829   5.862   4.059  0.00  0.00    +0.000 A 
+ATOM      9  C6  17W A1002      24.077   5.135   4.983  0.00  0.00    +0.000 A 
+ATOM     10  C1  17W A1002      24.671   4.174   5.802  0.00  0.00    +0.000 A 
+ENDBRANCH   1   2
+BRANCH   1  11
+ATOM     11  C11 17W A1002      29.312   0.756   6.467  0.00  0.00    +0.000 C 
+BRANCH  11  12
+ATOM     12  C12 17W A1002      29.586   0.022   5.160  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  O13 17W A1002      28.351  -0.572   4.769  0.00  0.00    +0.000 OA
+BRANCH  13  19
+ATOM     14  C19 17W A1002      26.044   0.012   4.741  0.00  0.00    +0.000 A 
+ATOM     15  C18 17W A1002      24.989   0.731   4.200  0.00  0.00    +0.000 A 
+ATOM     16  C17 17W A1002      25.227   1.585   3.125  0.00  0.00    +0.000 A 
+ATOM     17  C16 17W A1002      26.507   1.726   2.589  0.00  0.00    +0.000 A 
+ATOM     18  C15 17W A1002      27.563   1.008   3.137  0.00  0.00    +0.000 A 
+ATOM     19  C14 17W A1002      27.328   0.149   4.211  0.00  0.00    +0.000 A 
+ENDBRANCH  13  19
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH   1  11
+TORSDOF 5
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -7.1      2.154      4.807
+REMARK  Name = ligand_pdbs\17W.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C14_6  and  O13_7
+REMARK    2  A    between atoms: O13_7  and  C12_8
+REMARK    3  A    between atoms: C12_8  and  C11_9
+REMARK    4  A    between atoms: C11_9  and  S10_10
+REMARK    5  A    between atoms: S10_10  and  C8_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  S10 17W A1002      28.957   3.369   6.214  0.00  0.00    +0.000 S 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C8  17W A1002      28.657   1.768   5.545  0.00  0.00    +0.000 C 
+ATOM      3  N9  17W A1002      29.406   1.232   4.554  0.00  0.00    +0.000 NA
+ATOM      4  C2  17W A1002      28.855   0.011   4.317  0.00  0.00    +0.000 A 
+ATOM      5  N7  17W A1002      27.637   1.005   5.973  0.00  0.00    +0.000 NA
+ATOM      6  C3  17W A1002      27.701  -0.132   5.248  0.00  0.00    +0.000 A 
+ATOM      7  C4  17W A1002      26.946  -1.307   5.215  0.00  0.00    +0.000 A 
+ATOM      8  C5  17W A1002      27.279  -2.322   4.321  0.00  0.00    +0.000 A 
+ATOM      9  C6  17W A1002      28.362  -2.188   3.450  0.00  0.00    +0.000 A 
+ATOM     10  C1  17W A1002      29.146  -1.035   3.442  0.00  0.00    +0.000 A 
+ENDBRANCH   1   2
+BRANCH   1  11
+ATOM     11  C11 17W A1002      27.715   4.531   5.764  0.00  0.00    +0.000 C 
+BRANCH  11  12
+ATOM     12  C12 17W A1002      27.831   4.884   4.286  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  O13 17W A1002      26.531   4.714   3.731  0.00  0.00    +0.000 OA
+BRANCH  13  19
+ATOM     14  C19 17W A1002      24.796   3.202   4.340  0.00  0.00    +0.000 A 
+ATOM     15  C18 17W A1002      24.175   1.968   4.220  0.00  0.00    +0.000 A 
+ATOM     16  C17 17W A1002      24.707   1.020   3.348  0.00  0.00    +0.000 A 
+ATOM     17  C16 17W A1002      25.851   1.295   2.598  0.00  0.00    +0.000 A 
+ATOM     18  C15 17W A1002      26.468   2.534   2.718  0.00  0.00    +0.000 A 
+ATOM     19  C14 17W A1002      25.940   3.484   3.593  0.00  0.00    +0.000 A 
+ENDBRANCH  13  19
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH   1  11
+TORSDOF 5
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.8      2.052      3.624
+REMARK  Name = ligand_pdbs\17W.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C14_6  and  O13_7
+REMARK    2  A    between atoms: O13_7  and  C12_8
+REMARK    3  A    between atoms: C12_8  and  C11_9
+REMARK    4  A    between atoms: C11_9  and  S10_10
+REMARK    5  A    between atoms: S10_10  and  C8_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  S10 17W A1002      24.760   1.646   3.912  0.00  0.00    +0.000 S 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C8  17W A1002      25.214   3.310   4.265  0.00  0.00    +0.000 C 
+ATOM      3  N9  17W A1002      24.315   4.320   4.329  0.00  0.00    +0.000 NA
+ATOM      4  C2  17W A1002      25.052   5.430   4.607  0.00  0.00    +0.000 A 
+ATOM      5  N7  17W A1002      26.495   3.666   4.462  0.00  0.00    +0.000 NA
+ATOM      6  C3  17W A1002      26.474   4.996   4.695  0.00  0.00    +0.000 A 
+ATOM      7  C4  17W A1002      27.457   5.948   4.974  0.00  0.00    +0.000 A 
+ATOM      8  C5  17W A1002      27.099   7.281   5.166  0.00  0.00    +0.000 A 
+ATOM      9  C6  17W A1002      25.766   7.687   5.085  0.00  0.00    +0.000 A 
+ATOM     10  C1  17W A1002      24.747   6.775   4.808  0.00  0.00    +0.000 A 
+ENDBRANCH   1   2
+BRANCH   1  11
+ATOM     11  C11 17W A1002      25.718   0.949   2.611  0.00  0.00    +0.000 C 
+BRANCH  11  12
+ATOM     12  C12 17W A1002      26.617  -0.157   3.151  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  O13 17W A1002      27.941   0.368   3.150  0.00  0.00    +0.000 OA
+BRANCH  13  19
+ATOM     14  C19 17W A1002      29.483   1.726   4.352  0.00  0.00    +0.000 A 
+ATOM     15  C18 17W A1002      30.200   2.004   5.506  0.00  0.00    +0.000 A 
+ATOM     16  C17 17W A1002      30.067   1.164   6.609  0.00  0.00    +0.000 A 
+ATOM     17  C16 17W A1002      29.227   0.051   6.568  0.00  0.00    +0.000 A 
+ATOM     18  C15 17W A1002      28.506  -0.222   5.412  0.00  0.00    +0.000 A 
+ATOM     19  C14 17W A1002      28.639   0.616   4.304  0.00  0.00    +0.000 A 
+ENDBRANCH  13  19
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH   1  11
+TORSDOF 5
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.6      1.172      1.677
+REMARK  Name = ligand_pdbs\17W.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C14_6  and  O13_7
+REMARK    2  A    between atoms: O13_7  and  C12_8
+REMARK    3  A    between atoms: C12_8  and  C11_9
+REMARK    4  A    between atoms: C11_9  and  S10_10
+REMARK    5  A    between atoms: S10_10  and  C8_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  S10 17W A1002      29.349   0.893   6.155  0.00  0.00    +0.000 S 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C8  17W A1002      28.404   2.279   5.622  0.00  0.00    +0.000 C 
+ATOM      3  N9  17W A1002      27.468   2.874   6.398  0.00  0.00    +0.000 NA
+ATOM      4  C2  17W A1002      26.964   3.880   5.633  0.00  0.00    +0.000 A 
+ATOM      5  N7  17W A1002      28.548   2.801   4.392  0.00  0.00    +0.000 NA
+ATOM      6  C3  17W A1002      27.675   3.829   4.325  0.00  0.00    +0.000 A 
+ATOM      7  C4  17W A1002      27.347   4.762   3.339  0.00  0.00    +0.000 A 
+ATOM      8  C5  17W A1002      26.368   5.722   3.588  0.00  0.00    +0.000 A 
+ATOM      9  C6  17W A1002      25.704   5.771   4.815  0.00  0.00    +0.000 A 
+ATOM     10  C1  17W A1002      25.994   4.861   5.832  0.00  0.00    +0.000 A 
+ENDBRANCH   1   2
+BRANCH   1  11
+ATOM     11  C11 17W A1002      29.439  -0.370   4.933  0.00  0.00    +0.000 C 
+BRANCH  11  12
+ATOM     12  C12 17W A1002      28.299  -1.365   5.116  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  O13 17W A1002      27.484  -1.257   3.953  0.00  0.00    +0.000 OA
+BRANCH  13  19
+ATOM     14  C19 17W A1002      26.534   0.392   2.523  0.00  0.00    +0.000 A 
+ATOM     15  C18 17W A1002      25.638   1.428   2.306  0.00  0.00    +0.000 A 
+ATOM     16  C17 17W A1002      24.801   1.833   3.344  0.00  0.00    +0.000 A 
+ATOM     17  C16 17W A1002      24.853   1.214   4.593  0.00  0.00    +0.000 A 
+ATOM     18  C15 17W A1002      25.749   0.173   4.806  0.00  0.00    +0.000 A 
+ATOM     19  C14 17W A1002      26.590  -0.233   3.769  0.00  0.00    +0.000 A 
+ENDBRANCH  13  19
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH   1  11
+TORSDOF 5
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -6.5      2.430      5.571
+REMARK  Name = ligand_pdbs\17W.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C14_6  and  O13_7
+REMARK    2  A    between atoms: O13_7  and  C12_8
+REMARK    3  A    between atoms: C12_8  and  C11_9
+REMARK    4  A    between atoms: C11_9  and  S10_10
+REMARK    5  A    between atoms: S10_10  and  C8_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  S10 17W A1002      25.823   1.600   2.815  0.00  0.00    +0.000 S 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C8  17W A1002      27.187   1.407   3.911  0.00  0.00    +0.000 C 
+ATOM      3  N9  17W A1002      27.251   0.426   4.840  0.00  0.00    +0.000 NA
+ATOM      4  C2  17W A1002      28.435   0.623   5.481  0.00  0.00    +0.000 A 
+ATOM      5  N7  17W A1002      28.230   2.254   3.895  0.00  0.00    +0.000 NA
+ATOM      6  C3  17W A1002      29.071   1.818   4.858  0.00  0.00    +0.000 A 
+ATOM      7  C4  17W A1002      30.312   2.249   5.331  0.00  0.00    +0.000 A 
+ATOM      8  C5  17W A1002      30.936   1.562   6.371  0.00  0.00    +0.000 A 
+ATOM      9  C6  17W A1002      30.341   0.442   6.953  0.00  0.00    +0.000 A 
+ATOM     10  C1  17W A1002      29.102  -0.028   6.517  0.00  0.00    +0.000 A 
+ENDBRANCH   1   2
+BRANCH   1  11
+ATOM     11  C11 17W A1002      24.303   1.840   3.668  0.00  0.00    +0.000 C 
+BRANCH  11  12
+ATOM     12  C12 17W A1002      24.488   2.830   4.811  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  O13 17W A1002      24.293   4.126   4.252  0.00  0.00    +0.000 OA
+BRANCH  13  19
+ATOM     14  C19 17W A1002      26.461   4.944   4.798  0.00  0.00    +0.000 A 
+ATOM     15  C18 17W A1002      27.313   5.998   5.092  0.00  0.00    +0.000 A 
+ATOM     16  C17 17W A1002      26.805   7.294   5.130  0.00  0.00    +0.000 A 
+ATOM     17  C16 17W A1002      25.456   7.545   4.877  0.00  0.00    +0.000 A 
+ATOM     18  C15 17W A1002      24.606   6.488   4.578  0.00  0.00    +0.000 A 
+ATOM     19  C14 17W A1002      25.111   5.187   4.543  0.00  0.00    +0.000 A 
+ENDBRANCH  13  19
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH   1  11
+TORSDOF 5
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -6.5      1.445      2.012
+REMARK  Name = ligand_pdbs\17W.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C14_6  and  O13_7
+REMARK    2  A    between atoms: O13_7  and  C12_8
+REMARK    3  A    between atoms: C12_8  and  C11_9
+REMARK    4  A    between atoms: C11_9  and  S10_10
+REMARK    5  A    between atoms: S10_10  and  C8_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  S10 17W A1002      29.374   3.091   6.507  0.00  0.00    +0.000 S 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C8  17W A1002      27.858   3.786   5.944  0.00  0.00    +0.000 C 
+ATOM      3  N9  17W A1002      26.669   3.150   6.060  0.00  0.00    +0.000 NA
+ATOM      4  C2  17W A1002      25.760   3.998   5.506  0.00  0.00    +0.000 A 
+ATOM      5  N7  17W A1002      27.813   4.985   5.338  0.00  0.00    +0.000 NA
+ATOM      6  C3  17W A1002      26.514   5.195   5.038  0.00  0.00    +0.000 A 
+ATOM      7  C4  17W A1002      25.815   6.236   4.421  0.00  0.00    +0.000 A 
+ATOM      8  C5  17W A1002      24.435   6.143   4.254  0.00  0.00    +0.000 A 
+ATOM      9  C6  17W A1002      23.730   5.023   4.694  0.00  0.00    +0.000 A 
+ATOM     10  C1  17W A1002      24.380   3.956   5.315  0.00  0.00    +0.000 A 
+ENDBRANCH   1   2
+BRANCH   1  11
+ATOM     11  C11 17W A1002      29.757   1.572   5.704  0.00  0.00    +0.000 C 
+BRANCH  11  12
+ATOM     12  C12 17W A1002      29.634   1.726   4.193  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  O13 17W A1002      28.359   1.198   3.840  0.00  0.00    +0.000 OA
+BRANCH  13  19
+ATOM     14  C19 17W A1002      26.962  -0.375   4.953  0.00  0.00    +0.000 A 
+ATOM     15  C18 17W A1002      26.584  -1.686   5.203  0.00  0.00    +0.000 A 
+ATOM     16  C17 17W A1002      27.260  -2.724   4.566  0.00  0.00    +0.000 A 
+ATOM     17  C16 17W A1002      28.308  -2.464   3.683  0.00  0.00    +0.000 A 
+ATOM     18  C15 17W A1002      28.682  -1.149   3.431  0.00  0.00    +0.000 A 
+ATOM     19  C14 17W A1002      28.009  -0.107   4.070  0.00  0.00    +0.000 A 
+ENDBRANCH  13  19
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH   1  11
+TORSDOF 5
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -6.4      1.449      2.399
+REMARK  Name = ligand_pdbs\17W.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C14_6  and  O13_7
+REMARK    2  A    between atoms: O13_7  and  C12_8
+REMARK    3  A    between atoms: C12_8  and  C11_9
+REMARK    4  A    between atoms: C11_9  and  S10_10
+REMARK    5  A    between atoms: S10_10  and  C8_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  S10 17W A1002      29.202   2.947   6.572  0.00  0.00    +0.000 S 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C8  17W A1002      27.786   3.772   5.929  0.00  0.00    +0.000 C 
+ATOM      3  N9  17W A1002      27.860   4.940   5.250  0.00  0.00    +0.000 NA
+ATOM      4  C2  17W A1002      26.572   5.250   4.939  0.00  0.00    +0.000 A 
+ATOM      5  N7  17W A1002      26.545   3.289   6.110  0.00  0.00    +0.000 NA
+ATOM      6  C3  17W A1002      25.718   4.167   5.502  0.00  0.00    +0.000 A 
+ATOM      7  C4  17W A1002      24.334   4.236   5.326  0.00  0.00    +0.000 A 
+ATOM      8  C5  17W A1002      23.774   5.306   4.632  0.00  0.00    +0.000 A 
+ATOM      9  C6  17W A1002      24.575   6.320   4.103  0.00  0.00    +0.000 A 
+ATOM     10  C1  17W A1002      25.962   6.298   4.252  0.00  0.00    +0.000 A 
+ENDBRANCH   1   2
+BRANCH   1  11
+ATOM     11  C11 17W A1002      29.731   1.619   5.545  0.00  0.00    +0.000 C 
+BRANCH  11  12
+ATOM     12  C12 17W A1002      29.360   1.893   4.093  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  O13 17W A1002      28.083   1.297   3.888  0.00  0.00    +0.000 OA
+BRANCH  13  19
+ATOM     14  C19 17W A1002      26.985  -0.449   5.076  0.00  0.00    +0.000 A 
+ATOM     15  C18 17W A1002      26.732  -1.798   5.276  0.00  0.00    +0.000 A 
+ATOM     16  C17 17W A1002      27.357  -2.736   4.458  0.00  0.00    +0.000 A 
+ATOM     17  C16 17W A1002      28.229  -2.339   3.444  0.00  0.00    +0.000 A 
+ATOM     18  C15 17W A1002      28.477  -0.986   3.244  0.00  0.00    +0.000 A 
+ATOM     19  C14 17W A1002      27.855  -0.044   4.064  0.00  0.00    +0.000 A 
+ENDBRANCH  13  19
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH   1  11
+TORSDOF 5
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -6.3      1.951      4.345
+REMARK  Name = ligand_pdbs\17W.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C14_6  and  O13_7
+REMARK    2  A    between atoms: O13_7  and  C12_8
+REMARK    3  A    between atoms: C12_8  and  C11_9
+REMARK    4  A    between atoms: C11_9  and  S10_10
+REMARK    5  A    between atoms: S10_10  and  C8_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  S10 17W A1002      27.207   5.770   5.019  0.00  0.00    +0.000 S 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C8  17W A1002      27.887   4.148   5.109  0.00  0.00    +0.000 C 
+ATOM      3  N9  17W A1002      28.071   3.492   6.277  0.00  0.00    +0.000 NA
+ATOM      4  C2  17W A1002      28.619   2.296   5.927  0.00  0.00    +0.000 A 
+ATOM      5  N7  17W A1002      28.288   3.489   4.008  0.00  0.00    +0.000 NA
+ATOM      6  C3  17W A1002      28.757   2.300   4.444  0.00  0.00    +0.000 A 
+ATOM      7  C4  17W A1002      29.300   1.179   3.811  0.00  0.00    +0.000 A 
+ATOM      8  C5  17W A1002      29.703   0.081   4.568  0.00  0.00    +0.000 A 
+ATOM      9  C6  17W A1002      29.572   0.077   5.958  0.00  0.00    +0.000 A 
+ATOM     10  C1  17W A1002      29.037   1.172   6.638  0.00  0.00    +0.000 A 
+ENDBRANCH   1   2
+BRANCH   1  11
+ATOM     11  C11 17W A1002      25.472   5.757   4.723  0.00  0.00    +0.000 C 
+BRANCH  11  12
+ATOM     12  C12 17W A1002      24.844   4.499   5.311  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  O13 17W A1002      24.462   3.688   4.204  0.00  0.00    +0.000 OA
+BRANCH  13  19
+ATOM     14  C19 17W A1002      25.179   1.585   5.057  0.00  0.00    +0.000 A 
+ATOM     15  C18 17W A1002      25.717   0.323   4.856  0.00  0.00    +0.000 A 
+ATOM     16  C17 17W A1002      26.073  -0.068   3.566  0.00  0.00    +0.000 A 
+ATOM     17  C16 17W A1002      25.897   0.789   2.481  0.00  0.00    +0.000 A 
+ATOM     18  C15 17W A1002      25.354   2.052   2.685  0.00  0.00    +0.000 A 
+ATOM     19  C14 17W A1002      24.999   2.448   3.975  0.00  0.00    +0.000 A 
+ENDBRANCH  13  19
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH   1  11
+TORSDOF 5
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -6.3      1.926      3.270
+REMARK  Name = ligand_pdbs\17W.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C14_6  and  O13_7
+REMARK    2  A    between atoms: O13_7  and  C12_8
+REMARK    3  A    between atoms: C12_8  and  C11_9
+REMARK    4  A    between atoms: C11_9  and  S10_10
+REMARK    5  A    between atoms: S10_10  and  C8_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  S10 17W A1002      26.823   0.049   2.772  0.00  0.00    +0.000 S 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C8  17W A1002      26.226   1.622   3.289  0.00  0.00    +0.000 C 
+ATOM      3  N9  17W A1002      25.021   1.794   3.879  0.00  0.00    +0.000 NA
+ATOM      4  C2  17W A1002      24.929   3.132   4.110  0.00  0.00    +0.000 A 
+ATOM      5  N7  17W A1002      26.937   2.746   3.092  0.00  0.00    +0.000 NA
+ATOM      6  C3  17W A1002      26.184   3.748   3.596  0.00  0.00    +0.000 A 
+ATOM      7  C4  17W A1002      26.355   5.129   3.706  0.00  0.00    +0.000 A 
+ATOM      8  C5  17W A1002      25.359   5.908   4.292  0.00  0.00    +0.000 A 
+ATOM      9  C6  17W A1002      24.184   5.331   4.775  0.00  0.00    +0.000 A 
+ATOM     10  C1  17W A1002      23.965   3.956   4.688  0.00  0.00    +0.000 A 
+ENDBRANCH   1   2
+BRANCH   1  11
+ATOM     11  C11 17W A1002      26.843  -1.127   4.081  0.00  0.00    +0.000 C 
+BRANCH  11  12
+ATOM     12  C12 17W A1002      28.266  -1.331   4.588  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  O13 17W A1002      28.339  -0.674   5.848  0.00  0.00    +0.000 OA
+BRANCH  13  19
+ATOM     14  C19 17W A1002      29.989   1.035   5.701  0.00  0.00    +0.000 A 
+ATOM     15  C18 17W A1002      30.360   2.366   5.817  0.00  0.00    +0.000 A 
+ATOM     16  C17 17W A1002      29.410   3.306   6.209  0.00  0.00    +0.000 A 
+ATOM     17  C16 17W A1002      28.096   2.928   6.485  0.00  0.00    +0.000 A 
+ATOM     18  C15 17W A1002      27.726   1.594   6.364  0.00  0.00    +0.000 A 
+ATOM     19  C14 17W A1002      28.677   0.649   5.975  0.00  0.00    +0.000 A 
+ENDBRANCH  13  19
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH   1  11
+TORSDOF 5
+ENDMDL

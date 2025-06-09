@@ -1,0 +1,29 @@
+REMARK  Name = ligand_pdbs\EPE.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_1  and  C9_7
+REMARK    2  A    between atoms: C9_7  and  C10_8
+REMARK    3  A    between atoms: C10_8  and  S_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  EPE A1004       1.307   0.852   1.033  0.00  0.00    +0.000 NA
+ATOM      2  C2  EPE A1004       1.325   0.788  -0.435  0.00  0.00    +0.000 C 
+ATOM      3  C3  EPE A1004       0.189   1.521  -0.926  0.00  0.00    +0.000 C 
+ATOM      4  N4  EPE A1004       0.367   2.940  -0.571  0.00  0.00    +0.000 NA
+ATOM      5  C5  EPE A1004       0.266   3.120   0.973  0.00  0.00    +0.000 C 
+ATOM      6  C6  EPE A1004       1.384   2.252   1.618  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C9  EPE A1004       2.464   0.128   1.668  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  C10 EPE A1004       2.333  -1.257   1.062  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  S   EPE A1004       3.653  -2.250   1.650  0.00  0.00    +0.000 S 
+ATOM     10  O1S EPE A1004       3.313  -3.476   1.007  0.00  0.00    +0.000 OA
+ATOM     11  O2S EPE A1004       3.626  -2.408   3.105  0.00  0.00    +0.000 OA
+ATOM     12  O3S EPE A1004       4.981  -1.634   1.294  0.00  0.00    +0.000 OA
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 3

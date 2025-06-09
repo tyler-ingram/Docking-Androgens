@@ -1,0 +1,12 @@
+REMARK  Name = ligand_pdbs\AF3.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 AL   AF3 A1252      -3.958  -0.916 -18.052  0.00  0.00    +0.000 Al
+ATOM      2  F1  AF3 A1252      -5.259  -0.274 -18.920  0.00  0.00    +0.000 F 
+ATOM      3  F2  AF3 A1252      -3.460  -0.494 -16.484  0.00  0.00    +0.000 F 
+ATOM      4  F3  AF3 A1252      -3.202  -2.026 -18.960  0.00  0.00    +0.000 F 
+ENDROOT
+TORSDOF 0

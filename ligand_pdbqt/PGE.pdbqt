@@ -1,0 +1,39 @@
+REMARK  Name = ligand_pdbs\PGE.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3
+REMARK    2  A    between atoms: C2_3  and  O2_4
+REMARK    3  A    between atoms: O2_4  and  C3_5
+REMARK    4  A    between atoms: C3_5  and  C4_6
+REMARK    5  A    between atoms: C4_6  and  O3_10
+REMARK    6  A    between atoms: C6_8  and  C5_9
+REMARK    7  A    between atoms: C5_9  and  O3_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C3  PGE C1005     -61.471 -17.421  62.080  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  O2  PGE C1005     -62.153 -17.874  60.876  0.00  0.00    +0.000 OA
+BRANCH   2   3
+ATOM      3  C2  PGE C1005     -63.454 -17.254  60.777  0.00  0.00    +0.000 C 
+BRANCH   3   4
+ATOM      4  C1  PGE C1005     -63.723 -16.560  59.431  0.00  0.00    +0.000 C 
+ATOM      5  O1  PGE C1005     -64.749 -15.570  59.645  0.00  0.00    +0.000 OA
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   6
+ATOM      6  C4  PGE C1005     -60.061 -18.003  62.333  0.00  0.00    +0.000 C 
+BRANCH   6   7
+ATOM      7  O3  PGE C1005     -59.932 -19.440  62.167  0.00  0.00    +0.000 OA
+BRANCH   7   8
+ATOM      8  C5  PGE C1005     -60.340 -20.332  63.258  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM      9  O4  PGE C1005     -57.968 -20.845  63.850  0.00  0.00    +0.000 OA
+ATOM     10  C6  PGE C1005     -59.285 -20.529  64.357  0.00  0.00    +0.000 C 
+ENDBRANCH   8  10
+ENDBRANCH   7   8
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+TORSDOF 7

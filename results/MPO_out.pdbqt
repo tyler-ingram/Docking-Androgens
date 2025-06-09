@@ -1,0 +1,324 @@
+MODEL 1
+REMARK VINA RESULT:      -5.3      0.000      0.000
+REMARK  Name = ligand_pdbs\MPO.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: S1_1  and  C1_6
+REMARK    2  A    between atoms: N1_5  and  C3_9
+REMARK    3  A    between atoms: C1_6  and  C2_8
+REMARK    4  A    between atoms: C2_8  and  C3_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C3  MPO C1109      27.701   4.418   5.227  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  O4  MPO C1109      24.575   6.802   3.982  0.00  0.00    +0.000 OA
+ATOM      3  N1  MPO C1109      26.495   5.239   5.462  0.00  0.00    +0.000 NA
+ATOM      4  C4  MPO C1109      25.382   4.637   4.705  0.00  0.00    +0.000 C 
+ATOM      5  C5  MPO C1109      24.210   5.567   4.577  0.00  0.00    +0.000 C 
+ATOM      6  C6  MPO C1109      25.533   7.458   4.800  0.00  0.00    +0.000 C 
+ATOM      7  C7  MPO C1109      26.771   6.629   5.035  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   8
+ATOM      8  C2  MPO C1109      28.117   3.551   6.392  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  C1  MPO C1109      28.126   2.065   6.077  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  S1  MPO C1109      29.689   1.476   5.455  0.00  0.00    +0.000 S 
+ATOM     11  O1  MPO C1109      29.928   0.186   6.046  0.00  0.00    +0.000 OA
+ATOM     12  O2  MPO C1109      29.513   1.397   3.913  0.00  0.00    +0.000 OA
+ATOM     13  O3  MPO C1109      30.632   2.526   5.730  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -5.2      2.445      2.723
+REMARK  Name = ligand_pdbs\MPO.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: S1_1  and  C1_6
+REMARK    2  A    between atoms: N1_5  and  C3_9
+REMARK    3  A    between atoms: C1_6  and  C2_8
+REMARK    4  A    between atoms: C2_8  and  C3_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C3  MPO C1109      27.661   4.218   4.940  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  O4  MPO C1109      24.408   6.642   4.201  0.00  0.00    +0.000 OA
+ATOM      3  N1  MPO C1109      26.466   4.983   5.354  0.00  0.00    +0.000 NA
+ATOM      4  C4  MPO C1109      25.303   4.434   4.633  0.00  0.00    +0.000 C 
+ATOM      5  C5  MPO C1109      24.112   5.346   4.695  0.00  0.00    +0.000 C 
+ATOM      6  C6  MPO C1109      25.421   7.234   5.001  0.00  0.00    +0.000 C 
+ATOM      7  C7  MPO C1109      26.686   6.415   5.049  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   8
+ATOM      8  C2  MPO C1109      27.536   3.518   3.607  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  C1  MPO C1109      27.984   2.067   3.632  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  S1  MPO C1109      26.690   0.912   3.225  0.00  0.00    +0.000 S 
+ATOM     11  O1  MPO C1109      27.320  -0.282   2.726  0.00  0.00    +0.000 OA
+ATOM     12  O2  MPO C1109      25.926   0.667   4.555  0.00  0.00    +0.000 OA
+ATOM     13  O3  MPO C1109      25.805   1.623   2.342  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -5.1      1.565      1.771
+REMARK  Name = ligand_pdbs\MPO.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: S1_1  and  C1_6
+REMARK    2  A    between atoms: N1_5  and  C3_9
+REMARK    3  A    between atoms: C1_6  and  C2_8
+REMARK    4  A    between atoms: C2_8  and  C3_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C3  MPO C1109      27.535   3.893   3.693  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  O4  MPO C1109      23.796   5.386   4.588  0.00  0.00    +0.000 OA
+ATOM      3  N1  MPO C1109      26.565   4.576   4.575  0.00  0.00    +0.000 NA
+ATOM      4  C4  MPO C1109      25.456   3.641   4.840  0.00  0.00    +0.000 C 
+ATOM      5  C5  MPO C1109      24.254   4.330   5.418  0.00  0.00    +0.000 C 
+ATOM      6  C6  MPO C1109      24.815   6.368   4.465  0.00  0.00    +0.000 C 
+ATOM      7  C7  MPO C1109      26.101   5.814   3.908  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   8
+ATOM      8  C2  MPO C1109      27.395   2.390   3.639  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  C1  MPO C1109      28.698   1.645   3.868  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  S1  MPO C1109      29.187   1.571   5.580  0.00  0.00    +0.000 S 
+ATOM     11  O1  MPO C1109      27.995   1.705   6.375  0.00  0.00    +0.000 OA
+ATOM     12  O2  MPO C1109      29.861   0.182   5.755  0.00  0.00    +0.000 OA
+ATOM     13  O3  MPO C1109      30.211   2.570   5.731  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -4.9      2.842      6.104
+REMARK  Name = ligand_pdbs\MPO.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: S1_1  and  C1_6
+REMARK    2  A    between atoms: N1_5  and  C3_9
+REMARK    3  A    between atoms: C1_6  and  C2_8
+REMARK    4  A    between atoms: C2_8  and  C3_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C3  MPO C1109      27.440   3.278   4.998  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  O4  MPO C1109      28.820  -0.607   4.926  0.00  0.00    +0.000 OA
+ATOM      3  N1  MPO C1109      28.511   2.260   4.992  0.00  0.00    +0.000 NA
+ATOM      4  C4  MPO C1109      28.376   1.466   3.757  0.00  0.00    +0.000 C 
+ATOM      5  C5  MPO C1109      29.170   0.192   3.808  0.00  0.00    +0.000 C 
+ATOM      6  C6  MPO C1109      29.103   0.102   6.124  0.00  0.00    +0.000 C 
+ATOM      7  C7  MPO C1109      28.383   1.425   6.207  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   8
+ATOM      8  C2  MPO C1109      27.764   4.545   4.243  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  C1  MPO C1109      26.593   5.104   3.453  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  S1  MPO C1109      25.612   6.280   4.364  0.00  0.00    +0.000 S 
+ATOM     11  O1  MPO C1109      24.628   5.537   5.107  0.00  0.00    +0.000 OA
+ATOM     12  O2  MPO C1109      26.616   7.022   5.290  0.00  0.00    +0.000 OA
+ATOM     13  O3  MPO C1109      25.142   7.227   3.388  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.9      3.285      5.870
+REMARK  Name = ligand_pdbs\MPO.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: S1_1  and  C1_6
+REMARK    2  A    between atoms: N1_5  and  C3_9
+REMARK    3  A    between atoms: C1_6  and  C2_8
+REMARK    4  A    between atoms: C2_8  and  C3_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C3  MPO C1109      26.636   2.079   3.114  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  O4  MPO C1109      28.164  -0.882   5.543  0.00  0.00    +0.000 OA
+ATOM      3  N1  MPO C1109      27.039   0.686   3.399  0.00  0.00    +0.000 NA
+ATOM      4  C4  MPO C1109      26.246   0.210   4.547  0.00  0.00    +0.000 C 
+ATOM      5  C5  MPO C1109      26.811  -1.044   5.150  0.00  0.00    +0.000 C 
+ATOM      6  C6  MPO C1109      28.957  -0.580   4.404  0.00  0.00    +0.000 C 
+ATOM      7  C7  MPO C1109      28.493   0.658   3.677  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   8
+ATOM      8  C2  MPO C1109      27.575   3.135   3.647  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  C1  MPO C1109      27.054   4.553   3.494  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  S1  MPO C1109      26.688   5.352   5.045  0.00  0.00    +0.000 S 
+ATOM     11  O1  MPO C1109      27.565   6.487   5.161  0.00  0.00    +0.000 OA
+ATOM     12  O2  MPO C1109      25.194   5.765   4.950  0.00  0.00    +0.000 OA
+ATOM     13  O3  MPO C1109      26.790   4.320   6.041  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -4.9      1.515      2.325
+REMARK  Name = ligand_pdbs\MPO.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: S1_1  and  C1_6
+REMARK    2  A    between atoms: N1_5  and  C3_9
+REMARK    3  A    between atoms: C1_6  and  C2_8
+REMARK    4  A    between atoms: C2_8  and  C3_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C3  MPO C1109      27.030   3.447   6.523  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  O4  MPO C1109      24.376   6.072   4.770  0.00  0.00    +0.000 OA
+ATOM      3  N1  MPO C1109      26.220   3.942   5.390  0.00  0.00    +0.000 NA
+ATOM      4  C4  MPO C1109      26.655   5.318   5.088  0.00  0.00    +0.000 C 
+ATOM      5  C5  MPO C1109      25.678   6.045   4.209  0.00  0.00    +0.000 C 
+ATOM      6  C6  MPO C1109      23.892   4.744   4.912  0.00  0.00    +0.000 C 
+ATOM      7  C7  MPO C1109      24.788   3.880   5.763  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   8
+ATOM      8  C2  MPO C1109      28.462   3.109   6.180  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  C1  MPO C1109      28.777   1.626   6.259  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  S1  MPO C1109      28.280   0.711   4.813  0.00  0.00    +0.000 S 
+ATOM     11  O1  MPO C1109      28.417   1.588   3.680  0.00  0.00    +0.000 OA
+ATOM     12  O2  MPO C1109      29.249  -0.502   4.742  0.00  0.00    +0.000 OA
+ATOM     13  O3  MPO C1109      26.970   0.201   5.113  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+TORSDOF 4
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -4.9      1.556      2.086
+REMARK  Name = ligand_pdbs\MPO.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: S1_1  and  C1_6
+REMARK    2  A    between atoms: N1_5  and  C3_9
+REMARK    3  A    between atoms: C1_6  and  C2_8
+REMARK    4  A    between atoms: C2_8  and  C3_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C3  MPO C1109      26.042   2.868   5.512  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  O4  MPO C1109      26.116   6.794   4.252  0.00  0.00    +0.000 OA
+ATOM      3  N1  MPO C1109      26.019   4.327   5.744  0.00  0.00    +0.000 NA
+ATOM      4  C4  MPO C1109      24.852   4.882   5.033  0.00  0.00    +0.000 C 
+ATOM      5  C5  MPO C1109      24.924   6.375   4.897  0.00  0.00    +0.000 C 
+ATOM      6  C6  MPO C1109      27.238   6.397   5.026  0.00  0.00    +0.000 C 
+ATOM      7  C7  MPO C1109      27.292   4.909   5.263  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   8
+ATOM      8  C2  MPO C1109      27.374   2.205   5.771  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  C1  MPO C1109      27.755   1.166   4.731  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  S1  MPO C1109      28.564  -0.267   5.414  0.00  0.00    +0.000 S 
+ATOM     11  O1  MPO C1109      29.083   0.105   6.704  0.00  0.00    +0.000 OA
+ATOM     12  O2  MPO C1109      27.458  -1.354   5.512  0.00  0.00    +0.000 OA
+ATOM     13  O3  MPO C1109      29.502  -0.693   4.410  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+TORSDOF 4
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -4.8      4.184      5.886
+REMARK  Name = ligand_pdbs\MPO.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: S1_1  and  C1_6
+REMARK    2  A    between atoms: N1_5  and  C3_9
+REMARK    3  A    between atoms: C1_6  and  C2_8
+REMARK    4  A    between atoms: C2_8  and  C3_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C3  MPO C1109      27.936  -0.404   3.056  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  O4  MPO C1109      29.299   1.503   6.449  0.00  0.00    +0.000 OA
+ATOM      3  N1  MPO C1109      28.967  -0.093   4.069  0.00  0.00    +0.000 NA
+ATOM      4  C4  MPO C1109      28.445  -0.498   5.387  0.00  0.00    +0.000 C 
+ATOM      5  C5  MPO C1109      29.238   0.088   6.520  0.00  0.00    +0.000 C 
+ATOM      6  C6  MPO C1109      29.950   1.891   5.247  0.00  0.00    +0.000 C 
+ATOM      7  C7  MPO C1109      29.270   1.355   4.012  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   8
+ATOM      8  C2  MPO C1109      26.514  -0.153   3.499  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  C1  MPO C1109      25.856   1.027   2.806  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  S1  MPO C1109      25.417   2.353   3.912  0.00  0.00    +0.000 S 
+ATOM     11  O1  MPO C1109      23.982   2.358   4.031  0.00  0.00    +0.000 OA
+ATOM     12  O2  MPO C1109      26.120   2.015   5.256  0.00  0.00    +0.000 OA
+ATOM     13  O3  MPO C1109      26.050   3.527   3.375  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+TORSDOF 4
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -4.8      2.779      3.442
+REMARK  Name = ligand_pdbs\MPO.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: S1_1  and  C1_6
+REMARK    2  A    between atoms: N1_5  and  C3_9
+REMARK    3  A    between atoms: C1_6  and  C2_8
+REMARK    4  A    between atoms: C2_8  and  C3_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C3  MPO C1109      27.822   1.576   5.599  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  O4  MPO C1109      27.933   5.428   4.129  0.00  0.00    +0.000 OA
+ATOM      3  N1  MPO C1109      27.189   2.822   5.117  0.00  0.00    +0.000 NA
+ATOM      4  C4  MPO C1109      27.643   3.057   3.734  0.00  0.00    +0.000 C 
+ATOM      5  C5  MPO C1109      27.359   4.456   3.270  0.00  0.00    +0.000 C 
+ATOM      6  C6  MPO C1109      27.373   5.303   5.428  0.00  0.00    +0.000 C 
+ATOM      7  C7  MPO C1109      27.566   3.931   6.022  0.00  0.00    +0.000 C 
+ENDBRANCH   1   3
+BRANCH   1   8
+ATOM      8  C2  MPO C1109      28.984   1.091   4.765  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  C1  MPO C1109      29.343  -0.365   5.002  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  S1  MPO C1109      28.430  -1.502   3.977  0.00  0.00    +0.000 S 
+ATOM     11  O1  MPO C1109      29.291  -2.623   3.705  0.00  0.00    +0.000 OA
+ATOM     12  O2  MPO C1109      27.185  -1.902   4.816  0.00  0.00    +0.000 OA
+ATOM     13  O3  MPO C1109      27.968  -0.725   2.859  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+TORSDOF 4
+ENDMDL

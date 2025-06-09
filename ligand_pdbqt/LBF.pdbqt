@@ -1,0 +1,92 @@
+REMARK  Name = ligand_pdbs\LBF.pdb
+REMARK  15 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C24_2  and  C23_4
+REMARK    2  A    between atoms: C22_5  and  C21_7
+REMARK    3  A    between atoms: C21_7  and  C20_8
+REMARK    4  A    between atoms: C20_8  and  C19_10
+REMARK    5  A    between atoms: C19_10  and  C18_12
+REMARK    6  A    between atoms: C18_12  and  C17_14
+REMARK    7  A    between atoms: C17_14  and  C16_16
+REMARK    8  A    between atoms: C16_16  and  C15_18
+REMARK    9  A    between atoms: C14_19  and  C13_21
+REMARK   10  A    between atoms: C12_22  and  C11_23
+REMARK   11  A    between atoms: C11_23  and  C10_24
+REMARK   12  A    between atoms: C10_24  and  C9_26
+REMARK   13  A    between atoms: C8_27  and  C26_28
+REMARK   14  A    between atoms: C8_27  and  C7_30
+REMARK   15  A    between atoms: C6_31  and  C5_32
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C15 LBF C1101     -42.397  71.474  27.208  0.00  0.00    +0.000 C 
+ATOM      2  C14 LBF C1101     -41.186  71.993  27.508  0.00  0.00    +0.000 C 
+ATOM      3  C29 LBF C1101     -41.032  73.361  28.118  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C16 LBF C1101     -43.703  72.191  27.457  0.00  0.00    +0.000 C 
+ATOM      5  C30 LBF C1101     -44.581  72.082  26.216  0.00  0.00    +0.000 C 
+BRANCH   4   6
+ATOM      6  C17 LBF C1101     -44.421  71.608  28.645  0.00  0.00    +0.000 C 
+ATOM      7  O3  LBF C1101     -45.051  70.562  28.533  0.00  0.00    +0.000 OA
+BRANCH   6   8
+ATOM      8  C18 LBF C1101     -44.359  72.358  29.952  0.00  0.00    +0.000 C 
+ATOM      9  C31 LBF C1101     -45.397  73.476  29.895  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM     10  C19 LBF C1101     -44.574  71.451  31.172  0.00  0.00    +0.000 C 
+ATOM     11  O4  LBF C1101     -44.776  72.240  32.351  0.00  0.00    +0.000 OA
+BRANCH  10  12
+ATOM     12  C20 LBF C1101     -43.404  70.498  31.435  0.00  0.00    +0.000 C 
+ATOM     13  C32 LBF C1101     -42.155  71.280  31.834  0.00  0.00    +0.000 C 
+BRANCH  12  14
+ATOM     14  C21 LBF C1101     -43.737  69.459  32.506  0.00  0.00    +0.000 C 
+BRANCH  14  16
+ATOM     15  C23 LBF C1101     -46.095  68.783  32.844  0.00  0.00    +0.000 C 
+ATOM     16  C22 LBF C1101     -44.964  68.663  32.117  0.00  0.00    +0.000 C 
+ATOM     17  C33 LBF C1101     -44.903  67.786  30.899  0.00  0.00    +0.000 C 
+BRANCH  15  19
+ATOM     18  O6  LBF C1101     -48.248  68.056  33.366  0.00  0.00    +0.000 OA
+ATOM     19  C24 LBF C1101     -47.330  68.021  32.539  0.00  0.00    +0.000 C 
+ATOM     20  O5  LBF C1101     -47.444  67.322  31.510  0.00  0.00    +0.000 OA
+ENDBRANCH  15  19
+ENDBRANCH  14  16
+ENDBRANCH  12  14
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   8
+ENDBRANCH   4   6
+ENDBRANCH   1   4
+BRANCH   2  21
+ATOM     21  C13 LBF C1101     -40.010  71.156  27.178  0.00  0.00    +0.000 C 
+ATOM     22  C12 LBF C1101     -38.752  71.567  27.330  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C11 LBF C1101     -37.629  70.633  26.936  0.00  0.00    +0.000 C 
+BRANCH  23  24
+ATOM     24  C10 LBF C1101     -36.573  70.549  28.025  0.00  0.00    +0.000 C 
+ATOM     25  C28 LBF C1101     -37.090  69.835  29.272  0.00  0.00    +0.000 C 
+BRANCH  24  26
+ATOM     26  C9  LBF C1101     -35.375  69.797  27.496  0.00  0.00    +0.000 C 
+ATOM     27  C8  LBF C1101     -34.142  70.330  27.340  0.00  0.00    +0.000 C 
+BRANCH  27  28
+ATOM     28  C26 LBF C1101     -33.008  69.474  26.798  0.00  0.00    +0.000 C 
+ATOM     29  C27 LBF C1101     -33.451  68.119  26.294  0.00  0.00    +0.000 C 
+ENDBRANCH  27  28
+BRANCH  27  30
+ATOM     30  C7  LBF C1101     -33.855  71.741  27.696  0.00  0.00    +0.000 C 
+ATOM     31  C6  LBF C1101     -32.605  72.209  27.701  0.00  0.00    +0.000 C 
+BRANCH  31  32
+ATOM     32  C5  LBF C1101     -32.326  73.651  28.046  0.00  0.00    +0.000 C 
+ATOM     33  O2  LBF C1101     -31.731  74.192  26.867  0.00  0.00    +0.000 OA
+ATOM     34  C4  LBF C1101     -31.395  73.840  29.236  0.00  0.00    +0.000 C 
+ATOM     35  C25 LBF C1101     -30.013  73.239  29.015  0.00  0.00    +0.000 C 
+ATOM     36  C3  LBF C1101     -31.274  75.328  29.523  0.00  0.00    +0.000 C 
+ATOM     37  C2  LBF C1101     -30.880  76.180  28.316  0.00  0.00    +0.000 C 
+ATOM     38  C1  LBF C1101     -31.143  75.518  26.984  0.00  0.00    +0.000 C 
+ATOM     39  O1  LBF C1101     -30.848  76.099  25.953  0.00  0.00    +0.000 OA
+ENDBRANCH  31  32
+ENDBRANCH  27  30
+ENDBRANCH  24  26
+ENDBRANCH  23  24
+ENDBRANCH  22  23
+ENDBRANCH   2  21
+TORSDOF 15

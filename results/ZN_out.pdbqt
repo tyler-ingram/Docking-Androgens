@@ -1,0 +1,108 @@
+MODEL 1
+REMARK VINA RESULT:      -1.5      0.000      0.000
+REMARK  Name = ligand_pdbs\ZN.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 ZN   ZN  A 650      19.552   9.566   0.526  0.00  0.00    +0.000 Zn
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -1.4      6.027      6.027
+REMARK  Name = ligand_pdbs\ZN.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 ZN   ZN  A 650      22.483   9.267   5.784  0.00  0.00    +0.000 Zn
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -1.3     13.700     13.700
+REMARK  Name = ligand_pdbs\ZN.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 ZN   ZN  A 650      33.143   7.853   0.393  0.00  0.00    +0.000 Zn
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -1.1      7.125      7.125
+REMARK  Name = ligand_pdbs\ZN.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 ZN   ZN  A 650      15.399   4.633   3.558  0.00  0.00    +0.000 Zn
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -1.1     15.108     15.108
+REMARK  Name = ligand_pdbs\ZN.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 ZN   ZN  A 650      34.190   7.714  -2.723  0.00  0.00    +0.000 Zn
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -1.1     14.906     14.906
+REMARK  Name = ligand_pdbs\ZN.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 ZN   ZN  A 650      31.320   0.526   1.926  0.00  0.00    +0.000 Zn
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -1.1     12.815     12.815
+REMARK  Name = ligand_pdbs\ZN.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 ZN   ZN  A 650      27.414  12.419  10.235  0.00  0.00    +0.000 Zn
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -1.0      6.947      6.947
+REMARK  Name = ligand_pdbs\ZN.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 ZN   ZN  A 650      25.723  10.861   3.443  0.00  0.00    +0.000 Zn
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -1.0      5.759      5.759
+REMARK  Name = ligand_pdbs\ZN.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 ZN   ZN  A 650      24.531  12.348   1.320  0.00  0.00    +0.000 Zn
+ENDROOT
+TORSDOF 0
+ENDMDL

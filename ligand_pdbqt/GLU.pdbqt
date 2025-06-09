@@ -1,0 +1,29 @@
+REMARK  Name = ligand_pdbs\GLU.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CG_6
+REMARK    4  A    between atoms: CG_6  and  CD_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  GLU C1102     -41.435  37.421 -41.739  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  N   GLU C1102     -43.623  38.443 -41.167  0.00  0.00    +0.000 NA
+ATOM      3  CA  GLU C1102     -42.753  37.975 -42.281  0.00  0.00    +0.000 C 
+BRANCH   3   4
+ATOM      4  C   GLU C1102     -43.497  36.916 -43.104  0.00  0.00    +0.000 C 
+ATOM      5  O   GLU C1102     -44.355  36.234 -42.512  0.00  0.00    +0.000 OA
+ENDBRANCH   3   4
+ENDBRANCH   1   3
+BRANCH   1   6
+ATOM      6  CG  GLU C1102     -40.581  38.462 -41.040  0.00  0.00    +0.000 C 
+BRANCH   6   7
+ATOM      7  CD  GLU C1102     -39.171  38.013 -40.701  0.00  0.00    +0.000 C 
+ATOM      8  OE1 GLU C1102     -38.827  36.856 -41.016  0.00  0.00    +0.000 OA
+ATOM      9  OE2 GLU C1102     -38.418  38.821 -40.125  0.00  0.00    +0.000 OA
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+TORSDOF 4

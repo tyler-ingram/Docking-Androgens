@@ -1,0 +1,540 @@
+MODEL 1
+REMARK VINA RESULT:      -7.3      0.000      0.000
+REMARK  Name = ligand_pdbs\B5R.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C16_8  and  O14_9
+REMARK    2  A    between atoms: O14_9  and  C13_10
+REMARK    3  A    between atoms: C13_10  and  C11_11
+REMARK    4  A    between atoms: C11_11  and  C10_14
+REMARK    5  A    between atoms: N9_16  and  C6_17
+REMARK    6  A    between atoms: C3_21  and  C8_22
+REMARK    7  A    between atoms: C4_24  and  C7_25
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C10 B5R A   1      26.236   6.773   5.235  0.00  0.00    +0.000 C 
+ATOM      2  O10 B5R A   1      27.454   6.867   5.382  0.00  0.00    +0.000 OA
+ATOM      3  N9  B5R A   1      25.558   5.629   5.184  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   3   4
+ATOM      4  C6  B5R A   1      26.076   4.404   5.259  0.00  0.00    +0.000 A 
+ATOM      5  C5  B5R A   1      25.989   3.462   4.236  0.00  0.00    +0.000 A 
+ATOM      6  C1  B5R A   1      26.819   4.104   6.395  0.00  0.00    +0.000 A 
+ATOM      7  C2  B5R A   1      27.466   2.878   6.489  0.00  0.00    +0.000 A 
+ATOM      8  C3  B5R A   1      27.376   1.948   5.457  0.00  0.00    +0.000 A 
+ATOM      9  C4  B5R A   1      26.632   2.224   4.307  0.00  0.00    +0.000 A 
+BRANCH   9  10
+ATOM     10  C7  B5R A   1      26.563   1.256   3.110  0.00  0.00    +0.000 C 
+ATOM     11  F2  B5R A   1      27.757   0.854   2.682  0.00  0.00    +0.000 F 
+ATOM     12  F1  B5R A   1      25.904   0.136   3.394  0.00  0.00    +0.000 F 
+ATOM     13  F3  B5R A   1      25.941   1.834   2.088  0.00  0.00    +0.000 F 
+ENDBRANCH   9  10
+BRANCH   8  14
+ATOM     14  C8  B5R A   1      28.082   0.718   5.651  0.00  0.00    +0.000 C 
+ATOM     15  N8  B5R A   1      28.655  -0.252   5.813  0.00  0.00    +0.000 NA
+ENDBRANCH   8  14
+ENDBRANCH   3   4
+BRANCH   1  16
+ATOM     16  C11 B5R A   1      25.364   8.028   5.149  0.00  0.00    +0.000 C 
+ATOM     17  O11 B5R A   1      24.027   7.656   4.806  0.00  0.00    +0.000 OA
+ATOM     18  C12 B5R A   1      25.931   8.998   4.110  0.00  0.00    +0.000 C 
+BRANCH  16  19
+ATOM     19  C13 B5R A   1      25.349   8.686   6.520  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  O14 B5R A   1      24.275   9.636   6.492  0.00  0.00    +0.000 OA
+BRANCH  20  28
+ATOM     21  C21 B5R A   1      24.164   9.833   8.855  0.00  0.00    +0.000 A 
+ATOM     22  C20 B5R A   1      23.860  10.591   9.981  0.00  0.00    +0.000 A 
+ATOM     23  F20 B5R A   1      23.833   9.958  11.173  0.00  0.00    +0.000 F 
+ATOM     24  C19 B5R A   1      23.592  11.953   9.846  0.00  0.00    +0.000 A 
+ATOM     25 CL19 B5R A   1      23.154  12.949  11.192  0.00  0.00    +0.000 Cl
+ATOM     26  C18 B5R A   1      23.644  12.544   8.586  0.00  0.00    +0.000 A 
+ATOM     27  C17 B5R A   1      23.947  11.787   7.459  0.00  0.00    +0.000 A 
+ATOM     28  C16 B5R A   1      24.196  10.425   7.595  0.00  0.00    +0.000 A 
+ENDBRANCH  20  28
+ENDBRANCH  19  20
+ENDBRANCH  16  19
+ENDBRANCH   1  16
+TORSDOF 7
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -7.1      1.909      2.413
+REMARK  Name = ligand_pdbs\B5R.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C16_8  and  O14_9
+REMARK    2  A    between atoms: O14_9  and  C13_10
+REMARK    3  A    between atoms: C13_10  and  C11_11
+REMARK    4  A    between atoms: C11_11  and  C10_14
+REMARK    5  A    between atoms: N9_16  and  C6_17
+REMARK    6  A    between atoms: C3_21  and  C8_22
+REMARK    7  A    between atoms: C4_24  and  C7_25
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C10 B5R A   1      26.506   6.931   5.029  0.00  0.00    +0.000 C 
+ATOM      2  O10 B5R A   1      27.614   7.133   5.524  0.00  0.00    +0.000 OA
+ATOM      3  N9  B5R A   1      26.106   5.779   4.493  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   3   4
+ATOM      4  C6  B5R A   1      26.835   4.670   4.382  0.00  0.00    +0.000 A 
+ATOM      5  C5  B5R A   1      27.834   4.307   5.283  0.00  0.00    +0.000 A 
+ATOM      6  C1  B5R A   1      26.500   3.797   3.353  0.00  0.00    +0.000 A 
+ATOM      7  C2  B5R A   1      27.159   2.579   3.244  0.00  0.00    +0.000 A 
+ATOM      8  C3  B5R A   1      28.151   2.225   4.154  0.00  0.00    +0.000 A 
+ATOM      9  C4  B5R A   1      28.509   3.086   5.195  0.00  0.00    +0.000 A 
+BRANCH   9  10
+ATOM     10  C7  B5R A   1      29.549   2.708   6.267  0.00  0.00    +0.000 C 
+ATOM     11  F2  B5R A   1      29.353   1.503   6.795  0.00  0.00    +0.000 F 
+ATOM     12  F1  B5R A   1      30.790   2.675   5.788  0.00  0.00    +0.000 F 
+ATOM     13  F3  B5R A   1      29.529   3.592   7.258  0.00  0.00    +0.000 F 
+ENDBRANCH   9  10
+BRANCH   8  14
+ATOM     14  C8  B5R A   1      28.765   0.948   3.955  0.00  0.00    +0.000 C 
+ATOM     15  N8  B5R A   1      29.249  -0.068   3.782  0.00  0.00    +0.000 NA
+ENDBRANCH   8  14
+ENDBRANCH   3   4
+BRANCH   1  16
+ATOM     16  C11 B5R A   1      25.436   8.025   5.041  0.00  0.00    +0.000 C 
+ATOM     17  O11 B5R A   1      24.165   7.453   4.726  0.00  0.00    +0.000 OA
+ATOM     18  C12 B5R A   1      25.791   9.123   4.035  0.00  0.00    +0.000 C 
+BRANCH  16  19
+ATOM     19  C13 B5R A   1      25.374   8.607   6.444  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  O14 B5R A   1      24.280   9.534   6.441  0.00  0.00    +0.000 OA
+BRANCH  20  28
+ATOM     21  C21 B5R A   1      24.190   9.750   8.804  0.00  0.00    +0.000 A 
+ATOM     22  C20 B5R A   1      23.903  10.519   9.927  0.00  0.00    +0.000 A 
+ATOM     23  F20 B5R A   1      23.881   9.895  11.123  0.00  0.00    +0.000 F 
+ATOM     24  C19 B5R A   1      23.647  11.882   9.783  0.00  0.00    +0.000 A 
+ATOM     25 CL19 B5R A   1      23.231  12.893  11.126  0.00  0.00    +0.000 Cl
+ATOM     26  C18 B5R A   1      23.694  12.463   8.519  0.00  0.00    +0.000 A 
+ATOM     27  C17 B5R A   1      23.980  11.695   7.394  0.00  0.00    +0.000 A 
+ATOM     28  C16 B5R A   1      24.217  10.331   7.539  0.00  0.00    +0.000 A 
+ENDBRANCH  20  28
+ENDBRANCH  19  20
+ENDBRANCH  16  19
+ENDBRANCH   1  16
+TORSDOF 7
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.8      5.298      8.328
+REMARK  Name = ligand_pdbs\B5R.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C16_8  and  O14_9
+REMARK    2  A    between atoms: O14_9  and  C13_10
+REMARK    3  A    between atoms: C13_10  and  C11_11
+REMARK    4  A    between atoms: C11_11  and  C10_14
+REMARK    5  A    between atoms: N9_16  and  C6_17
+REMARK    6  A    between atoms: C3_21  and  C8_22
+REMARK    7  A    between atoms: C4_24  and  C7_25
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C10 B5R A   1      26.881   0.198   3.376  0.00  0.00    +0.000 C 
+ATOM      2  O10 B5R A   1      25.755   0.087   3.859  0.00  0.00    +0.000 OA
+ATOM      3  N9  B5R A   1      27.499   1.353   3.134  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   3   4
+ATOM      4  C6  B5R A   1      27.001   2.570   3.349  0.00  0.00    +0.000 A 
+ATOM      5  C5  B5R A   1      25.698   2.808   3.781  0.00  0.00    +0.000 A 
+ATOM      6  C1  B5R A   1      27.878   3.641   3.215  0.00  0.00    +0.000 A 
+ATOM      7  C2  B5R A   1      27.444   4.925   3.520  0.00  0.00    +0.000 A 
+ATOM      8  C3  B5R A   1      26.142   5.149   3.956  0.00  0.00    +0.000 A 
+ATOM      9  C4  B5R A   1      25.240   4.090   4.095  0.00  0.00    +0.000 A 
+BRANCH   9  10
+ATOM     10  C7  B5R A   1      23.812   4.280   4.643  0.00  0.00    +0.000 C 
+ATOM     11  F2  B5R A   1      23.152   5.281   4.067  0.00  0.00    +0.000 F 
+ATOM     12  F1  B5R A   1      23.046   3.210   4.458  0.00  0.00    +0.000 F 
+ATOM     13  F3  B5R A   1      23.851   4.521   5.949  0.00  0.00    +0.000 F 
+ENDBRANCH   9  10
+BRANCH   8  14
+ATOM     14  C8  B5R A   1      25.797   6.508   4.247  0.00  0.00    +0.000 C 
+ATOM     15  N8  B5R A   1      25.530   7.586   4.492  0.00  0.00    +0.000 NA
+ENDBRANCH   8  14
+ENDBRANCH   3   4
+BRANCH   1  16
+ATOM     16  C11 B5R A   1      27.715  -1.043   3.052  0.00  0.00    +0.000 C 
+ATOM     17  O11 B5R A   1      27.695  -1.276   1.641  0.00  0.00    +0.000 OA
+ATOM     18  C12 B5R A   1      27.169  -2.260   3.802  0.00  0.00    +0.000 C 
+BRANCH  16  19
+ATOM     19  C13 B5R A   1      29.149  -0.771   3.479  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  O14 B5R A   1      29.164  -0.875   4.909  0.00  0.00    +0.000 OA
+BRANCH  20  28
+ATOM     21  C21 B5R A   1      28.051   0.776   6.203  0.00  0.00    +0.000 A 
+ATOM     22  C20 B5R A   1      27.985   2.081   6.679  0.00  0.00    +0.000 A 
+ATOM     23  F20 B5R A   1      26.843   2.468   7.286  0.00  0.00    +0.000 F 
+ATOM     24  C19 B5R A   1      29.076   2.933   6.514  0.00  0.00    +0.000 A 
+ATOM     25 CL19 B5R A   1      29.048   4.585   7.031  0.00  0.00    +0.000 Cl
+ATOM     26  C18 B5R A   1      30.227   2.465   5.884  0.00  0.00    +0.000 A 
+ATOM     27  C17 B5R A   1      30.294   1.161   5.406  0.00  0.00    +0.000 A 
+ATOM     28  C16 B5R A   1      29.197   0.318   5.557  0.00  0.00    +0.000 A 
+ENDBRANCH  20  28
+ENDBRANCH  19  20
+ENDBRANCH  16  19
+ENDBRANCH   1  16
+TORSDOF 7
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.4      5.832      9.063
+REMARK  Name = ligand_pdbs\B5R.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C16_8  and  O14_9
+REMARK    2  A    between atoms: O14_9  and  C13_10
+REMARK    3  A    between atoms: C13_10  and  C11_11
+REMARK    4  A    between atoms: C11_11  and  C10_14
+REMARK    5  A    between atoms: N9_16  and  C6_17
+REMARK    6  A    between atoms: C3_21  and  C8_22
+REMARK    7  A    between atoms: C4_24  and  C7_25
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C10 B5R A   1      26.656  -0.688   4.288  0.00  0.00    +0.000 C 
+ATOM      2  O10 B5R A   1      26.592  -0.590   5.513  0.00  0.00    +0.000 OA
+ATOM      3  N9  B5R A   1      26.363   0.284   3.427  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   3   4
+ATOM      4  C6  B5R A   1      25.934   1.506   3.738  0.00  0.00    +0.000 A 
+ATOM      5  C5  B5R A   1      26.699   2.659   3.577  0.00  0.00    +0.000 A 
+ATOM      6  C1  B5R A   1      24.614   1.621   4.159  0.00  0.00    +0.000 A 
+ATOM      7  C2  B5R A   1      24.079   2.879   4.405  0.00  0.00    +0.000 A 
+ATOM      8  C3  B5R A   1      24.851   4.024   4.235  0.00  0.00    +0.000 A 
+ATOM      9  C4  B5R A   1      26.182   3.935   3.816  0.00  0.00    +0.000 A 
+BRANCH   9  10
+ATOM     10  C7  B5R A   1      27.053   5.177   3.545  0.00  0.00    +0.000 C 
+ATOM     11  F2  B5R A   1      27.401   5.833   4.650  0.00  0.00    +0.000 F 
+ATOM     12  F1  B5R A   1      28.202   4.877   2.947  0.00  0.00    +0.000 F 
+ATOM     13  F3  B5R A   1      26.405   6.029   2.758  0.00  0.00    +0.000 F 
+ENDBRANCH   9  10
+BRANCH   8  14
+ATOM     14  C8  B5R A   1      24.204   5.271   4.512  0.00  0.00    +0.000 C 
+ATOM     15  N8  B5R A   1      23.704   6.269   4.734  0.00  0.00    +0.000 NA
+ENDBRANCH   8  14
+ENDBRANCH   3   4
+BRANCH   1  16
+ATOM     16  C11 B5R A   1      27.153  -1.980   3.636  0.00  0.00    +0.000 C 
+ATOM     17  O11 B5R A   1      27.333  -1.768   2.234  0.00  0.00    +0.000 OA
+ATOM     18  C12 B5R A   1      26.155  -3.114   3.880  0.00  0.00    +0.000 C 
+BRANCH  16  19
+ATOM     19  C13 B5R A   1      28.499  -2.331   4.251  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  O14 B5R A   1      29.460  -1.479   3.615  0.00  0.00    +0.000 OA
+BRANCH  20  28
+ATOM     21  C21 B5R A   1      30.055  -0.460   5.675  0.00  0.00    +0.000 A 
+ATOM     22  C20 B5R A   1      30.152   0.682   6.464  0.00  0.00    +0.000 A 
+ATOM     23  F20 B5R A   1      30.423   0.515   7.775  0.00  0.00    +0.000 F 
+ATOM     24  C19 B5R A   1      29.963   1.938   5.887  0.00  0.00    +0.000 A 
+ATOM     25 CL19 B5R A   1      30.014   3.399   6.813  0.00  0.00    +0.000 Cl
+ATOM     26  C18 B5R A   1      29.693   2.037   4.525  0.00  0.00    +0.000 A 
+ATOM     27  C17 B5R A   1      29.596   0.896   3.735  0.00  0.00    +0.000 A 
+ATOM     28  C16 B5R A   1      29.767  -0.357   4.317  0.00  0.00    +0.000 A 
+ENDBRANCH  20  28
+ENDBRANCH  19  20
+ENDBRANCH  16  19
+ENDBRANCH   1  16
+TORSDOF 7
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -6.3      4.816      8.770
+REMARK  Name = ligand_pdbs\B5R.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C16_8  and  O14_9
+REMARK    2  A    between atoms: O14_9  and  C13_10
+REMARK    3  A    between atoms: C13_10  and  C11_11
+REMARK    4  A    between atoms: C11_11  and  C10_14
+REMARK    5  A    between atoms: N9_16  and  C6_17
+REMARK    6  A    between atoms: C3_21  and  C8_22
+REMARK    7  A    between atoms: C4_24  and  C7_25
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C10 B5R A   1      28.884   2.307   5.933  0.00  0.00    +0.000 C 
+ATOM      2  O10 B5R A   1      28.054   2.109   6.820  0.00  0.00    +0.000 OA
+ATOM      3  N9  B5R A   1      28.849   3.314   5.063  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   3   4
+ATOM      4  C6  B5R A   1      27.910   4.256   4.991  0.00  0.00    +0.000 A 
+ATOM      5  C5  B5R A   1      26.556   3.987   4.799  0.00  0.00    +0.000 A 
+ATOM      6  C1  B5R A   1      28.315   5.568   5.212  0.00  0.00    +0.000 A 
+ATOM      7  C2  B5R A   1      27.367   6.583   5.245  0.00  0.00    +0.000 A 
+ATOM      8  C3  B5R A   1      26.018   6.301   5.058  0.00  0.00    +0.000 A 
+ATOM      9  C4  B5R A   1      25.585   4.991   4.831  0.00  0.00    +0.000 A 
+BRANCH   9  10
+ATOM     10  C7  B5R A   1      24.095   4.621   4.691  0.00  0.00    +0.000 C 
+ATOM     11  F2  B5R A   1      23.395   5.497   3.976  0.00  0.00    +0.000 F 
+ATOM     12  F1  B5R A   1      23.913   3.454   4.079  0.00  0.00    +0.000 F 
+ATOM     13  F3  B5R A   1      23.530   4.534   5.890  0.00  0.00    +0.000 F 
+ENDBRANCH   9  10
+BRANCH   8  14
+ATOM     14  C8  B5R A   1      25.124   7.417   5.115  0.00  0.00    +0.000 C 
+ATOM     15  N8  B5R A   1      24.426   8.315   5.162  0.00  0.00    +0.000 NA
+ENDBRANCH   8  14
+ENDBRANCH   3   4
+BRANCH   1  16
+ATOM     16  C11 B5R A   1      30.104   1.394   5.791  0.00  0.00    +0.000 C 
+ATOM     17  O11 B5R A   1      29.943   0.249   6.631  0.00  0.00    +0.000 OA
+ATOM     18  C12 B5R A   1      31.380   2.154   6.163  0.00  0.00    +0.000 C 
+BRANCH  16  19
+ATOM     19  C13 B5R A   1      30.179   0.930   4.345  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  O14 B5R A   1      29.457  -0.307   4.287  0.00  0.00    +0.000 OA
+BRANCH  20  28
+ATOM     21  C21 B5R A   1      27.744   0.673   2.967  0.00  0.00    +0.000 A 
+ATOM     22  C20 B5R A   1      26.404   1.004   2.797  0.00  0.00    +0.000 A 
+ATOM     23  F20 B5R A   1      26.089   1.837   1.782  0.00  0.00    +0.000 F 
+ATOM     24  C19 B5R A   1      25.447   0.481   3.666  0.00  0.00    +0.000 A 
+ATOM     25 CL19 B5R A   1      23.769   0.890   3.550  0.00  0.00    +0.000 Cl
+ATOM     26  C18 B5R A   1      25.841  -0.378   4.688  0.00  0.00    +0.000 A 
+ATOM     27  C17 B5R A   1      27.181  -0.710   4.860  0.00  0.00    +0.000 A 
+ATOM     28  C16 B5R A   1      28.135  -0.172   4.002  0.00  0.00    +0.000 A 
+ENDBRANCH  20  28
+ENDBRANCH  19  20
+ENDBRANCH  16  19
+ENDBRANCH   1  16
+TORSDOF 7
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.5      2.112      2.683
+REMARK  Name = ligand_pdbs\B5R.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C16_8  and  O14_9
+REMARK    2  A    between atoms: O14_9  and  C13_10
+REMARK    3  A    between atoms: C13_10  and  C11_11
+REMARK    4  A    between atoms: C11_11  and  C10_14
+REMARK    5  A    between atoms: N9_16  and  C6_17
+REMARK    6  A    between atoms: C3_21  and  C8_22
+REMARK    7  A    between atoms: C4_24  and  C7_25
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C10 B5R A   1      25.408   5.785   5.009  0.00  0.00    +0.000 C 
+ATOM      2  O10 B5R A   1      24.422   5.282   5.546  0.00  0.00    +0.000 OA
+ATOM      3  N9  B5R A   1      26.459   5.108   4.552  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   3   4
+ATOM      4  C6  B5R A   1      26.632   3.789   4.616  0.00  0.00    +0.000 A 
+ATOM      5  C5  B5R A   1      27.740   3.181   5.202  0.00  0.00    +0.000 A 
+ATOM      6  C1  B5R A   1      25.593   2.994   4.145  0.00  0.00    +0.000 A 
+ATOM      7  C2  B5R A   1      25.672   1.613   4.273  0.00  0.00    +0.000 A 
+ATOM      8  C3  B5R A   1      26.782   1.018   4.866  0.00  0.00    +0.000 A 
+ATOM      9  C4  B5R A   1      27.841   1.795   5.344  0.00  0.00    +0.000 A 
+BRANCH   9  10
+ATOM     10  C7  B5R A   1      29.055   1.186   6.072  0.00  0.00    +0.000 C 
+ATOM     11  F2  B5R A   1      28.723   0.376   7.074  0.00  0.00    +0.000 F 
+ATOM     12  F1  B5R A   1      29.817   0.447   5.270  0.00  0.00    +0.000 F 
+ATOM     13  F3  B5R A   1      29.822   2.151   6.571  0.00  0.00    +0.000 F 
+ENDBRANCH   9  10
+BRANCH   8  14
+ATOM     14  C8  B5R A   1      26.763  -0.410   4.952  0.00  0.00    +0.000 C 
+ATOM     15  N8  B5R A   1      26.733  -1.546   5.017  0.00  0.00    +0.000 NA
+ENDBRANCH   8  14
+ENDBRANCH   3   4
+BRANCH   1  16
+ATOM     16  C11 B5R A   1      25.478   7.295   4.770  0.00  0.00    +0.000 C 
+ATOM     17  O11 B5R A   1      25.057   7.586   3.435  0.00  0.00    +0.000 OA
+ATOM     18  C12 B5R A   1      26.902   7.803   5.003  0.00  0.00    +0.000 C 
+BRANCH  16  19
+ATOM     19  C13 B5R A   1      24.521   7.970   5.740  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  O14 B5R A   1      24.990   9.317   5.887  0.00  0.00    +0.000 OA
+BRANCH  20  28
+ATOM     21  C21 B5R A   1      23.871  11.202   6.800  0.00  0.00    +0.000 A 
+ATOM     22  C20 B5R A   1      23.556  11.990   7.902  0.00  0.00    +0.000 A 
+ATOM     23  F20 B5R A   1      22.963  13.180   7.670  0.00  0.00    +0.000 F 
+ATOM     24  C19 B5R A   1      23.861  11.538   9.186  0.00  0.00    +0.000 A 
+ATOM     25 CL19 B5R A   1      23.548  12.485  10.600  0.00  0.00    +0.000 Cl
+ATOM     26  C18 B5R A   1      24.467  10.295   9.353  0.00  0.00    +0.000 A 
+ATOM     27  C17 B5R A   1      24.784   9.506   8.252  0.00  0.00    +0.000 A 
+ATOM     28  C16 B5R A   1      24.494   9.968   6.972  0.00  0.00    +0.000 A 
+ENDBRANCH  20  28
+ENDBRANCH  19  20
+ENDBRANCH  16  19
+ENDBRANCH   1  16
+TORSDOF 7
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.4      4.968      6.709
+REMARK  Name = ligand_pdbs\B5R.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C16_8  and  O14_9
+REMARK    2  A    between atoms: O14_9  and  C13_10
+REMARK    3  A    between atoms: C13_10  and  C11_11
+REMARK    4  A    between atoms: C11_11  and  C10_14
+REMARK    5  A    between atoms: N9_16  and  C6_17
+REMARK    6  A    between atoms: C3_21  and  C8_22
+REMARK    7  A    between atoms: C4_24  and  C7_25
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C10 B5R A   1      26.923   5.313   4.427  0.00  0.00    +0.000 C 
+ATOM      2  O10 B5R A   1      27.673   5.307   3.452  0.00  0.00    +0.000 OA
+ATOM      3  N9  B5R A   1      27.049   4.525   5.493  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   3   4
+ATOM      4  C6  B5R A   1      27.982   3.592   5.675  0.00  0.00    +0.000 A 
+ATOM      5  C5  B5R A   1      28.185   2.522   4.806  0.00  0.00    +0.000 A 
+ATOM      6  C1  B5R A   1      28.847   3.767   6.749  0.00  0.00    +0.000 A 
+ATOM      7  C2  B5R A   1      29.900   2.880   6.934  0.00  0.00    +0.000 A 
+ATOM      8  C3  B5R A   1      30.097   1.819   6.055  0.00  0.00    +0.000 A 
+ATOM      9  C4  B5R A   1      29.239   1.619   4.970  0.00  0.00    +0.000 A 
+BRANCH   9  10
+ATOM     10  C7  B5R A   1      29.459   0.502   3.932  0.00  0.00    +0.000 C 
+ATOM     11  F2  B5R A   1      29.632  -0.701   4.474  0.00  0.00    +0.000 F 
+ATOM     12  F1  B5R A   1      28.427   0.361   3.104  0.00  0.00    +0.000 F 
+ATOM     13  F3  B5R A   1      30.529   0.769   3.191  0.00  0.00    +0.000 F 
+ENDBRANCH   9  10
+BRANCH   8  14
+ATOM     14  C8  B5R A   1      31.212   0.966   6.333  0.00  0.00    +0.000 C 
+ATOM     15  N8  B5R A   1      32.109   0.298   6.545  0.00  0.00    +0.000 NA
+ENDBRANCH   8  14
+ENDBRANCH   3   4
+BRANCH   1  16
+ATOM     16  C11 B5R A   1      25.767   6.311   4.514  0.00  0.00    +0.000 C 
+ATOM     17  O11 B5R A   1      25.387   6.717   3.197  0.00  0.00    +0.000 OA
+ATOM     18  C12 B5R A   1      26.177   7.527   5.349  0.00  0.00    +0.000 C 
+BRANCH  16  19
+ATOM     19  C13 B5R A   1      24.586   5.609   5.166  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  O14 B5R A   1      24.053   4.724   4.171  0.00  0.00    +0.000 OA
+BRANCH  20  28
+ATOM     21  C21 B5R A   1      25.089   2.953   2.977  0.00  0.00    +0.000 A 
+ATOM     22  C20 B5R A   1      25.452   1.612   2.899  0.00  0.00    +0.000 A 
+ATOM     23  F20 B5R A   1      25.904   1.155   1.712  0.00  0.00    +0.000 F 
+ATOM     24  C19 B5R A   1      25.336   0.798   4.025  0.00  0.00    +0.000 A 
+ATOM     25 CL19 B5R A   1      25.717  -0.890   3.990  0.00  0.00    +0.000 Cl
+ATOM     26  C18 B5R A   1      24.870   1.337   5.221  0.00  0.00    +0.000 A 
+ATOM     27  C17 B5R A   1      24.505   2.677   5.301  0.00  0.00    +0.000 A 
+ATOM     28  C16 B5R A   1      24.606   3.483   4.170  0.00  0.00    +0.000 A 
+ENDBRANCH  20  28
+ENDBRANCH  19  20
+ENDBRANCH  16  19
+ENDBRANCH   1  16
+TORSDOF 7
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.3      5.167      9.141
+REMARK  Name = ligand_pdbs\B5R.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C16_8  and  O14_9
+REMARK    2  A    between atoms: O14_9  and  C13_10
+REMARK    3  A    between atoms: C13_10  and  C11_11
+REMARK    4  A    between atoms: C11_11  and  C10_14
+REMARK    5  A    between atoms: N9_16  and  C6_17
+REMARK    6  A    between atoms: C3_21  and  C8_22
+REMARK    7  A    between atoms: C4_24  and  C7_25
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C10 B5R A   1      29.334   1.934   5.967  0.00  0.00    +0.000 C 
+ATOM      2  O10 B5R A   1      29.912   2.895   5.461  0.00  0.00    +0.000 OA
+ATOM      3  N9  B5R A   1      28.024   1.863   6.197  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   3   4
+ATOM      4  C6  B5R A   1      27.130   2.817   5.943  0.00  0.00    +0.000 A 
+ATOM      5  C5  B5R A   1      27.461   4.156   5.743  0.00  0.00    +0.000 A 
+ATOM      6  C1  B5R A   1      25.808   2.415   5.783  0.00  0.00    +0.000 A 
+ATOM      7  C2  B5R A   1      24.845   3.349   5.421  0.00  0.00    +0.000 A 
+ATOM      8  C3  B5R A   1      25.190   4.682   5.219  0.00  0.00    +0.000 A 
+ATOM      9  C4  B5R A   1      26.510   5.112   5.377  0.00  0.00    +0.000 A 
+BRANCH   9  10
+ATOM     10  C7  B5R A   1      26.952   6.561   5.094  0.00  0.00    +0.000 C 
+ATOM     11  F2  B5R A   1      28.257   6.761   5.259  0.00  0.00    +0.000 F 
+ATOM     12  F1  B5R A   1      26.702   6.939   3.843  0.00  0.00    +0.000 F 
+ATOM     13  F3  B5R A   1      26.310   7.402   5.898  0.00  0.00    +0.000 F 
+ENDBRANCH   9  10
+BRANCH   8  14
+ATOM     14  C8  B5R A   1      24.125   5.561   4.845  0.00  0.00    +0.000 C 
+ATOM     15  N8  B5R A   1      23.267   6.252   4.557  0.00  0.00    +0.000 NA
+ENDBRANCH   8  14
+ENDBRANCH   3   4
+BRANCH   1  16
+ATOM     16  C11 B5R A   1      30.108   0.667   6.339  0.00  0.00    +0.000 C 
+ATOM     17  O11 B5R A   1      29.281  -0.178   7.142  0.00  0.00    +0.000 OA
+ATOM     18  C12 B5R A   1      31.389   1.032   7.093  0.00  0.00    +0.000 C 
+BRANCH  16  19
+ATOM     19  C13 B5R A   1      30.453  -0.068   5.054  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  O14 B5R A   1      29.522  -1.155   4.957  0.00  0.00    +0.000 OA
+BRANCH  20  28
+ATOM     21  C21 B5R A   1      28.311   0.246   3.472  0.00  0.00    +0.000 A 
+ATOM     22  C20 B5R A   1      27.092   0.729   3.006  0.00  0.00    +0.000 A 
+ATOM     23  F20 B5R A   1      27.117   1.789   2.172  0.00  0.00    +0.000 F 
+ATOM     24  C19 B5R A   1      25.906   0.119   3.413  0.00  0.00    +0.000 A 
+ATOM     25 CL19 B5R A   1      24.351   0.697   2.920  0.00  0.00    +0.000 Cl
+ATOM     26  C18 B5R A   1      25.953  -0.976   4.272  0.00  0.00    +0.000 A 
+ATOM     27  C17 B5R A   1      27.171  -1.461   4.738  0.00  0.00    +0.000 A 
+ATOM     28  C16 B5R A   1      28.352  -0.838   4.344  0.00  0.00    +0.000 A 
+ENDBRANCH  20  28
+ENDBRANCH  19  20
+ENDBRANCH  16  19
+ENDBRANCH   1  16
+TORSDOF 7
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.1      4.865      6.225
+REMARK  Name = ligand_pdbs\B5R.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C16_8  and  O14_9
+REMARK    2  A    between atoms: O14_9  and  C13_10
+REMARK    3  A    between atoms: C13_10  and  C11_11
+REMARK    4  A    between atoms: C11_11  and  C10_14
+REMARK    5  A    between atoms: N9_16  and  C6_17
+REMARK    6  A    between atoms: C3_21  and  C8_22
+REMARK    7  A    between atoms: C4_24  and  C7_25
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C10 B5R A   1      26.974   5.221   4.130  0.00  0.00    +0.000 C 
+ATOM      2  O10 B5R A   1      26.810   4.929   2.946  0.00  0.00    +0.000 OA
+ATOM      3  N9  B5R A   1      27.618   4.469   5.021  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   3   4
+ATOM      4  C6  B5R A   1      28.169   3.278   4.792  0.00  0.00    +0.000 A 
+ATOM      5  C5  B5R A   1      28.944   2.591   5.724  0.00  0.00    +0.000 A 
+ATOM      6  C1  B5R A   1      27.864   2.666   3.581  0.00  0.00    +0.000 A 
+ATOM      7  C2  B5R A   1      28.329   1.382   3.325  0.00  0.00    +0.000 A 
+ATOM      8  C3  B5R A   1      29.097   0.704   4.267  0.00  0.00    +0.000 A 
+ATOM      9  C4  B5R A   1      29.420   1.299   5.490  0.00  0.00    +0.000 A 
+BRANCH   9  10
+ATOM     10  C7  B5R A   1      30.206   0.561   6.591  0.00  0.00    +0.000 C 
+ATOM     11  F2  B5R A   1      31.275  -0.087   6.137  0.00  0.00    +0.000 F 
+ATOM     12  F1  B5R A   1      30.674   1.383   7.526  0.00  0.00    +0.000 F 
+ATOM     13  F3  B5R A   1      29.423  -0.326   7.197  0.00  0.00    +0.000 F 
+ENDBRANCH   9  10
+BRANCH   8  14
+ATOM     14  C8  B5R A   1      29.522  -0.614   3.906  0.00  0.00    +0.000 C 
+ATOM     15  N8  B5R A   1      29.876  -1.657   3.620  0.00  0.00    +0.000 NA
+ENDBRANCH   8  14
+ENDBRANCH   3   4
+BRANCH   1  16
+ATOM     16  C11 B5R A   1      26.472   6.558   4.680  0.00  0.00    +0.000 C 
+ATOM     17  O11 B5R A   1      25.689   7.219   3.683  0.00  0.00    +0.000 OA
+ATOM     18  C12 B5R A   1      27.652   7.436   5.100  0.00  0.00    +0.000 C 
+BRANCH  16  19
+ATOM     19  C13 B5R A   1      25.585   6.270   5.881  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  O14 B5R A   1      24.302   5.910   5.351  0.00  0.00    +0.000 OA
+BRANCH  20  28
+ATOM     21  C21 B5R A   1      24.893   3.652   5.788  0.00  0.00    +0.000 A 
+ATOM     22  C20 B5R A   1      24.948   2.326   5.371  0.00  0.00    +0.000 A 
+ATOM     23  F20 B5R A   1      25.677   1.467   6.114  0.00  0.00    +0.000 F 
+ATOM     24  C19 B5R A   1      24.267   1.935   4.219  0.00  0.00    +0.000 A 
+ATOM     25 CL19 B5R A   1      24.332   0.316   3.608  0.00  0.00    +0.000 Cl
+ATOM     26  C18 B5R A   1      23.527   2.873   3.503  0.00  0.00    +0.000 A 
+ATOM     27  C17 B5R A   1      23.471   4.200   3.918  0.00  0.00    +0.000 A 
+ATOM     28  C16 B5R A   1      24.167   4.590   5.058  0.00  0.00    +0.000 A 
+ENDBRANCH  20  28
+ENDBRANCH  19  20
+ENDBRANCH  16  19
+ENDBRANCH   1  16
+TORSDOF 7
+ENDMDL

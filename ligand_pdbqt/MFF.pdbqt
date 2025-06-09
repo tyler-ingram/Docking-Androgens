@@ -1,0 +1,89 @@
+REMARK  Name = ligand_pdbs\MFF.pdb
+REMARK  15 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C11_1  and  C12_8
+REMARK    2  A    between atoms: C13_2  and  C15_4
+REMARK    3  A    between atoms: C15_4  and  C16_5
+REMARK    4  A    between atoms: C16_5  and  C17_6
+REMARK    5  A    between atoms: C19_9  and  C21_10
+REMARK    6  A    between atoms: C21_10  and  C22_11
+REMARK    7  A    between atoms: C22_11  and  C23_20
+REMARK    8  A    between atoms: C27_13  and  O4_14
+REMARK    9  A    between atoms: C27_13  and  C26_16
+REMARK   10  A    between atoms: C26_16  and  C25_17
+REMARK   11  A    between atoms: C25_17  and  C24_19
+REMARK   12  A    between atoms: C24_19  and  C23_20
+REMARK   13  A    between atoms: C10_23  and  C9_24
+REMARK   14  A    between atoms: C9_24  and  C3_26
+REMARK   15  A    between atoms: C2_28  and  C5_29
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 MFF C1123      19.526  15.366 -26.508  0.00  0.00    +0.000 C 
+ATOM      2  C14 MFF C1123      18.450  14.466 -26.000  0.00  0.00    +0.000 C 
+ATOM      3  C12 MFF C1123      20.493  14.861 -27.272  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   3   4
+ATOM      4  C11 MFF C1123      20.537  13.454 -27.660  0.00  0.00    +0.000 C 
+ATOM      5  C10 MFF C1123      21.481  13.111 -28.513  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C9  MFF C1123      21.656  11.700 -29.015  0.00  0.00    +0.000 C 
+ATOM      7  N   MFF C1123      23.076  11.590 -29.404  0.00  0.00    +0.000 NA
+BRANCH   6   8
+ATOM      8  C3  MFF C1123      20.861  11.297 -30.260  0.00  0.00    +0.000 C 
+ATOM      9  O   MFF C1123      19.573  10.791 -29.955  0.00  0.00    +0.000 OA
+ATOM     10  C2  MFF C1123      19.013  10.128 -31.087  0.00  0.00    +0.000 C 
+ATOM     11  C1  MFF C1123      18.918  11.007 -32.334  0.00  0.00    +0.000 C 
+ATOM     12  C8  MFF C1123      17.779  12.005 -32.178  0.00  0.00    +0.000 C 
+ATOM     13  C   MFF C1123      20.233  11.739 -32.580  0.00  0.00    +0.000 C 
+ATOM     14  O1  MFF C1123      21.281  10.828 -32.967  0.00  0.00    +0.000 OA
+ATOM     15  C4  MFF C1123      20.700  12.407 -31.297  0.00  0.00    +0.000 C 
+BRANCH  10  16
+ATOM     16  C5  MFF C1123      17.673   9.747 -30.566  0.00  0.00    +0.000 C 
+ATOM     17  C6  MFF C1123      17.302   8.490 -30.639  0.00  0.00    +0.000 C 
+ATOM     18  C7  MFF C1123      15.978   8.098 -30.072  0.00  0.00    +0.000 C 
+ENDBRANCH  10  16
+ENDBRANCH   6   8
+ENDBRANCH   5   6
+ENDBRANCH   3   4
+BRANCH   1  19
+ATOM     19  C15 MFF C1123      19.496  16.839 -26.154  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  C16 MFF C1123      19.205  17.667 -27.399  0.00  0.00    +0.000 C 
+ATOM     21  C18 MFF C1123      18.086  17.070 -28.253  0.00  0.00    +0.000 C 
+BRANCH  20  22
+ATOM     22  C17 MFF C1123      18.720  19.054 -27.119  0.00  0.00    +0.000 C 
+ATOM     23  C19 MFF C1123      19.445  20.188 -27.198  0.00  0.00    +0.000 C 
+ATOM     24  C20 MFF C1123      18.609  21.404 -26.915  0.00  0.00    +0.000 C 
+BRANCH  23  25
+ATOM     25  C21 MFF C1123      20.897  20.383 -27.535  0.00  0.00    +0.000 C 
+BRANCH  25  26
+ATOM     26  C22 MFF C1123      21.277  21.669 -27.667  0.00  0.00    +0.000 C 
+BRANCH  26  27
+ATOM     27  C23 MFF C1123      22.621  22.316 -27.990  0.00  0.00    +0.000 C 
+ATOM     28  O2  MFF C1123      23.779  21.498 -27.820  0.00  0.00    +0.000 OA
+BRANCH  27  29
+ATOM     29  C24 MFF C1123      22.651  23.508 -27.005  0.00  0.00    +0.000 C 
+BRANCH  29  30
+ATOM     30  C25 MFF C1123      23.853  24.460 -26.874  0.00  0.00    +0.000 C 
+ATOM     31  N1  MFF C1123      25.102  23.662 -26.822  0.00  0.00    +0.000 NA
+BRANCH  30  32
+ATOM     32  C26 MFF C1123      23.584  25.303 -25.594  0.00  0.00    +0.000 C 
+BRANCH  32  34
+ATOM     33  O3  MFF C1123      25.193  27.061 -25.594  0.00  0.00    +0.000 OA
+ATOM     34  C27 MFF C1123      24.007  26.780 -25.581  0.00  0.00    +0.000 C 
+BRANCH  34  35
+ATOM     35  O4  MFF C1123      23.080  27.931 -25.513  0.00  0.00    +0.000 OA
+ATOM     36  C28 MFF C1123      21.708  27.852 -25.127  0.00  0.00    +0.000 C 
+ENDBRANCH  34  35
+ENDBRANCH  32  34
+ENDBRANCH  30  32
+ENDBRANCH  29  30
+ENDBRANCH  27  29
+ENDBRANCH  26  27
+ENDBRANCH  25  26
+ENDBRANCH  23  25
+ENDBRANCH  20  22
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 15

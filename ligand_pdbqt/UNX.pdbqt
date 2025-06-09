@@ -1,0 +1,9 @@
+REMARK  Name = ligand_pdbs\UNX.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  UNK UNX A 502      24.656  42.310 -10.218  0.00  0.00    +0.000 U 
+ENDROOT
+TORSDOF 0

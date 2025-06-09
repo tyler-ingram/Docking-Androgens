@@ -1,0 +1,270 @@
+MODEL 1
+REMARK VINA RESULT:      -3.1      0.000      0.000
+REMARK  Name = ligand_pdbs\PEG.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3
+REMARK    2  A    between atoms: C2_3  and  O2_4
+REMARK    3  A    between atoms: O2_4  and  C3_5
+REMARK    4  A    between atoms: C3_5  and  C4_6
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O2  PEG A1075      26.195   4.567   5.965  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   2
+ATOM      2  C2  PEG A1075      27.187   4.167   5.014  0.00  0.00    +0.000 C 
+BRANCH   2   3
+ATOM      3  C1  PEG A1075      27.763   5.388   4.296  0.00  0.00    +0.000 C 
+ATOM      4  O1  PEG A1075      27.581   6.542   5.116  0.00  0.00    +0.000 OA
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  C3  PEG A1075      24.951   3.976   5.593  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C4  PEG A1075      24.087   5.001   4.862  0.00  0.00    +0.000 C 
+ATOM      7  O4  PEG A1075      22.901   4.366   4.392  0.00  0.00    +0.000 OA
+ENDBRANCH   5   6
+ENDBRANCH   1   5
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -3.1      1.674      3.781
+REMARK  Name = ligand_pdbs\PEG.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3
+REMARK    2  A    between atoms: C2_3  and  O2_4
+REMARK    3  A    between atoms: O2_4  and  C3_5
+REMARK    4  A    between atoms: C3_5  and  C4_6
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O2  PEG A1075      25.772   6.481   3.907  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   2
+ATOM      2  C2  PEG A1075      24.539   6.468   4.634  0.00  0.00    +0.000 C 
+BRANCH   2   3
+ATOM      3  C1  PEG A1075      23.889   5.086   4.559  0.00  0.00    +0.000 C 
+ATOM      4  O1  PEG A1075      24.236   4.341   5.726  0.00  0.00    +0.000 OA
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  C3  PEG A1075      26.847   6.500   4.846  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C4  PEG A1075      27.788   5.327   4.581  0.00  0.00    +0.000 C 
+ATOM      7  O4  PEG A1075      27.595   4.861   3.248  0.00  0.00    +0.000 OA
+ENDBRANCH   5   6
+ENDBRANCH   1   5
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -3.0      0.824      3.615
+REMARK  Name = ligand_pdbs\PEG.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3
+REMARK    2  A    between atoms: C2_3  and  O2_4
+REMARK    3  A    between atoms: O2_4  and  C3_5
+REMARK    4  A    between atoms: C3_5  and  C4_6
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O2  PEG A1075      26.110   4.373   5.849  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   2
+ATOM      2  C2  PEG A1075      24.725   4.017   5.803  0.00  0.00    +0.000 C 
+BRANCH   2   3
+ATOM      3  C1  PEG A1075      23.972   4.927   4.831  0.00  0.00    +0.000 C 
+ATOM      4  O1  PEG A1075      22.812   4.245   4.354  0.00  0.00    +0.000 OA
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  C3  PEG A1075      26.425   5.107   4.666  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C4  PEG A1075      27.404   6.232   4.999  0.00  0.00    +0.000 C 
+ATOM      7  O4  PEG A1075      26.687   7.458   5.118  0.00  0.00    +0.000 OA
+ENDBRANCH   5   6
+ENDBRANCH   1   5
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -2.9      1.959      3.430
+REMARK  Name = ligand_pdbs\PEG.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3
+REMARK    2  A    between atoms: C2_3  and  O2_4
+REMARK    3  A    between atoms: O2_4  and  C3_5
+REMARK    4  A    between atoms: C3_5  and  C4_6
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O2  PEG A1075      26.401   5.467   5.422  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   2
+ATOM      2  C2  PEG A1075      25.781   4.918   4.254  0.00  0.00    +0.000 C 
+BRANCH   2   3
+ATOM      3  C1  PEG A1075      24.558   4.086   4.641  0.00  0.00    +0.000 C 
+ATOM      4  O1  PEG A1075      23.411   4.933   4.688  0.00  0.00    +0.000 OA
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  C3  PEG A1075      26.969   6.730   5.077  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C4  PEG A1075      25.866   7.694   4.646  0.00  0.00    +0.000 C 
+ATOM      7  O4  PEG A1075      25.315   8.324   5.799  0.00  0.00    +0.000 OA
+ENDBRANCH   5   6
+ENDBRANCH   1   5
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -2.9      1.634      1.971
+REMARK  Name = ligand_pdbs\PEG.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3
+REMARK    2  A    between atoms: C2_3  and  O2_4
+REMARK    3  A    between atoms: O2_4  and  C3_5
+REMARK    4  A    between atoms: C3_5  and  C4_6
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O2  PEG A1075      26.220   5.854   5.373  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   2
+ATOM      2  C2  PEG A1075      27.484   5.665   4.730  0.00  0.00    +0.000 C 
+BRANCH   2   3
+ATOM      3  C1  PEG A1075      27.911   4.199   4.813  0.00  0.00    +0.000 C 
+ATOM      4  O1  PEG A1075      27.747   3.590   3.533  0.00  0.00    +0.000 OA
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  C3  PEG A1075      25.238   6.108   4.369  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C4  PEG A1075      23.995   5.262   4.633  0.00  0.00    +0.000 C 
+ATOM      7  O4  PEG A1075      24.262   4.354   5.699  0.00  0.00    +0.000 OA
+ENDBRANCH   5   6
+ENDBRANCH   1   5
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -2.9      1.759      2.567
+REMARK  Name = ligand_pdbs\PEG.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3
+REMARK    2  A    between atoms: C2_3  and  O2_4
+REMARK    3  A    between atoms: O2_4  and  C3_5
+REMARK    4  A    between atoms: C3_5  and  C4_6
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O2  PEG A1075      25.059   5.399   4.373  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   2
+ATOM      2  C2  PEG A1075      24.777   6.785   4.595  0.00  0.00    +0.000 C 
+BRANCH   2   3
+ATOM      3  C1  PEG A1075      25.995   7.488   5.195  0.00  0.00    +0.000 C 
+ATOM      4  O1  PEG A1075      27.151   6.678   4.990  0.00  0.00    +0.000 OA
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  C3  PEG A1075      24.212   4.626   5.221  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C4  PEG A1075      24.984   3.431   5.775  0.00  0.00    +0.000 C 
+ATOM      7  O4  PEG A1075      26.095   3.900   6.535  0.00  0.00    +0.000 OA
+ENDBRANCH   5   6
+ENDBRANCH   1   5
+TORSDOF 4
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -2.9      1.577      3.249
+REMARK  Name = ligand_pdbs\PEG.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3
+REMARK    2  A    between atoms: C2_3  and  O2_4
+REMARK    3  A    between atoms: O2_4  and  C3_5
+REMARK    4  A    between atoms: C3_5  and  C4_6
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O2  PEG A1075      25.218   4.551   5.563  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   2
+ATOM      2  C2  PEG A1075      24.291   5.278   4.751  0.00  0.00    +0.000 C 
+BRANCH   2   3
+ATOM      3  C1  PEG A1075      24.670   6.759   4.704  0.00  0.00    +0.000 C 
+ATOM      4  O1  PEG A1075      25.125   7.085   3.391  0.00  0.00    +0.000 OA
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  C3  PEG A1075      26.192   3.953   4.709  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C4  PEG A1075      27.589   4.423   5.107  0.00  0.00    +0.000 C 
+ATOM      7  O4  PEG A1075      27.992   5.483   4.244  0.00  0.00    +0.000 OA
+ENDBRANCH   5   6
+ENDBRANCH   1   5
+TORSDOF 4
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -2.8      2.289      3.267
+REMARK  Name = ligand_pdbs\PEG.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3
+REMARK    2  A    between atoms: C2_3  and  O2_4
+REMARK    3  A    between atoms: O2_4  and  C3_5
+REMARK    4  A    between atoms: C3_5  and  C4_6
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O2  PEG A1075      27.149   5.520   3.934  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   2
+ATOM      2  C2  PEG A1075      27.293   6.401   5.053  0.00  0.00    +0.000 C 
+BRANCH   2   3
+ATOM      3  C1  PEG A1075      26.138   7.401   5.098  0.00  0.00    +0.000 C 
+ATOM      4  O1  PEG A1075      24.903   6.695   4.994  0.00  0.00    +0.000 OA
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  C3  PEG A1075      27.651   4.237   4.304  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C4  PEG A1075      27.732   4.130   5.825  0.00  0.00    +0.000 C 
+ATOM      7  O4  PEG A1075      27.315   2.828   6.227  0.00  0.00    +0.000 OA
+ENDBRANCH   5   6
+ENDBRANCH   1   5
+TORSDOF 4
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -2.7      2.022      3.331
+REMARK  Name = ligand_pdbs\PEG.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_3
+REMARK    2  A    between atoms: C2_3  and  O2_4
+REMARK    3  A    between atoms: O2_4  and  C3_5
+REMARK    4  A    between atoms: C3_5  and  C4_6
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O2  PEG A1075      26.292   4.285   6.164  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   2
+ATOM      2  C2  PEG A1075      25.677   3.135   5.576  0.00  0.00    +0.000 C 
+BRANCH   2   3
+ATOM      3  C1  PEG A1075      26.721   2.053   5.299  0.00  0.00    +0.000 C 
+ATOM      4  O1  PEG A1075      27.840   2.250   6.163  0.00  0.00    +0.000 OA
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  C3  PEG A1075      26.196   5.369   5.242  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C4  PEG A1075      27.577   5.696   4.680  0.00  0.00    +0.000 C 
+ATOM      7  O4  PEG A1075      27.733   5.060   3.414  0.00  0.00    +0.000 OA
+ENDBRANCH   5   6
+ENDBRANCH   1   5
+TORSDOF 4
+ENDMDL

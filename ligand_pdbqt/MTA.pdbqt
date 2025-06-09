@@ -1,0 +1,37 @@
+REMARK  Name = ligand_pdbs\MTA.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: S5'_2  and  C5'_3
+REMARK    2  A    between atoms: C5'_3  and  C4'_4
+REMARK    3  A    between atoms: C1'_10  and  N9_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4' MTA A 701     -18.954 -99.894  -4.930  0.00  0.00    +0.000 C 
+ATOM      2  O4' MTA A 701     -17.934-100.889  -4.818  0.00  0.00    +0.000 OA
+ATOM      3  C2' MTA A 701     -17.533 -99.405  -3.045  0.00  0.00    +0.000 C 
+ATOM      4  O2' MTA A 701     -17.408 -99.342  -1.630  0.00  0.00    +0.000 OA
+ATOM      5  C3' MTA A 701     -18.938 -99.131  -3.593  0.00  0.00    +0.000 C 
+ATOM      6  O3' MTA A 701     -19.956 -99.557  -2.704  0.00  0.00    +0.000 OA
+ATOM      7  C1' MTA A 701     -17.318-100.824  -3.574  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   7   8
+ATOM      8  N9  MTA A 701     -15.881-101.148  -3.747  0.00  0.00    +0.000 N 
+ATOM      9  C8  MTA A 701     -14.933-100.464  -4.451  0.00  0.00    +0.000 C 
+ATOM     10  N7  MTA A 701     -13.750-101.029  -4.463  0.00  0.00    +0.000 NA
+ATOM     11  C5  MTA A 701     -13.917-102.199  -3.733  0.00  0.00    +0.000 C 
+ATOM     12  C6  MTA A 701     -13.053-103.262  -3.360  0.00  0.00    +0.000 C 
+ATOM     13  N6  MTA A 701     -11.757-103.295  -3.721  0.00  0.00    +0.000 NA
+ATOM     14  N1  MTA A 701     -13.567-104.301  -2.650  0.00  0.00    +0.000 NA
+ATOM     15  C2  MTA A 701     -14.876-104.292  -2.317  0.00  0.00    +0.000 C 
+ATOM     16  N3  MTA A 701     -15.805-103.345  -2.590  0.00  0.00    +0.000 NA
+ATOM     17  C4  MTA A 701     -15.274-102.324  -3.341  0.00  0.00    +0.000 C 
+ENDBRANCH   7   8
+BRANCH   1  18
+ATOM     18  C5' MTA A 701     -18.698 -99.032  -6.199  0.00  0.00    +0.000 C 
+BRANCH  18  20
+ATOM     19  CS  MTA A 701     -21.487 -98.716  -6.759  0.00  0.00    +0.000 C 
+ATOM     20  S5' MTA A 701     -19.956 -97.764  -6.535  0.00  0.00    +0.000 S 
+ENDBRANCH  18  20
+ENDBRANCH   1  18
+TORSDOF 3

@@ -1,0 +1,234 @@
+MODEL 1
+REMARK VINA RESULT:      -6.1      0.000      0.000
+REMARK  Name = ligand_pdbs\ICO.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAC_9  and  CAH_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA ICO L 935      25.897   4.852   4.799  0.00  0.00    +0.000 C 
+ATOM      2  CAD ICO L 935      27.140   5.451   4.962  0.00  0.00    +0.000 C 
+ATOM      3  CAI ICO L 935      27.221   6.840   5.056  0.00  0.00    +0.000 C 
+ATOM      4  CAJ ICO L 935      26.065   7.610   4.987  0.00  0.00    +0.000 C 
+ATOM      5  CAF ICO L 935      24.825   7.001   4.823  0.00  0.00    +0.000 C 
+ATOM      6  CAB ICO L 935      24.738   5.616   4.726  0.00  0.00    +0.000 C 
+ATOM      7  NAE ICO L 935      23.710   4.784   4.572  0.00  0.00    +0.000 NA
+ATOM      8  CAG ICO L 935      24.143   3.523   4.535  0.00  0.00    +0.000 C 
+ATOM      9  CAC ICO L 935      25.468   3.536   4.673  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   9  10
+ATOM     10  CAH ICO L 935      26.360   2.296   4.661  0.00  0.00    +0.000 C 
+ATOM     11  OAL ICO L 935      26.971   1.956   5.663  0.00  0.00    +0.000 OA
+ATOM     12  OAK ICO L 935      26.473   1.616   3.628  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+TORSDOF 1
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -6.0      1.771      2.636
+REMARK  Name = ligand_pdbs\ICO.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAC_9  and  CAH_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA ICO L 935      25.497   3.539   4.133  0.00  0.00    +0.000 C 
+ATOM      2  CAD ICO L 935      24.185   3.770   4.529  0.00  0.00    +0.000 C 
+ATOM      3  CAI ICO L 935      23.732   5.083   4.658  0.00  0.00    +0.000 C 
+ATOM      4  CAJ ICO L 935      24.592   6.143   4.390  0.00  0.00    +0.000 C 
+ATOM      5  CAF ICO L 935      25.903   5.902   3.994  0.00  0.00    +0.000 C 
+ATOM      6  CAB ICO L 935      26.361   4.595   3.866  0.00  0.00    +0.000 C 
+ATOM      7  NAE ICO L 935      27.536   4.080   3.511  0.00  0.00    +0.000 NA
+ATOM      8  CAG ICO L 935      27.480   2.748   3.540  0.00  0.00    +0.000 C 
+ATOM      9  CAC ICO L 935      26.251   2.393   3.912  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   9  10
+ATOM     10  CAH ICO L 935      25.775   0.953   4.094  0.00  0.00    +0.000 C 
+ATOM     11  OAL ICO L 935      26.253   0.242   4.965  0.00  0.00    +0.000 OA
+ATOM     12  OAK ICO L 935      24.893   0.486   3.355  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+TORSDOF 1
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.0      2.387      4.002
+REMARK  Name = ligand_pdbs\ICO.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAC_9  and  CAH_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA ICO L 935      25.710   3.965   4.054  0.00  0.00    +0.000 C 
+ATOM      2  CAD ICO L 935      26.850   3.372   3.528  0.00  0.00    +0.000 C 
+ATOM      3  CAI ICO L 935      26.804   2.036   3.132  0.00  0.00    +0.000 C 
+ATOM      4  CAJ ICO L 935      25.624   1.312   3.265  0.00  0.00    +0.000 C 
+ATOM      5  CAF ICO L 935      24.487   1.914   3.793  0.00  0.00    +0.000 C 
+ATOM      6  CAB ICO L 935      24.528   3.246   4.193  0.00  0.00    +0.000 C 
+ATOM      7  NAE ICO L 935      23.614   4.060   4.717  0.00  0.00    +0.000 NA
+ATOM      8  CAG ICO L 935      24.144   5.266   4.930  0.00  0.00    +0.000 C 
+ATOM      9  CAC ICO L 935      25.415   5.235   4.534  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   9  10
+ATOM     10  CAH ICO L 935      26.388   6.409   4.630  0.00  0.00    +0.000 C 
+ATOM     11  OAL ICO L 935      26.019   7.548   4.382  0.00  0.00    +0.000 OA
+ATOM     12  OAK ICO L 935      27.569   6.219   4.963  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+TORSDOF 1
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.0      2.702      4.500
+REMARK  Name = ligand_pdbs\ICO.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAC_9  and  CAH_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA ICO L 935      26.235   3.489   3.999  0.00  0.00    +0.000 C 
+ATOM      2  CAD ICO L 935      25.510   2.508   3.333  0.00  0.00    +0.000 C 
+ATOM      3  CAI ICO L 935      26.156   1.347   2.913  0.00  0.00    +0.000 C 
+ATOM      4  CAJ ICO L 935      27.515   1.179   3.162  0.00  0.00    +0.000 C 
+ATOM      5  CAF ICO L 935      28.233   2.166   3.829  0.00  0.00    +0.000 C 
+ATOM      6  CAB ICO L 935      27.593   3.328   4.248  0.00  0.00    +0.000 C 
+ATOM      7  NAE ICO L 935      28.020   4.412   4.894  0.00  0.00    +0.000 NA
+ATOM      8  CAG ICO L 935      27.012   5.266   5.070  0.00  0.00    +0.000 C 
+ATOM      9  CAC ICO L 935      25.915   4.729   4.537  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   9  10
+ATOM     10  CAH ICO L 935      24.543   5.398   4.504  0.00  0.00    +0.000 C 
+ATOM     11  OAL ICO L 935      23.550   4.805   4.899  0.00  0.00    +0.000 OA
+ATOM     12  OAK ICO L 935      24.420   6.556   4.073  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+TORSDOF 1
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -5.9      1.265      1.610
+REMARK  Name = ligand_pdbs\ICO.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAC_9  and  CAH_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA ICO L 935      26.550   4.788   4.767  0.00  0.00    +0.000 C 
+ATOM      2  CAD ICO L 935      27.345   5.895   5.037  0.00  0.00    +0.000 C 
+ATOM      3  CAI ICO L 935      26.761   7.160   5.088  0.00  0.00    +0.000 C 
+ATOM      4  CAJ ICO L 935      25.394   7.303   4.870  0.00  0.00    +0.000 C 
+ATOM      5  CAF ICO L 935      24.606   6.190   4.600  0.00  0.00    +0.000 C 
+ATOM      6  CAB ICO L 935      25.184   4.926   4.546  0.00  0.00    +0.000 C 
+ATOM      7  NAE ICO L 935      24.685   3.713   4.316  0.00  0.00    +0.000 NA
+ATOM      8  CAG ICO L 935      25.656   2.800   4.371  0.00  0.00    +0.000 C 
+ATOM      9  CAC ICO L 935      26.798   3.427   4.646  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   9  10
+ATOM     10  CAH ICO L 935      28.160   2.746   4.772  0.00  0.00    +0.000 C 
+ATOM     11  OAL ICO L 935      28.634   2.120   3.835  0.00  0.00    +0.000 OA
+ATOM     12  OAK ICO L 935      28.803   2.821   5.831  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+TORSDOF 1
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.9      1.796      2.891
+REMARK  Name = ligand_pdbs\ICO.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAC_9  and  CAH_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA ICO L 935      25.892   3.806   4.163  0.00  0.00    +0.000 C 
+ATOM      2  CAD ICO L 935      24.845   2.900   4.275  0.00  0.00    +0.000 C 
+ATOM      3  CAI ICO L 935      23.550   3.374   4.481  0.00  0.00    +0.000 C 
+ATOM      4  CAJ ICO L 935      23.317   4.742   4.571  0.00  0.00    +0.000 C 
+ATOM      5  CAF ICO L 935      24.371   5.642   4.458  0.00  0.00    +0.000 C 
+ATOM      6  CAB ICO L 935      25.666   5.175   4.255  0.00  0.00    +0.000 C 
+ATOM      7  NAE ICO L 935      26.837   5.792   4.111  0.00  0.00    +0.000 NA
+ATOM      8  CAG ICO L 935      27.808   4.895   3.937  0.00  0.00    +0.000 C 
+ATOM      9  CAC ICO L 935      27.260   3.681   3.962  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   9  10
+ATOM     10  CAH ICO L 935      28.034   2.371   3.823  0.00  0.00    +0.000 C 
+ATOM     11  OAL ICO L 935      29.025   2.156   4.505  0.00  0.00    +0.000 OA
+ATOM     12  OAK ICO L 935      27.662   1.506   3.013  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+TORSDOF 1
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.8      2.413      4.110
+REMARK  Name = ligand_pdbs\ICO.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAC_9  and  CAH_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA ICO L 935      25.515   3.433   3.893  0.00  0.00    +0.000 C 
+ATOM      2  CAD ICO L 935      26.738   2.984   3.410  0.00  0.00    +0.000 C 
+ATOM      3  CAI ICO L 935      26.878   1.646   3.044  0.00  0.00    +0.000 C 
+ATOM      4  CAJ ICO L 935      25.799   0.776   3.162  0.00  0.00    +0.000 C 
+ATOM      5  CAF ICO L 935      24.579   1.234   3.647  0.00  0.00    +0.000 C 
+ATOM      6  CAB ICO L 935      24.434   2.568   4.017  0.00  0.00    +0.000 C 
+ATOM      7  NAE ICO L 935      23.407   3.265   4.498  0.00  0.00    +0.000 NA
+ATOM      8  CAG ICO L 935      23.769   4.534   4.697  0.00  0.00    +0.000 C 
+ATOM      9  CAC ICO L 935      25.044   4.662   4.335  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   9  10
+ATOM     10  CAH ICO L 935      25.852   5.955   4.430  0.00  0.00    +0.000 C 
+ATOM     11  OAL ICO L 935      26.861   6.012   5.118  0.00  0.00    +0.000 OA
+ATOM     12  OAK ICO L 935      25.492   6.967   3.807  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+TORSDOF 1
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.7      4.045      5.439
+REMARK  Name = ligand_pdbs\ICO.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAC_9  and  CAH_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA ICO L 935      27.644   0.443   3.665  0.00  0.00    +0.000 C 
+ATOM      2  CAD ICO L 935      26.442   0.334   2.977  0.00  0.00    +0.000 C 
+ATOM      3  CAI ICO L 935      25.746   1.491   2.629  0.00  0.00    +0.000 C 
+ATOM      4  CAJ ICO L 935      26.259   2.738   2.970  0.00  0.00    +0.000 C 
+ATOM      5  CAF ICO L 935      27.463   2.838   3.658  0.00  0.00    +0.000 C 
+ATOM      6  CAB ICO L 935      28.160   1.687   4.010  0.00  0.00    +0.000 C 
+ATOM      7  NAE ICO L 935      29.309   1.487   4.653  0.00  0.00    +0.000 NA
+ATOM      8  CAG ICO L 935      29.561   0.181   4.746  0.00  0.00    +0.000 C 
+ATOM      9  CAC ICO L 935      28.566  -0.476   4.151  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   9  10
+ATOM     10  CAH ICO L 935      28.456  -1.996   4.058  0.00  0.00    +0.000 C 
+ATOM     11  OAL ICO L 935      29.339  -2.655   3.529  0.00  0.00    +0.000 OA
+ATOM     12  OAK ICO L 935      27.465  -2.583   4.522  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+TORSDOF 1
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.7      2.995      5.131
+REMARK  Name = ligand_pdbs\ICO.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAC_9  and  CAH_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA ICO L 935      27.258   2.524   4.030  0.00  0.00    +0.000 C 
+ATOM      2  CAD ICO L 935      26.094   2.427   3.277  0.00  0.00    +0.000 C 
+ATOM      3  CAI ICO L 935      25.834   1.255   2.569  0.00  0.00    +0.000 C 
+ATOM      4  CAJ ICO L 935      26.737   0.198   2.620  0.00  0.00    +0.000 C 
+ATOM      5  CAF ICO L 935      27.900   0.304   3.376  0.00  0.00    +0.000 C 
+ATOM      6  CAB ICO L 935      28.165   1.472   4.083  0.00  0.00    +0.000 C 
+ATOM      7  NAE ICO L 935      29.173   1.842   4.871  0.00  0.00    +0.000 NA
+ATOM      8  CAG ICO L 935      28.968   3.079   5.325  0.00  0.00    +0.000 C 
+ATOM      9  CAC ICO L 935      27.811   3.515   4.831  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   9  10
+ATOM     10  CAH ICO L 935      27.218   4.900   5.088  0.00  0.00    +0.000 C 
+ATOM     11  OAL ICO L 935      27.800   5.907   4.715  0.00  0.00    +0.000 OA
+ATOM     12  OAK ICO L 935      26.134   5.017   5.681  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+TORSDOF 1
+ENDMDL

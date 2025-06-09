@@ -1,0 +1,54 @@
+REMARK  Name = ligand_pdbs\4Z2.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAK_4  and  NAJ_5
+REMARK    2  A    between atoms: CAG_11  and  CAE_12
+REMARK    3  A    between atoms: NAD_14  and  CAC_15
+REMARK    4  A    between atoms: CAC_15  and  CAB_16
+REMARK    5  A    between atoms: CAB_16  and  CAR_18
+REMARK    6  A    between atoms: CAR_18  and  NAS_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAE 4Z2 A 702      21.129 -49.384 -11.544  0.00  0.00    +0.000 C 
+ATOM      2  OAF 4Z2 A 702      21.016 -49.152 -12.749  0.00  0.00    +0.000 OA
+ATOM      3  NAD 4Z2 A 702      20.332 -48.856 -10.596  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1  10
+ATOM      4  NAJ 4Z2 A 702      25.681 -50.932 -11.521  0.00  0.00    +0.000 NA
+ATOM      5  CAI 4Z2 A 702      24.432 -50.975 -11.050  0.00  0.00    +0.000 A 
+ATOM      6  CAH 4Z2 A 702      23.435 -50.139 -11.566  0.00  0.00    +0.000 A 
+ATOM      7  NAO 4Z2 A 702      24.143 -51.840 -10.059  0.00  0.00    +0.000 NA
+ATOM      8  CAP 4Z2 A 702      22.849 -51.930  -9.526  0.00  0.00    +0.000 A 
+ATOM      9  CAQ 4Z2 A 702      21.846 -51.113 -10.024  0.00  0.00    +0.000 A 
+ATOM     10  CAG 4Z2 A 702      22.137 -50.216 -11.054  0.00  0.00    +0.000 A 
+BRANCH   4  14
+ATOM     11  CAL 4Z2 A 702      27.507 -50.723  -9.904  0.00  0.00    +0.000 C 
+ATOM     12  CAM 4Z2 A 702      28.813 -51.270 -10.473  0.00  0.00    +0.000 C 
+ATOM     13  CAN 4Z2 A 702      28.032 -51.717 -11.701  0.00  0.00    +0.000 C 
+ATOM     14  CAK 4Z2 A 702      26.773 -51.655 -10.842  0.00  0.00    +0.000 C 
+ENDBRANCH   4  14
+ENDBRANCH   1  10
+BRANCH   3  15
+ATOM     15  CAC 4Z2 A 702      19.245 -47.906 -10.890  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16  CAB 4Z2 A 702      19.626 -46.536 -10.289  0.00  0.00    +0.000 C 
+ATOM     17  OAA 4Z2 A 702      18.715 -45.529 -10.731  0.00  0.00    +0.000 OA
+BRANCH  16  18
+ATOM     18  CAR 4Z2 A 702      21.058 -46.142 -10.703  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  NAS 4Z2 A 702      21.466 -44.810 -10.224  0.00  0.00    +0.000 NA
+ATOM     20  CAT 4Z2 A 702      22.847 -44.590 -10.688  0.00  0.00    +0.000 C 
+ATOM     21  CAU 4Z2 A 702      23.363 -43.234 -10.249  0.00  0.00    +0.000 C 
+ATOM     22  CAV 4Z2 A 702      23.167 -43.068  -8.874  0.00  0.00    +0.000 A 
+ATOM     23  CBB 4Z2 A 702      23.956 -42.126  -8.206  0.00  0.00    +0.000 A 
+ATOM     24  CBA 4Z2 A 702      23.803 -41.928  -6.833  0.00  0.00    +0.000 A 
+ATOM     25  CAZ 4Z2 A 702      22.857 -42.669  -6.119  0.00  0.00    +0.000 A 
+ATOM     26  CAY 4Z2 A 702      22.065 -43.609  -6.780  0.00  0.00    +0.000 A 
+ATOM     27  CAW 4Z2 A 702      22.208 -43.812  -8.153  0.00  0.00    +0.000 A 
+ATOM     28  CAX 4Z2 A 702      21.394 -44.778  -8.748  0.00  0.00    +0.000 C 
+ENDBRANCH  18  19
+ENDBRANCH  16  18
+ENDBRANCH  15  16
+ENDBRANCH   3  15
+TORSDOF 6

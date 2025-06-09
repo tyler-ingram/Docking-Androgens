@@ -1,0 +1,288 @@
+MODEL 1
+REMARK VINA RESULT:      -4.9      0.000      0.000
+REMARK  Name = ligand_pdbs\EPE.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_1  and  C9_7
+REMARK    2  A    between atoms: C9_7  and  C10_8
+REMARK    3  A    between atoms: C10_8  and  S_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  EPE A1004      26.646   5.055   5.335  0.00  0.00    +0.000 NA
+ATOM      2  C2  EPE A1004      25.517   4.604   4.510  0.00  0.00    +0.000 C 
+ATOM      3  C3  EPE A1004      24.426   5.520   4.710  0.00  0.00    +0.000 C 
+ATOM      4  N4  EPE A1004      24.825   6.836   4.182  0.00  0.00    +0.000 NA
+ATOM      5  C5  EPE A1004      25.962   7.440   5.059  0.00  0.00    +0.000 C 
+ATOM      6  C6  EPE A1004      27.160   6.449   5.017  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C9  EPE A1004      27.862   4.179   5.198  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  C10 EPE A1004      27.583   3.464   3.889  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  S   EPE A1004      28.013   1.775   4.073  0.00  0.00    +0.000 S 
+ATOM     10  O1S EPE A1004      27.455   1.542   5.364  0.00  0.00    +0.000 OA
+ATOM     11  O2S EPE A1004      29.462   1.568   4.095  0.00  0.00    +0.000 OA
+ATOM     12  O3S EPE A1004      27.465   0.959   2.931  0.00  0.00    +0.000 OA
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.9      1.499      2.446
+REMARK  Name = ligand_pdbs\EPE.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_1  and  C9_7
+REMARK    2  A    between atoms: C9_7  and  C10_8
+REMARK    3  A    between atoms: C10_8  and  S_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  EPE A1004      26.049   4.119   5.233  0.00  0.00    +0.000 NA
+ATOM      2  C2  EPE A1004      26.594   5.473   5.064  0.00  0.00    +0.000 C 
+ATOM      3  C3  EPE A1004      25.815   6.144   4.058  0.00  0.00    +0.000 C 
+ATOM      4  N4  EPE A1004      24.444   6.312   4.573  0.00  0.00    +0.000 NA
+ATOM      5  C5  EPE A1004      23.748   4.924   4.695  0.00  0.00    +0.000 C 
+ATOM      6  C6  EPE A1004      24.595   4.061   5.672  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C9  EPE A1004      26.777   3.317   6.278  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  C10 EPE A1004      28.219   3.716   6.024  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  S   EPE A1004      29.121   2.284   5.563  0.00  0.00    +0.000 S 
+ATOM     10  O1S EPE A1004      28.651   2.146   4.225  0.00  0.00    +0.000 OA
+ATOM     11  O2S EPE A1004      28.752   1.113   6.360  0.00  0.00    +0.000 OA
+ATOM     12  O3S EPE A1004      30.599   2.503   5.752  0.00  0.00    +0.000 OA
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -4.9      1.124      1.815
+REMARK  Name = ligand_pdbs\EPE.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_1  and  C9_7
+REMARK    2  A    between atoms: C9_7  and  C10_8
+REMARK    3  A    between atoms: C10_8  and  S_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  EPE A1004      26.627   4.989   5.077  0.00  0.00    +0.000 NA
+ATOM      2  C2  EPE A1004      25.409   4.594   4.356  0.00  0.00    +0.000 C 
+ATOM      3  C3  EPE A1004      24.324   5.406   4.839  0.00  0.00    +0.000 C 
+ATOM      4  N4  EPE A1004      24.592   6.805   4.465  0.00  0.00    +0.000 NA
+ATOM      5  C5  EPE A1004      25.819   7.344   5.259  0.00  0.00    +0.000 C 
+ATOM      6  C6  EPE A1004      27.036   6.442   4.905  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C9  EPE A1004      27.843   4.214   4.645  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  C10 EPE A1004      28.238   3.514   5.932  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  S   EPE A1004      29.282   2.163   5.534  0.00  0.00    +0.000 S 
+ATOM     10  O1S EPE A1004      28.876   1.958   4.183  0.00  0.00    +0.000 OA
+ATOM     11  O2S EPE A1004      28.991   0.978   6.343  0.00  0.00    +0.000 OA
+ATOM     12  O3S EPE A1004      30.726   2.519   5.770  0.00  0.00    +0.000 OA
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -4.6      3.814      5.418
+REMARK  Name = ligand_pdbs\EPE.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_1  and  C9_7
+REMARK    2  A    between atoms: C9_7  and  C10_8
+REMARK    3  A    between atoms: C10_8  and  S_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  EPE A1004      27.743   1.803   6.283  0.00  0.00    +0.000 NA
+ATOM      2  C2  EPE A1004      29.182   2.081   6.187  0.00  0.00    +0.000 C 
+ATOM      3  C3  EPE A1004      29.889   0.846   6.392  0.00  0.00    +0.000 C 
+ATOM      4  N4  EPE A1004      29.568  -0.061   5.276  0.00  0.00    +0.000 NA
+ATOM      5  C5  EPE A1004      28.072  -0.490   5.352  0.00  0.00    +0.000 C 
+ATOM      6  C6  EPE A1004      27.211   0.803   5.270  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C9  EPE A1004      26.891   3.025   6.069  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  C10 EPE A1004      27.935   4.076   5.738  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  S   EPE A1004      27.174   5.338   4.788  0.00  0.00    +0.000 S 
+ATOM     10  O1S EPE A1004      25.811   5.058   5.097  0.00  0.00    +0.000 OA
+ATOM     11  O2S EPE A1004      27.419   5.180   3.354  0.00  0.00    +0.000 OA
+ATOM     12  O3S EPE A1004      27.702   6.693   5.184  0.00  0.00    +0.000 OA
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.6      1.486      2.208
+REMARK  Name = ligand_pdbs\EPE.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_1  and  C9_7
+REMARK    2  A    between atoms: C9_7  and  C10_8
+REMARK    3  A    between atoms: C10_8  and  S_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  EPE A1004      25.578   4.306   4.884  0.00  0.00    +0.000 NA
+ATOM      2  C2  EPE A1004      26.802   4.832   5.503  0.00  0.00    +0.000 C 
+ATOM      3  C3  EPE A1004      27.144   6.061   4.839  0.00  0.00    +0.000 C 
+ATOM      4  N4  EPE A1004      26.084   7.046   5.117  0.00  0.00    +0.000 NA
+ATOM      5  C5  EPE A1004      24.761   6.618   4.414  0.00  0.00    +0.000 C 
+ATOM      6  C6  EPE A1004      24.367   5.221   4.973  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C9  EPE A1004      25.108   3.020   5.509  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  C10 EPE A1004      24.880   2.148   4.288  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  S   EPE A1004      26.319   1.184   4.014  0.00  0.00    +0.000 S 
+ATOM     10  O1S EPE A1004      26.868   1.225   5.329  0.00  0.00    +0.000 OA
+ATOM     11  O2S EPE A1004      27.233   1.808   3.056  0.00  0.00    +0.000 OA
+ATOM     12  O3S EPE A1004      25.955  -0.170   3.464  0.00  0.00    +0.000 OA
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -4.6      1.295      2.301
+REMARK  Name = ligand_pdbs\EPE.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_1  and  C9_7
+REMARK    2  A    between atoms: C9_7  and  C10_8
+REMARK    3  A    between atoms: C10_8  and  S_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  EPE A1004      26.392   4.268   3.623  0.00  0.00    +0.000 NA
+ATOM      2  C2  EPE A1004      26.691   5.644   4.044  0.00  0.00    +0.000 C 
+ATOM      3  C3  EPE A1004      25.476   6.409   3.960  0.00  0.00    +0.000 C 
+ATOM      4  N4  EPE A1004      24.523   5.872   4.947  0.00  0.00    +0.000 NA
+ATOM      5  C5  EPE A1004      24.072   4.441   4.529  0.00  0.00    +0.000 C 
+ATOM      6  C6  EPE A1004      25.346   3.551   4.461  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C9  EPE A1004      27.591   3.360   3.683  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  C10 EPE A1004      26.983   2.019   3.316  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  S   EPE A1004      28.125   0.756   3.734  0.00  0.00    +0.000 S 
+ATOM     10  O1S EPE A1004      27.890  -0.127   2.640  0.00  0.00    +0.000 OA
+ATOM     11  O2S EPE A1004      27.795   0.103   5.002  0.00  0.00    +0.000 OA
+ATOM     12  O3S EPE A1004      29.515   1.321   3.873  0.00  0.00    +0.000 OA
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -4.5      3.603      4.984
+REMARK  Name = ligand_pdbs\EPE.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_1  and  C9_7
+REMARK    2  A    between atoms: C9_7  and  C10_8
+REMARK    3  A    between atoms: C10_8  and  S_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  EPE A1004      27.703   2.335   4.010  0.00  0.00    +0.000 NA
+ATOM      2  C2  EPE A1004      26.783   1.684   3.066  0.00  0.00    +0.000 C 
+ATOM      3  C3  EPE A1004      27.095   0.280   3.038  0.00  0.00    +0.000 C 
+ATOM      4  N4  EPE A1004      26.796  -0.286   4.365  0.00  0.00    +0.000 NA
+ATOM      5  C5  EPE A1004      27.792   0.278   5.422  0.00  0.00    +0.000 C 
+ATOM      6  C6  EPE A1004      27.627   1.825   5.439  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C9  EPE A1004      27.463   3.815   4.139  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  C10 EPE A1004      26.001   3.928   3.749  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  S   EPE A1004      25.143   4.754   5.036  0.00  0.00    +0.000 S 
+ATOM     10  O1S EPE A1004      26.179   5.635   5.465  0.00  0.00    +0.000 OA
+ATOM     11  O2S EPE A1004      24.758   3.848   6.120  0.00  0.00    +0.000 OA
+ATOM     12  O3S EPE A1004      23.879   5.385   4.513  0.00  0.00    +0.000 OA
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -4.5      2.345      3.161
+REMARK  Name = ligand_pdbs\EPE.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_1  and  C9_7
+REMARK    2  A    between atoms: C9_7  and  C10_8
+REMARK    3  A    between atoms: C10_8  and  S_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  EPE A1004      27.455   2.411   4.447  0.00  0.00    +0.000 NA
+ATOM      2  C2  EPE A1004      27.317   3.641   3.655  0.00  0.00    +0.000 C 
+ATOM      3  C3  EPE A1004      26.155   4.345   4.125  0.00  0.00    +0.000 C 
+ATOM      4  N4  EPE A1004      26.404   4.773   5.513  0.00  0.00    +0.000 NA
+ATOM      5  C5  EPE A1004      26.470   3.530   6.450  0.00  0.00    +0.000 C 
+ATOM      6  C6  EPE A1004      27.627   2.623   5.942  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C9  EPE A1004      28.653   1.589   4.055  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  C10 EPE A1004      28.002   0.347   3.476  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  S   EPE A1004      28.247  -0.984   4.591  0.00  0.00    +0.000 S 
+ATOM     10  O1S EPE A1004      29.326  -0.442   5.350  0.00  0.00    +0.000 OA
+ATOM     11  O2S EPE A1004      28.663  -2.211   3.910  0.00  0.00    +0.000 OA
+ATOM     12  O3S EPE A1004      26.975  -1.296   5.334  0.00  0.00    +0.000 OA
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -4.5      4.190      5.849
+REMARK  Name = ligand_pdbs\EPE.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_1  and  C9_7
+REMARK    2  A    between atoms: C9_7  and  C10_8
+REMARK    3  A    between atoms: C10_8  and  S_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  EPE A1004      28.141   0.563   4.189  0.00  0.00    +0.000 NA
+ATOM      2  C2  EPE A1004      28.879  -0.305   3.260  0.00  0.00    +0.000 C 
+ATOM      3  C3  EPE A1004      29.112  -1.563   3.918  0.00  0.00    +0.000 C 
+ATOM      4  N4  EPE A1004      27.809  -2.213   4.147  0.00  0.00    +0.000 NA
+ATOM      5  C5  EPE A1004      26.990  -1.408   5.199  0.00  0.00    +0.000 C 
+ATOM      6  C6  EPE A1004      26.791   0.028   4.636  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C9  EPE A1004      27.822   1.913   3.605  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  C10 EPE A1004      28.126   2.835   4.772  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  S   EPE A1004      27.143   4.278   4.613  0.00  0.00    +0.000 S 
+ATOM     10  O1S EPE A1004      26.616   4.335   5.937  0.00  0.00    +0.000 OA
+ATOM     11  O2S EPE A1004      26.064   4.112   3.638  0.00  0.00    +0.000 OA
+ATOM     12  O3S EPE A1004      27.980   5.444   4.157  0.00  0.00    +0.000 OA
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 3
+ENDMDL

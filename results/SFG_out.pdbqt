@@ -1,0 +1,531 @@
+MODEL 1
+REMARK VINA RESULT:      -6.5      0.000      0.000
+REMARK  Name = ligand_pdbs\SFG.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_6
+REMARK    3  A    between atoms: CB_6  and  CG_7
+REMARK    4  A    between atoms: CG_7  and  CD_8
+REMARK    5  A    between atoms: CD_8  and  C5'_10
+REMARK    6  A    between atoms: C5'_10  and  C4'_11
+REMARK    7  A    between atoms: C1'_17  and  N9_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4' SFG A 701      28.379  -0.076   3.128  0.00  0.00    +0.000 C 
+ATOM      2  O4' SFG A 701      28.548   1.314   3.420  0.00  0.00    +0.000 OA
+ATOM      3  C3' SFG A 701      28.707  -0.819   4.422  0.00  0.00    +0.000 C 
+ATOM      4  O3' SFG A 701      29.905  -1.599   4.273  0.00  0.00    +0.000 OA
+ATOM      5  C2' SFG A 701      28.860   0.276   5.463  0.00  0.00    +0.000 C 
+ATOM      6  O2' SFG A 701      29.847  -0.068   6.433  0.00  0.00    +0.000 OA
+ATOM      7  C1' SFG A 701      29.260   1.489   4.649  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   7   8
+ATOM      8  N9  SFG A 701      28.818   2.796   5.186  0.00  0.00    +0.000 N 
+ATOM      9  C8  SFG A 701      28.966   3.187   6.460  0.00  0.00    +0.000 C 
+ATOM     10  N7  SFG A 701      28.433   4.425   6.659  0.00  0.00    +0.000 NA
+ATOM     11  C5  SFG A 701      27.916   4.830   5.486  0.00  0.00    +0.000 C 
+ATOM     12  C6  SFG A 701      27.209   6.036   5.031  0.00  0.00    +0.000 C 
+ATOM     13  N6  SFG A 701      26.965   7.052   5.910  0.00  0.00    +0.000 NA
+ATOM     14  N1  SFG A 701      26.831   6.092   3.727  0.00  0.00    +0.000 NA
+ATOM     15  C2  SFG A 701      27.093   5.073   2.878  0.00  0.00    +0.000 C 
+ATOM     16  N3  SFG A 701      27.728   3.940   3.251  0.00  0.00    +0.000 NA
+ATOM     17  C4  SFG A 701      28.157   3.755   4.522  0.00  0.00    +0.000 C 
+ENDBRANCH   7   8
+BRANCH   1  18
+ATOM     18  C5' SFG A 701      26.930  -0.291   2.668  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  CD  SFG A 701      26.047   0.954   2.756  0.00  0.00    +0.000 C 
+ATOM     20  NE  SFG A 701      25.068   0.969   1.676  0.00  0.00    +0.000 NA
+BRANCH  19  21
+ATOM     21  CG  SFG A 701      25.291   0.946   4.068  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  CB  SFG A 701      24.220   2.033   4.063  0.00  0.00    +0.000 C 
+BRANCH  22  24
+ATOM     23  N   SFG A 701      24.913   3.107   6.173  0.00  0.00    +0.000 NA
+ATOM     24  CA  SFG A 701      24.660   3.319   4.756  0.00  0.00    +0.000 C 
+BRANCH  24  25
+ATOM     25  C   SFG A 701      23.575   4.327   4.591  0.00  0.00    +0.000 C 
+ATOM     26  O   SFG A 701      23.834   5.532   4.834  0.00  0.00    +0.000 OA
+ATOM     27  OXT SFG A 701      22.462   3.905   4.214  0.00  0.00    +0.000 OA
+ENDBRANCH  24  25
+ENDBRANCH  22  24
+ENDBRANCH  21  22
+ENDBRANCH  19  21
+ENDBRANCH  18  19
+ENDBRANCH   1  18
+TORSDOF 7
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -6.3      2.084      5.211
+REMARK  Name = ligand_pdbs\SFG.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_6
+REMARK    3  A    between atoms: CB_6  and  CG_7
+REMARK    4  A    between atoms: CG_7  and  CD_8
+REMARK    5  A    between atoms: CD_8  and  C5'_10
+REMARK    6  A    between atoms: C5'_10  and  C4'_11
+REMARK    7  A    between atoms: C1'_17  and  N9_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4' SFG A 701      26.365   0.786   5.205  0.00  0.00    +0.000 C 
+ATOM      2  O4' SFG A 701      25.554   1.932   5.479  0.00  0.00    +0.000 OA
+ATOM      3  C3' SFG A 701      26.586   0.781   3.693  0.00  0.00    +0.000 C 
+ATOM      4  O3' SFG A 701      25.932  -0.345   3.085  0.00  0.00    +0.000 OA
+ATOM      5  C2' SFG A 701      26.013   2.105   3.219  0.00  0.00    +0.000 C 
+ATOM      6  O2' SFG A 701      25.435   1.982   1.921  0.00  0.00    +0.000 OA
+ATOM      7  C1' SFG A 701      24.979   2.444   4.273  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   7   8
+ATOM      8  N9  SFG A 701      24.759   3.887   4.515  0.00  0.00    +0.000 N 
+ATOM      9  C8  SFG A 701      23.560   4.485   4.526  0.00  0.00    +0.000 C 
+ATOM     10  N7  SFG A 701      23.680   5.825   4.744  0.00  0.00    +0.000 NA
+ATOM     11  C5  SFG A 701      24.991   6.094   4.859  0.00  0.00    +0.000 C 
+ATOM     12  C6  SFG A 701      25.779   7.315   5.088  0.00  0.00    +0.000 C 
+ATOM     13  N6  SFG A 701      25.143   8.514   5.237  0.00  0.00    +0.000 NA
+ATOM     14  N1  SFG A 701      27.130   7.192   5.152  0.00  0.00    +0.000 NA
+ATOM     15  C2  SFG A 701      27.730   5.989   5.008  0.00  0.00    +0.000 C 
+ATOM     16  N3  SFG A 701      27.053   4.842   4.784  0.00  0.00    +0.000 NA
+ATOM     17  C4  SFG A 701      25.701   4.825   4.696  0.00  0.00    +0.000 C 
+ENDBRANCH   7   8
+BRANCH   1  18
+ATOM     18  C5' SFG A 701      27.673   0.929   5.998  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  CD  SFG A 701      28.641   1.971   5.437  0.00  0.00    +0.000 C 
+ATOM     20  NE  SFG A 701      29.025   2.926   6.470  0.00  0.00    +0.000 NA
+BRANCH  19  21
+ATOM     21  CG  SFG A 701      29.898   1.283   4.950  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  CB  SFG A 701      29.750  -0.231   5.073  0.00  0.00    +0.000 C 
+BRANCH  22  24
+ATOM     23  N   SFG A 701      29.398  -0.207   2.631  0.00  0.00    +0.000 NA
+ATOM     24  CA  SFG A 701      29.938  -0.966   3.750  0.00  0.00    +0.000 C 
+BRANCH  24  25
+ATOM     25  C   SFG A 701      29.236  -2.277   3.845  0.00  0.00    +0.000 C 
+ATOM     26  O   SFG A 701      28.063  -2.298   4.297  0.00  0.00    +0.000 OA
+ATOM     27  OXT SFG A 701      29.865  -3.286   3.464  0.00  0.00    +0.000 OA
+ENDBRANCH  24  25
+ENDBRANCH  22  24
+ENDBRANCH  21  22
+ENDBRANCH  19  21
+ENDBRANCH  18  19
+ENDBRANCH   1  18
+TORSDOF 7
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.2      2.269      6.227
+REMARK  Name = ligand_pdbs\SFG.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_6
+REMARK    3  A    between atoms: CB_6  and  CG_7
+REMARK    4  A    between atoms: CG_7  and  CD_8
+REMARK    5  A    between atoms: CD_8  and  C5'_10
+REMARK    6  A    between atoms: C5'_10  and  C4'_11
+REMARK    7  A    between atoms: C1'_17  and  N9_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4' SFG A 701      25.319   4.202   4.113  0.00  0.00    +0.000 C 
+ATOM      2  O4' SFG A 701      26.375   3.445   3.516  0.00  0.00    +0.000 OA
+ATOM      3  C3' SFG A 701      24.300   3.179   4.611  0.00  0.00    +0.000 C 
+ATOM      4  O3' SFG A 701      23.073   3.277   3.868  0.00  0.00    +0.000 OA
+ATOM      5  C2' SFG A 701      24.982   1.836   4.421  0.00  0.00    +0.000 C 
+ATOM      6  O2' SFG A 701      24.038   0.820   4.087  0.00  0.00    +0.000 OA
+ATOM      7  C1' SFG A 701      25.966   2.092   3.298  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   7   8
+ATOM      8  N9  SFG A 701      27.206   1.286   3.336  0.00  0.00    +0.000 N 
+ATOM      9  C8  SFG A 701      28.432   1.759   3.068  0.00  0.00    +0.000 C 
+ATOM     10  N7  SFG A 701      29.369   0.773   3.153  0.00  0.00    +0.000 NA
+ATOM     11  C5  SFG A 701      28.724  -0.363   3.468  0.00  0.00    +0.000 C 
+ATOM     12  C6  SFG A 701      29.138  -1.756   3.695  0.00  0.00    +0.000 C 
+ATOM     13  N6  SFG A 701      30.457  -2.096   3.595  0.00  0.00    +0.000 NA
+ATOM     14  N1  SFG A 701      28.173  -2.658   4.010  0.00  0.00    +0.000 NA
+ATOM     15  C2  SFG A 701      26.876  -2.289   4.109  0.00  0.00    +0.000 C 
+ATOM     16  N3  SFG A 701      26.444  -1.026   3.897  0.00  0.00    +0.000 NA
+ATOM     17  C4  SFG A 701      27.304  -0.030   3.575  0.00  0.00    +0.000 C 
+ENDBRANCH   7   8
+BRANCH   1  18
+ATOM     18  C5' SFG A 701      25.921   5.045   5.248  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  CD  SFG A 701      27.448   5.026   5.306  0.00  0.00    +0.000 C 
+ATOM     20  NE  SFG A 701      27.980   6.383   5.341  0.00  0.00    +0.000 NA
+BRANCH  19  21
+ATOM     21  CG  SFG A 701      27.898   4.319   6.567  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  CB  SFG A 701      28.193   2.851   6.269  0.00  0.00    +0.000 C 
+BRANCH  22  24
+ATOM     23  N   SFG A 701      30.579   2.934   5.646  0.00  0.00    +0.000 NA
+ATOM     24  CA  SFG A 701      29.618   2.437   6.620  0.00  0.00    +0.000 C 
+BRANCH  24  25
+ATOM     25  C   SFG A 701      29.672   0.948   6.655  0.00  0.00    +0.000 C 
+ATOM     26  O   SFG A 701      30.795   0.387   6.620  0.00  0.00    +0.000 OA
+ATOM     27  OXT SFG A 701      28.581   0.344   6.719  0.00  0.00    +0.000 OA
+ENDBRANCH  24  25
+ENDBRANCH  22  24
+ENDBRANCH  21  22
+ENDBRANCH  19  21
+ENDBRANCH  18  19
+ENDBRANCH   1  18
+TORSDOF 7
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.1      2.189      3.467
+REMARK  Name = ligand_pdbs\SFG.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_6
+REMARK    3  A    between atoms: CB_6  and  CG_7
+REMARK    4  A    between atoms: CG_7  and  CD_8
+REMARK    5  A    between atoms: CD_8  and  C5'_10
+REMARK    6  A    between atoms: C5'_10  and  C4'_11
+REMARK    7  A    between atoms: C1'_17  and  N9_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4' SFG A 701      30.002   0.584   5.048  0.00  0.00    +0.000 C 
+ATOM      2  O4' SFG A 701      29.309   1.598   4.315  0.00  0.00    +0.000 OA
+ATOM      3  C3' SFG A 701      30.186   1.138   6.459  0.00  0.00    +0.000 C 
+ATOM      4  O3' SFG A 701      31.577   1.376   6.737  0.00  0.00    +0.000 OA
+ATOM      5  C2' SFG A 701      29.369   2.418   6.476  0.00  0.00    +0.000 C 
+ATOM      6  O2' SFG A 701      29.973   3.405   7.310  0.00  0.00    +0.000 OA
+ATOM      7  C1' SFG A 701      29.338   2.841   5.022  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   7   8
+ATOM      8  N9  SFG A 701      28.127   3.575   4.593  0.00  0.00    +0.000 N 
+ATOM      9  C8  SFG A 701      28.040   4.320   3.482  0.00  0.00    +0.000 C 
+ATOM     10  N7  SFG A 701      26.810   4.897   3.372  0.00  0.00    +0.000 NA
+ATOM     11  C5  SFG A 701      26.097   4.525   4.449  0.00  0.00    +0.000 C 
+ATOM     12  C6  SFG A 701      24.735   4.799   4.932  0.00  0.00    +0.000 C 
+ATOM     13  N6  SFG A 701      23.906   5.600   4.201  0.00  0.00    +0.000 NA
+ATOM     14  N1  SFG A 701      24.352   4.224   6.101  0.00  0.00    +0.000 NA
+ATOM     15  C2  SFG A 701      25.194   3.429   6.798  0.00  0.00    +0.000 C 
+ATOM     16  N3  SFG A 701      26.457   3.157   6.404  0.00  0.00    +0.000 NA
+ATOM     17  C4  SFG A 701      26.966   3.668   5.257  0.00  0.00    +0.000 C 
+ENDBRANCH   7   8
+BRANCH   1  18
+ATOM     18  C5' SFG A 701      29.149  -0.693   5.015  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  CD  SFG A 701      29.012  -1.326   3.630  0.00  0.00    +0.000 C 
+ATOM     20  NE  SFG A 701      29.650  -2.636   3.597  0.00  0.00    +0.000 NA
+BRANCH  19  21
+ATOM     21  CG  SFG A 701      27.546  -1.515   3.303  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  CB  SFG A 701      26.985  -0.253   2.655  0.00  0.00    +0.000 C 
+BRANCH  22  24
+ATOM     23  N   SFG A 701      25.843  -0.048   4.833  0.00  0.00    +0.000 NA
+ATOM     24  CA  SFG A 701      26.274   0.669   3.641  0.00  0.00    +0.000 C 
+BRANCH  24  25
+ATOM     25  C   SFG A 701      25.086   1.251   2.956  0.00  0.00    +0.000 C 
+ATOM     26  O   SFG A 701      24.137   1.678   3.659  0.00  0.00    +0.000 OA
+ATOM     27  OXT SFG A 701      25.110   1.280   1.708  0.00  0.00    +0.000 OA
+ENDBRANCH  24  25
+ENDBRANCH  22  24
+ENDBRANCH  21  22
+ENDBRANCH  19  21
+ENDBRANCH  18  19
+ENDBRANCH   1  18
+TORSDOF 7
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -6.1      1.707      2.793
+REMARK  Name = ligand_pdbs\SFG.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_6
+REMARK    3  A    between atoms: CB_6  and  CG_7
+REMARK    4  A    between atoms: CG_7  and  CD_8
+REMARK    5  A    between atoms: CD_8  and  C5'_10
+REMARK    6  A    between atoms: C5'_10  and  C4'_11
+REMARK    7  A    between atoms: C1'_17  and  N9_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4' SFG A 701      29.599   0.472   5.012  0.00  0.00    +0.000 C 
+ATOM      2  O4' SFG A 701      29.099   1.525   4.183  0.00  0.00    +0.000 OA
+ATOM      3  C3' SFG A 701      29.625   1.034   6.433  0.00  0.00    +0.000 C 
+ATOM      4  O3' SFG A 701      30.977   1.166   6.904  0.00  0.00    +0.000 OA
+ATOM      5  C2' SFG A 701      28.918   2.373   6.327  0.00  0.00    +0.000 C 
+ATOM      6  O2' SFG A 701      29.475   3.324   7.233  0.00  0.00    +0.000 OA
+ATOM      7  C1' SFG A 701      29.126   2.774   4.881  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   7   8
+ATOM      8  N9  SFG A 701      28.050   3.593   4.281  0.00  0.00    +0.000 N 
+ATOM      9  C8  SFG A 701      27.349   3.250   3.191  0.00  0.00    +0.000 C 
+ATOM     10  N7  SFG A 701      26.450   4.219   2.860  0.00  0.00    +0.000 NA
+ATOM     11  C5  SFG A 701      26.591   5.215   3.751  0.00  0.00    +0.000 C 
+ATOM     12  C6  SFG A 701      25.948   6.523   3.949  0.00  0.00    +0.000 C 
+ATOM     13  N6  SFG A 701      24.961   6.929   3.098  0.00  0.00    +0.000 NA
+ATOM     14  N1  SFG A 701      26.365   7.279   4.998  0.00  0.00    +0.000 NA
+ATOM     15  C2  SFG A 701      27.340   6.846   5.829  0.00  0.00    +0.000 C 
+ATOM     16  N3  SFG A 701      27.970   5.660   5.681  0.00  0.00    +0.000 NA
+ATOM     17  C4  SFG A 701      27.651   4.810   4.676  0.00  0.00    +0.000 C 
+ENDBRANCH   7   8
+BRANCH   1  18
+ATOM     18  C5' SFG A 701      28.659  -0.735   4.865  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  CD  SFG A 701      27.733  -0.669   3.651  0.00  0.00    +0.000 C 
+ATOM     20  NE  SFG A 701      27.995  -1.780   2.743  0.00  0.00    +0.000 NA
+BRANCH  19  21
+ATOM     21  CG  SFG A 701      26.293  -0.772   4.106  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  CB  SFG A 701      25.859   0.531   4.772  0.00  0.00    +0.000 C 
+BRANCH  22  24
+ATOM     23  N   SFG A 701      24.619   1.220   2.754  0.00  0.00    +0.000 NA
+ATOM     24  CA  SFG A 701      24.563   1.098   4.203  0.00  0.00    +0.000 C 
+BRANCH  24  25
+ATOM     25  C   SFG A 701      24.342   2.443   4.806  0.00  0.00    +0.000 C 
+ATOM     26  O   SFG A 701      23.500   3.209   4.274  0.00  0.00    +0.000 OA
+ATOM     27  OXT SFG A 701      25.017   2.727   5.817  0.00  0.00    +0.000 OA
+ENDBRANCH  24  25
+ENDBRANCH  22  24
+ENDBRANCH  21  22
+ENDBRANCH  19  21
+ENDBRANCH  18  19
+ENDBRANCH   1  18
+TORSDOF 7
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.8      2.445      4.382
+REMARK  Name = ligand_pdbs\SFG.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_6
+REMARK    3  A    between atoms: CB_6  and  CG_7
+REMARK    4  A    between atoms: CG_7  and  CD_8
+REMARK    5  A    between atoms: CD_8  and  C5'_10
+REMARK    6  A    between atoms: C5'_10  and  C4'_11
+REMARK    7  A    between atoms: C1'_17  and  N9_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4' SFG A 701      29.934   1.392   4.728  0.00  0.00    +0.000 C 
+ATOM      2  O4' SFG A 701      28.715   2.012   4.309  0.00  0.00    +0.000 OA
+ATOM      3  C3' SFG A 701      30.252   1.980   6.101  0.00  0.00    +0.000 C 
+ATOM      4  O3' SFG A 701      31.441   2.787   6.048  0.00  0.00    +0.000 OA
+ATOM      5  C2' SFG A 701      29.021   2.791   6.464  0.00  0.00    +0.000 C 
+ATOM      6  O2' SFG A 701      29.370   3.946   7.225  0.00  0.00    +0.000 OA
+ATOM      7  C1' SFG A 701      28.423   3.154   5.120  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   7   8
+ATOM      8  N9  SFG A 701      26.951   3.301   5.092  0.00  0.00    +0.000 N 
+ATOM      9  C8  SFG A 701      26.081   2.319   5.366  0.00  0.00    +0.000 C 
+ATOM     10  N7  SFG A 701      24.795   2.749   5.225  0.00  0.00    +0.000 NA
+ATOM     11  C5  SFG A 701      24.845   4.033   4.834  0.00  0.00    +0.000 C 
+ATOM     12  C6  SFG A 701      23.836   5.053   4.507  0.00  0.00    +0.000 C 
+ATOM     13  N6  SFG A 701      22.509   4.743   4.586  0.00  0.00    +0.000 NA
+ATOM     14  N1  SFG A 701      24.278   6.284   4.143  0.00  0.00    +0.000 NA
+ATOM     15  C2  SFG A 701      25.600   6.563   4.081  0.00  0.00    +0.000 C 
+ATOM     16  N3  SFG A 701      26.564   5.658   4.359  0.00  0.00    +0.000 NA
+ATOM     17  C4  SFG A 701      26.260   4.392   4.733  0.00  0.00    +0.000 C 
+ENDBRANCH   7   8
+BRANCH   1  18
+ATOM     18  C5' SFG A 701      29.706  -0.126   4.767  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  CD  SFG A 701      30.025  -0.847   3.458  0.00  0.00    +0.000 C 
+ATOM     20  NE  SFG A 701      30.201  -2.276   3.685  0.00  0.00    +0.000 NA
+BRANCH  19  21
+ATOM     21  CG  SFG A 701      28.876  -0.669   2.489  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  CB  SFG A 701      27.908  -1.845   2.600  0.00  0.00    +0.000 C 
+BRANCH  22  24
+ATOM     23  N   SFG A 701      26.311  -0.061   3.195  0.00  0.00    +0.000 NA
+ATOM     24  CA  SFG A 701      26.597  -1.485   3.291  0.00  0.00    +0.000 C 
+BRANCH  24  25
+ATOM     25  C   SFG A 701      26.708  -1.873   4.725  0.00  0.00    +0.000 C 
+ATOM     26  O   SFG A 701      26.440  -1.014   5.602  0.00  0.00    +0.000 OA
+ATOM     27  OXT SFG A 701      27.066  -3.045   4.969  0.00  0.00    +0.000 OA
+ENDBRANCH  24  25
+ENDBRANCH  22  24
+ENDBRANCH  21  22
+ENDBRANCH  19  21
+ENDBRANCH  18  19
+ENDBRANCH   1  18
+TORSDOF 7
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.6      3.787      6.766
+REMARK  Name = ligand_pdbs\SFG.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_6
+REMARK    3  A    between atoms: CB_6  and  CG_7
+REMARK    4  A    between atoms: CG_7  and  CD_8
+REMARK    5  A    between atoms: CD_8  and  C5'_10
+REMARK    6  A    between atoms: C5'_10  and  C4'_11
+REMARK    7  A    between atoms: C1'_17  and  N9_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4' SFG A 701      25.239   5.990   4.885  0.00  0.00    +0.000 C 
+ATOM      2  O4' SFG A 701      26.459   5.248   4.807  0.00  0.00    +0.000 OA
+ATOM      3  C3' SFG A 701      24.138   4.961   5.133  0.00  0.00    +0.000 C 
+ATOM      4  O3' SFG A 701      23.254   4.875   4.002  0.00  0.00    +0.000 OA
+ATOM      5  C2' SFG A 701      24.880   3.660   5.384  0.00  0.00    +0.000 C 
+ATOM      6  O2' SFG A 701      24.146   2.543   4.887  0.00  0.00    +0.000 OA
+ATOM      7  C1' SFG A 701      26.192   3.851   4.651  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   7   8
+ATOM      8  N9  SFG A 701      27.359   3.152   5.233  0.00  0.00    +0.000 N 
+ATOM      9  C8  SFG A 701      28.412   3.763   5.794  0.00  0.00    +0.000 C 
+ATOM     10  N7  SFG A 701      29.342   2.857   6.210  0.00  0.00    +0.000 NA
+ATOM     11  C5  SFG A 701      28.879   1.637   5.891  0.00  0.00    +0.000 C 
+ATOM     12  C6  SFG A 701      29.388   0.266   6.051  0.00  0.00    +0.000 C 
+ATOM     13  N6  SFG A 701      30.596   0.056   6.651  0.00  0.00    +0.000 NA
+ATOM     14  N1  SFG A 701      28.612  -0.752   5.594  0.00  0.00    +0.000 NA
+ATOM     15  C2  SFG A 701      27.416  -0.513   5.011  0.00  0.00    +0.000 C 
+ATOM     16  N3  SFG A 701      26.912   0.728   4.830  0.00  0.00    +0.000 NA
+ATOM     17  C4  SFG A 701      27.584   1.831   5.238  0.00  0.00    +0.000 C 
+ENDBRANCH   7   8
+BRANCH   1  18
+ATOM     18  C5' SFG A 701      25.373   7.007   6.028  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  CD  SFG A 701      25.590   8.449   5.569  0.00  0.00    +0.000 C 
+ATOM     20  NE  SFG A 701      25.564   8.535   4.113  0.00  0.00    +0.000 NA
+BRANCH  19  21
+ATOM     21  CG  SFG A 701      24.477   9.324   6.105  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  CB  SFG A 701      24.796   9.765   7.531  0.00  0.00    +0.000 C 
+BRANCH  22  24
+ATOM     23  N   SFG A 701      23.832  12.034   7.440  0.00  0.00    +0.000 NA
+ATOM     24  CA  SFG A 701      23.774  10.741   8.105  0.00  0.00    +0.000 C 
+BRANCH  24  25
+ATOM     25  C   SFG A 701      24.066  10.916   9.556  0.00  0.00    +0.000 C 
+ATOM     26  O   SFG A 701      23.738   9.997  10.348  0.00  0.00    +0.000 OA
+ATOM     27  OXT SFG A 701      24.626  11.978   9.897  0.00  0.00    +0.000 OA
+ENDBRANCH  24  25
+ENDBRANCH  22  24
+ENDBRANCH  21  22
+ENDBRANCH  19  21
+ENDBRANCH  18  19
+ENDBRANCH   1  18
+TORSDOF 7
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.1      2.547      5.115
+REMARK  Name = ligand_pdbs\SFG.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_6
+REMARK    3  A    between atoms: CB_6  and  CG_7
+REMARK    4  A    between atoms: CG_7  and  CD_8
+REMARK    5  A    between atoms: CD_8  and  C5'_10
+REMARK    6  A    between atoms: C5'_10  and  C4'_11
+REMARK    7  A    between atoms: C1'_17  and  N9_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4' SFG A 701      26.285   3.842   6.508  0.00  0.00    +0.000 C 
+ATOM      2  O4' SFG A 701      27.083   2.664   6.656  0.00  0.00    +0.000 OA
+ATOM      3  C3' SFG A 701      26.959   4.670   5.415  0.00  0.00    +0.000 C 
+ATOM      4  O3' SFG A 701      27.496   5.889   5.956  0.00  0.00    +0.000 OA
+ATOM      5  C2' SFG A 701      28.040   3.760   4.859  0.00  0.00    +0.000 C 
+ATOM      6  O2' SFG A 701      29.184   4.508   4.451  0.00  0.00    +0.000 OA
+ATOM      7  C1' SFG A 701      28.349   2.828   6.011  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   7   8
+ATOM      8  N9  SFG A 701      28.786   1.465   5.635  0.00  0.00    +0.000 N 
+ATOM      9  C8  SFG A 701      29.789   0.796   6.222  0.00  0.00    +0.000 C 
+ATOM     10  N7  SFG A 701      29.976  -0.421   5.638  0.00  0.00    +0.000 NA
+ATOM     11  C5  SFG A 701      29.082  -0.526   4.640  0.00  0.00    +0.000 C 
+ATOM     12  C6  SFG A 701      28.767  -1.557   3.640  0.00  0.00    +0.000 C 
+ATOM     13  N6  SFG A 701      29.476  -2.724   3.623  0.00  0.00    +0.000 NA
+ATOM     14  N1  SFG A 701      27.758  -1.303   2.767  0.00  0.00    +0.000 NA
+ATOM     15  C2  SFG A 701      27.069  -0.140   2.814  0.00  0.00    +0.000 C 
+ATOM     16  N3  SFG A 701      27.328   0.842   3.705  0.00  0.00    +0.000 NA
+ATOM     17  C4  SFG A 701      28.309   0.717   4.630  0.00  0.00    +0.000 C 
+ENDBRANCH   7   8
+BRANCH   1  18
+ATOM     18  C5' SFG A 701      24.860   3.407   6.135  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  CD  SFG A 701      24.538   3.514   4.644  0.00  0.00    +0.000 C 
+ATOM     20  NE  SFG A 701      23.935   2.279   4.157  0.00  0.00    +0.000 NA
+BRANCH  19  21
+ATOM     21  CG  SFG A 701      23.545   4.634   4.420  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  CB  SFG A 701      24.060   5.926   5.050  0.00  0.00    +0.000 C 
+BRANCH  22  24
+ATOM     23  N   SFG A 701      25.508   6.315   3.090  0.00  0.00    +0.000 NA
+ATOM     24  CA  SFG A 701      24.580   6.931   4.027  0.00  0.00    +0.000 C 
+BRANCH  24  25
+ATOM     25  C   SFG A 701      25.274   8.025   4.765  0.00  0.00    +0.000 C 
+ATOM     26  O   SFG A 701      24.998   8.199   5.978  0.00  0.00    +0.000 OA
+ATOM     27  OXT SFG A 701      26.099   8.707   4.123  0.00  0.00    +0.000 OA
+ENDBRANCH  24  25
+ENDBRANCH  22  24
+ENDBRANCH  21  22
+ENDBRANCH  19  21
+ENDBRANCH  18  19
+ENDBRANCH   1  18
+TORSDOF 7
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.0      2.061      4.745
+REMARK  Name = ligand_pdbs\SFG.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_6
+REMARK    3  A    between atoms: CB_6  and  CG_7
+REMARK    4  A    between atoms: CG_7  and  CD_8
+REMARK    5  A    between atoms: CD_8  and  C5'_10
+REMARK    6  A    between atoms: C5'_10  and  C4'_11
+REMARK    7  A    between atoms: C1'_17  and  N9_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4' SFG A 701      27.841   0.900   5.040  0.00  0.00    +0.000 C 
+ATOM      2  O4' SFG A 701      27.559   2.174   4.455  0.00  0.00    +0.000 OA
+ATOM      3  C3' SFG A 701      28.585   1.192   6.342  0.00  0.00    +0.000 C 
+ATOM      4  O3' SFG A 701      29.945   0.732   6.268  0.00  0.00    +0.000 OA
+ATOM      5  C2' SFG A 701      28.495   2.699   6.504  0.00  0.00    +0.000 C 
+ATOM      6  O2' SFG A 701      29.667   3.222   7.127  0.00  0.00    +0.000 OA
+ATOM      7  C1' SFG A 701      28.332   3.201   5.084  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   7   8
+ATOM      8  N9  SFG A 701      27.548   4.446   4.929  0.00  0.00    +0.000 N 
+ATOM      9  C8  SFG A 701      28.070   5.680   4.909  0.00  0.00    +0.000 C 
+ATOM     10  N7  SFG A 701      27.096   6.625   4.786  0.00  0.00    +0.000 NA
+ATOM     11  C5  SFG A 701      25.918   5.979   4.743  0.00  0.00    +0.000 C 
+ATOM     12  C6  SFG A 701      24.514   6.400   4.629  0.00  0.00    +0.000 C 
+ATOM     13  N6  SFG A 701      24.209   7.728   4.533  0.00  0.00    +0.000 NA
+ATOM     14  N1  SFG A 701      23.563   5.430   4.612  0.00  0.00    +0.000 NA
+ATOM     15  C2  SFG A 701      23.897   4.123   4.700  0.00  0.00    +0.000 C 
+ATOM     16  N3  SFG A 701      25.170   3.686   4.819  0.00  0.00    +0.000 NA
+ATOM     17  C4  SFG A 701      26.213   4.550   4.850  0.00  0.00    +0.000 C 
+ENDBRANCH   7   8
+BRANCH   1  18
+ATOM     18  C5' SFG A 701      26.506   0.175   5.265  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  CD  SFG A 701      26.072  -0.723   4.107  0.00  0.00    +0.000 C 
+ATOM     20  NE  SFG A 701      26.246  -0.039   2.831  0.00  0.00    +0.000 NA
+BRANCH  19  21
+ATOM     21  CG  SFG A 701      26.930  -1.970   4.085  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  CB  SFG A 701      28.003  -1.851   3.007  0.00  0.00    +0.000 C 
+BRANCH  22  24
+ATOM     23  N   SFG A 701      29.883  -0.291   2.662  0.00  0.00    +0.000 NA
+ATOM     24  CA  SFG A 701      29.332  -1.319   3.533  0.00  0.00    +0.000 C 
+BRANCH  24  25
+ATOM     25  C   SFG A 701      30.286  -2.461   3.618  0.00  0.00    +0.000 C 
+ATOM     26  O   SFG A 701      31.511  -2.211   3.741  0.00  0.00    +0.000 OA
+ATOM     27  OXT SFG A 701      29.800  -3.610   3.563  0.00  0.00    +0.000 OA
+ENDBRANCH  24  25
+ENDBRANCH  22  24
+ENDBRANCH  21  22
+ENDBRANCH  19  21
+ENDBRANCH  18  19
+ENDBRANCH   1  18
+TORSDOF 7
+ENDMDL

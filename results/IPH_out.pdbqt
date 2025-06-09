@@ -1,0 +1,258 @@
+MODEL 1
+REMARK VINA RESULT:      -6.3      0.000      0.000
+REMARK  Name = ligand_pdbs\IPH.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_4
+REMARK    2  A    between atoms: C1_2  and  C4_7
+REMARK    3  A    between atoms: C1_2  and  C5_9
+REMARK    4  A    between atoms: C2_4  and  C6_11
+REMARK    5  A    between atoms: C3_5  and  C4_8
+REMARK    6  A    between atoms: C5_9  and  C6_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  IPH B 361      27.328   5.340   4.796  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  C3  IPH B 361      25.839   6.677   4.744  0.00  0.00    +0.000 C 
+ATOM      3  C4  IPH B 361      27.188   6.366   4.877  0.00  0.00    +0.000 C 
+ATOM      4  C5  IPH B 361      26.180   7.436   5.128  0.00  0.00    +0.000 C 
+ATOM      5  C6  IPH B 361      27.354   6.691   5.129  0.00  0.00    +0.000 C 
+BRANCH   2   7
+ATOM      6  C2  IPH B 361      25.121   7.132   3.642  0.00  0.00    +0.000 C 
+ATOM      7  C4  IPH B 361      24.975   6.830   4.795  0.00  0.00    +0.000 C 
+ENDBRANCH   2   7
+ENDBRANCH   1   3
+BRANCH   1   8
+ATOM      8  C5  IPH B 361      27.508   5.014   4.968  0.00  0.00    +0.000 C 
+ATOM      9  O1  IPH B 361      27.880   4.432   5.661  0.00  0.00    +0.000 OA
+BRANCH   8  10
+ATOM     10  C6  IPH B 361      27.634   4.319   3.769  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  C2  IPH B 361      27.182   3.686   4.230  0.00  0.00    +0.000 C 
+BRANCH  11  12
+ATOM     12  C1  IPH B 361      27.447   2.942   3.843  0.00  0.00    +0.000 C 
+ATOM     13  C3  IPH B 361      26.343   2.984   3.369  0.00  0.00    +0.000 C 
+ATOM     14  O1  IPH B 361      28.310   1.971   3.401  0.00  0.00    +0.000 OA
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   1   8
+TORSDOF 6
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -6.1      2.214      2.748
+REMARK  Name = ligand_pdbs\IPH.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_4
+REMARK    2  A    between atoms: C1_2  and  C4_7
+REMARK    3  A    between atoms: C1_2  and  C5_9
+REMARK    4  A    between atoms: C2_4  and  C6_11
+REMARK    5  A    between atoms: C3_5  and  C4_8
+REMARK    6  A    between atoms: C5_9  and  C6_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  IPH B 361      24.574   5.453   4.566  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  C3  IPH B 361      25.575   7.136   4.980  0.00  0.00    +0.000 C 
+ATOM      3  C4  IPH B 361      24.657   6.425   4.213  0.00  0.00    +0.000 C 
+ATOM      4  C5  IPH B 361      25.507   7.651   4.224  0.00  0.00    +0.000 C 
+ATOM      5  C6  IPH B 361      24.669   6.620   3.814  0.00  0.00    +0.000 C 
+BRANCH   2   7
+ATOM      6  C2  IPH B 361      25.420   8.330   5.678  0.00  0.00    +0.000 C 
+ATOM      7  C4  IPH B 361      26.254   7.516   5.389  0.00  0.00    +0.000 C 
+ENDBRANCH   2   7
+ENDBRANCH   1   3
+BRANCH   1   8
+ATOM      8  C5  IPH B 361      24.307   5.158   4.670  0.00  0.00    +0.000 C 
+ATOM      9  O1  IPH B 361      23.469   4.736   4.944  0.00  0.00    +0.000 OA
+BRANCH   8  10
+ATOM     10  C6  IPH B 361      25.216   4.123   4.472  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  C2  IPH B 361      24.890   3.848   5.270  0.00  0.00    +0.000 C 
+BRANCH  11  12
+ATOM     12  C1  IPH B 361      25.117   2.999   5.287  0.00  0.00    +0.000 C 
+ATOM     13  C3  IPH B 361      25.792   3.363   6.213  0.00  0.00    +0.000 C 
+ATOM     14  O1  IPH B 361      25.052   1.655   5.014  0.00  0.00    +0.000 OA
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   1   8
+TORSDOF 6
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.0      1.498      4.138
+REMARK  Name = ligand_pdbs\IPH.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_4
+REMARK    2  A    between atoms: C1_2  and  C4_7
+REMARK    3  A    between atoms: C1_2  and  C5_9
+REMARK    4  A    between atoms: C2_4  and  C6_11
+REMARK    5  A    between atoms: C3_5  and  C4_8
+REMARK    6  A    between atoms: C5_9  and  C6_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  IPH B 361      27.046   3.936   3.634  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  C3  IPH B 361      26.291   2.170   3.070  0.00  0.00    +0.000 C 
+ATOM      3  C4  IPH B 361      27.299   2.929   3.656  0.00  0.00    +0.000 C 
+ATOM      4  C5  IPH B 361      27.002   1.591   3.067  0.00  0.00    +0.000 C 
+ATOM      5  C6  IPH B 361      27.668   2.692   3.594  0.00  0.00    +0.000 C 
+BRANCH   2   7
+ATOM      6  C2  IPH B 361      25.405   1.257   3.635  0.00  0.00    +0.000 C 
+ATOM      7  C4  IPH B 361      25.710   1.734   2.576  0.00  0.00    +0.000 C 
+ENDBRANCH   2   7
+ENDBRANCH   1   3
+BRANCH   1   8
+ATOM      8  C5  IPH B 361      27.189   4.313   3.559  0.00  0.00    +0.000 C 
+ATOM      9  O1  IPH B 361      27.700   5.032   3.137  0.00  0.00    +0.000 OA
+BRANCH   8  10
+ATOM     10  C6  IPH B 361      26.409   4.917   4.540  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  C2  IPH B 361      26.364   5.578   3.925  0.00  0.00    +0.000 C 
+BRANCH  11  12
+ATOM     12  C1  IPH B 361      26.266   6.296   4.423  0.00  0.00    +0.000 C 
+ATOM     13  C3  IPH B 361      25.117   6.176   4.089  0.00  0.00    +0.000 C 
+ATOM     14  O1  IPH B 361      26.579   7.257   5.352  0.00  0.00    +0.000 OA
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   1   8
+TORSDOF 6
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.0      2.596      4.601
+REMARK  Name = ligand_pdbs\IPH.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_4
+REMARK    2  A    between atoms: C1_2  and  C4_7
+REMARK    3  A    between atoms: C1_2  and  C5_9
+REMARK    4  A    between atoms: C2_4  and  C6_11
+REMARK    5  A    between atoms: C3_5  and  C4_8
+REMARK    6  A    between atoms: C5_9  and  C6_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  IPH B 361      24.461   4.139   4.679  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  C3  IPH B 361      25.420   2.665   3.722  0.00  0.00    +0.000 C 
+ATOM      3  C4  IPH B 361      24.555   3.106   4.719  0.00  0.00    +0.000 C 
+ATOM      4  C5  IPH B 361      25.390   1.946   4.291  0.00  0.00    +0.000 C 
+ATOM      5  C6  IPH B 361      24.588   2.801   5.039  0.00  0.00    +0.000 C 
+BRANCH   2   7
+ATOM      6  C2  IPH B 361      25.313   1.536   2.915  0.00  0.00    +0.000 C 
+ATOM      7  C4  IPH B 361      26.070   2.430   3.180  0.00  0.00    +0.000 C 
+ENDBRANCH   2   7
+ENDBRANCH   1   3
+BRANCH   1   8
+ATOM      8  C5  IPH B 361      24.193   4.449   4.686  0.00  0.00    +0.000 C 
+ATOM      9  O1  IPH B 361      23.340   4.924   4.628  0.00  0.00    +0.000 OA
+BRANCH   8  10
+ATOM     10  C6  IPH B 361      25.144   5.403   5.033  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  C2  IPH B 361      24.640   5.926   4.496  0.00  0.00    +0.000 C 
+BRANCH  11  12
+ATOM     12  C1  IPH B 361      24.868   6.737   4.748  0.00  0.00    +0.000 C 
+ATOM     13  C3  IPH B 361      25.236   6.815   3.606  0.00  0.00    +0.000 C 
+ATOM     14  O1  IPH B 361      24.912   7.865   5.528  0.00  0.00    +0.000 OA
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   1   8
+TORSDOF 6
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -6.0      1.958      2.646
+REMARK  Name = ligand_pdbs\IPH.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_4
+REMARK    2  A    between atoms: C1_2  and  C4_7
+REMARK    3  A    between atoms: C1_2  and  C5_9
+REMARK    4  A    between atoms: C2_4  and  C6_11
+REMARK    5  A    between atoms: C3_5  and  C4_8
+REMARK    6  A    between atoms: C5_9  and  C6_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  IPH B 361      24.641   3.930   4.830  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  C3  IPH B 361      25.171   5.810   4.390  0.00  0.00    +0.000 C 
+ATOM      3  C4  IPH B 361      24.245   4.890   4.870  0.00  0.00    +0.000 C 
+ATOM      4  C5  IPH B 361      24.386   6.282   4.355  0.00  0.00    +0.000 C 
+ATOM      5  C6  IPH B 361      23.850   5.075   4.789  0.00  0.00    +0.000 C 
+BRANCH   2   7
+ATOM      6  C2  IPH B 361      25.663   6.968   4.984  0.00  0.00    +0.000 C 
+ATOM      7  C4  IPH B 361      25.716   6.347   3.958  0.00  0.00    +0.000 C 
+ENDBRANCH   2   7
+ENDBRANCH   1   3
+BRANCH   1   8
+ATOM      8  C5  IPH B 361      24.758   3.609   5.057  0.00  0.00    +0.000 C 
+ATOM      9  O1  IPH B 361      25.055   3.096   5.835  0.00  0.00    +0.000 OA
+BRANCH   8  10
+ATOM     10  C6  IPH B 361      24.592   2.689   4.026  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  C2  IPH B 361      25.446   2.482   4.237  0.00  0.00    +0.000 C 
+BRANCH  11  12
+ATOM     12  C1  IPH B 361      25.530   1.666   3.921  0.00  0.00    +0.000 C 
+ATOM     13  C3  IPH B 361      26.207   2.224   3.100  0.00  0.00    +0.000 C 
+ATOM     14  O1  IPH B 361      25.474   0.295   3.900  0.00  0.00    +0.000 OA
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   1   8
+TORSDOF 6
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.9      1.482      2.111
+REMARK  Name = ligand_pdbs\IPH.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_4
+REMARK    2  A    between atoms: C1_2  and  C4_7
+REMARK    3  A    between atoms: C1_2  and  C5_9
+REMARK    4  A    between atoms: C2_4  and  C6_11
+REMARK    5  A    between atoms: C3_5  and  C4_8
+REMARK    6  A    between atoms: C5_9  and  C6_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  IPH B 361      26.800   3.823   3.525  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  C3  IPH B 361      25.748   5.290   4.390  0.00  0.00    +0.000 C 
+ATOM      3  C4  IPH B 361      26.688   4.854   3.462  0.00  0.00    +0.000 C 
+ATOM      4  C5  IPH B 361      26.189   6.065   4.175  0.00  0.00    +0.000 C 
+ATOM      5  C6  IPH B 361      26.958   5.200   3.403  0.00  0.00    +0.000 C 
+BRANCH   2   7
+ATOM      6  C2  IPH B 361      24.647   6.122   4.210  0.00  0.00    +0.000 C 
+ATOM      7  C4  IPH B 361      25.260   5.552   5.072  0.00  0.00    +0.000 C 
+ENDBRANCH   2   7
+ENDBRANCH   1   3
+BRANCH   1   8
+ATOM      8  C5  IPH B 361      27.070   3.516   3.497  0.00  0.00    +0.000 C 
+ATOM      9  O1  IPH B 361      27.925   3.041   3.527  0.00  0.00    +0.000 OA
+BRANCH   8  10
+ATOM     10  C6  IPH B 361      26.112   2.567   3.157  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  C2  IPH B 361      26.755   1.995   3.434  0.00  0.00    +0.000 C 
+BRANCH  11  12
+ATOM     12  C1  IPH B 361      26.291   1.360   3.827  0.00  0.00    +0.000 C 
+ATOM     13  C3  IPH B 361      26.452   0.809   2.771  0.00  0.00    +0.000 C 
+ATOM     14  O1  IPH B 361      25.699   0.658   4.847  0.00  0.00    +0.000 OA
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   1   8
+TORSDOF 6
+ENDMDL

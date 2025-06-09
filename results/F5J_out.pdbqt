@@ -1,0 +1,405 @@
+MODEL 1
+REMARK VINA RESULT:      -7.2      0.000      0.000
+REMARK  Name = ligand_pdbs\F5J.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_10  and  C17_17
+REMARK    2  A    between atoms: C15_15  and  C17_17
+REMARK    3  A    between atoms: C16_16  and  N20_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 F5J A 701      30.067   1.792   5.605  0.00  0.00    +0.000 C 
+ATOM      2  C14 F5J A 701      28.711   2.392   6.005  0.00  0.00    +0.000 C 
+ATOM      3  C15 F5J A 701      29.898   1.430   4.129  0.00  0.00    +0.000 C 
+ATOM      4  C16 F5J A 701      28.162   2.893   4.682  0.00  0.00    +0.000 C 
+ATOM      5  O22 F5J A 701      28.563   1.874   3.770  0.00  0.00    +0.000 OA
+ATOM      6  O23 F5J A 701      31.145   2.730   5.702  0.00  0.00    +0.000 OA
+ATOM      7  O24 F5J A 701      28.792   3.387   7.020  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  16
+ATOM      8  C7  F5J A 701      25.943   1.805   4.394  0.00  0.00    +0.000 C 
+ATOM      9  C6  F5J A 701      24.606   2.185   4.363  0.00  0.00    +0.000 C 
+ATOM     10  C8  F5J A 701      25.286   6.145   4.842  0.00  0.00    +0.000 C 
+ATOM     11  C9  F5J A 701      24.576   3.594   4.478  0.00  0.00    +0.000 C 
+ATOM     12  C11 F5J A 701      25.907   4.023   4.614  0.00  0.00    +0.000 C 
+ATOM     13  C12 F5J A 701      23.589   4.575   4.512  0.00  0.00    +0.000 C 
+ATOM     14  N18 F5J A 701      26.330   5.294   4.839  0.00  0.00    +0.000 NA
+ATOM     15  N19 F5J A 701      23.967   5.867   4.645  0.00  0.00    +0.000 NA
+ATOM     16  N20 F5J A 701      26.723   2.913   4.561  0.00  0.00    +0.000 N 
+ATOM     17  N21 F5J A 701      22.219   4.268   4.354  0.00  0.00    +0.000 NA
+ENDBRANCH   4  16
+BRANCH   3  18
+ATOM     18  C17 F5J A 701      30.052  -0.061   3.847  0.00  0.00    +0.000 C 
+ATOM     19  O25 F5J A 701      30.401  -0.272   2.476  0.00  0.00    +0.000 OA
+BRANCH  18  25
+ATOM     20  C1  F5J A 701      26.382  -2.224   4.619  0.00  0.00    +0.000 A 
+ATOM     21  C5  F5J A 701      28.067  -1.382   3.059  0.00  0.00    +0.000 A 
+ATOM     22  C4  F5J A 701      28.284  -0.940   5.430  0.00  0.00    +0.000 A 
+ATOM     23  C3  F5J A 701      26.873  -2.081   3.311  0.00  0.00    +0.000 A 
+ATOM     24  C2  F5J A 701      27.092  -1.649   5.681  0.00  0.00    +0.000 A 
+ATOM     25  C10 F5J A 701      28.775  -0.808   4.120  0.00  0.00    +0.000 A 
+ENDBRANCH  18  25
+ENDBRANCH   3  18
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -6.5      1.557      2.536
+REMARK  Name = ligand_pdbs\F5J.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_10  and  C17_17
+REMARK    2  A    between atoms: C15_15  and  C17_17
+REMARK    3  A    between atoms: C16_16  and  N20_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 F5J A 701      29.545   1.110   6.159  0.00  0.00    +0.000 C 
+ATOM      2  C14 F5J A 701      28.918   2.495   6.378  0.00  0.00    +0.000 C 
+ATOM      3  C15 F5J A 701      29.407   0.870   4.654  0.00  0.00    +0.000 C 
+ATOM      4  C16 F5J A 701      29.072   3.153   5.020  0.00  0.00    +0.000 C 
+ATOM      5  O22 F5J A 701      28.808   2.080   4.120  0.00  0.00    +0.000 OA
+ATOM      6  O23 F5J A 701      30.939   1.068   6.480  0.00  0.00    +0.000 OA
+ATOM      7  O24 F5J A 701      29.494   3.229   7.454  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  16
+ATOM      8  C7  F5J A 701      28.274   5.179   3.817  0.00  0.00    +0.000 C 
+ATOM      9  C6  F5J A 701      27.091   5.899   3.685  0.00  0.00    +0.000 C 
+ATOM     10  C8  F5J A 701      24.914   3.598   6.202  0.00  0.00    +0.000 C 
+ATOM     11  C9  F5J A 701      26.141   5.290   4.535  0.00  0.00    +0.000 C 
+ATOM     12  C11 F5J A 701      26.772   4.187   5.134  0.00  0.00    +0.000 C 
+ATOM     13  C12 F5J A 701      24.806   5.510   4.865  0.00  0.00    +0.000 C 
+ATOM     14  N18 F5J A 701      26.198   3.271   5.955  0.00  0.00    +0.000 NA
+ATOM     15  N19 F5J A 701      24.214   4.675   5.750  0.00  0.00    +0.000 NA
+ATOM     16  N20 F5J A 701      28.073   4.139   4.679  0.00  0.00    +0.000 N 
+ATOM     17  N21 F5J A 701      24.076   6.605   4.352  0.00  0.00    +0.000 NA
+ENDBRANCH   4  16
+BRANCH   3  18
+ATOM     18  C17 F5J A 701      28.548  -0.342   4.308  0.00  0.00    +0.000 C 
+ATOM     19  O25 F5J A 701      29.158  -1.096   3.256  0.00  0.00    +0.000 OA
+BRANCH  18  25
+ATOM     20  C1  F5J A 701      24.598   0.853   3.001  0.00  0.00    +0.000 A 
+ATOM     21  C5  F5J A 701      26.127   0.136   4.770  0.00  0.00    +0.000 A 
+ATOM     22  C4  F5J A 701      26.935   0.393   2.502  0.00  0.00    +0.000 A 
+ATOM     23  C3  F5J A 701      24.843   0.520   4.343  0.00  0.00    +0.000 A 
+ATOM     24  C2  F5J A 701      25.650   0.787   2.078  0.00  0.00    +0.000 A 
+ATOM     25  C10 F5J A 701      27.176   0.070   3.848  0.00  0.00    +0.000 A 
+ENDBRANCH  18  25
+ENDBRANCH   3  18
+TORSDOF 3
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.4      1.508      2.559
+REMARK  Name = ligand_pdbs\F5J.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_10  and  C17_17
+REMARK    2  A    between atoms: C15_15  and  C17_17
+REMARK    3  A    between atoms: C16_16  and  N20_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 F5J A 701      28.696   1.645   5.146  0.00  0.00    +0.000 C 
+ATOM      2  C14 F5J A 701      28.273   2.934   5.867  0.00  0.00    +0.000 C 
+ATOM      3  C15 F5J A 701      28.451   1.945   3.666  0.00  0.00    +0.000 C 
+ATOM      4  C16 F5J A 701      28.443   3.992   4.793  0.00  0.00    +0.000 C 
+ATOM      5  O22 F5J A 701      27.993   3.322   3.618  0.00  0.00    +0.000 OA
+ATOM      6  O23 F5J A 701      30.087   1.346   5.305  0.00  0.00    +0.000 OA
+ATOM      7  O24 F5J A 701      28.996   3.193   7.065  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  16
+ATOM      8  C7  F5J A 701      27.992   6.421   5.086  0.00  0.00    +0.000 C 
+ATOM      9  C6  F5J A 701      26.892   7.272   5.080  0.00  0.00    +0.000 C 
+ATOM     10  C8  F5J A 701      24.128   4.383   4.461  0.00  0.00    +0.000 C 
+ATOM     11  C9  F5J A 701      25.746   6.463   4.911  0.00  0.00    +0.000 C 
+ATOM     12  C11 F5J A 701      26.195   5.138   4.781  0.00  0.00    +0.000 C 
+ATOM     13  C12 F5J A 701      24.373   6.677   4.823  0.00  0.00    +0.000 C 
+ATOM     14  N18 F5J A 701      25.432   4.046   4.515  0.00  0.00    +0.000 NA
+ATOM     15  N19 F5J A 701      23.563   5.609   4.647  0.00  0.00    +0.000 NA
+ATOM     16  N20 F5J A 701      27.569   5.137   4.889  0.00  0.00    +0.000 N 
+ATOM     17  N21 F5J A 701      23.802   7.961   4.971  0.00  0.00    +0.000 NA
+ENDBRANCH   4  16
+BRANCH   3  18
+ATOM     18  C17 F5J A 701      27.420   1.023   3.022  0.00  0.00    +0.000 C 
+ATOM     19  O25 F5J A 701      26.098   1.421   3.397  0.00  0.00    +0.000 OA
+BRANCH  18  25
+ATOM     20  C1  F5J A 701      27.999  -3.084   4.260  0.00  0.00    +0.000 A 
+ATOM     21  C5  F5J A 701      28.805  -1.067   3.135  0.00  0.00    +0.000 A 
+ATOM     22  C4  F5J A 701      26.616  -1.084   4.169  0.00  0.00    +0.000 A 
+ATOM     23  C3  F5J A 701      28.991  -2.403   3.534  0.00  0.00    +0.000 A 
+ATOM     24  C2  F5J A 701      26.807  -2.419   4.576  0.00  0.00    +0.000 A 
+ATOM     25  C10 F5J A 701      27.614  -0.405   3.450  0.00  0.00    +0.000 A 
+ENDBRANCH  18  25
+ENDBRANCH   3  18
+TORSDOF 3
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.3      2.077      3.935
+REMARK  Name = ligand_pdbs\F5J.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_10  and  C17_17
+REMARK    2  A    between atoms: C15_15  and  C17_17
+REMARK    3  A    between atoms: C16_16  and  N20_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 F5J A 701      26.422   0.412   2.953  0.00  0.00    +0.000 C 
+ATOM      2  C14 F5J A 701      25.374   1.534   2.920  0.00  0.00    +0.000 C 
+ATOM      3  C15 F5J A 701      27.316   0.769   4.142  0.00  0.00    +0.000 C 
+ATOM      4  C16 F5J A 701      25.354   2.020   4.357  0.00  0.00    +0.000 C 
+ATOM      5  O22 F5J A 701      26.729   1.962   4.726  0.00  0.00    +0.000 OA
+ATOM      6  O23 F5J A 701      25.855  -0.877   3.207  0.00  0.00    +0.000 OA
+ATOM      7  O24 F5J A 701      24.104   1.128   2.421  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  16
+ATOM      8  C7  F5J A 701      23.729   3.884   4.623  0.00  0.00    +0.000 C 
+ATOM      9  C6  F5J A 701      23.763   5.254   4.862  0.00  0.00    +0.000 C 
+ATOM     10  C8  F5J A 701      27.796   5.565   4.947  0.00  0.00    +0.000 C 
+ATOM     11  C9  F5J A 701      25.124   5.632   4.897  0.00  0.00    +0.000 C 
+ATOM     12  C11 F5J A 701      25.880   4.462   4.715  0.00  0.00    +0.000 C 
+ATOM     13  C12 F5J A 701      25.830   6.817   5.088  0.00  0.00    +0.000 C 
+ATOM     14  N18 F5J A 701      27.233   4.354   4.766  0.00  0.00    +0.000 NA
+ATOM     15  N19 F5J A 701      27.181   6.776   5.059  0.00  0.00    +0.000 NA
+ATOM     16  N20 F5J A 701      25.006   3.407   4.551  0.00  0.00    +0.000 N 
+ATOM     17  N21 F5J A 701      25.179   8.060   5.249  0.00  0.00    +0.000 NA
+ENDBRANCH   4  16
+BRANCH   3  18
+ATOM     18  C17 F5J A 701      28.768   1.030   3.755  0.00  0.00    +0.000 C 
+ATOM     19  O25 F5J A 701      29.258  -0.030   2.928  0.00  0.00    +0.000 OA
+BRANCH  18  25
+ATOM     20  C1  F5J A 701      31.324   1.269   7.240  0.00  0.00    +0.000 A 
+ATOM     21  C5  F5J A 701      29.749   0.031   5.838  0.00  0.00    +0.000 A 
+ATOM     22  C4  F5J A 701      30.393   2.285   5.234  0.00  0.00    +0.000 A 
+ATOM     23  C3  F5J A 701      30.576   0.111   6.973  0.00  0.00    +0.000 A 
+ATOM     24  C2  F5J A 701      31.228   2.360   6.366  0.00  0.00    +0.000 A 
+ATOM     25  C10 F5J A 701      29.654   1.120   4.967  0.00  0.00    +0.000 A 
+ENDBRANCH  18  25
+ENDBRANCH   3  18
+TORSDOF 3
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -6.2      2.787      7.052
+REMARK  Name = ligand_pdbs\F5J.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_10  and  C17_17
+REMARK    2  A    between atoms: C15_15  and  C17_17
+REMARK    3  A    between atoms: C16_16  and  N20_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 F5J A 701      25.877   3.927   5.679  0.00  0.00    +0.000 C 
+ATOM      2  C14 F5J A 701      26.886   2.802   5.954  0.00  0.00    +0.000 C 
+ATOM      3  C15 F5J A 701      25.591   3.817   4.180  0.00  0.00    +0.000 C 
+ATOM      4  C16 F5J A 701      26.604   1.817   4.837  0.00  0.00    +0.000 C 
+ATOM      5  O22 F5J A 701      26.353   2.669   3.723  0.00  0.00    +0.000 OA
+ATOM      6  O23 F5J A 701      24.637   3.749   6.373  0.00  0.00    +0.000 OA
+ATOM      7  O24 F5J A 701      26.795   2.247   7.262  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  16
+ATOM      8  C7  F5J A 701      28.926   1.512   3.994  0.00  0.00    +0.000 C 
+ATOM      9  C6  F5J A 701      29.784   0.458   3.698  0.00  0.00    +0.000 C 
+ATOM     10  C8  F5J A 701      27.156  -2.486   4.590  0.00  0.00    +0.000 C 
+ATOM     11  C9  F5J A 701      29.055  -0.736   3.902  0.00  0.00    +0.000 C 
+ATOM     12  C11 F5J A 701      27.778  -0.365   4.355  0.00  0.00    +0.000 C 
+ATOM     13  C12 F5J A 701      29.314  -2.099   3.787  0.00  0.00    +0.000 C 
+ATOM     14  N18 F5J A 701      26.785  -1.201   4.755  0.00  0.00    +0.000 NA
+ATOM     15  N19 F5J A 701      28.326  -2.972   4.090  0.00  0.00    +0.000 NA
+ATOM     16  N20 F5J A 701      27.723   1.012   4.405  0.00  0.00    +0.000 N 
+ATOM     17  N21 F5J A 701      30.550  -2.591   3.312  0.00  0.00    +0.000 NA
+ENDBRANCH   4  16
+BRANCH   3  18
+ATOM     18  C17 F5J A 701      25.988   5.062   3.393  0.00  0.00    +0.000 C 
+ATOM     19  O25 F5J A 701      27.376   5.008   3.050  0.00  0.00    +0.000 OA
+BRANCH  18  25
+ATOM     20  C1  F5J A 701      25.300   8.662   5.695  0.00  0.00    +0.000 A 
+ATOM     21  C5  F5J A 701      24.468   6.855   4.273  0.00  0.00    +0.000 A 
+ATOM     22  C4  F5J A 701      26.815   6.952   4.858  0.00  0.00    +0.000 A 
+ATOM     23  C3  F5J A 701      24.246   8.027   5.018  0.00  0.00    +0.000 A 
+ATOM     24  C2  F5J A 701      26.589   8.121   5.611  0.00  0.00    +0.000 A 
+ATOM     25  C10 F5J A 701      25.755   6.315   4.190  0.00  0.00    +0.000 A 
+ENDBRANCH  18  25
+ENDBRANCH   3  18
+TORSDOF 3
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -6.1      1.987      3.742
+REMARK  Name = ligand_pdbs\F5J.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_10  and  C17_17
+REMARK    2  A    between atoms: C15_15  and  C17_17
+REMARK    3  A    between atoms: C16_16  and  N20_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 F5J A 701      26.160   0.370   3.464  0.00  0.00    +0.000 C 
+ATOM      2  C14 F5J A 701      25.693   1.761   3.009  0.00  0.00    +0.000 C 
+ATOM      3  C15 F5J A 701      26.078   0.427   4.990  0.00  0.00    +0.000 C 
+ATOM      4  C16 F5J A 701      24.827   2.221   4.166  0.00  0.00    +0.000 C 
+ATOM      5  O22 F5J A 701      25.541   1.740   5.302  0.00  0.00    +0.000 OA
+ATOM      6  O23 F5J A 701      25.297  -0.683   3.021  0.00  0.00    +0.000 OA
+ATOM      7  O24 F5J A 701      25.036   1.769   1.746  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  16
+ATOM      8  C7  F5J A 701      23.607   4.361   4.512  0.00  0.00    +0.000 C 
+ATOM      9  C6  F5J A 701      23.917   5.696   4.755  0.00  0.00    +0.000 C 
+ATOM     10  C8  F5J A 701      27.934   5.218   4.662  0.00  0.00    +0.000 C 
+ATOM     11  C9  F5J A 701      25.326   5.802   4.731  0.00  0.00    +0.000 C 
+ATOM     12  C11 F5J A 701      25.832   4.510   4.510  0.00  0.00    +0.000 C 
+ATOM     13  C12 F5J A 701      26.256   6.826   4.895  0.00  0.00    +0.000 C 
+ATOM     14  N18 F5J A 701      27.139   4.142   4.502  0.00  0.00    +0.000 NA
+ATOM     15  N19 F5J A 701      27.571   6.524   4.806  0.00  0.00    +0.000 NA
+ATOM     16  N20 F5J A 701      24.764   3.647   4.381  0.00  0.00    +0.000 N 
+ATOM     17  N21 F5J A 701      25.867   8.169   5.090  0.00  0.00    +0.000 NA
+ENDBRANCH   4  16
+BRANCH   3  18
+ATOM     18  C17 F5J A 701      27.424   0.231   5.680  0.00  0.00    +0.000 C 
+ATOM     19  O25 F5J A 701      28.119   1.478   5.772  0.00  0.00    +0.000 OA
+BRANCH  18  25
+ATOM     20  C1  F5J A 701      29.951  -2.531   3.505  0.00  0.00    +0.000 A 
+ATOM     21  C5  F5J A 701      29.570  -0.331   4.504  0.00  0.00    +0.000 A 
+ATOM     22  C4  F5J A 701      27.849  -2.030   4.626  0.00  0.00    +0.000 A 
+ATOM     23  C3  F5J A 701      30.389  -1.228   3.794  0.00  0.00    +0.000 A 
+ATOM     24  C2  F5J A 701      28.674  -2.930   3.922  0.00  0.00    +0.000 A 
+ATOM     25  C10 F5J A 701      28.296  -0.731   4.920  0.00  0.00    +0.000 A 
+ENDBRANCH  18  25
+ENDBRANCH   3  18
+TORSDOF 3
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.9      2.805      6.658
+REMARK  Name = ligand_pdbs\F5J.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_10  and  C17_17
+REMARK    2  A    between atoms: C15_15  and  C17_17
+REMARK    3  A    between atoms: C16_16  and  N20_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 F5J A 701      26.092   3.673   6.502  0.00  0.00    +0.000 C 
+ATOM      2  C14 F5J A 701      27.477   3.065   6.235  0.00  0.00    +0.000 C 
+ATOM      3  C15 F5J A 701      25.115   2.654   5.912  0.00  0.00    +0.000 C 
+ATOM      4  C16 F5J A 701      27.179   1.581   6.130  0.00  0.00    +0.000 C 
+ATOM      5  O22 F5J A 701      25.938   1.559   5.430  0.00  0.00    +0.000 OA
+ATOM      6  O23 F5J A 701      25.797   3.802   7.897  0.00  0.00    +0.000 OA
+ATOM      7  O24 F5J A 701      28.456   3.399   7.213  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  16
+ATOM      8  C7  F5J A 701      29.197   1.308   4.701  0.00  0.00    +0.000 C 
+ATOM      9  C6  F5J A 701      29.828   0.289   3.994  0.00  0.00    +0.000 C 
+ATOM     10  C8  F5J A 701      27.113  -2.578   4.876  0.00  0.00    +0.000 C 
+ATOM     11  C9  F5J A 701      29.018  -0.862   4.119  0.00  0.00    +0.000 C 
+ATOM     12  C11 F5J A 701      27.931  -0.512   4.938  0.00  0.00    +0.000 C 
+ATOM     13  C12 F5J A 701      29.071  -2.178   3.667  0.00  0.00    +0.000 C 
+ATOM     14  N18 F5J A 701      26.955  -1.342   5.388  0.00  0.00    +0.000 NA
+ATOM     15  N19 F5J A 701      28.073  -3.021   4.016  0.00  0.00    +0.000 NA
+ATOM     16  N20 F5J A 701      28.063   0.817   5.282  0.00  0.00    +0.000 N 
+ATOM     17  N21 F5J A 701      30.097  -2.638   2.813  0.00  0.00    +0.000 NA
+ENDBRANCH   4  16
+BRANCH   3  18
+ATOM     18  C17 F5J A 701      24.264   3.214   4.777  0.00  0.00    +0.000 C 
+ATOM     19  O25 F5J A 701      24.308   2.337   3.648  0.00  0.00    +0.000 OA
+BRANCH  18  25
+ATOM     20  C1  F5J A 701      25.674   7.110   3.522  0.00  0.00    +0.000 A 
+ATOM     21  C5  F5J A 701      24.027   5.711   4.667  0.00  0.00    +0.000 A 
+ATOM     22  C4  F5J A 701      25.944   4.692   3.594  0.00  0.00    +0.000 A 
+ATOM     23  C3  F5J A 701      24.484   6.976   4.255  0.00  0.00    +0.000 A 
+ATOM     24  C2  F5J A 701      26.404   5.960   3.191  0.00  0.00    +0.000 A 
+ATOM     25  C10 F5J A 701      24.756   4.565   4.335  0.00  0.00    +0.000 A 
+ENDBRANCH  18  25
+ENDBRANCH   3  18
+TORSDOF 3
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.8      1.769      2.590
+REMARK  Name = ligand_pdbs\F5J.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_10  and  C17_17
+REMARK    2  A    between atoms: C15_15  and  C17_17
+REMARK    3  A    between atoms: C16_16  and  N20_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 F5J A 701      28.351   1.484   4.586  0.00  0.00    +0.000 C 
+ATOM      2  C14 F5J A 701      27.681   2.614   5.382  0.00  0.00    +0.000 C 
+ATOM      3  C15 F5J A 701      27.902   1.724   3.143  0.00  0.00    +0.000 C 
+ATOM      4  C16 F5J A 701      27.476   3.689   4.332  0.00  0.00    +0.000 C 
+ATOM      5  O22 F5J A 701      27.105   2.937   3.180  0.00  0.00    +0.000 OA
+ATOM      6  O23 F5J A 701      29.781   1.551   4.613  0.00  0.00    +0.000 OA
+ATOM      7  O24 F5J A 701      28.421   3.040   6.521  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  16
+ATOM      8  C7  F5J A 701      25.043   4.181   4.506  0.00  0.00    +0.000 C 
+ATOM      9  C6  F5J A 701      24.231   5.273   4.795  0.00  0.00    +0.000 C 
+ATOM     10  C8  F5J A 701      27.249   7.924   5.282  0.00  0.00    +0.000 C 
+ATOM     11  C9  F5J A 701      25.085   6.385   4.976  0.00  0.00    +0.000 C 
+ATOM     12  C11 F5J A 701      26.402   5.919   4.826  0.00  0.00    +0.000 C 
+ATOM     13  C12 F5J A 701      24.922   7.734   5.276  0.00  0.00    +0.000 C 
+ATOM     14  N18 F5J A 701      27.541   6.637   5.005  0.00  0.00    +0.000 NA
+ATOM     15  N19 F5J A 701      26.024   8.512   5.377  0.00  0.00    +0.000 NA
+ATOM     16  N20 F5J A 701      26.351   4.571   4.541  0.00  0.00    +0.000 N 
+ATOM     17  N21 F5J A 701      23.645   8.323   5.418  0.00  0.00    +0.000 NA
+ENDBRANCH   4  16
+BRANCH   3  18
+ATOM     18  C17 F5J A 701      27.086   0.574   2.562  0.00  0.00    +0.000 C 
+ATOM     19  O25 F5J A 701      25.689   0.807   2.764  0.00  0.00    +0.000 OA
+BRANCH  18  25
+ATOM     20  C1  F5J A 701      28.077  -3.201   4.434  0.00  0.00    +0.000 A 
+ATOM     21  C5  F5J A 701      26.520  -1.349   4.073  0.00  0.00    +0.000 A 
+ATOM     22  C4  F5J A 701      28.674  -1.353   2.967  0.00  0.00    +0.000 A 
+ATOM     23  C3  F5J A 701      26.845  -2.574   4.684  0.00  0.00    +0.000 A 
+ATOM     24  C2  F5J A 701      28.994  -2.585   3.573  0.00  0.00    +0.000 A 
+ATOM     25  C10 F5J A 701      27.437  -0.735   3.213  0.00  0.00    +0.000 A 
+ENDBRANCH  18  25
+ENDBRANCH   3  18
+TORSDOF 3
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.6      2.073      3.944
+REMARK  Name = ligand_pdbs\F5J.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_10  and  C17_17
+REMARK    2  A    between atoms: C15_15  and  C17_17
+REMARK    3  A    between atoms: C16_16  and  N20_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 F5J A 701      26.192  -0.087   3.313  0.00  0.00    +0.000 C 
+ATOM      2  C14 F5J A 701      26.158   1.431   3.085  0.00  0.00    +0.000 C 
+ATOM      3  C15 F5J A 701      26.525  -0.236   4.799  0.00  0.00    +0.000 C 
+ATOM      4  C16 F5J A 701      25.838   1.972   4.465  0.00  0.00    +0.000 C 
+ATOM      5  O22 F5J A 701      26.593   1.118   5.320  0.00  0.00    +0.000 OA
+ATOM      6  O23 F5J A 701      24.926  -0.716   3.086  0.00  0.00    +0.000 OA
+ATOM      7  O24 F5J A 701      25.251   1.846   2.068  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   4  16
+ATOM      8  C7  F5J A 701      27.641   3.561   5.114  0.00  0.00    +0.000 C 
+ATOM      9  C6  F5J A 701      27.793   4.933   5.280  0.00  0.00    +0.000 C 
+ATOM     10  C8  F5J A 701      23.960   5.890   4.405  0.00  0.00    +0.000 C 
+ATOM     11  C9  F5J A 701      26.526   5.518   5.058  0.00  0.00    +0.000 C 
+ATOM     12  C11 F5J A 701      25.645   4.475   4.723  0.00  0.00    +0.000 C 
+ATOM     13  C12 F5J A 701      26.002   6.808   5.068  0.00  0.00    +0.000 C 
+ATOM     14  N18 F5J A 701      24.346   4.600   4.347  0.00  0.00    +0.000 NA
+ATOM     15  N19 F5J A 701      24.690   6.975   4.786  0.00  0.00    +0.000 NA
+ATOM     16  N20 F5J A 701      26.349   3.290   4.762  0.00  0.00    +0.000 N 
+ATOM     17  N21 F5J A 701      26.783   7.932   5.420  0.00  0.00    +0.000 NA
+ENDBRANCH   4  16
+BRANCH   3  18
+ATOM     18  C17 F5J A 701      27.837  -0.968   5.058  0.00  0.00    +0.000 C 
+ATOM     19  O25 F5J A 701      27.672  -1.924   6.110  0.00  0.00    +0.000 OA
+BRANCH  18  25
+ATOM     20  C1  F5J A 701      30.968   1.789   6.215  0.00  0.00    +0.000 A 
+ATOM     21  C5  F5J A 701      29.448   0.883   4.527  0.00  0.00    +0.000 A 
+ATOM     22  C4  F5J A 701      29.431  -0.013   6.776  0.00  0.00    +0.000 A 
+ATOM     23  C3  F5J A 701      30.468   1.776   4.903  0.00  0.00    +0.000 A 
+ATOM     24  C2  F5J A 701      30.447   0.887   7.153  0.00  0.00    +0.000 A 
+ATOM     25  C10 F5J A 701      28.928  -0.016   5.464  0.00  0.00    +0.000 A 
+ENDBRANCH  18  25
+ENDBRANCH   3  18
+TORSDOF 3
+ENDMDL

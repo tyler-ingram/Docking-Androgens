@@ -1,0 +1,12 @@
+REMARK  Name = ligand_pdbs\ACT.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   ACT D1006     -12.210  -8.627  96.698  0.00  0.00    +0.000 C 
+ATOM      2  O   ACT D1006     -12.120  -7.551  96.037  0.00  0.00    +0.000 OA
+ATOM      3  OXT ACT D1006     -12.702  -8.632  97.848  0.00  0.00    +0.000 OA
+ATOM      4  CH3 ACT D1006     -11.732  -9.938  96.115  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0

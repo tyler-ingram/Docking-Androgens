@@ -1,0 +1,9 @@
+REMARK  Name = ligand_pdbs\BR.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 BR   BR  A 304     -15.086  39.104 -47.171  0.00  0.00    +0.000 Br
+ENDROOT
+TORSDOF 0

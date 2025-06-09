@@ -1,0 +1,595 @@
+MODEL 1
+REMARK VINA RESULT:      -5.4      0.000      0.000
+REMARK  Name = ligand_pdbs\Q73.pdb
+REMARK  13 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C27_2  and  C26_4
+REMARK    2  A    between atoms: C26_4  and  C25_5
+REMARK    3  A    between atoms: C25_5  and  C24_7
+REMARK    4  A    between atoms: C24_7  and  C23_8
+REMARK    5  A    between atoms: C23_8  and  C22_10
+REMARK    6  A    between atoms: C21_11  and  C19_12
+REMARK    7  A    between atoms: C17_14  and  C16_15
+REMARK    8  A    between atoms: C16_15  and  C15_17
+REMARK    9  A    between atoms: C15_17  and  C13_18
+REMARK   10  A    between atoms: C12_20  and  C11_21
+REMARK   11  A    between atoms: C10_22  and  C9_23
+REMARK   12  A    between atoms: C9_23  and  C3_25
+REMARK   13  A    between atoms: C2_27  and  C5_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 Q73 C1124      27.574   4.424   5.793  0.00  0.00    +0.000 C 
+ATOM      2  C14 Q73 C1124      26.474   3.801   6.613  0.00  0.00    +0.000 C 
+ATOM      3  C12 Q73 C1124      28.726   3.778   5.555  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   3   4
+ATOM      4  C11 Q73 C1124      28.910   2.455   6.090  0.00  0.00    +0.000 C 
+ATOM      5  C10 Q73 C1124      29.981   1.757   5.790  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C9  Q73 C1124      30.165   0.379   6.375  0.00  0.00    +0.000 C 
+ATOM      7  N   Q73 C1124      31.601   0.068   6.498  0.00  0.00    +0.000 NA
+BRANCH   6   8
+ATOM      8  C3  Q73 C1124      29.441  -0.647   5.505  0.00  0.00    +0.000 C 
+ATOM      9  O   Q73 C1124      28.186  -0.072   5.160  0.00  0.00    +0.000 OA
+ATOM     10  C2  Q73 C1124      27.332  -1.018   4.523  0.00  0.00    +0.000 C 
+ATOM     11  C1  Q73 C1124      27.945  -1.352   3.161  0.00  0.00    +0.000 C 
+ATOM     12  C8  Q73 C1124      28.013  -0.118   2.254  0.00  0.00    +0.000 C 
+ATOM     13  C   Q73 C1124      29.337  -1.953   3.372  0.00  0.00    +0.000 C 
+ATOM     14  O1  Q73 C1124      29.213  -3.231   4.002  0.00  0.00    +0.000 OA
+ATOM     15  C4  Q73 C1124      30.220  -1.067   4.244  0.00  0.00    +0.000 C 
+BRANCH  10  16
+ATOM     16  C5  Q73 C1124      25.945  -0.438   4.400  0.00  0.00    +0.000 C 
+ATOM     17  C6  Q73 C1124      25.796   0.885   4.393  0.00  0.00    +0.000 C 
+ATOM     18  C7  Q73 C1124      24.422   1.490   4.272  0.00  0.00    +0.000 C 
+ENDBRANCH  10  16
+ENDBRANCH   6   8
+ENDBRANCH   5   6
+ENDBRANCH   3   4
+BRANCH   1  19
+ATOM     19  C15 Q73 C1124      27.391   5.821   5.250  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  C16 Q73 C1124      26.743   5.719   3.875  0.00  0.00    +0.000 C 
+ATOM     21  C18 Q73 C1124      27.600   5.086   2.791  0.00  0.00    +0.000 C 
+BRANCH  20  24
+ATOM     22  C19 Q73 C1124      24.353   5.521   4.310  0.00  0.00    +0.000 C 
+ATOM     23  C20 Q73 C1124      23.057   4.727   4.410  0.00  0.00    +0.000 C 
+ATOM     24  C17 Q73 C1124      25.476   4.907   3.978  0.00  0.00    +0.000 C 
+BRANCH  22  26
+ATOM     25  C22 Q73 C1124      24.420   7.583   5.643  0.00  0.00    +0.000 C 
+ATOM     26  C21 Q73 C1124      24.527   6.980   4.492  0.00  0.00    +0.000 C 
+BRANCH  25  27
+ATOM     27  C23 Q73 C1124      24.579   9.086   5.697  0.00  0.00    +0.000 C 
+ATOM     28  O2  Q73 C1124      25.560   9.572   4.759  0.00  0.00    +0.000 OA
+BRANCH  27  29
+ATOM     29  C24 Q73 C1124      25.026   9.410   7.109  0.00  0.00    +0.000 C 
+BRANCH  29  30
+ATOM     30  C25 Q73 C1124      23.998  10.250   7.859  0.00  0.00    +0.000 C 
+ATOM     31  N1  Q73 C1124      23.866  11.573   7.219  0.00  0.00    +0.000 NA
+BRANCH  30  32
+ATOM     32  C26 Q73 C1124      24.363  10.377   9.342  0.00  0.00    +0.000 C 
+BRANCH  32  34
+ATOM     33  O4  Q73 C1124      22.667  11.834  10.145  0.00  0.00    +0.000 OA
+ATOM     34  C27 Q73 C1124      23.869  11.722   9.816  0.00  0.00    +0.000 C 
+ATOM     35  O3  Q73 C1124      24.689  12.670   9.869  0.00  0.00    +0.000 OA
+ENDBRANCH  32  34
+ENDBRANCH  30  32
+ENDBRANCH  29  30
+ENDBRANCH  27  29
+ENDBRANCH  25  27
+ENDBRANCH  22  26
+ENDBRANCH  20  24
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 13
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -5.1      2.919      8.531
+REMARK  Name = ligand_pdbs\Q73.pdb
+REMARK  13 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C27_2  and  C26_4
+REMARK    2  A    between atoms: C26_4  and  C25_5
+REMARK    3  A    between atoms: C25_5  and  C24_7
+REMARK    4  A    between atoms: C24_7  and  C23_8
+REMARK    5  A    between atoms: C23_8  and  C22_10
+REMARK    6  A    between atoms: C21_11  and  C19_12
+REMARK    7  A    between atoms: C17_14  and  C16_15
+REMARK    8  A    between atoms: C16_15  and  C15_17
+REMARK    9  A    between atoms: C15_17  and  C13_18
+REMARK   10  A    between atoms: C12_20  and  C11_21
+REMARK   11  A    between atoms: C10_22  and  C9_23
+REMARK   12  A    between atoms: C9_23  and  C3_25
+REMARK   13  A    between atoms: C2_27  and  C5_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 Q73 C1124      25.921   0.527   3.105  0.00  0.00    +0.000 C 
+ATOM      2  C14 Q73 C1124      26.917   1.623   2.827  0.00  0.00    +0.000 C 
+ATOM      3  C12 Q73 C1124      24.664   0.800   3.488  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   3   4
+ATOM      4  C11 Q73 C1124      24.258   2.172   3.630  0.00  0.00    +0.000 C 
+ATOM      5  C10 Q73 C1124      24.154   2.718   4.820  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C9  Q73 C1124      23.744   4.164   4.947  0.00  0.00    +0.000 C 
+ATOM      7  N   Q73 C1124      22.417   4.370   4.338  0.00  0.00    +0.000 NA
+BRANCH   6   8
+ATOM      8  C3  Q73 C1124      24.802   5.055   4.301  0.00  0.00    +0.000 C 
+ATOM      9  O   Q73 C1124      24.815   6.271   5.039  0.00  0.00    +0.000 OA
+ATOM     10  C2  Q73 C1124      25.613   7.265   4.403  0.00  0.00    +0.000 C 
+ATOM     11  C1  Q73 C1124      27.070   6.802   4.475  0.00  0.00    +0.000 C 
+ATOM     12  C8  Q73 C1124      27.556   6.688   5.924  0.00  0.00    +0.000 C 
+ATOM     13  C   Q73 C1124      27.208   5.464   3.744  0.00  0.00    +0.000 C 
+ATOM     14  O1  Q73 C1124      26.992   5.662   2.344  0.00  0.00    +0.000 OA
+ATOM     15  C4  Q73 C1124      26.208   4.429   4.247  0.00  0.00    +0.000 C 
+BRANCH  10  16
+ATOM     16  C5  Q73 C1124      25.400   8.593   5.086  0.00  0.00    +0.000 C 
+ATOM     17  C6  Q73 C1124      24.566   8.661   6.121  0.00  0.00    +0.000 C 
+ATOM     18  C7  Q73 C1124      24.334   9.975   6.820  0.00  0.00    +0.000 C 
+ENDBRANCH  10  16
+ENDBRANCH   6   8
+ENDBRANCH   5   6
+ENDBRANCH   3   4
+BRANCH   1  19
+ATOM     19  C15 Q73 C1124      26.353  -0.914   2.979  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  C16 Q73 C1124      27.346  -1.217   4.094  0.00  0.00    +0.000 C 
+ATOM     21  C18 Q73 C1124      26.761  -1.871   5.334  0.00  0.00    +0.000 C 
+BRANCH  20  24
+ATOM     22  C19 Q73 C1124      29.685  -1.859   3.852  0.00  0.00    +0.000 C 
+ATOM     23  C20 Q73 C1124      30.792  -2.773   3.344  0.00  0.00    +0.000 C 
+ATOM     24  C17 Q73 C1124      28.424  -2.133   3.568  0.00  0.00    +0.000 C 
+BRANCH  22  26
+ATOM     25  C22 Q73 C1124      30.724  -0.565   5.664  0.00  0.00    +0.000 C 
+ATOM     26  C21 Q73 C1124      29.834  -0.666   4.717  0.00  0.00    +0.000 C 
+BRANCH  25  27
+ATOM     27  C23 Q73 C1124      30.751   0.689   6.509  0.00  0.00    +0.000 C 
+ATOM     28  O2  Q73 C1124      31.171   0.433   7.865  0.00  0.00    +0.000 OA
+BRANCH  27  29
+ATOM     29  C24 Q73 C1124      29.333   1.224   6.511  0.00  0.00    +0.000 C 
+BRANCH  29  30
+ATOM     30  C25 Q73 C1124      29.243   2.616   5.897  0.00  0.00    +0.000 C 
+ATOM     31  N1  Q73 C1124      30.598   3.137   5.631  0.00  0.00    +0.000 NA
+BRANCH  30  32
+ATOM     32  C26 Q73 C1124      28.442   3.567   6.795  0.00  0.00    +0.000 C 
+BRANCH  32  34
+ATOM     33  O4  Q73 C1124      26.782   1.931   6.336  0.00  0.00    +0.000 OA
+ATOM     34  C27 Q73 C1124      27.046   3.009   6.915  0.00  0.00    +0.000 C 
+ATOM     35  O3  Q73 C1124      26.209   3.646   7.598  0.00  0.00    +0.000 OA
+ENDBRANCH  32  34
+ENDBRANCH  30  32
+ENDBRANCH  29  30
+ENDBRANCH  27  29
+ENDBRANCH  25  27
+ENDBRANCH  22  26
+ENDBRANCH  20  24
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 13
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -4.6      1.939      3.514
+REMARK  Name = ligand_pdbs\Q73.pdb
+REMARK  13 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C27_2  and  C26_4
+REMARK    2  A    between atoms: C26_4  and  C25_5
+REMARK    3  A    between atoms: C25_5  and  C24_7
+REMARK    4  A    between atoms: C24_7  and  C23_8
+REMARK    5  A    between atoms: C23_8  and  C22_10
+REMARK    6  A    between atoms: C21_11  and  C19_12
+REMARK    7  A    between atoms: C17_14  and  C16_15
+REMARK    8  A    between atoms: C16_15  and  C15_17
+REMARK    9  A    between atoms: C15_17  and  C13_18
+REMARK   10  A    between atoms: C12_20  and  C11_21
+REMARK   11  A    between atoms: C10_22  and  C9_23
+REMARK   12  A    between atoms: C9_23  and  C3_25
+REMARK   13  A    between atoms: C2_27  and  C5_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 Q73 C1124      24.622   4.136   4.895  0.00  0.00    +0.000 C 
+ATOM      2  C14 Q73 C1124      24.811   3.323   6.149  0.00  0.00    +0.000 C 
+ATOM      3  C12 Q73 C1124      24.738   3.587   3.676  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   3   4
+ATOM      4  C11 Q73 C1124      25.044   2.185   3.567  0.00  0.00    +0.000 C 
+ATOM      5  C10 Q73 C1124      26.050   1.778   2.827  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C9  Q73 C1124      26.367   0.306   2.739  0.00  0.00    +0.000 C 
+ATOM      7  N   Q73 C1124      25.423  -0.466   3.568  0.00  0.00    +0.000 NA
+BRANCH   6   8
+ATOM      8  C3  Q73 C1124      27.813   0.067   3.165  0.00  0.00    +0.000 C 
+ATOM      9  O   Q73 C1124      28.117   1.058   4.140  0.00  0.00    +0.000 OA
+ATOM     10  C2  Q73 C1124      29.505   1.071   4.461  0.00  0.00    +0.000 C 
+ATOM     11  C1  Q73 C1124      29.823  -0.237   5.189  0.00  0.00    +0.000 C 
+ATOM     12  C8  Q73 C1124      29.053  -0.352   6.508  0.00  0.00    +0.000 C 
+ATOM     13  C   Q73 C1124      29.505  -1.415   4.264  0.00  0.00    +0.000 C 
+ATOM     14  O1  Q73 C1124      30.419  -1.417   3.163  0.00  0.00    +0.000 OA
+ATOM     15  C4  Q73 C1124      28.085  -1.347   3.714  0.00  0.00    +0.000 C 
+BRANCH  10  16
+ATOM     16  C5  Q73 C1124      29.814   2.284   5.303  0.00  0.00    +0.000 C 
+ATOM     17  C6  Q73 C1124      28.929   2.680   6.216  0.00  0.00    +0.000 C 
+ATOM     18  C7  Q73 C1124      29.211   3.888   7.069  0.00  0.00    +0.000 C 
+ENDBRANCH  10  16
+ENDBRANCH   6   8
+ENDBRANCH   5   6
+ENDBRANCH   3   4
+BRANCH   1  19
+ATOM     19  C15 Q73 C1124      24.322   5.612   5.008  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  C16 Q73 C1124      25.613   6.337   5.367  0.00  0.00    +0.000 C 
+ATOM     21  C18 Q73 C1124      26.864   5.475   5.398  0.00  0.00    +0.000 C 
+BRANCH  20  24
+ATOM     22  C19 Q73 C1124      25.642   8.695   4.748  0.00  0.00    +0.000 C 
+ATOM     23  C20 Q73 C1124      25.890   9.834   3.769  0.00  0.00    +0.000 C 
+ATOM     24  C17 Q73 C1124      25.856   7.446   4.373  0.00  0.00    +0.000 C 
+BRANCH  22  26
+ATOM     25  C22 Q73 C1124      24.501   9.788   6.630  0.00  0.00    +0.000 C 
+ATOM     26  C21 Q73 C1124      25.221   8.805   6.164  0.00  0.00    +0.000 C 
+BRANCH  25  27
+ATOM     27  C23 Q73 C1124      24.168   9.812   8.105  0.00  0.00    +0.000 C 
+ATOM     28  O2  Q73 C1124      22.747   9.796   8.352  0.00  0.00    +0.000 OA
+BRANCH  27  29
+ATOM     29  C24 Q73 C1124      24.761  11.098   8.647  0.00  0.00    +0.000 C 
+BRANCH  29  30
+ATOM     30  C25 Q73 C1124      23.713  12.193   8.803  0.00  0.00    +0.000 C 
+ATOM     31  N1  Q73 C1124      23.727  13.075   7.620  0.00  0.00    +0.000 NA
+BRANCH  30  32
+ATOM     32  C26 Q73 C1124      23.927  12.986  10.097  0.00  0.00    +0.000 C 
+BRANCH  32  34
+ATOM     33  O4  Q73 C1124      22.509  11.344  11.064  0.00  0.00    +0.000 OA
+ATOM     34  C27 Q73 C1124      23.480  12.113  11.244  0.00  0.00    +0.000 C 
+ATOM     35  O3  Q73 C1124      24.108  12.188  12.326  0.00  0.00    +0.000 OA
+ENDBRANCH  32  34
+ENDBRANCH  30  32
+ENDBRANCH  29  30
+ENDBRANCH  27  29
+ENDBRANCH  25  27
+ENDBRANCH  22  26
+ENDBRANCH  20  24
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 13
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -4.1      1.452      2.277
+REMARK  Name = ligand_pdbs\Q73.pdb
+REMARK  13 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C27_2  and  C26_4
+REMARK    2  A    between atoms: C26_4  and  C25_5
+REMARK    3  A    between atoms: C25_5  and  C24_7
+REMARK    4  A    between atoms: C24_7  and  C23_8
+REMARK    5  A    between atoms: C23_8  and  C22_10
+REMARK    6  A    between atoms: C21_11  and  C19_12
+REMARK    7  A    between atoms: C17_14  and  C16_15
+REMARK    8  A    between atoms: C16_15  and  C15_17
+REMARK    9  A    between atoms: C15_17  and  C13_18
+REMARK   10  A    between atoms: C12_20  and  C11_21
+REMARK   11  A    between atoms: C10_22  and  C9_23
+REMARK   12  A    between atoms: C9_23  and  C3_25
+REMARK   13  A    between atoms: C2_27  and  C5_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 Q73 C1124      27.344   4.883   5.236  0.00  0.00    +0.000 C 
+ATOM      2  C14 Q73 C1124      27.497   4.444   3.802  0.00  0.00    +0.000 C 
+ATOM      3  C12 Q73 C1124      27.812   4.141   6.252  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   3   4
+ATOM      4  C11 Q73 C1124      28.481   2.901   5.962  0.00  0.00    +0.000 C 
+ATOM      5  C10 Q73 C1124      28.483   1.924   6.840  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C9  Q73 C1124      29.175   0.624   6.511  0.00  0.00    +0.000 C 
+ATOM      7  N   Q73 C1124      30.427   0.887   5.778  0.00  0.00    +0.000 NA
+BRANCH   6   8
+ATOM      8  C3  Q73 C1124      28.231  -0.269   5.707  0.00  0.00    +0.000 C 
+ATOM      9  O   Q73 C1124      27.292   0.596   5.079  0.00  0.00    +0.000 OA
+ATOM     10  C2  Q73 C1124      26.231  -0.133   4.470  0.00  0.00    +0.000 C 
+ATOM     11  C1  Q73 C1124      26.822  -0.913   3.293  0.00  0.00    +0.000 C 
+ATOM     12  C8  Q73 C1124      27.400   0.024   2.228  0.00  0.00    +0.000 C 
+ATOM     13  C   Q73 C1124      27.893  -1.874   3.816  0.00  0.00    +0.000 C 
+ATOM     14  O1  Q73 C1124      27.275  -2.890   4.610  0.00  0.00    +0.000 OA
+ATOM     15  C4  Q73 C1124      28.937  -1.161   4.669  0.00  0.00    +0.000 C 
+BRANCH  10  16
+ATOM     16  C5  Q73 C1124      25.148   0.823   4.036  0.00  0.00    +0.000 C 
+ATOM     17  C6  Q73 C1124      24.961   1.945   4.728  0.00  0.00    +0.000 C 
+ATOM     18  C7  Q73 C1124      23.886   2.916   4.318  0.00  0.00    +0.000 C 
+ENDBRANCH  10  16
+ENDBRANCH   6   8
+ENDBRANCH   5   6
+ENDBRANCH   3   4
+BRANCH   1  19
+ATOM     19  C15 Q73 C1124      26.624   6.174   5.541  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  C16 Q73 C1124      25.591   6.417   4.448  0.00  0.00    +0.000 C 
+ATOM     21  C18 Q73 C1124      24.158   6.588   4.923  0.00  0.00    +0.000 C 
+BRANCH  20  24
+ATOM     22  C19 Q73 C1124      25.752   8.841   4.237  0.00  0.00    +0.000 C 
+ATOM     23  C20 Q73 C1124      26.127  10.112   3.487  0.00  0.00    +0.000 C 
+ATOM     24  C17 Q73 C1124      25.962   7.661   3.678  0.00  0.00    +0.000 C 
+BRANCH  22  26
+ATOM     25  C22 Q73 C1124      24.718   9.750   6.271  0.00  0.00    +0.000 C 
+ATOM     26  C21 Q73 C1124      25.202   8.737   5.609  0.00  0.00    +0.000 C 
+BRANCH  25  27
+ATOM     27  C23 Q73 C1124      24.222   9.528   7.683  0.00  0.00    +0.000 C 
+ATOM     28  O2  Q73 C1124      22.792   9.674   7.796  0.00  0.00    +0.000 OA
+BRANCH  27  29
+ATOM     29  C24 Q73 C1124      24.907  10.576   8.537  0.00  0.00    +0.000 C 
+BRANCH  29  30
+ATOM     30  C25 Q73 C1124      23.927  11.616   9.067  0.00  0.00    +0.000 C 
+ATOM     31  N1  Q73 C1124      23.766  12.704   8.083  0.00  0.00    +0.000 NA
+BRANCH  30  32
+ATOM     32  C26 Q73 C1124      24.373  12.154  10.431  0.00  0.00    +0.000 C 
+BRANCH  32  34
+ATOM     33  O4  Q73 C1124      22.839  10.563  11.302  0.00  0.00    +0.000 OA
+ATOM     34  C27 Q73 C1124      23.367  11.688  11.454  0.00  0.00    +0.000 C 
+ATOM     35  O3  Q73 C1124      23.108  12.445  12.420  0.00  0.00    +0.000 OA
+ENDBRANCH  32  34
+ENDBRANCH  30  32
+ENDBRANCH  29  30
+ENDBRANCH  27  29
+ENDBRANCH  25  27
+ENDBRANCH  22  26
+ENDBRANCH  20  24
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 13
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -3.7      2.914      8.952
+REMARK  Name = ligand_pdbs\Q73.pdb
+REMARK  13 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C27_2  and  C26_4
+REMARK    2  A    between atoms: C26_4  and  C25_5
+REMARK    3  A    between atoms: C25_5  and  C24_7
+REMARK    4  A    between atoms: C24_7  and  C23_8
+REMARK    5  A    between atoms: C23_8  and  C22_10
+REMARK    6  A    between atoms: C21_11  and  C19_12
+REMARK    7  A    between atoms: C17_14  and  C16_15
+REMARK    8  A    between atoms: C16_15  and  C15_17
+REMARK    9  A    between atoms: C15_17  and  C13_18
+REMARK   10  A    between atoms: C12_20  and  C11_21
+REMARK   11  A    between atoms: C10_22  and  C9_23
+REMARK   12  A    between atoms: C9_23  and  C3_25
+REMARK   13  A    between atoms: C2_27  and  C5_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 Q73 C1124      25.667   0.307   3.479  0.00  0.00    +0.000 C 
+ATOM      2  C14 Q73 C1124      25.638   1.311   2.356  0.00  0.00    +0.000 C 
+ATOM      3  C12 Q73 C1124      25.416   0.664   4.748  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   3   4
+ATOM      4  C11 Q73 C1124      25.107   2.038   5.040  0.00  0.00    +0.000 C 
+ATOM      5  C10 Q73 C1124      24.048   2.610   4.515  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C9  Q73 C1124      23.730   4.047   4.847  0.00  0.00    +0.000 C 
+ATOM      7  N   Q73 C1124      22.404   4.410   4.314  0.00  0.00    +0.000 NA
+BRANCH   6   8
+ATOM      8  C3  Q73 C1124      24.826   4.954   4.291  0.00  0.00    +0.000 C 
+ATOM      9  O   Q73 C1124      24.929   6.058   5.183  0.00  0.00    +0.000 OA
+ATOM     10  C2  Q73 C1124      25.771   7.081   4.660  0.00  0.00    +0.000 C 
+ATOM     11  C1  Q73 C1124      27.199   6.530   4.625  0.00  0.00    +0.000 C 
+ATOM     12  C8  Q73 C1124      27.710   6.196   6.031  0.00  0.00    +0.000 C 
+ATOM     13  C   Q73 C1124      27.239   5.296   3.720  0.00  0.00    +0.000 C 
+ATOM     14  O1  Q73 C1124      27.003   5.691   2.366  0.00  0.00    +0.000 OA
+ATOM     15  C4  Q73 C1124      26.190   4.261   4.113  0.00  0.00    +0.000 C 
+BRANCH  10  16
+ATOM     16  C5  Q73 C1124      25.655   8.315   5.518  0.00  0.00    +0.000 C 
+ATOM     17  C6  Q73 C1124      24.453   8.695   5.945  0.00  0.00    +0.000 C 
+ATOM     18  C7  Q73 C1124      24.308   9.925   6.802  0.00  0.00    +0.000 C 
+ENDBRANCH  10  16
+ENDBRANCH   6   8
+ENDBRANCH   5   6
+ENDBRANCH   3   4
+BRANCH   1  19
+ATOM     19  C15 Q73 C1124      26.013  -1.131   3.177  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  C16 Q73 C1124      27.322  -1.467   3.880  0.00  0.00    +0.000 C 
+ATOM     21  C18 Q73 C1124      27.393  -2.846   4.514  0.00  0.00    +0.000 C 
+BRANCH  20  24
+ATOM     22  C19 Q73 C1124      29.249  -0.307   2.937  0.00  0.00    +0.000 C 
+ATOM     23  C20 Q73 C1124      30.411  -0.186   1.961  0.00  0.00    +0.000 C 
+ATOM     24  C17 Q73 C1124      28.460  -1.367   2.893  0.00  0.00    +0.000 C 
+BRANCH  22  26
+ATOM     25  C22 Q73 C1124      29.532   1.741   4.265  0.00  0.00    +0.000 C 
+ATOM     26  C21 Q73 C1124      28.893   0.630   4.028  0.00  0.00    +0.000 C 
+BRANCH  25  27
+ATOM     27  C23 Q73 C1124      29.101   2.596   5.435  0.00  0.00    +0.000 C 
+ATOM     28  O2  Q73 C1124      30.203   3.302   6.040  0.00  0.00    +0.000 OA
+BRANCH  27  29
+ATOM     29  C24 Q73 C1124      28.493   1.645   6.447  0.00  0.00    +0.000 C 
+BRANCH  29  30
+ATOM     30  C25 Q73 C1124      29.290   0.351   6.571  0.00  0.00    +0.000 C 
+ATOM     31  N1  Q73 C1124      28.438  -0.713   7.136  0.00  0.00    +0.000 NA
+BRANCH  30  32
+ATOM     32  C26 Q73 C1124      30.558   0.559   7.407  0.00  0.00    +0.000 C 
+BRANCH  32  34
+ATOM     33  O4  Q73 C1124      32.847   0.655   6.780  0.00  0.00    +0.000 OA
+ATOM     34  C27 Q73 C1124      31.733   0.127   6.565  0.00  0.00    +0.000 C 
+ATOM     35  O3  Q73 C1124      31.545  -0.750   5.689  0.00  0.00    +0.000 OA
+ENDBRANCH  32  34
+ENDBRANCH  30  32
+ENDBRANCH  29  30
+ENDBRANCH  27  29
+ENDBRANCH  25  27
+ENDBRANCH  22  26
+ENDBRANCH  20  24
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 13
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -3.3      2.692      8.668
+REMARK  Name = ligand_pdbs\Q73.pdb
+REMARK  13 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C27_2  and  C26_4
+REMARK    2  A    between atoms: C26_4  and  C25_5
+REMARK    3  A    between atoms: C25_5  and  C24_7
+REMARK    4  A    between atoms: C24_7  and  C23_8
+REMARK    5  A    between atoms: C23_8  and  C22_10
+REMARK    6  A    between atoms: C21_11  and  C19_12
+REMARK    7  A    between atoms: C17_14  and  C16_15
+REMARK    8  A    between atoms: C16_15  and  C15_17
+REMARK    9  A    between atoms: C15_17  and  C13_18
+REMARK   10  A    between atoms: C12_20  and  C11_21
+REMARK   11  A    between atoms: C10_22  and  C9_23
+REMARK   12  A    between atoms: C9_23  and  C3_25
+REMARK   13  A    between atoms: C2_27  and  C5_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 Q73 C1124      25.564   0.506   4.230  0.00  0.00    +0.000 C 
+ATOM      2  C14 Q73 C1124      25.639   0.954   5.667  0.00  0.00    +0.000 C 
+ATOM      3  C12 Q73 C1124      24.784   1.135   3.337  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   3   4
+ATOM      4  C11 Q73 C1124      24.006   2.267   3.763  0.00  0.00    +0.000 C 
+ATOM      5  C10 Q73 C1124      24.538   3.194   4.526  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C9  Q73 C1124      23.710   4.383   4.948  0.00  0.00    +0.000 C 
+ATOM      7  N   Q73 C1124      22.337   4.255   4.427  0.00  0.00    +0.000 NA
+BRANCH   6   8
+ATOM      8  C3  Q73 C1124      24.377   5.668   4.463  0.00  0.00    +0.000 C 
+ATOM      9  O   Q73 C1124      24.637   6.452   5.621  0.00  0.00    +0.000 OA
+ATOM     10  C2  Q73 C1124      25.066   7.767   5.281  0.00  0.00    +0.000 C 
+ATOM     11  C1  Q73 C1124      26.446   7.648   4.628  0.00  0.00    +0.000 C 
+ATOM     12  C8  Q73 C1124      27.481   7.068   5.598  0.00  0.00    +0.000 C 
+ATOM     13  C   Q73 C1124      26.332   6.785   3.369  0.00  0.00    +0.000 C 
+ATOM     14  O1  Q73 C1124      25.558   7.478   2.385  0.00  0.00    +0.000 OA
+ATOM     15  C4  Q73 C1124      25.666   5.442   3.650  0.00  0.00    +0.000 C 
+BRANCH  10  16
+ATOM     16  C5  Q73 C1124      25.093   8.624   6.521  0.00  0.00    +0.000 C 
+ATOM     17  C6  Q73 C1124      24.192   9.595   6.656  0.00  0.00    +0.000 C 
+ATOM     18  C7  Q73 C1124      24.196  10.466   7.884  0.00  0.00    +0.000 C 
+ENDBRANCH  10  16
+ENDBRANCH   6   8
+ENDBRANCH   5   6
+ENDBRANCH   3   4
+BRANCH   1  19
+ATOM     19  C15 Q73 C1124      26.364  -0.696   3.788  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  C16 Q73 C1124      27.385  -0.238   2.754  0.00  0.00    +0.000 C 
+ATOM     21  C18 Q73 C1124      28.190   0.995   3.128  0.00  0.00    +0.000 C 
+BRANCH  20  24
+ATOM     22  C19 Q73 C1124      29.157  -1.749   3.477  0.00  0.00    +0.000 C 
+ATOM     23  C20 Q73 C1124      30.149  -2.881   3.245  0.00  0.00    +0.000 C 
+ATOM     24  C17 Q73 C1124      28.367  -1.354   2.494  0.00  0.00    +0.000 C 
+BRANCH  22  26
+ATOM     25  C22 Q73 C1124      29.836  -0.724   5.604  0.00  0.00    +0.000 C 
+ATOM     26  C21 Q73 C1124      28.904  -1.025   4.744  0.00  0.00    +0.000 C 
+BRANCH  25  27
+ATOM     27  C23 Q73 C1124      29.448  -0.017   6.883  0.00  0.00    +0.000 C 
+ATOM     28  O2  Q73 C1124      28.099   0.488   6.849  0.00  0.00    +0.000 OA
+BRANCH  27  29
+ATOM     29  C24 Q73 C1124      30.417   1.139   7.034  0.00  0.00    +0.000 C 
+BRANCH  29  30
+ATOM     30  C25 Q73 C1124      30.065   2.307   6.120  0.00  0.00    +0.000 C 
+ATOM     31  N1  Q73 C1124      31.285   2.825   5.470  0.00  0.00    +0.000 NA
+BRANCH  30  32
+ATOM     32  C26 Q73 C1124      29.328   3.410   6.889  0.00  0.00    +0.000 C 
+BRANCH  32  34
+ATOM     33  O4  Q73 C1124      28.072   3.774   4.906  0.00  0.00    +0.000 OA
+ATOM     34  C27 Q73 C1124      28.040   3.693   6.155  0.00  0.00    +0.000 C 
+ATOM     35  O3  Q73 C1124      26.991   3.825   6.827  0.00  0.00    +0.000 OA
+ENDBRANCH  32  34
+ENDBRANCH  30  32
+ENDBRANCH  29  30
+ENDBRANCH  27  29
+ENDBRANCH  25  27
+ENDBRANCH  22  26
+ENDBRANCH  20  24
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 13
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -3.1      2.763      9.414
+REMARK  Name = ligand_pdbs\Q73.pdb
+REMARK  13 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C27_2  and  C26_4
+REMARK    2  A    between atoms: C26_4  and  C25_5
+REMARK    3  A    between atoms: C25_5  and  C24_7
+REMARK    4  A    between atoms: C24_7  and  C23_8
+REMARK    5  A    between atoms: C23_8  and  C22_10
+REMARK    6  A    between atoms: C21_11  and  C19_12
+REMARK    7  A    between atoms: C17_14  and  C16_15
+REMARK    8  A    between atoms: C16_15  and  C15_17
+REMARK    9  A    between atoms: C15_17  and  C13_18
+REMARK   10  A    between atoms: C12_20  and  C11_21
+REMARK   11  A    between atoms: C10_22  and  C9_23
+REMARK   12  A    between atoms: C9_23  and  C3_25
+REMARK   13  A    between atoms: C2_27  and  C5_28
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 Q73 C1124      28.374   3.404   6.197  0.00  0.00    +0.000 C 
+ATOM      2  C14 Q73 C1124      28.594   3.854   4.776  0.00  0.00    +0.000 C 
+ATOM      3  C12 Q73 C1124      27.196   3.580   6.816  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   3   4
+ATOM      4  C11 Q73 C1124      26.117   4.208   6.102  0.00  0.00    +0.000 C 
+ATOM      5  C10 Q73 C1124      24.921   3.665   6.087  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C9  Q73 C1124      23.798   4.348   5.347  0.00  0.00    +0.000 C 
+ATOM      7  N   Q73 C1124      23.227   3.436   4.339  0.00  0.00    +0.000 NA
+BRANCH   6   8
+ATOM      8  C3  Q73 C1124      24.314   5.636   4.709  0.00  0.00    +0.000 C 
+ATOM      9  O   Q73 C1124      24.673   6.502   5.779  0.00  0.00    +0.000 OA
+ATOM     10  C2  Q73 C1124      24.971   7.816   5.315  0.00  0.00    +0.000 C 
+ATOM     11  C1  Q73 C1124      26.259   7.734   4.492  0.00  0.00    +0.000 C 
+ATOM     12  C8  Q73 C1124      27.446   7.272   5.343  0.00  0.00    +0.000 C 
+ATOM     13  C   Q73 C1124      26.036   6.791   3.306  0.00  0.00    +0.000 C 
+ATOM     14  O1  Q73 C1124      25.099   7.380   2.400  0.00  0.00    +0.000 OA
+ATOM     15  C4  Q73 C1124      25.498   5.433   3.745  0.00  0.00    +0.000 C 
+BRANCH  10  16
+ATOM     16  C5  Q73 C1124      25.105   8.747   6.494  0.00  0.00    +0.000 C 
+ATOM     17  C6  Q73 C1124      24.115   9.594   6.765  0.00  0.00    +0.000 C 
+ATOM     18  C7  Q73 C1124      24.223  10.536   7.935  0.00  0.00    +0.000 C 
+ENDBRANCH  10  16
+ENDBRANCH   6   8
+ENDBRANCH   5   6
+ENDBRANCH   3   4
+BRANCH   1  19
+ATOM     19  C15 Q73 C1124      29.512   2.765   6.955  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  C16 Q73 C1124      29.990   1.551   6.168  0.00  0.00    +0.000 C 
+ATOM     21  C18 Q73 C1124      31.495   1.421   6.010  0.00  0.00    +0.000 C 
+BRANCH  20  24
+ATOM     22  C19 Q73 C1124      28.355  -0.237   6.444  0.00  0.00    +0.000 C 
+ATOM     23  C20 Q73 C1124      27.842  -1.512   7.099  0.00  0.00    +0.000 C 
+ATOM     24  C17 Q73 C1124      29.498   0.293   6.842  0.00  0.00    +0.000 C 
+BRANCH  22  26
+ATOM     25  C22 Q73 C1124      26.542   0.262   4.863  0.00  0.00    +0.000 C 
+ATOM     26  C21 Q73 C1124      27.740   0.503   5.318  0.00  0.00    +0.000 C 
+BRANCH  25  27
+ATOM     27  C23 Q73 C1124      26.038   1.058   3.680  0.00  0.00    +0.000 C 
+ATOM     28  O2  Q73 C1124      24.678   0.729   3.331  0.00  0.00    +0.000 OA
+BRANCH  27  29
+ATOM     29  C24 Q73 C1124      26.954   0.714   2.522  0.00  0.00    +0.000 C 
+BRANCH  29  30
+ATOM     30  C25 Q73 C1124      28.152  -0.118   2.965  0.00  0.00    +0.000 C 
+ATOM     31  N1  Q73 C1124      29.405   0.565   2.588  0.00  0.00    +0.000 NA
+BRANCH  30  32
+ATOM     32  C26 Q73 C1124      28.088  -1.535   2.384  0.00  0.00    +0.000 C 
+BRANCH  32  34
+ATOM     33  O4  Q73 C1124      27.610  -2.987   4.202  0.00  0.00    +0.000 OA
+ATOM     34  C27 Q73 C1124      28.501  -2.492   3.475  0.00  0.00    +0.000 C 
+ATOM     35  O3  Q73 C1124      29.719  -2.757   3.602  0.00  0.00    +0.000 OA
+ENDBRANCH  32  34
+ENDBRANCH  30  32
+ENDBRANCH  29  30
+ENDBRANCH  27  29
+ENDBRANCH  25  27
+ENDBRANCH  22  26
+ENDBRANCH  20  24
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 13
+ENDMDL

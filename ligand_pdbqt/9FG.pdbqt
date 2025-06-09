@@ -1,0 +1,30 @@
+REMARK  Name = ligand_pdbs\9FG.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C12_1  and  C2_14
+REMARK    2  A    between atoms: C5_10  and  C6_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  9FG A1001       1.110  28.948   3.841  0.00  0.00    +0.000 N 
+ATOM      2  C1  9FG A1001      -0.073  28.279   3.319  0.00  0.00    +0.000 C 
+ATOM      3  C5  9FG A1001       1.253  30.307   4.140  0.00  0.00    +0.000 A 
+ATOM      4  C4  9FG A1001       2.559  30.455   4.597  0.00  0.00    +0.000 A 
+ATOM      5  C3  9FG A1001       3.193  29.193   4.593  0.00  0.00    +0.000 A 
+ATOM      6  C2  9FG A1001       2.283  28.278   4.120  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   3  12
+ATOM      7  C11 9FG A1001      -1.104  31.219   4.373  0.00  0.00    +0.000 A 
+ATOM      8  C10 9FG A1001      -2.052  32.217   4.177  0.00  0.00    +0.000 A 
+ATOM      9  C9  9FG A1001      -1.679  33.403   3.544  0.00  0.00    +0.000 A 
+ATOM     10  C8  9FG A1001      -0.361  33.586   3.116  0.00  0.00    +0.000 A 
+ATOM     11  C7  9FG A1001       0.587  32.566   3.318  0.00  0.00    +0.000 A 
+ATOM     12  C6  9FG A1001       0.233  31.361   3.957  0.00  0.00    +0.000 A 
+ATOM     13  F1  9FG A1001      -1.518  30.107   4.978  0.00  0.00    +0.000 F 
+ATOM     14  O1  9FG A1001      -2.583  34.410   3.331  0.00  0.00    +0.000 OA
+ENDBRANCH   3  12
+BRANCH   6  15
+ATOM     15  C12 9FG A1001       2.487  26.878   3.938  0.00  0.00    +0.000 C 
+ATOM     16  N2  9FG A1001       2.616  25.738   3.779  0.00  0.00    +0.000 NA
+ENDBRANCH   6  15
+TORSDOF 2

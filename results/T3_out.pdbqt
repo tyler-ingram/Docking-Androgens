@@ -1,0 +1,441 @@
+MODEL 1
+REMARK VINA RESULT:      -5.4      0.000      0.000
+REMARK  Name = ligand_pdbs\T3.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C13_13
+REMARK    2  A    between atoms: C2_2  and  O2_21
+REMARK    3  A    between atoms: C7_7  and  O2_21
+REMARK    4  A    between atoms: C13_13  and  CA_14
+REMARK    5  A    between atoms: CA_14  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  T3  A 933      27.441  -0.780   5.154  0.00  0.00    +0.000 A 
+ATOM      2  C3  T3  A 933      26.224  -0.021   4.995  0.00  0.00    +0.000 A 
+ATOM      3  C5  T3  A 933      26.240   1.344   5.238  0.00  0.00    +0.000 A 
+ATOM      4  C7  T3  A 933      27.439   2.005   5.627  0.00  0.00    +0.000 A 
+ATOM      5  C9  T3  A 933      28.631   1.229   5.770  0.00  0.00    +0.000 A 
+ATOM      6  C11 T3  A 933      28.614  -0.191   5.518  0.00  0.00    +0.000 A 
+ATOM      7  I1  T3  A 933      24.434   2.426   5.056  0.00  0.00    +0.000 I 
+ATOM      8  I3  T3  A 933      30.419   2.193   6.368  0.00  0.00    +0.000 I 
+ENDROOT
+BRANCH   1   9
+ATOM      9  C13 T3  A 933      27.574  -2.146   4.664  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  CA  T3  A 933      28.376  -2.239   3.404  0.00  0.00    +0.000 C 
+ATOM     11  N   T3  A 933      29.728  -2.672   3.639  0.00  0.00    +0.000 NA
+BRANCH  10  12
+ATOM     12  C   T3  A 933      28.225  -0.933   2.679  0.00  0.00    +0.000 C 
+ATOM     13  OXT T3  A 933      29.287  -0.167   2.576  0.00  0.00    +0.000 OA
+ATOM     14  O   T3  A 933      27.158  -0.583   2.113  0.00  0.00    +0.000 OA
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+BRANCH   4  15
+ATOM     15  O2  T3  A 933      27.531   3.377   5.887  0.00  0.00    +0.000 OA
+BRANCH  15  16
+ATOM     16  C2  T3  A 933      27.036   4.372   5.036  0.00  0.00    +0.000 A 
+ATOM     17  C4  T3  A 933      26.485   5.498   5.625  0.00  0.00    +0.000 A 
+ATOM     18  C6  T3  A 933      26.034   6.540   4.877  0.00  0.00    +0.000 A 
+ATOM     19  C8  T3  A 933      26.102   6.466   3.455  0.00  0.00    +0.000 A 
+ATOM     20  C10 T3  A 933      26.659   5.317   2.829  0.00  0.00    +0.000 A 
+ATOM     21  C12 T3  A 933      27.126   4.257   3.633  0.00  0.00    +0.000 A 
+ATOM     22  I2  T3  A 933      25.314   8.244   5.830  0.00  0.00    +0.000 I 
+ATOM     23  O1  T3  A 933      25.616   7.539   2.696  0.00  0.00    +0.000 OA
+ENDBRANCH  15  16
+ENDBRANCH   4  15
+TORSDOF 5
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.7      3.099      7.341
+REMARK  Name = ligand_pdbs\T3.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C13_13
+REMARK    2  A    between atoms: C2_2  and  O2_21
+REMARK    3  A    between atoms: C7_7  and  O2_21
+REMARK    4  A    between atoms: C13_13  and  CA_14
+REMARK    5  A    between atoms: CA_14  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  T3  A 933      26.610   4.992   4.295  0.00  0.00    +0.000 A 
+ATOM      2  C3  T3  A 933      25.674   3.948   3.952  0.00  0.00    +0.000 A 
+ATOM      3  C5  T3  A 933      25.854   2.678   4.476  0.00  0.00    +0.000 A 
+ATOM      4  C7  T3  A 933      26.935   2.394   5.356  0.00  0.00    +0.000 A 
+ATOM      5  C9  T3  A 933      27.843   3.449   5.685  0.00  0.00    +0.000 A 
+ATOM      6  C11 T3  A 933      27.656   4.770   5.138  0.00  0.00    +0.000 A 
+ATOM      7  I1  T3  A 933      24.506   1.150   3.912  0.00  0.00    +0.000 I 
+ATOM      8  I3  T3  A 933      29.471   3.039   6.976  0.00  0.00    +0.000 I 
+ENDROOT
+BRANCH   1   9
+ATOM      9  C13 T3  A 933      26.345   6.396   4.012  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  CA  T3  A 933      25.185   6.940   4.784  0.00  0.00    +0.000 C 
+ATOM     11  N   T3  A 933      23.924   6.695   4.134  0.00  0.00    +0.000 NA
+BRANCH  10  12
+ATOM     12  C   T3  A 933      25.489   8.376   5.099  0.00  0.00    +0.000 C 
+ATOM     13  OXT T3  A 933      26.188   9.058   4.220  0.00  0.00    +0.000 OA
+ATOM     14  O   T3  A 933      25.047   8.962   6.119  0.00  0.00    +0.000 OA
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+BRANCH   4  15
+ATOM     15  O2  T3  A 933      27.178   1.137   5.924  0.00  0.00    +0.000 OA
+BRANCH  15  16
+ATOM     16  C2  T3  A 933      27.616   0.021   5.203  0.00  0.00    +0.000 A 
+ATOM     17  C4  T3  A 933      28.569   0.231   4.220  0.00  0.00    +0.000 A 
+ATOM     18  C6  T3  A 933      29.095  -0.803   3.511  0.00  0.00    +0.000 A 
+ATOM     19  C8  T3  A 933      28.640  -2.131   3.761  0.00  0.00    +0.000 A 
+ATOM     20  C10 T3  A 933      27.658  -2.369   4.762  0.00  0.00    +0.000 A 
+ATOM     21  C12 T3  A 933      27.139  -1.276   5.487  0.00  0.00    +0.000 A 
+ATOM     22  I2  T3  A 933      30.598  -0.428   2.122  0.00  0.00    +0.000 I 
+ATOM     23  O1  T3  A 933      29.176  -3.185   3.009  0.00  0.00    +0.000 OA
+ENDBRANCH  15  16
+ENDBRANCH   4  15
+TORSDOF 5
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -4.6      1.725      2.833
+REMARK  Name = ligand_pdbs\T3.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C13_13
+REMARK    2  A    between atoms: C2_2  and  O2_21
+REMARK    3  A    between atoms: C7_7  and  O2_21
+REMARK    4  A    between atoms: C13_13  and  CA_14
+REMARK    5  A    between atoms: CA_14  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  T3  A 933      27.422   0.541   3.534  0.00  0.00    +0.000 A 
+ATOM      2  C3  T3  A 933      28.329   1.270   4.387  0.00  0.00    +0.000 A 
+ATOM      3  C5  T3  A 933      27.873   2.396   5.056  0.00  0.00    +0.000 A 
+ATOM      4  C7  T3  A 933      26.526   2.832   4.923  0.00  0.00    +0.000 A 
+ATOM      5  C9  T3  A 933      25.647   2.086   4.076  0.00  0.00    +0.000 A 
+ATOM      6  C11 T3  A 933      26.122   0.916   3.380  0.00  0.00    +0.000 A 
+ATOM      7  I1  T3  A 933      29.235   3.483   6.253  0.00  0.00    +0.000 I 
+ATOM      8  I3  T3  A 933      23.643   2.732   3.851  0.00  0.00    +0.000 I 
+ENDROOT
+BRANCH   1   9
+ATOM      9  C13 T3  A 933      27.737  -0.785   3.019  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  CA  T3  A 933      28.364  -1.677   4.044  0.00  0.00    +0.000 C 
+ATOM     11  N   T3  A 933      29.311  -2.598   3.471  0.00  0.00    +0.000 NA
+BRANCH  10  12
+ATOM     12  C   T3  A 933      27.252  -2.295   4.841  0.00  0.00    +0.000 C 
+ATOM     13  OXT T3  A 933      26.943  -1.739   5.991  0.00  0.00    +0.000 OA
+ATOM     14  O   T3  A 933      26.569  -3.265   4.426  0.00  0.00    +0.000 OA
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+BRANCH   4  15
+ATOM     15  O2  T3  A 933      25.996   3.956   5.567  0.00  0.00    +0.000 OA
+BRANCH  15  16
+ATOM     16  C2  T3  A 933      25.950   5.236   5.002  0.00  0.00    +0.000 A 
+ATOM     17  C4  T3  A 933      25.437   6.259   5.782  0.00  0.00    +0.000 A 
+ATOM     18  C6  T3  A 933      25.408   7.543   5.337  0.00  0.00    +0.000 A 
+ATOM     19  C8  T3  A 933      25.891   7.845   4.029  0.00  0.00    +0.000 A 
+ATOM     20  C10 T3  A 933      26.418   6.809   3.210  0.00  0.00    +0.000 A 
+ATOM     21  C12 T3  A 933      26.441   5.488   3.704  0.00  0.00    +0.000 A 
+ATOM     22  I2  T3  A 933      24.720   9.046   6.600  0.00  0.00    +0.000 I 
+ATOM     23  O1  T3  A 933      25.839   9.169   3.576  0.00  0.00    +0.000 OA
+ENDBRANCH  15  16
+ENDBRANCH   4  15
+TORSDOF 5
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -4.5      3.198      7.617
+REMARK  Name = ligand_pdbs\T3.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C13_13
+REMARK    2  A    between atoms: C2_2  and  O2_21
+REMARK    3  A    between atoms: C7_7  and  O2_21
+REMARK    4  A    between atoms: C13_13  and  CA_14
+REMARK    5  A    between atoms: CA_14  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  T3  A 933      25.080   4.809   5.060  0.00  0.00    +0.000 A 
+ATOM      2  C3  T3  A 933      26.309   4.764   5.815  0.00  0.00    +0.000 A 
+ATOM      3  C5  T3  A 933      27.266   3.813   5.497  0.00  0.00    +0.000 A 
+ATOM      4  C7  T3  A 933      27.060   2.894   4.431  0.00  0.00    +0.000 A 
+ATOM      5  C9  T3  A 933      25.836   2.966   3.694  0.00  0.00    +0.000 A 
+ATOM      6  C11 T3  A 933      24.840   3.954   4.027  0.00  0.00    +0.000 A 
+ATOM      7  I1  T3  A 933      29.033   3.727   6.654  0.00  0.00    +0.000 I 
+ATOM      8  I3  T3  A 933      25.503   1.592   2.118  0.00  0.00    +0.000 I 
+ENDROOT
+BRANCH   1   9
+ATOM      9  C13 T3  A 933      24.155   5.930   5.148  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  CA  T3  A 933      24.631   7.141   4.408  0.00  0.00    +0.000 C 
+ATOM     11  N   T3  A 933      25.316   6.809   3.186  0.00  0.00    +0.000 NA
+BRANCH  10  12
+ATOM     12  C   T3  A 933      25.404   7.985   5.380  0.00  0.00    +0.000 C 
+ATOM     13  OXT T3  A 933      26.714   7.879   5.374  0.00  0.00    +0.000 OA
+ATOM     14  O   T3  A 933      24.860   8.828   6.138  0.00  0.00    +0.000 OA
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+BRANCH   4  15
+ATOM     15  O2  T3  A 933      27.980   1.909   4.052  0.00  0.00    +0.000 OA
+BRANCH  15  16
+ATOM     16  C2  T3  A 933      27.783   0.537   4.238  0.00  0.00    +0.000 A 
+ATOM     17  C4  T3  A 933      28.763  -0.318   3.765  0.00  0.00    +0.000 A 
+ATOM     18  C6  T3  A 933      28.684  -1.663   3.955  0.00  0.00    +0.000 A 
+ATOM     19  C8  T3  A 933      27.555  -2.211   4.631  0.00  0.00    +0.000 A 
+ATOM     20  C10 T3  A 933      26.533  -1.352   5.121  0.00  0.00    +0.000 A 
+ATOM     21  C12 T3  A 933      26.650   0.039   4.916  0.00  0.00    +0.000 A 
+ATOM     22  I2  T3  A 933      30.244  -2.879   3.309  0.00  0.00    +0.000 I 
+ATOM     23  O1  T3  A 933      27.476  -3.599   4.803  0.00  0.00    +0.000 OA
+ENDBRANCH  15  16
+ENDBRANCH   4  15
+TORSDOF 5
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.5      1.731      2.078
+REMARK  Name = ligand_pdbs\T3.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C13_13
+REMARK    2  A    between atoms: C2_2  and  O2_21
+REMARK    3  A    between atoms: C7_7  and  O2_21
+REMARK    4  A    between atoms: C13_13  and  CA_14
+REMARK    5  A    between atoms: CA_14  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  T3  A 933      26.286   0.509   4.250  0.00  0.00    +0.000 A 
+ATOM      2  C3  T3  A 933      25.067   1.261   4.073  0.00  0.00    +0.000 A 
+ATOM      3  C5  T3  A 933      24.946   2.506   4.671  0.00  0.00    +0.000 A 
+ATOM      4  C7  T3  A 933      26.009   3.055   5.441  0.00  0.00    +0.000 A 
+ATOM      5  C9  T3  A 933      27.208   2.291   5.594  0.00  0.00    +0.000 A 
+ATOM      6  C11 T3  A 933      27.333   0.995   4.973  0.00  0.00    +0.000 A 
+ATOM      7  I1  T3  A 933      23.130   3.565   4.448  0.00  0.00    +0.000 I 
+ATOM      8  I3  T3  A 933      28.792   3.084   6.754  0.00  0.00    +0.000 I 
+ENDROOT
+BRANCH   1   9
+ATOM      9  C13 T3  A 933      26.597  -0.666   3.447  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  CA  T3  A 933      28.067  -0.901   3.299  0.00  0.00    +0.000 C 
+ATOM     11  N   T3  A 933      28.539  -0.634   1.965  0.00  0.00    +0.000 NA
+BRANCH  10  12
+ATOM     12  C   T3  A 933      28.358  -2.274   3.832  0.00  0.00    +0.000 C 
+ATOM     13  OXT T3  A 933      27.419  -2.867   4.534  0.00  0.00    +0.000 OA
+ATOM     14  O   T3  A 933      29.419  -2.897   3.576  0.00  0.00    +0.000 OA
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+BRANCH   4  15
+ATOM     15  O2  T3  A 933      25.959   4.304   6.072  0.00  0.00    +0.000 OA
+BRANCH  15  16
+ATOM     16  C2  T3  A 933      25.958   5.527   5.392  0.00  0.00    +0.000 A 
+ATOM     17  C4  T3  A 933      25.360   6.606   6.021  0.00  0.00    +0.000 A 
+ATOM     18  C6  T3  A 933      25.364   7.845   5.461  0.00  0.00    +0.000 A 
+ATOM     19  C8  T3  A 933      25.972   8.038   4.186  0.00  0.00    +0.000 A 
+ATOM     20  C10 T3  A 933      26.589   6.943   3.520  0.00  0.00    +0.000 A 
+ATOM     21  C12 T3  A 933      26.575   5.672   4.131  0.00  0.00    +0.000 A 
+ATOM     22  I2  T3  A 933      24.538   9.442   6.508  0.00  0.00    +0.000 I 
+ATOM     23  O1  T3  A 933      25.953   9.316   3.612  0.00  0.00    +0.000 OA
+ENDBRANCH  15  16
+ENDBRANCH   4  15
+TORSDOF 5
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -4.3      1.923      2.874
+REMARK  Name = ligand_pdbs\T3.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C13_13
+REMARK    2  A    between atoms: C2_2  and  O2_21
+REMARK    3  A    between atoms: C7_7  and  O2_21
+REMARK    4  A    between atoms: C13_13  and  CA_14
+REMARK    5  A    between atoms: CA_14  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  T3  A 933      28.960   0.599   3.556  0.00  0.00    +0.000 A 
+ATOM      2  C3  T3  A 933      29.274   1.390   4.721  0.00  0.00    +0.000 A 
+ATOM      3  C5  T3  A 933      28.249   2.027   5.403  0.00  0.00    +0.000 A 
+ATOM      4  C7  T3  A 933      26.897   1.900   4.980  0.00  0.00    +0.000 A 
+ATOM      5  C9  T3  A 933      26.614   1.103   3.827  0.00  0.00    +0.000 A 
+ATOM      6  C11 T3  A 933      27.681   0.442   3.117  0.00  0.00    +0.000 A 
+ATOM      7  I1  T3  A 933      28.738   3.230   7.072  0.00  0.00    +0.000 I 
+ATOM      8  I3  T3  A 933      24.609   0.920   3.171  0.00  0.00    +0.000 I 
+ENDROOT
+BRANCH   1   9
+ATOM      9  C13 T3  A 933      29.925  -0.310   2.951  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  CA  T3  A 933      30.079  -1.590   3.711  0.00  0.00    +0.000 C 
+ATOM     11  N   T3  A 933      31.266  -2.314   3.339  0.00  0.00    +0.000 NA
+BRANCH  10  12
+ATOM     12  C   T3  A 933      28.787  -2.345   3.585  0.00  0.00    +0.000 C 
+ATOM     13  OXT T3  A 933      28.134  -2.625   4.690  0.00  0.00    +0.000 OA
+ATOM     14  O   T3  A 933      28.279  -2.651   2.477  0.00  0.00    +0.000 OA
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+BRANCH   4  15
+ATOM     15  O2  T3  A 933      25.812   2.512   5.620  0.00  0.00    +0.000 OA
+BRANCH  15  16
+ATOM     16  C2  T3  A 933      25.319   3.779   5.290  0.00  0.00    +0.000 A 
+ATOM     17  C4  T3  A 933      26.191   4.849   5.394  0.00  0.00    +0.000 A 
+ATOM     18  C6  T3  A 933      25.817   6.107   5.038  0.00  0.00    +0.000 A 
+ATOM     19  C8  T3  A 933      24.489   6.339   4.572  0.00  0.00    +0.000 A 
+ATOM     20  C10 T3  A 933      23.575   5.256   4.461  0.00  0.00    +0.000 A 
+ATOM     21  C12 T3  A 933      23.998   3.961   4.830  0.00  0.00    +0.000 A 
+ATOM     22  I2  T3  A 933      27.210   7.650   5.122  0.00  0.00    +0.000 I 
+ATOM     23  O1  T3  A 933      24.111   7.643   4.226  0.00  0.00    +0.000 OA
+ENDBRANCH  15  16
+ENDBRANCH   4  15
+TORSDOF 5
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -4.3      3.559      7.860
+REMARK  Name = ligand_pdbs\T3.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C13_13
+REMARK    2  A    between atoms: C2_2  and  O2_21
+REMARK    3  A    between atoms: C7_7  and  O2_21
+REMARK    4  A    between atoms: C13_13  and  CA_14
+REMARK    5  A    between atoms: CA_14  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  T3  A 933      26.542   6.354   5.451  0.00  0.00    +0.000 A 
+ATOM      2  C3  T3  A 933      27.593   5.424   5.787  0.00  0.00    +0.000 A 
+ATOM      3  C5  T3  A 933      27.331   4.063   5.747  0.00  0.00    +0.000 A 
+ATOM      4  C7  T3  A 933      26.050   3.574   5.367  0.00  0.00    +0.000 A 
+ATOM      5  C9  T3  A 933      25.030   4.519   5.033  0.00  0.00    +0.000 A 
+ATOM      6  C11 T3  A 933      25.302   5.934   5.076  0.00  0.00    +0.000 A 
+ATOM      7  I1  T3  A 933      28.867   2.720   6.299  0.00  0.00    +0.000 I 
+ATOM      8  I3  T3  A 933      23.111   3.809   4.485  0.00  0.00    +0.000 I 
+ENDROOT
+BRANCH   1   9
+ATOM      9  C13 T3  A 933      26.803   7.767   5.208  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  CA  T3  A 933      25.572   8.535   4.843  0.00  0.00    +0.000 C 
+ATOM     11  N   T3  A 933      25.826   9.550   3.854  0.00  0.00    +0.000 NA
+BRANCH  10  12
+ATOM     12  C   T3  A 933      24.946   9.012   6.122  0.00  0.00    +0.000 C 
+ATOM     13  OXT T3  A 933      23.663   9.295   6.104  0.00  0.00    +0.000 OA
+ATOM     14  O   T3  A 933      25.575   9.080   7.208  0.00  0.00    +0.000 OA
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+BRANCH   4  15
+ATOM     15  O2  T3  A 933      25.714   2.216   5.302  0.00  0.00    +0.000 OA
+BRANCH  15  16
+ATOM     16  C2  T3  A 933      26.279   1.311   4.398  0.00  0.00    +0.000 A 
+ATOM     17  C4  T3  A 933      26.484   0.014   4.838  0.00  0.00    +0.000 A 
+ATOM     18  C6  T3  A 933      26.973  -0.947   4.009  0.00  0.00    +0.000 A 
+ATOM     19  C8  T3  A 933      27.308  -0.612   2.665  0.00  0.00    +0.000 A 
+ATOM     20  C10 T3  A 933      27.110   0.714   2.192  0.00  0.00    +0.000 A 
+ATOM     21  C12 T3  A 933      26.593   1.687   3.074  0.00  0.00    +0.000 A 
+ATOM     22  I2  T3  A 933      27.159  -2.899   4.707  0.00  0.00    +0.000 I 
+ATOM     23  O1  T3  A 933      27.828  -1.607   1.827  0.00  0.00    +0.000 OA
+ENDBRANCH  15  16
+ENDBRANCH   4  15
+TORSDOF 5
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -3.8      3.157      7.216
+REMARK  Name = ligand_pdbs\T3.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C13_13
+REMARK    2  A    between atoms: C2_2  and  O2_21
+REMARK    3  A    between atoms: C7_7  and  O2_21
+REMARK    4  A    between atoms: C13_13  and  CA_14
+REMARK    5  A    between atoms: CA_14  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  T3  A 933      25.576   3.507   5.637  0.00  0.00    +0.000 A 
+ATOM      2  C3  T3  A 933      26.954   3.526   6.064  0.00  0.00    +0.000 A 
+ATOM      3  C5  T3  A 933      27.916   2.909   5.279  0.00  0.00    +0.000 A 
+ATOM      4  C7  T3  A 933      27.566   2.272   4.056  0.00  0.00    +0.000 A 
+ATOM      5  C9  T3  A 933      26.194   2.275   3.653  0.00  0.00    +0.000 A 
+ATOM      6  C11 T3  A 933      25.193   2.916   4.471  0.00  0.00    +0.000 A 
+ATOM      7  I1  T3  A 933      29.920   2.898   5.954  0.00  0.00    +0.000 I 
+ATOM      8  I3  T3  A 933      25.651   1.313   1.846  0.00  0.00    +0.000 I 
+ENDROOT
+BRANCH   1   9
+ATOM      9  C13 T3  A 933      24.561   4.351   6.251  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  CA  T3  A 933      23.972   5.345   5.301  0.00  0.00    +0.000 C 
+ATOM     11  N   T3  A 933      23.192   4.723   4.263  0.00  0.00    +0.000 NA
+BRANCH  10  12
+ATOM     12  C   T3  A 933      25.088   6.235   4.834  0.00  0.00    +0.000 C 
+ATOM     13  OXT T3  A 933      25.371   6.236   3.551  0.00  0.00    +0.000 OA
+ATOM     14  O   T3  A 933      25.705   7.018   5.600  0.00  0.00    +0.000 OA
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+BRANCH   4  15
+ATOM     15  O2  T3  A 933      28.481   1.632   3.213  0.00  0.00    +0.000 OA
+BRANCH  15  16
+ATOM     16  C2  T3  A 933      28.880   0.298   3.355  0.00  0.00    +0.000 A 
+ATOM     17  C4  T3  A 933      27.928  -0.608   3.792  0.00  0.00    +0.000 A 
+ATOM     18  C6  T3  A 933      28.209  -1.934   3.903  0.00  0.00    +0.000 A 
+ATOM     19  C8  T3  A 933      29.519  -2.403   3.589  0.00  0.00    +0.000 A 
+ATOM     20  C10 T3  A 933      30.513  -1.489   3.144  0.00  0.00    +0.000 A 
+ATOM     21  C12 T3  A 933      30.187  -0.121   3.031  0.00  0.00    +0.000 A 
+ATOM     22  I2  T3  A 933      26.703  -3.254   4.465  0.00  0.00    +0.000 I 
+ATOM     23  O1  T3  A 933      29.801  -3.768   3.726  0.00  0.00    +0.000 OA
+ENDBRANCH  15  16
+ENDBRANCH   4  15
+TORSDOF 5
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -3.8      1.730      2.944
+REMARK  Name = ligand_pdbs\T3.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C13_13
+REMARK    2  A    between atoms: C2_2  and  O2_21
+REMARK    3  A    between atoms: C7_7  and  O2_21
+REMARK    4  A    between atoms: C13_13  and  CA_14
+REMARK    5  A    between atoms: CA_14  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  T3  A 933      27.888   0.059   3.190  0.00  0.00    +0.000 A 
+ATOM      2  C3  T3  A 933      28.926   0.625   4.018  0.00  0.00    +0.000 A 
+ATOM      3  C5  T3  A 933      28.605   1.636   4.910  0.00  0.00    +0.000 A 
+ATOM      4  C7  T3  A 933      27.269   2.112   5.030  0.00  0.00    +0.000 A 
+ATOM      5  C9  T3  A 933      26.260   1.527   4.203  0.00  0.00    +0.000 A 
+ATOM      6  C11 T3  A 933      26.594   0.476   3.274  0.00  0.00    +0.000 A 
+ATOM      7  I1  T3  A 933      30.152   2.492   6.070  0.00  0.00    +0.000 I 
+ATOM      8  I3  T3  A 933      24.270   2.237   4.353  0.00  0.00    +0.000 I 
+ENDROOT
+BRANCH   1   9
+ATOM      9  C13 T3  A 933      28.081  -1.171   2.435  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  CA  T3  A 933      28.213  -2.379   3.309  0.00  0.00    +0.000 C 
+ATOM     11  N   T3  A 933      27.438  -2.275   4.517  0.00  0.00    +0.000 NA
+BRANCH  10  12
+ATOM     12  C   T3  A 933      29.680  -2.641   3.494  0.00  0.00    +0.000 C 
+ATOM     13  OXT T3  A 933      30.054  -3.881   3.717  0.00  0.00    +0.000 OA
+ATOM     14  O   T3  A 933      30.555  -1.747   3.376  0.00  0.00    +0.000 OA
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+BRANCH   4  15
+ATOM     15  O2  T3  A 933      26.872   3.126   5.909  0.00  0.00    +0.000 OA
+BRANCH  15  16
+ATOM     16  C2  T3  A 933      26.853   4.486   5.580  0.00  0.00    +0.000 A 
+ATOM     17  C4  T3  A 933      25.748   4.962   4.894  0.00  0.00    +0.000 A 
+ATOM     18  C6  T3  A 933      25.618   6.279   4.585  0.00  0.00    +0.000 A 
+ATOM     19  C8  T3  A 933      26.651   7.192   4.950  0.00  0.00    +0.000 A 
+ATOM     20  C10 T3  A 933      27.796   6.725   5.651  0.00  0.00    +0.000 A 
+ATOM     21  C12 T3  A 933      27.898   5.353   5.964  0.00  0.00    +0.000 A 
+ATOM     22  I2  T3  A 933      23.884   6.941   3.645  0.00  0.00    +0.000 I 
+ATOM     23  O1  T3  A 933      26.512   8.544   4.610  0.00  0.00    +0.000 OA
+ENDBRANCH  15  16
+ENDBRANCH   4  15
+TORSDOF 5
+ENDMDL

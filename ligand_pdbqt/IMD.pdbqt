@@ -1,0 +1,13 @@
+REMARK  Name = ligand_pdbs\IMD.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  IMD A1004      16.685 -17.185 -29.536  0.00  0.00    +0.000 NA
+ATOM      2  C2  IMD A1004      15.675 -17.574 -28.724  0.00  0.00    +0.000 C 
+ATOM      3  N3  IMD A1004      15.915 -17.085 -27.507  0.00  0.00    +0.000 NA
+ATOM      4  C4  IMD A1004      17.091 -16.373 -27.521  0.00  0.00    +0.000 C 
+ATOM      5  C5  IMD A1004      17.549 -16.399 -28.794  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0

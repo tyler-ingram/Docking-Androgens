@@ -1,0 +1,35 @@
+REMARK  Name = ligand_pdbs\EQF.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C12_2  and  C2_5
+REMARK    2  A    between atoms: N2_12  and  N3_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  EQF C1101     -34.904  71.659  27.192  0.00  0.00    +0.000 C 
+ATOM      2  C1  EQF C1101     -33.544  71.778  27.475  0.00  0.00    +0.000 C 
+ATOM      3 CL   EQF C1101     -32.422  70.378  27.634  0.00  0.00    +0.000 Cl
+ATOM      4  C3  EQF C1101     -35.711  72.808  27.067  0.00  0.00    +0.000 C 
+ATOM      5  C4  EQF C1101     -35.129  74.055  27.199  0.00  0.00    +0.000 C 
+ATOM      6  C5  EQF C1101     -33.764  74.117  27.461  0.00  0.00    +0.000 C 
+ATOM      7  N1  EQF C1101     -33.019  72.999  27.603  0.00  0.00    +0.000 NA
+ATOM      8  N2  EQF C1101     -33.117  75.290  27.616  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   8   9
+ATOM      9  N3  EQF C1101     -31.787  75.225  28.095  0.00  0.00    +0.000 N 
+ATOM     10  C9  EQF C1101     -31.460  74.940  29.348  0.00  0.00    +0.000 C 
+ATOM     11  O1  EQF C1101     -32.251  74.720  30.257  0.00  0.00    +0.000 OA
+ATOM     12  C8  EQF C1101     -29.961  74.924  29.514  0.00  0.00    +0.000 C 
+ATOM     13  C11 EQF C1101     -29.530  73.547  30.044  0.00  0.00    +0.000 C 
+ATOM     14  C7  EQF C1101     -29.464  75.344  28.111  0.00  0.00    +0.000 C 
+ATOM     15  C10 EQF C1101     -28.428  74.454  27.420  0.00  0.00    +0.000 C 
+ATOM     16  C6  EQF C1101     -30.738  75.431  27.324  0.00  0.00    +0.000 C 
+ATOM     17  O2  EQF C1101     -30.790  75.663  26.137  0.00  0.00    +0.000 OA
+ENDBRANCH   8   9
+BRANCH   1  19
+ATOM     18  F3  EQF C1101     -36.788  70.358  26.746  0.00  0.00    +0.000 F 
+ATOM     19  C12 EQF C1101     -35.496  70.279  27.069  0.00  0.00    +0.000 C 
+ATOM     20  F1  EQF C1101     -34.788  69.422  26.311  0.00  0.00    +0.000 F 
+ATOM     21  F2  EQF C1101     -35.458  69.811  28.285  0.00  0.00    +0.000 F 
+ENDBRANCH   1  19
+TORSDOF 2

@@ -1,0 +1,387 @@
+MODEL 1
+REMARK VINA RESULT:      -8.4      0.000      0.000
+REMARK  Name = ligand_pdbs\FLF.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_9
+REMARK    2  A    between atoms: C6_8  and  N_10
+REMARK    3  A    between atoms: N_10  and  C1'_11
+REMARK    4  A    between atoms: C3'_13  and  C7'_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   FLF A2386      27.315   2.597   3.655  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   7
+ATOM      2  C1  FLF A2386      28.259   0.616   4.490  0.00  0.00    +0.000 A 
+ATOM      3  C2  FLF A2386      29.144  -0.031   5.335  0.00  0.00    +0.000 A 
+ATOM      4  C3  FLF A2386      29.906   0.699   6.251  0.00  0.00    +0.000 A 
+ATOM      5  C4  FLF A2386      29.771   2.077   6.312  0.00  0.00    +0.000 A 
+ATOM      6  C5  FLF A2386      28.870   2.728   5.454  0.00  0.00    +0.000 A 
+ATOM      7  C6  FLF A2386      28.113   2.001   4.552  0.00  0.00    +0.000 A 
+BRANCH   2  10
+ATOM      8  O1  FLF A2386      27.842  -0.527   2.434  0.00  0.00    +0.000 OA
+ATOM      9  O2  FLF A2386      26.237  -0.529   3.961  0.00  0.00    +0.000 OA
+ATOM     10  C7  FLF A2386      27.376  -0.204   3.545  0.00  0.00    +0.000 C 
+ENDBRANCH   2  10
+ENDBRANCH   1   7
+BRANCH   1  11
+ATOM     11  C1' FLF A2386      26.228   3.307   3.932  0.00  0.00    +0.000 A 
+ATOM     12  C2' FLF A2386      26.330   4.684   3.906  0.00  0.00    +0.000 A 
+ATOM     13  C3' FLF A2386      25.228   5.488   4.234  0.00  0.00    +0.000 A 
+ATOM     14  C4' FLF A2386      24.022   4.896   4.579  0.00  0.00    +0.000 A 
+ATOM     15  C5' FLF A2386      23.921   3.508   4.607  0.00  0.00    +0.000 A 
+ATOM     16  C6' FLF A2386      25.011   2.720   4.290  0.00  0.00    +0.000 A 
+BRANCH  13  17
+ATOM     17  C7' FLF A2386      25.381   7.016   4.239  0.00  0.00    +0.000 C 
+ATOM     18  F1  FLF A2386      26.632   7.355   4.554  0.00  0.00    +0.000 F 
+ATOM     19  F2  FLF A2386      24.550   7.554   5.131  0.00  0.00    +0.000 F 
+ATOM     20  F3  FLF A2386      25.088   7.490   3.028  0.00  0.00    +0.000 F 
+ENDBRANCH  13  17
+ENDBRANCH   1  11
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -8.4      1.612      2.606
+REMARK  Name = ligand_pdbs\FLF.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_9
+REMARK    2  A    between atoms: C6_8  and  N_10
+REMARK    3  A    between atoms: N_10  and  C1'_11
+REMARK    4  A    between atoms: C3'_13  and  C7'_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   FLF A2386      27.062   2.439   3.458  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   7
+ATOM      2  C1  FLF A2386      28.041   0.977   5.013  0.00  0.00    +0.000 A 
+ATOM      3  C2  FLF A2386      28.208  -0.299   5.524  0.00  0.00    +0.000 A 
+ATOM      4  C3  FLF A2386      27.603  -1.393   4.901  0.00  0.00    +0.000 A 
+ATOM      5  C4  FLF A2386      26.834  -1.197   3.765  0.00  0.00    +0.000 A 
+ATOM      6  C5  FLF A2386      26.669   0.098   3.249  0.00  0.00    +0.000 A 
+ATOM      7  C6  FLF A2386      27.275   1.180   3.866  0.00  0.00    +0.000 A 
+BRANCH   2  10
+ATOM      8  O1  FLF A2386      28.152   2.850   6.491  0.00  0.00    +0.000 OA
+ATOM      9  O2  FLF A2386      29.972   2.335   5.338  0.00  0.00    +0.000 OA
+ATOM     10  C7  FLF A2386      28.773   2.156   5.662  0.00  0.00    +0.000 C 
+ENDBRANCH   2  10
+ENDBRANCH   1   7
+BRANCH   1  11
+ATOM     11  C1' FLF A2386      26.032   3.204   3.801  0.00  0.00    +0.000 A 
+ATOM     12  C2' FLF A2386      26.216   4.572   3.805  0.00  0.00    +0.000 A 
+ATOM     13  C3' FLF A2386      25.180   5.431   4.201  0.00  0.00    +0.000 A 
+ATOM     14  C4' FLF A2386      23.956   4.902   4.586  0.00  0.00    +0.000 A 
+ATOM     15  C5' FLF A2386      23.773   3.522   4.583  0.00  0.00    +0.000 A 
+ATOM     16  C6' FLF A2386      24.799   2.680   4.198  0.00  0.00    +0.000 A 
+BRANCH  13  17
+ATOM     17  C7' FLF A2386      25.425   6.947   4.238  0.00  0.00    +0.000 C 
+ATOM     18  F1  FLF A2386      25.167   7.485   3.046  0.00  0.00    +0.000 F 
+ATOM     19  F2  FLF A2386      26.694   7.195   4.560  0.00  0.00    +0.000 F 
+ATOM     20  F3  FLF A2386      24.627   7.497   5.152  0.00  0.00    +0.000 F 
+ENDBRANCH  13  17
+ENDBRANCH   1  11
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -8.2      4.456      6.724
+REMARK  Name = ligand_pdbs\FLF.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_9
+REMARK    2  A    between atoms: C6_8  and  N_10
+REMARK    3  A    between atoms: N_10  and  C1'_11
+REMARK    4  A    between atoms: C3'_13  and  C7'_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   FLF A2386      26.859   2.553   3.612  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   7
+ATOM      2  C1  FLF A2386      25.904   4.625   4.168  0.00  0.00    +0.000 A 
+ATOM      3  C2  FLF A2386      24.796   5.391   4.487  0.00  0.00    +0.000 A 
+ATOM      4  C3  FLF A2386      23.544   4.791   4.642  0.00  0.00    +0.000 A 
+ATOM      5  C4  FLF A2386      23.415   3.421   4.477  0.00  0.00    +0.000 A 
+ATOM      6  C5  FLF A2386      24.542   2.648   4.157  0.00  0.00    +0.000 A 
+ATOM      7  C6  FLF A2386      25.782   3.245   4.009  0.00  0.00    +0.000 A 
+BRANCH   2  10
+ATOM      8  O1  FLF A2386      27.926   5.165   3.016  0.00  0.00    +0.000 OA
+ATOM      9  O2  FLF A2386      27.673   5.939   5.076  0.00  0.00    +0.000 OA
+ATOM     10  C7  FLF A2386      27.283   5.286   4.077  0.00  0.00    +0.000 C 
+ENDBRANCH   2  10
+ENDBRANCH   1   7
+BRANCH   1  11
+ATOM     11  C1' FLF A2386      27.501   1.636   4.326  0.00  0.00    +0.000 A 
+ATOM     12  C2' FLF A2386      27.635   0.372   3.785  0.00  0.00    +0.000 A 
+ATOM     13  C3' FLF A2386      28.263  -0.652   4.510  0.00  0.00    +0.000 A 
+ATOM     14  C4' FLF A2386      28.763  -0.391   5.778  0.00  0.00    +0.000 A 
+ATOM     15  C5' FLF A2386      28.626   0.882   6.321  0.00  0.00    +0.000 A 
+ATOM     16  C6' FLF A2386      28.000   1.886   5.607  0.00  0.00    +0.000 A 
+BRANCH  13  17
+ATOM     17  C7' FLF A2386      28.359  -2.059   3.903  0.00  0.00    +0.000 C 
+ATOM     18  F1  FLF A2386      27.915  -2.052   2.646  0.00  0.00    +0.000 F 
+ATOM     19  F2  FLF A2386      27.627  -2.914   4.617  0.00  0.00    +0.000 F 
+ATOM     20  F3  FLF A2386      29.631  -2.457   3.919  0.00  0.00    +0.000 F 
+ENDBRANCH  13  17
+ENDBRANCH   1  11
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -8.1      4.233      6.157
+REMARK  Name = ligand_pdbs\FLF.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_9
+REMARK    2  A    between atoms: C6_8  and  N_10
+REMARK    3  A    between atoms: N_10  and  C1'_11
+REMARK    4  A    between atoms: C3'_13  and  C7'_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   FLF A2386      25.366   3.021   5.445  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   7
+ATOM      2  C1  FLF A2386      26.767   4.896   5.262  0.00  0.00    +0.000 A 
+ATOM      3  C2  FLF A2386      26.949   6.236   4.968  0.00  0.00    +0.000 A 
+ATOM      4  C3  FLF A2386      25.855   7.042   4.641  0.00  0.00    +0.000 A 
+ATOM      5  C4  FLF A2386      24.583   6.494   4.616  0.00  0.00    +0.000 A 
+ATOM      6  C5  FLF A2386      24.403   5.135   4.917  0.00  0.00    +0.000 A 
+ATOM      7  C6  FLF A2386      25.488   4.341   5.245  0.00  0.00    +0.000 A 
+BRANCH   2  10
+ATOM      8  O1  FLF A2386      28.147   3.854   6.910  0.00  0.00    +0.000 OA
+ATOM      9  O2  FLF A2386      28.683   3.562   4.780  0.00  0.00    +0.000 OA
+ATOM     10  C7  FLF A2386      27.966   4.044   5.691  0.00  0.00    +0.000 C 
+ENDBRANCH   2  10
+ENDBRANCH   1   7
+BRANCH   1  11
+ATOM     11  C1' FLF A2386      25.669   2.070   4.569  0.00  0.00    +0.000 A 
+ATOM     12  C2' FLF A2386      26.239   0.907   5.048  0.00  0.00    +0.000 A 
+ATOM     13  C3' FLF A2386      26.623  -0.115   4.167  0.00  0.00    +0.000 A 
+ATOM     14  C4' FLF A2386      26.422   0.039   2.803  0.00  0.00    +0.000 A 
+ATOM     15  C5' FLF A2386      25.850   1.213   2.322  0.00  0.00    +0.000 A 
+ATOM     16  C6' FLF A2386      25.480   2.220   3.193  0.00  0.00    +0.000 A 
+BRANCH  13  17
+ATOM     17  C7' FLF A2386      27.294  -1.381   4.723  0.00  0.00    +0.000 C 
+ATOM     18  F1  FLF A2386      26.595  -1.860   5.752  0.00  0.00    +0.000 F 
+ATOM     19  F2  FLF A2386      28.530  -1.098   5.131  0.00  0.00    +0.000 F 
+ATOM     20  F3  FLF A2386      27.352  -2.303   3.762  0.00  0.00    +0.000 F 
+ENDBRANCH  13  17
+ENDBRANCH   1  11
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -7.9      3.740      6.234
+REMARK  Name = ligand_pdbs\FLF.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_9
+REMARK    2  A    between atoms: C6_8  and  N_10
+REMARK    3  A    between atoms: N_10  and  C1'_11
+REMARK    4  A    between atoms: C3'_13  and  C7'_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   FLF A2386      26.997   2.198   3.089  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   7
+ATOM      2  C1  FLF A2386      26.033   4.094   4.082  0.00  0.00    +0.000 A 
+ATOM      3  C2  FLF A2386      24.931   4.748   4.606  0.00  0.00    +0.000 A 
+ATOM      4  C3  FLF A2386      23.707   4.085   4.723  0.00  0.00    +0.000 A 
+ATOM      5  C4  FLF A2386      23.600   2.765   4.313  0.00  0.00    +0.000 A 
+ATOM      6  C5  FLF A2386      24.721   2.106   3.785  0.00  0.00    +0.000 A 
+ATOM      7  C6  FLF A2386      25.934   2.765   3.675  0.00  0.00    +0.000 A 
+BRANCH   2  10
+ATOM      8  O1  FLF A2386      28.052   4.889   5.083  0.00  0.00    +0.000 OA
+ATOM      9  O2  FLF A2386      27.759   5.255   2.917  0.00  0.00    +0.000 OA
+ATOM     10  C7  FLF A2386      27.386   4.811   4.031  0.00  0.00    +0.000 C 
+ENDBRANCH   2  10
+ENDBRANCH   1   7
+BRANCH   1  11
+ATOM     11  C1' FLF A2386      27.668   1.146   3.545  0.00  0.00    +0.000 A 
+ATOM     12  C2' FLF A2386      28.365   1.287   4.729  0.00  0.00    +0.000 A 
+ATOM     13  C3' FLF A2386      29.130   0.227   5.238  0.00  0.00    +0.000 A 
+ATOM     14  C4' FLF A2386      29.180  -0.978   4.552  0.00  0.00    +0.000 A 
+ATOM     15  C5' FLF A2386      28.479  -1.117   3.358  0.00  0.00    +0.000 A 
+ATOM     16  C6' FLF A2386      27.733  -0.068   2.857  0.00  0.00    +0.000 A 
+BRANCH  13  17
+ATOM     17  C7' FLF A2386      29.930   0.425   6.534  0.00  0.00    +0.000 C 
+ATOM     18  F1  FLF A2386      31.214   0.127   6.334  0.00  0.00    +0.000 F 
+ATOM     19  F2  FLF A2386      29.446  -0.364   7.493  0.00  0.00    +0.000 F 
+ATOM     20  F3  FLF A2386      29.828   1.696   6.922  0.00  0.00    +0.000 F 
+ENDBRANCH  13  17
+ENDBRANCH   1  11
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -7.8      1.684      2.382
+REMARK  Name = ligand_pdbs\FLF.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_9
+REMARK    2  A    between atoms: C6_8  and  N_10
+REMARK    3  A    between atoms: N_10  and  C1'_11
+REMARK    4  A    between atoms: C3'_13  and  C7'_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   FLF A2386      28.149   2.449   3.614  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   7
+ATOM      2  C1  FLF A2386      28.383   0.407   4.748  0.00  0.00    +0.000 A 
+ATOM      3  C2  FLF A2386      28.995  -0.364   5.721  0.00  0.00    +0.000 A 
+ATOM      4  C3  FLF A2386      29.936   0.204   6.584  0.00  0.00    +0.000 A 
+ATOM      5  C4  FLF A2386      30.255   1.547   6.463  0.00  0.00    +0.000 A 
+ATOM      6  C5  FLF A2386      29.629   2.326   5.476  0.00  0.00    +0.000 A 
+ATOM      7  C6  FLF A2386      28.694   1.761   4.627  0.00  0.00    +0.000 A 
+BRANCH   2  10
+ATOM      8  O1  FLF A2386      27.638  -0.688   2.760  0.00  0.00    +0.000 OA
+ATOM      9  O2  FLF A2386      26.127  -0.226   4.313  0.00  0.00    +0.000 OA
+ATOM     10  C7  FLF A2386      27.298  -0.212   3.861  0.00  0.00    +0.000 C 
+ENDBRANCH   2  10
+ENDBRANCH   1   7
+BRANCH   1  11
+ATOM     11  C1' FLF A2386      27.356   3.509   3.731  0.00  0.00    +0.000 A 
+ATOM     12  C2' FLF A2386      26.093   3.317   4.256  0.00  0.00    +0.000 A 
+ATOM     13  C3' FLF A2386      25.194   4.388   4.363  0.00  0.00    +0.000 A 
+ATOM     14  C4' FLF A2386      25.579   5.654   3.945  0.00  0.00    +0.000 A 
+ATOM     15  C5' FLF A2386      26.850   5.845   3.414  0.00  0.00    +0.000 A 
+ATOM     16  C6' FLF A2386      27.730   4.785   3.305  0.00  0.00    +0.000 A 
+BRANCH  13  17
+ATOM     17  C7' FLF A2386      23.781   4.139   4.911  0.00  0.00    +0.000 C 
+ATOM     18  F1  FLF A2386      23.269   3.027   4.380  0.00  0.00    +0.000 F 
+ATOM     19  F2  FLF A2386      22.988   5.167   4.610  0.00  0.00    +0.000 F 
+ATOM     20  F3  FLF A2386      23.842   4.008   6.235  0.00  0.00    +0.000 F 
+ENDBRANCH  13  17
+ENDBRANCH   1  11
+TORSDOF 4
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -7.8      2.159      3.213
+REMARK  Name = ligand_pdbs\FLF.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_9
+REMARK    2  A    between atoms: C6_8  and  N_10
+REMARK    3  A    between atoms: N_10  and  C1'_11
+REMARK    4  A    between atoms: C3'_13  and  C7'_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   FLF A2386      27.230   1.314   5.148  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   7
+ATOM      2  C1  FLF A2386      29.017  -0.184   4.876  0.00  0.00    +0.000 A 
+ATOM      3  C2  FLF A2386      29.561  -1.313   4.286  0.00  0.00    +0.000 A 
+ATOM      4  C3  FLF A2386      28.849  -2.008   3.305  0.00  0.00    +0.000 A 
+ATOM      5  C4  FLF A2386      27.595  -1.562   2.921  0.00  0.00    +0.000 A 
+ATOM      6  C5  FLF A2386      27.049  -0.416   3.520  0.00  0.00    +0.000 A 
+ATOM      7  C6  FLF A2386      27.758   0.274   4.488  0.00  0.00    +0.000 A 
+BRANCH   2  10
+ATOM      8  O1  FLF A2386      30.413   1.648   5.507  0.00  0.00    +0.000 OA
+ATOM      9  O2  FLF A2386      29.866   0.180   7.073  0.00  0.00    +0.000 OA
+ATOM     10  C7  FLF A2386      29.840   0.611   5.894  0.00  0.00    +0.000 C 
+ENDBRANCH   2  10
+ENDBRANCH   1   7
+BRANCH   1  11
+ATOM     11  C1' FLF A2386      26.966   2.509   4.632  0.00  0.00    +0.000 A 
+ATOM     12  C2' FLF A2386      25.754   3.094   4.940  0.00  0.00    +0.000 A 
+ATOM     13  C3' FLF A2386      25.398   4.334   4.390  0.00  0.00    +0.000 A 
+ATOM     14  C4' FLF A2386      26.275   4.984   3.534  0.00  0.00    +0.000 A 
+ATOM     15  C5' FLF A2386      27.495   4.393   3.222  0.00  0.00    +0.000 A 
+ATOM     16  C6' FLF A2386      27.838   3.168   3.761  0.00  0.00    +0.000 A 
+BRANCH  13  17
+ATOM     17  C7' FLF A2386      24.025   4.941   4.716  0.00  0.00    +0.000 C 
+ATOM     18  F1  FLF A2386      24.053   6.263   4.547  0.00  0.00    +0.000 F 
+ATOM     19  F2  FLF A2386      23.697   4.672   5.979  0.00  0.00    +0.000 F 
+ATOM     20  F3  FLF A2386      23.109   4.412   3.906  0.00  0.00    +0.000 F 
+ENDBRANCH  13  17
+ENDBRANCH   1  11
+TORSDOF 4
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -7.7      4.119      6.302
+REMARK  Name = ligand_pdbs\FLF.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_9
+REMARK    2  A    between atoms: C6_8  and  N_10
+REMARK    3  A    between atoms: N_10  and  C1'_11
+REMARK    4  A    between atoms: C3'_13  and  C7'_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   FLF A2386      27.338   2.713   3.083  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   7
+ATOM      2  C1  FLF A2386      25.397   3.424   4.195  0.00  0.00    +0.000 A 
+ATOM      3  C2  FLF A2386      24.649   4.428   4.787  0.00  0.00    +0.000 A 
+ATOM      4  C3  FLF A2386      25.100   5.750   4.764  0.00  0.00    +0.000 A 
+ATOM      5  C4  FLF A2386      26.301   6.055   4.143  0.00  0.00    +0.000 A 
+ATOM      6  C5  FLF A2386      27.054   5.033   3.542  0.00  0.00    +0.000 A 
+ATOM      7  C6  FLF A2386      26.602   3.725   3.562  0.00  0.00    +0.000 A 
+BRANCH   2  10
+ATOM      8  O1  FLF A2386      24.292   1.599   3.120  0.00  0.00    +0.000 OA
+ATOM      9  O2  FLF A2386      25.029   1.288   5.186  0.00  0.00    +0.000 OA
+ATOM     10  C7  FLF A2386      24.852   1.993   4.162  0.00  0.00    +0.000 C 
+ENDBRANCH   2  10
+ENDBRANCH   1   7
+BRANCH   1  11
+ATOM     11  C1' FLF A2386      28.065   1.870   3.807  0.00  0.00    +0.000 A 
+ATOM     12  C2' FLF A2386      28.048   0.534   3.456  0.00  0.00    +0.000 A 
+ATOM     13  C3' FLF A2386      28.758  -0.412   4.209  0.00  0.00    +0.000 A 
+ATOM     14  C4' FLF A2386      29.492  -0.003   5.313  0.00  0.00    +0.000 A 
+ATOM     15  C5' FLF A2386      29.506   1.343   5.668  0.00  0.00    +0.000 A 
+ATOM     16  C6' FLF A2386      28.799   2.270   4.926  0.00  0.00    +0.000 A 
+BRANCH  13  17
+ATOM     17  C7' FLF A2386      28.686  -1.896   3.821  0.00  0.00    +0.000 C 
+ATOM     18  F1  FLF A2386      27.953  -2.571   4.708  0.00  0.00    +0.000 F 
+ATOM     19  F2  FLF A2386      29.912  -2.417   3.786  0.00  0.00    +0.000 F 
+ATOM     20  F3  FLF A2386      28.131  -2.007   2.615  0.00  0.00    +0.000 F 
+ENDBRANCH  13  17
+ENDBRANCH   1  11
+TORSDOF 4
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -7.6      1.794      2.403
+REMARK  Name = ligand_pdbs\FLF.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_9
+REMARK    2  A    between atoms: C6_8  and  N_10
+REMARK    3  A    between atoms: N_10  and  C1'_11
+REMARK    4  A    between atoms: C3'_13  and  C7'_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   FLF A2386      28.061   1.397   3.612  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   7
+ATOM      2  C1  FLF A2386      29.083   0.038   5.230  0.00  0.00    +0.000 A 
+ATOM      3  C2  FLF A2386      30.005  -0.134   6.248  0.00  0.00    +0.000 A 
+ATOM      4  C3  FLF A2386      30.764   0.948   6.702  0.00  0.00    +0.000 A 
+ATOM      5  C4  FLF A2386      30.589   2.198   6.129  0.00  0.00    +0.000 A 
+ATOM      6  C5  FLF A2386      29.650   2.367   5.099  0.00  0.00    +0.000 A 
+ATOM      7  C6  FLF A2386      28.896   1.294   4.655  0.00  0.00    +0.000 A 
+BRANCH   2  10
+ATOM      8  O1  FLF A2386      28.593  -1.846   3.845  0.00  0.00    +0.000 OA
+ATOM      9  O2  FLF A2386      27.152  -1.342   5.450  0.00  0.00    +0.000 OA
+ATOM     10  C7  FLF A2386      28.205  -1.140   4.797  0.00  0.00    +0.000 C 
+ENDBRANCH   2  10
+ENDBRANCH   1   7
+BRANCH   1  11
+ATOM     11  C1' FLF A2386      26.766   1.681   3.678  0.00  0.00    +0.000 A 
+ATOM     12  C2' FLF A2386      26.375   2.745   4.467  0.00  0.00    +0.000 A 
+ATOM     13  C3' FLF A2386      25.017   3.066   4.613  0.00  0.00    +0.000 A 
+ATOM     14  C4' FLF A2386      24.057   2.312   3.953  0.00  0.00    +0.000 A 
+ATOM     15  C5' FLF A2386      24.452   1.239   3.160  0.00  0.00    +0.000 A 
+ATOM     16  C6' FLF A2386      25.790   0.923   3.025  0.00  0.00    +0.000 A 
+BRANCH  13  17
+ATOM     17  C7' FLF A2386      24.608   4.227   5.530  0.00  0.00    +0.000 C 
+ATOM     18  F1  FLF A2386      23.445   4.743   5.132  0.00  0.00    +0.000 F 
+ATOM     19  F2  FLF A2386      25.539   5.181   5.499  0.00  0.00    +0.000 F 
+ATOM     20  F3  FLF A2386      24.487   3.777   6.779  0.00  0.00    +0.000 F 
+ENDBRANCH  13  17
+ENDBRANCH   1  11
+TORSDOF 4
+ENDMDL

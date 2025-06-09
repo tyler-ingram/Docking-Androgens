@@ -1,0 +1,20 @@
+REMARK  Name = ligand_pdbs\NK.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAD_2  and  CAA_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA NK  A 933      29.065  31.693  28.278  0.00  0.00    +0.000 A 
+ATOM      2  CAC NK  A 933      29.160  31.665  26.899  0.00  0.00    +0.000 A 
+ATOM      3  CAG NK  A 933      29.550  32.798  26.197  0.00  0.00    +0.000 A 
+ATOM      4  CAI NK  A 933      29.848  33.969  26.887  0.00  0.00    +0.000 A 
+ATOM      5  CAE NK  A 933      29.754  33.999  28.273  0.00  0.00    +0.000 A 
+ATOM      6  CAB NK  A 933      29.364  32.864  28.973  0.00  0.00    +0.000 A 
+ATOM      7  OAF NK  A 933      29.275  32.898  30.319  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   9
+ATOM      8  OAH NK  A 933      28.790  29.320  28.595  0.00  0.00    +0.000 OA
+ATOM      9  CAD NK  A 933      28.629  30.437  29.045  0.00  0.00    +0.000 C 
+ENDBRANCH   1   9
+TORSDOF 1

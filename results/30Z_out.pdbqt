@@ -1,0 +1,432 @@
+MODEL 1
+REMARK VINA RESULT:      -7.8      0.000      0.000
+REMARK  Name = ligand_pdbs\30Z.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C17_8  and  C15_9
+REMARK    2  A    between atoms: C15_9  and  C14_10
+REMARK    3  A    between atoms: C14_10  and  C12_12
+REMARK    4  A    between atoms: C12_12  and  C11_14
+REMARK    5  A    between atoms: C11_14  and  C3_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C14 30Z A1920      25.102   3.560   4.865  0.00  0.00    +0.000 C 
+ATOM      2  C16 30Z A1920      24.285   4.076   6.044  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      3  C12 30Z A1920      25.486   4.705   3.931  0.00  0.00    +0.000 C 
+ATOM      4  C13 30Z A1920      24.717   5.929   4.388  0.00  0.00    +0.000 C 
+BRANCH   3   5
+ATOM      5  C11 30Z A1920      26.983   5.004   3.926  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C3  30Z A1920      27.835   3.973   4.649  0.00  0.00    +0.000 A 
+ATOM      7  C2  30Z A1920      28.035   4.047   6.028  0.00  0.00    +0.000 A 
+ATOM      8  C4  30Z A1920      28.438   2.950   3.916  0.00  0.00    +0.000 A 
+ATOM      9  C5  30Z A1920      29.234   1.991   4.536  0.00  0.00    +0.000 A 
+ATOM     10  O9  30Z A1920      29.819   0.993   3.815  0.00  0.00    +0.000 OA
+ATOM     11  C6  30Z A1920      29.438   2.073   6.004  0.00  0.00    +0.000 A 
+ATOM     12  C1  30Z A1920      28.822   3.110   6.697  0.00  0.00    +0.000 A 
+ATOM     13  O7  30Z A1920      30.214   1.157   6.657  0.00  0.00    +0.000 OA
+ENDBRANCH   5   6
+ENDBRANCH   3   5
+ENDBRANCH   1   3
+BRANCH   1  14
+ATOM     14  C15 30Z A1920      24.350   2.441   4.160  0.00  0.00    +0.000 C 
+BRANCH  14  22
+ATOM     15  O25 30Z A1920      26.954  -1.458   5.613  0.00  0.00    +0.000 OA
+ATOM     16  C19 30Z A1920      26.574  -0.594   4.623  0.00  0.00    +0.000 A 
+ATOM     17  C18 30Z A1920      25.687   0.444   4.892  0.00  0.00    +0.000 A 
+ATOM     18  C20 30Z A1920      27.101  -0.749   3.243  0.00  0.00    +0.000 A 
+ATOM     19  O23 30Z A1920      27.965  -1.752   2.931  0.00  0.00    +0.000 OA
+ATOM     20  C21 30Z A1920      26.699   0.143   2.260  0.00  0.00    +0.000 A 
+ATOM     21  C22 30Z A1920      25.811   1.164   2.580  0.00  0.00    +0.000 A 
+ATOM     22  C17 30Z A1920      25.312   1.314   3.873  0.00  0.00    +0.000 A 
+ENDBRANCH  14  22
+ENDBRANCH   1  14
+TORSDOF 5
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -7.7      1.529      2.078
+REMARK  Name = ligand_pdbs\30Z.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C17_8  and  C15_9
+REMARK    2  A    between atoms: C15_9  and  C14_10
+REMARK    3  A    between atoms: C14_10  and  C12_12
+REMARK    4  A    between atoms: C12_12  and  C11_14
+REMARK    5  A    between atoms: C11_14  and  C3_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C14 30Z A1920      25.310   2.218   4.175  0.00  0.00    +0.000 C 
+ATOM      2  C16 30Z A1920      23.813   2.509   4.186  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      3  C12 30Z A1920      26.109   3.479   4.495  0.00  0.00    +0.000 C 
+ATOM      4  C13 30Z A1920      25.163   4.655   4.346  0.00  0.00    +0.000 C 
+BRANCH   3   5
+ATOM      5  C11 30Z A1920      26.712   3.472   5.897  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C3  30Z A1920      27.916   2.559   6.062  0.00  0.00    +0.000 A 
+ATOM      7  C2  30Z A1920      27.762   1.233   6.467  0.00  0.00    +0.000 A 
+ATOM      8  C4  30Z A1920      29.195   3.065   5.820  0.00  0.00    +0.000 A 
+ATOM      9  C5  30Z A1920      30.326   2.267   5.969  0.00  0.00    +0.000 A 
+ATOM     10  O9  30Z A1920      31.572   2.765   5.730  0.00  0.00    +0.000 OA
+ATOM     11  C6  30Z A1920      30.153   0.855   6.394  0.00  0.00    +0.000 A 
+ATOM     12  C1  30Z A1920      28.863   0.391   6.628  0.00  0.00    +0.000 A 
+ATOM     13  O7  30Z A1920      31.233   0.035   6.557  0.00  0.00    +0.000 OA
+ENDBRANCH   5   6
+ENDBRANCH   3   5
+ENDBRANCH   1   3
+BRANCH   1  14
+ATOM     14  C15 30Z A1920      25.707   1.579   2.853  0.00  0.00    +0.000 C 
+BRANCH  14  22
+ATOM     15  O25 30Z A1920      26.858  -2.908   4.479  0.00  0.00    +0.000 OA
+ATOM     16  C19 30Z A1920      27.243  -1.716   3.930  0.00  0.00    +0.000 A 
+ATOM     17  C18 30Z A1920      26.308  -0.716   3.682  0.00  0.00    +0.000 A 
+ATOM     18  C20 30Z A1920      28.667  -1.469   3.585  0.00  0.00    +0.000 A 
+ATOM     19  O23 30Z A1920      29.616  -2.419   3.802  0.00  0.00    +0.000 OA
+ATOM     20  C21 30Z A1920      29.028  -0.250   3.030  0.00  0.00    +0.000 A 
+ATOM     21  C22 30Z A1920      28.056   0.717   2.803  0.00  0.00    +0.000 A 
+ATOM     22  C17 30Z A1920      26.718   0.490   3.123  0.00  0.00    +0.000 A 
+ENDBRANCH  14  22
+ENDBRANCH   1  14
+TORSDOF 5
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -7.7      1.514      4.242
+REMARK  Name = ligand_pdbs\30Z.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C17_8  and  C15_9
+REMARK    2  A    between atoms: C15_9  and  C14_10
+REMARK    3  A    between atoms: C14_10  and  C12_12
+REMARK    4  A    between atoms: C12_12  and  C11_14
+REMARK    5  A    between atoms: C11_14  and  C3_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C14 30Z A1920      26.093   3.392   4.594  0.00  0.00    +0.000 C 
+ATOM      2  C16 30Z A1920      25.550   4.760   4.199  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      3  C12 30Z A1920      25.050   2.304   4.348  0.00  0.00    +0.000 C 
+ATOM      4  C13 30Z A1920      23.710   2.997   4.203  0.00  0.00    +0.000 C 
+BRANCH   3   5
+ATOM      5  C11 30Z A1920      25.337   1.462   3.107  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C3  30Z A1920      26.463   0.455   3.274  0.00  0.00    +0.000 A 
+ATOM      7  C2  30Z A1920      27.755   0.744   2.835  0.00  0.00    +0.000 A 
+ATOM      8  C4  30Z A1920      26.192  -0.783   3.859  0.00  0.00    +0.000 A 
+ATOM      9  C5  30Z A1920      27.191  -1.739   4.022  0.00  0.00    +0.000 A 
+ATOM     10  O9  30Z A1920      26.920  -2.945   4.595  0.00  0.00    +0.000 OA
+ATOM     11  C6  30Z A1920      28.564  -1.422   3.558  0.00  0.00    +0.000 A 
+ATOM     12  C1  30Z A1920      28.792  -0.178   2.977  0.00  0.00    +0.000 A 
+ATOM     13  O7  30Z A1920      29.577  -2.328   3.692  0.00  0.00    +0.000 OA
+ENDBRANCH   5   6
+ENDBRANCH   3   5
+ENDBRANCH   1   3
+BRANCH   1  14
+ATOM     14  C15 30Z A1920      26.595   3.424   6.030  0.00  0.00    +0.000 C 
+BRANCH  14  22
+ATOM     15  O25 30Z A1920      31.454   2.818   5.684  0.00  0.00    +0.000 OA
+ATOM     16  C19 30Z A1920      30.216   2.303   5.953  0.00  0.00    +0.000 A 
+ATOM     17  C18 30Z A1920      29.081   3.102   5.856  0.00  0.00    +0.000 A 
+ATOM     18  C20 30Z A1920      30.061   0.881   6.355  0.00  0.00    +0.000 A 
+ATOM     19  O23 30Z A1920      31.142   0.063   6.469  0.00  0.00    +0.000 OA
+ATOM     20  C21 30Z A1920      28.793   0.386   6.620  0.00  0.00    +0.000 A 
+ATOM     21  C22 30Z A1920      27.690   1.226   6.509  0.00  0.00    +0.000 A 
+ATOM     22  C17 30Z A1920      27.830   2.561   6.133  0.00  0.00    +0.000 A 
+ENDBRANCH  14  22
+ENDBRANCH   1  14
+TORSDOF 5
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -7.3      1.416      2.262
+REMARK  Name = ligand_pdbs\30Z.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C17_8  and  C15_9
+REMARK    2  A    between atoms: C15_9  and  C14_10
+REMARK    3  A    between atoms: C14_10  and  C12_12
+REMARK    4  A    between atoms: C12_12  and  C11_14
+REMARK    5  A    between atoms: C11_14  and  C3_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C14 30Z A1920      25.249   2.497   4.266  0.00  0.00    +0.000 C 
+ATOM      2  C16 30Z A1920      23.733   2.645   4.248  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      3  C12 30Z A1920      25.916   3.803   4.693  0.00  0.00    +0.000 C 
+ATOM      4  C13 30Z A1920      24.843   4.873   4.686  0.00  0.00    +0.000 C 
+BRANCH   3   5
+ATOM      5  C11 30Z A1920      26.565   3.727   6.072  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C3  30Z A1920      27.834   2.892   6.128  0.00  0.00    +0.000 A 
+ATOM      7  C2  30Z A1920      29.072   3.445   5.801  0.00  0.00    +0.000 A 
+ATOM      8  C4  30Z A1920      27.752   1.548   6.496  0.00  0.00    +0.000 A 
+ATOM      9  C5  30Z A1920      28.887   0.744   6.550  0.00  0.00    +0.000 A 
+ATOM     10  O9  30Z A1920      28.800  -0.568   6.911  0.00  0.00    +0.000 OA
+ATOM     11  C6  30Z A1920      30.202   1.341   6.206  0.00  0.00    +0.000 A 
+ATOM     12  C1  30Z A1920      30.240   2.683   5.842  0.00  0.00    +0.000 A 
+ATOM     13  O7  30Z A1920      31.343   0.591   6.241  0.00  0.00    +0.000 OA
+ENDBRANCH   5   6
+ENDBRANCH   3   5
+ENDBRANCH   1   3
+BRANCH   1  14
+ATOM     14  C15 30Z A1920      25.740   1.988   2.919  0.00  0.00    +0.000 C 
+BRANCH  14  22
+ATOM     15  O25 30Z A1920      30.180  -0.101   2.777  0.00  0.00    +0.000 OA
+ATOM     16  C19 30Z A1920      28.845  -0.183   3.064  0.00  0.00    +0.000 A 
+ATOM     17  C18 30Z A1920      28.008   0.908   2.851  0.00  0.00    +0.000 A 
+ATOM     18  C20 30Z A1920      28.266  -1.437   3.611  0.00  0.00    +0.000 A 
+ATOM     19  O23 30Z A1920      29.047  -2.527   3.842  0.00  0.00    +0.000 OA
+ATOM     20  C21 30Z A1920      26.909  -1.490   3.891  0.00  0.00    +0.000 A 
+ATOM     21  C22 30Z A1920      26.115  -0.373   3.661  0.00  0.00    +0.000 A 
+ATOM     22  C17 30Z A1920      26.653   0.807   3.149  0.00  0.00    +0.000 A 
+ENDBRANCH  14  22
+ENDBRANCH   1  14
+TORSDOF 5
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -7.3      2.369      4.838
+REMARK  Name = ligand_pdbs\30Z.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C17_8  and  C15_9
+REMARK    2  A    between atoms: C15_9  and  C14_10
+REMARK    3  A    between atoms: C14_10  and  C12_12
+REMARK    4  A    between atoms: C12_12  and  C11_14
+REMARK    5  A    between atoms: C11_14  and  C3_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C14 30Z A1920      27.139  -0.087   3.382  0.00  0.00    +0.000 C 
+ATOM      2  C16 30Z A1920      28.135  -0.735   2.426  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      3  C12 30Z A1920      26.647  -1.097   4.416  0.00  0.00    +0.000 C 
+ATOM      4  C13 30Z A1920      27.094  -2.468   3.948  0.00  0.00    +0.000 C 
+BRANCH   3   5
+ATOM      5  C11 30Z A1920      27.178  -0.829   5.822  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C3  30Z A1920      28.245   0.250   5.899  0.00  0.00    +0.000 A 
+ATOM      7  C2  30Z A1920      29.601  -0.075   5.843  0.00  0.00    +0.000 A 
+ATOM      8  C4  30Z A1920      27.859   1.583   6.044  0.00  0.00    +0.000 A 
+ATOM      9  C5  30Z A1920      28.803   2.603   6.129  0.00  0.00    +0.000 A 
+ATOM     10  O9  30Z A1920      28.420   3.904   6.270  0.00  0.00    +0.000 OA
+ATOM     11  C6  30Z A1920      30.243   2.250   6.063  0.00  0.00    +0.000 A 
+ATOM     12  C1  30Z A1920      30.587   0.909   5.921  0.00  0.00    +0.000 A 
+ATOM     13  O7  30Z A1920      31.207   3.214   6.145  0.00  0.00    +0.000 OA
+ENDBRANCH   5   6
+ENDBRANCH   3   5
+ENDBRANCH   1   3
+BRANCH   1  14
+ATOM     14  C15 30Z A1920      26.010   0.562   2.597  0.00  0.00    +0.000 C 
+BRANCH  14  22
+ATOM     15  O25 30Z A1920      27.013   5.274   3.544  0.00  0.00    +0.000 OA
+ATOM     16  C19 30Z A1920      26.191   4.190   3.686  0.00  0.00    +0.000 A 
+ATOM     17  C18 30Z A1920      26.513   2.975   3.088  0.00  0.00    +0.000 A 
+ATOM     18  C20 30Z A1920      24.939   4.290   4.479  0.00  0.00    +0.000 A 
+ATOM     19  O23 30Z A1920      24.579   5.459   5.076  0.00  0.00    +0.000 OA
+ATOM     20  C21 30Z A1920      24.126   3.174   4.606  0.00  0.00    +0.000 A 
+ATOM     21  C22 30Z A1920      24.492   1.983   3.990  0.00  0.00    +0.000 A 
+ATOM     22  C17 30Z A1920      25.665   1.883   3.243  0.00  0.00    +0.000 A 
+ENDBRANCH  14  22
+ENDBRANCH   1  14
+TORSDOF 5
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -7.3      2.412      5.139
+REMARK  Name = ligand_pdbs\30Z.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C17_8  and  C15_9
+REMARK    2  A    between atoms: C15_9  and  C14_10
+REMARK    3  A    between atoms: C14_10  and  C12_12
+REMARK    4  A    between atoms: C12_12  and  C11_14
+REMARK    5  A    between atoms: C11_14  and  C3_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C14 30Z A1920      26.626  -1.086   4.203  0.00  0.00    +0.000 C 
+ATOM      2  C16 30Z A1920      27.202  -2.448   3.832  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      3  C12 30Z A1920      27.157  -0.001   3.269  0.00  0.00    +0.000 C 
+ATOM      4  C13 30Z A1920      28.059  -0.684   2.260  0.00  0.00    +0.000 C 
+BRANCH   3   5
+ATOM      5  C11 30Z A1920      26.053   0.765   2.544  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C3  30Z A1920      25.612   2.044   3.236  0.00  0.00    +0.000 A 
+ATOM      7  C2  30Z A1920      24.403   2.106   3.929  0.00  0.00    +0.000 A 
+ATOM      8  C4  30Z A1920      26.424   3.177   3.159  0.00  0.00    +0.000 A 
+ATOM      9  C5  30Z A1920      26.055   4.373   3.769  0.00  0.00    +0.000 A 
+ATOM     10  O9  30Z A1920      26.853   5.475   3.691  0.00  0.00    +0.000 OA
+ATOM     11  C6  30Z A1920      24.770   4.429   4.510  0.00  0.00    +0.000 A 
+ATOM     12  C1  30Z A1920      23.988   3.279   4.560  0.00  0.00    +0.000 A 
+ATOM     13  O7  30Z A1920      24.363   5.580   5.122  0.00  0.00    +0.000 OA
+ENDBRANCH   5   6
+ENDBRANCH   3   5
+ENDBRANCH   1   3
+BRANCH   1  14
+ATOM     14  C15 30Z A1920      26.890  -0.791   5.672  0.00  0.00    +0.000 C 
+BRANCH  14  22
+ATOM     15  O25 30Z A1920      28.376   3.842   6.327  0.00  0.00    +0.000 OA
+ATOM     16  C19 30Z A1920      28.675   2.527   6.097  0.00  0.00    +0.000 A 
+ATOM     17  C18 30Z A1920      27.662   1.577   6.006  0.00  0.00    +0.000 A 
+ATOM     18  C20 30Z A1920      30.086   2.090   5.940  0.00  0.00    +0.000 A 
+ATOM     19  O23 30Z A1920      31.110   2.982   6.028  0.00  0.00    +0.000 OA
+ATOM     20  C21 30Z A1920      30.358   0.751   5.706  0.00  0.00    +0.000 A 
+ATOM     21  C22 30Z A1920      29.311  -0.160   5.624  0.00  0.00    +0.000 A 
+ATOM     22  C17 30Z A1920      27.985   0.244   5.771  0.00  0.00    +0.000 A 
+ENDBRANCH  14  22
+ENDBRANCH   1  14
+TORSDOF 5
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -7.3      1.399      3.809
+REMARK  Name = ligand_pdbs\30Z.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C17_8  and  C15_9
+REMARK    2  A    between atoms: C15_9  and  C14_10
+REMARK    3  A    between atoms: C14_10  and  C12_12
+REMARK    4  A    between atoms: C12_12  and  C11_14
+REMARK    5  A    between atoms: C11_14  and  C3_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C14 30Z A1920      25.718   3.888   4.912  0.00  0.00    +0.000 C 
+ATOM      2  C16 30Z A1920      24.749   5.062   4.840  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      3  C12 30Z A1920      25.066   2.614   4.380  0.00  0.00    +0.000 C 
+ATOM      4  C13 30Z A1920      23.598   2.925   4.159  0.00  0.00    +0.000 C 
+BRANCH   3   5
+ATOM      5  C11 30Z A1920      25.691   2.111   3.081  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C3  30Z A1920      26.578   0.887   3.240  0.00  0.00    +0.000 A 
+ATOM      7  C2  30Z A1920      26.056  -0.323   3.698  0.00  0.00    +0.000 A 
+ATOM      8  C4  30Z A1920      27.938   0.985   2.940  0.00  0.00    +0.000 A 
+ATOM      9  C5  30Z A1920      28.789  -0.108   3.081  0.00  0.00    +0.000 A 
+ATOM     10  O9  30Z A1920      30.115  -0.007   2.785  0.00  0.00    +0.000 OA
+ATOM     11  C6  30Z A1920      28.225  -1.394   3.562  0.00  0.00    +0.000 A 
+ATOM     12  C1  30Z A1920      26.865  -1.449   3.854  0.00  0.00    +0.000 A 
+ATOM     13  O7  30Z A1920      29.020  -2.493   3.720  0.00  0.00    +0.000 OA
+ENDBRANCH   5   6
+ENDBRANCH   3   5
+ENDBRANCH   1   3
+BRANCH   1  14
+ATOM     14  C15 30Z A1920      26.252   3.738   6.328  0.00  0.00    +0.000 C 
+BRANCH  14  22
+ATOM     15  O25 30Z A1920      28.875  -0.386   6.781  0.00  0.00    +0.000 OA
+ATOM     16  C19 30Z A1920      28.818   0.953   6.508  0.00  0.00    +0.000 A 
+ATOM     17  C18 30Z A1920      27.605   1.633   6.557  0.00  0.00    +0.000 A 
+ATOM     18  C20 30Z A1920      30.049   1.704   6.154  0.00  0.00    +0.000 A 
+ATOM     19  O23 30Z A1920      31.257   1.080   6.087  0.00  0.00    +0.000 OA
+ATOM     20  C21 30Z A1920      29.960   3.062   5.883  0.00  0.00    +0.000 A 
+ATOM     21  C22 30Z A1920      28.725   3.696   5.946  0.00  0.00    +0.000 A 
+ATOM     22  C17 30Z A1920      27.566   2.995   6.277  0.00  0.00    +0.000 A 
+ENDBRANCH  14  22
+ENDBRANCH   1  14
+TORSDOF 5
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -7.2      2.719      4.604
+REMARK  Name = ligand_pdbs\30Z.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C17_8  and  C15_9
+REMARK    2  A    between atoms: C15_9  and  C14_10
+REMARK    3  A    between atoms: C14_10  and  C12_12
+REMARK    4  A    between atoms: C12_12  and  C11_14
+REMARK    5  A    between atoms: C11_14  and  C3_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C14 30Z A1920      27.438  -0.799   3.895  0.00  0.00    +0.000 C 
+ATOM      2  C16 30Z A1920      27.313  -2.220   3.359  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      3  C12 30Z A1920      28.894  -0.464   4.208  0.00  0.00    +0.000 C 
+ATOM      4  C13 30Z A1920      29.729  -1.648   3.761  0.00  0.00    +0.000 C 
+BRANCH   3   5
+ATOM      5  C11 30Z A1920      29.384   0.807   3.518  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C3  30Z A1920      28.841   2.097   4.111  0.00  0.00    +0.000 A 
+ATOM      7  C2  30Z A1920      29.126   2.457   5.428  0.00  0.00    +0.000 A 
+ATOM      8  C4  30Z A1920      28.031   2.921   3.328  0.00  0.00    +0.000 A 
+ATOM      9  C5  30Z A1920      27.504   4.106   3.834  0.00  0.00    +0.000 A 
+ATOM     10  O9  30Z A1920      26.715   4.907   3.064  0.00  0.00    +0.000 OA
+ATOM     11  C6  30Z A1920      27.817   4.486   5.234  0.00  0.00    +0.000 A 
+ATOM     12  C1  30Z A1920      28.625   3.635   5.982  0.00  0.00    +0.000 A 
+ATOM     13  O7  30Z A1920      27.320   5.636   5.777  0.00  0.00    +0.000 OA
+ENDBRANCH   5   6
+ENDBRANCH   3   5
+ENDBRANCH   1   3
+BRANCH   1  14
+ATOM     14  C15 30Z A1920      26.512  -0.608   5.087  0.00  0.00    +0.000 C 
+BRANCH  14  22
+ATOM     15  O25 30Z A1920      24.700   3.680   6.646  0.00  0.00    +0.000 OA
+ATOM     16  C19 30Z A1920      24.815   2.732   5.665  0.00  0.00    +0.000 A 
+ATOM     17  C18 30Z A1920      25.579   1.588   5.874  0.00  0.00    +0.000 A 
+ATOM     18  C20 30Z A1920      24.127   2.908   4.361  0.00  0.00    +0.000 A 
+ATOM     19  O23 30Z A1920      23.374   4.014   4.109  0.00  0.00    +0.000 OA
+ATOM     20  C21 30Z A1920      24.261   1.930   3.387  0.00  0.00    +0.000 A 
+ATOM     21  C22 30Z A1920      25.035   0.805   3.644  0.00  0.00    +0.000 A 
+ATOM     22  C17 30Z A1920      25.684   0.635   4.866  0.00  0.00    +0.000 A 
+ENDBRANCH  14  22
+ENDBRANCH   1  14
+TORSDOF 5
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -7.1      3.002      4.079
+REMARK  Name = ligand_pdbs\30Z.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C17_8  and  C15_9
+REMARK    2  A    between atoms: C15_9  and  C14_10
+REMARK    3  A    between atoms: C14_10  and  C12_12
+REMARK    4  A    between atoms: C12_12  and  C11_14
+REMARK    5  A    between atoms: C11_14  and  C3_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C14 30Z A1920      26.556   2.518   5.067  0.00  0.00    +0.000 C 
+ATOM      2  C16 30Z A1920      25.110   2.047   5.163  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   3
+ATOM      3  C12 30Z A1920      27.058   2.436   3.627  0.00  0.00    +0.000 C 
+ATOM      4  C13 30Z A1920      25.894   1.965   2.777  0.00  0.00    +0.000 C 
+BRANCH   3   5
+ATOM      5  C11 30Z A1920      27.585   3.767   3.095  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  C3  30Z A1920      27.063   4.991   3.829  0.00  0.00    +0.000 A 
+ATOM      7  C2  30Z A1920      27.892   5.729   4.674  0.00  0.00    +0.000 A 
+ATOM      8  C4  30Z A1920      25.730   5.369   3.664  0.00  0.00    +0.000 A 
+ATOM      9  C5  30Z A1920      25.207   6.477   4.325  0.00  0.00    +0.000 A 
+ATOM     10  O9  30Z A1920      23.904   6.842   4.160  0.00  0.00    +0.000 OA
+ATOM     11  C6  30Z A1920      26.096   7.261   5.218  0.00  0.00    +0.000 A 
+ATOM     12  C1  30Z A1920      27.418   6.850   5.357  0.00  0.00    +0.000 A 
+ATOM     13  O7  30Z A1920      25.629   8.354   5.891  0.00  0.00    +0.000 OA
+ENDBRANCH   5   6
+ENDBRANCH   3   5
+ENDBRANCH   1   3
+BRANCH   1  14
+ATOM     14  C15 30Z A1920      27.423   1.741   6.046  0.00  0.00    +0.000 C 
+BRANCH  14  22
+ATOM     15  O25 30Z A1920      26.837  -2.913   4.599  0.00  0.00    +0.000 OA
+ATOM     16  C19 30Z A1920      27.610  -1.786   4.668  0.00  0.00    +0.000 A 
+ATOM     17  C18 30Z A1920      27.135  -0.641   5.300  0.00  0.00    +0.000 A 
+ATOM     18  C20 30Z A1920      28.969  -1.764   4.068  0.00  0.00    +0.000 A 
+ATOM     19  O23 30Z A1920      29.473  -2.857   3.434  0.00  0.00    +0.000 OA
+ATOM     20  C21 30Z A1920      29.729  -0.608   4.155  0.00  0.00    +0.000 A 
+ATOM     21  C22 30Z A1920      29.209   0.511   4.798  0.00  0.00    +0.000 A 
+ATOM     22  C17 30Z A1920      27.934   0.496   5.362  0.00  0.00    +0.000 A 
+ENDBRANCH  14  22
+ENDBRANCH   1  14
+TORSDOF 5
+ENDMDL

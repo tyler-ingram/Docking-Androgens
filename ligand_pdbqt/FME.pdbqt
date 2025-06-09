@@ -1,0 +1,33 @@
+REMARK  Name = ligand_pdbs\FME.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_4
+REMARK    2  A    between atoms: CA_4  and  CB_5
+REMARK    3  A    between atoms: CA_4  and  C_9
+REMARK    4  A    between atoms: CB_5  and  CG_6
+REMARK    5  A    between atoms: CG_6  and  SD_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  FME M 503     -36.047  28.857  -6.802  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   FME M 503     -37.391  29.393  -6.285  0.00  0.00    +0.000 NA
+ATOM      3  CN  FME M 503     -38.546  29.083  -5.680  0.00  0.00    +0.000 C 
+ATOM      4  O1  FME M 503     -38.996  28.050  -5.129  0.00  0.00    +0.000 OA
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  C   FME M 503     -36.169  28.484  -8.261  0.00  0.00    +0.000 C 
+ATOM      6  O   FME M 503     -35.442  29.044  -9.084  0.00  0.00    +0.000 OA
+ENDBRANCH   1   5
+BRANCH   1   7
+ATOM      7  CB  FME M 503     -35.023  27.979  -6.035  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  CG  FME M 503     -34.332  26.893  -6.893  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  SD  FME M 503     -34.273  25.255  -6.219  0.00  0.00    +0.000 S 
+ATOM     10  CE  FME M 503     -35.550  24.289  -6.869  0.00  0.00    +0.000 C 
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 5

@@ -1,0 +1,603 @@
+MODEL 1
+REMARK VINA RESULT:      -5.6      0.000      0.000
+REMARK  Name = ligand_pdbs\GNP.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: PG_1  and  N3B_5
+REMARK    2  A    between atoms: N3B_5  and  PB_6
+REMARK    3  A    between atoms: PB_6  and  O3A_9
+REMARK    4  A    between atoms: O3A_9  and  PA_10
+REMARK    5  A    between atoms: PA_10  and  O5'_13
+REMARK    6  A    between atoms: O5'_13  and  C5'_14
+REMARK    7  A    between atoms: C5'_14  and  C4'_15
+REMARK    8  A    between atoms: C1'_21  and  N9_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4' GNP A 250      28.329  -0.766   5.761  0.00  0.00    +0.000 C 
+ATOM      2  O4' GNP A 250      26.951  -0.376   5.662  0.00  0.00    +0.000 OA
+ATOM      3  C3' GNP A 250      28.803  -1.070   4.321  0.00  0.00    +0.000 C 
+ATOM      4  O3' GNP A 250      28.695  -2.469   4.055  0.00  0.00    +0.000 OA
+ATOM      5  C2' GNP A 250      27.780  -0.292   3.477  0.00  0.00    +0.000 C 
+ATOM      6  O2' GNP A 250      27.621  -0.878   2.177  0.00  0.00    +0.000 OA
+ATOM      7  C1' GNP A 250      26.518  -0.493   4.306  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   7   8
+ATOM      8  N9  GNP A 250      25.499   0.538   4.006  0.00  0.00    +0.000 N 
+ATOM      9  C8  GNP A 250      24.833   0.795   2.807  0.00  0.00    +0.000 C 
+ATOM     10  N7  GNP A 250      23.944   1.731   2.871  0.00  0.00    +0.000 NA
+ATOM     11  C5  GNP A 250      24.240   2.367   4.095  0.00  0.00    +0.000 C 
+ATOM     12  C6  GNP A 250      23.743   3.608   4.682  0.00  0.00    +0.000 C 
+ATOM     13  O6  GNP A 250      22.934   4.407   4.219  0.00  0.00    +0.000 OA
+ATOM     14  N1  GNP A 250      24.300   3.866   5.945  0.00  0.00    +0.000 NA
+ATOM     15  C2  GNP A 250      25.200   3.060   6.614  0.00  0.00    +0.000 C 
+ATOM     16  N2  GNP A 250      25.619   3.427   7.840  0.00  0.00    +0.000 NA
+ATOM     17  N3  GNP A 250      25.688   1.891   6.063  0.00  0.00    +0.000 NA
+ATOM     18  C4  GNP A 250      25.180   1.614   4.810  0.00  0.00    +0.000 C 
+ENDBRANCH   7   8
+BRANCH   1  19
+ATOM     19  C5' GNP A 250      29.149   0.327   6.487  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  O5' GNP A 250      28.556   1.646   6.292  0.00  0.00    +0.000 OA
+BRANCH  20  21
+ATOM     21  PA  GNP A 250      29.245   2.725   5.294  0.00  0.00    +0.000 P 
+ATOM     22  O1A GNP A 250      29.123   2.225   3.890  0.00  0.00    +0.000 OA
+ATOM     23  O2A GNP A 250      30.609   3.074   5.787  0.00  0.00    +0.000 OA
+BRANCH  21  24
+ATOM     24  O3A GNP A 250      28.257   3.980   5.504  0.00  0.00    +0.000 OA
+BRANCH  24  25
+ATOM     25  PB  GNP A 250      27.586   4.928   4.387  0.00  0.00    +0.000 P 
+ATOM     26  O1B GNP A 250      26.810   4.016   3.570  0.00  0.00    +0.000 OA
+ATOM     27  O2B GNP A 250      28.734   5.485   3.660  0.00  0.00    +0.000 OA
+BRANCH  25  28
+ATOM     28  N3B GNP A 250      26.693   6.026   5.232  0.00  0.00    +0.000 NA
+BRANCH  28  29
+ATOM     29  PG  GNP A 250      25.745   7.130   4.506  0.00  0.00    +0.000 P 
+ATOM     30  O1G GNP A 250      26.256   8.482   4.559  0.00  0.00    +0.000 OA
+ATOM     31  O2G GNP A 250      25.371   6.779   3.135  0.00  0.00    +0.000 OA
+ATOM     32  O3G GNP A 250      24.404   7.239   5.258  0.00  0.00    +0.000 OA
+ENDBRANCH  28  29
+ENDBRANCH  25  28
+ENDBRANCH  24  25
+ENDBRANCH  21  24
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 8
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.6      3.452      6.173
+REMARK  Name = ligand_pdbs\GNP.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: PG_1  and  N3B_5
+REMARK    2  A    between atoms: N3B_5  and  PB_6
+REMARK    3  A    between atoms: PB_6  and  O3A_9
+REMARK    4  A    between atoms: O3A_9  and  PA_10
+REMARK    5  A    between atoms: PA_10  and  O5'_13
+REMARK    6  A    between atoms: O5'_13  and  C5'_14
+REMARK    7  A    between atoms: C5'_14  and  C4'_15
+REMARK    8  A    between atoms: C1'_21  and  N9_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4' GNP A 250      25.665   5.214   4.043  0.00  0.00    +0.000 C 
+ATOM      2  O4' GNP A 250      26.233   4.167   3.242  0.00  0.00    +0.000 OA
+ATOM      3  C3' GNP A 250      24.580   4.554   4.924  0.00  0.00    +0.000 C 
+ATOM      4  O3' GNP A 250      23.299   4.686   4.307  0.00  0.00    +0.000 OA
+ATOM      5  C2' GNP A 250      25.019   3.081   4.920  0.00  0.00    +0.000 C 
+ATOM      6  O2' GNP A 250      23.903   2.203   5.131  0.00  0.00    +0.000 OA
+ATOM      7  C1' GNP A 250      25.539   2.944   3.495  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   7   8
+ATOM      8  N9  GNP A 250      26.464   1.796   3.361  0.00  0.00    +0.000 N 
+ATOM      9  C8  GNP A 250      26.287   0.600   2.666  0.00  0.00    +0.000 C 
+ATOM     10  N7  GNP A 250      27.309  -0.192   2.682  0.00  0.00    +0.000 NA
+ATOM     11  C5  GNP A 250      28.113   0.348   3.707  0.00  0.00    +0.000 C 
+ATOM     12  C6  GNP A 250      29.311  -0.166   4.365  0.00  0.00    +0.000 C 
+ATOM     13  O6  GNP A 250      29.901  -1.225   4.170  0.00  0.00    +0.000 OA
+ATOM     14  N1  GNP A 250      29.809   0.714   5.339  0.00  0.00    +0.000 NA
+ATOM     15  C2  GNP A 250      29.281   1.949   5.662  0.00  0.00    +0.000 C 
+ATOM     16  N2  GNP A 250      29.895   2.697   6.598  0.00  0.00    +0.000 NA
+ATOM     17  N3  GNP A 250      28.141   2.439   5.056  0.00  0.00    +0.000 NA
+ATOM     18  C4  GNP A 250      27.608   1.591   4.107  0.00  0.00    +0.000 C 
+ENDBRANCH   7   8
+BRANCH   1  19
+ATOM     19  C5' GNP A 250      26.772   5.951   4.834  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  O5' GNP A 250      26.196   6.866   5.815  0.00  0.00    +0.000 OA
+BRANCH  20  21
+ATOM     21  PA  GNP A 250      25.386   8.190   5.337  0.00  0.00    +0.000 P 
+ATOM     22  O1A GNP A 250      24.012   7.782   4.909  0.00  0.00    +0.000 OA
+ATOM     23  O2A GNP A 250      26.209   8.966   4.365  0.00  0.00    +0.000 OA
+BRANCH  21  24
+ATOM     24  O3A GNP A 250      25.298   8.990   6.732  0.00  0.00    +0.000 OA
+BRANCH  24  25
+ATOM     25  PB  GNP A 250      24.205  10.078   7.199  0.00  0.00    +0.000 P 
+ATOM     26  O1B GNP A 250      22.933   9.436   6.935  0.00  0.00    +0.000 OA
+ATOM     27  O2B GNP A 250      24.445  11.223   6.311  0.00  0.00    +0.000 OA
+BRANCH  25  28
+ATOM     28  N3B GNP A 250      24.521  10.351   8.793  0.00  0.00    +0.000 NA
+BRANCH  28  29
+ATOM     29  PG  GNP A 250      23.850  11.579   9.622  0.00  0.00    +0.000 P 
+ATOM     30  O1G GNP A 250      23.271  12.612   8.793  0.00  0.00    +0.000 OA
+ATOM     31  O2G GNP A 250      22.894  11.150  10.644  0.00  0.00    +0.000 OA
+ATOM     32  O3G GNP A 250      24.941  12.335  10.405  0.00  0.00    +0.000 OA
+ENDBRANCH  28  29
+ENDBRANCH  25  28
+ENDBRANCH  24  25
+ENDBRANCH  21  24
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 8
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -4.3      2.801      6.080
+REMARK  Name = ligand_pdbs\GNP.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: PG_1  and  N3B_5
+REMARK    2  A    between atoms: N3B_5  and  PB_6
+REMARK    3  A    between atoms: PB_6  and  O3A_9
+REMARK    4  A    between atoms: O3A_9  and  PA_10
+REMARK    5  A    between atoms: PA_10  and  O5'_13
+REMARK    6  A    between atoms: O5'_13  and  C5'_14
+REMARK    7  A    between atoms: C5'_14  and  C4'_15
+REMARK    8  A    between atoms: C1'_21  and  N9_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4' GNP A 250      29.018   2.149   4.352  0.00  0.00    +0.000 C 
+ATOM      2  O4' GNP A 250      28.852   3.570   4.228  0.00  0.00    +0.000 OA
+ATOM      3  C3' GNP A 250      28.563   1.777   5.782  0.00  0.00    +0.000 C 
+ATOM      4  O3' GNP A 250      29.690   1.725   6.657  0.00  0.00    +0.000 OA
+ATOM      5  C2' GNP A 250      27.663   2.969   6.150  0.00  0.00    +0.000 C 
+ATOM      6  O2' GNP A 250      27.620   3.171   7.571  0.00  0.00    +0.000 OA
+ATOM      7  C1' GNP A 250      28.414   4.110   5.476  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   7   8
+ATOM      8  N9  GNP A 250      27.536   5.278   5.246  0.00  0.00    +0.000 N 
+ATOM      9  C8  GNP A 250      27.788   6.629   5.485  0.00  0.00    +0.000 C 
+ATOM     10  N7  GNP A 250      26.840   7.430   5.120  0.00  0.00    +0.000 NA
+ATOM     11  C5  GNP A 250      25.751   6.559   4.913  0.00  0.00    +0.000 C 
+ATOM     12  C6  GNP A 250      24.335   6.824   4.673  0.00  0.00    +0.000 C 
+ATOM     13  O6  GNP A 250      23.757   7.906   4.604  0.00  0.00    +0.000 OA
+ATOM     14  N1  GNP A 250      23.588   5.648   4.504  0.00  0.00    +0.000 NA
+ATOM     15  C2  GNP A 250      24.087   4.361   4.528  0.00  0.00    +0.000 C 
+ATOM     16  N2  GNP A 250      23.246   3.330   4.314  0.00  0.00    +0.000 NA
+ATOM     17  N3  GNP A 250      25.421   4.096   4.768  0.00  0.00    +0.000 NA
+ATOM     18  C4  GNP A 250      26.186   5.228   4.961  0.00  0.00    +0.000 C 
+ENDBRANCH   7   8
+BRANCH   1  19
+ATOM     19  C5' GNP A 250      28.253   1.414   3.226  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  O5' GNP A 250      26.815   1.639   3.334  0.00  0.00    +0.000 OA
+BRANCH  20  21
+ATOM     21  PA  GNP A 250      25.808   0.411   3.671  0.00  0.00    +0.000 P 
+ATOM     22  O1A GNP A 250      24.669   0.446   2.702  0.00  0.00    +0.000 OA
+ATOM     23  O2A GNP A 250      25.477   0.408   5.125  0.00  0.00    +0.000 OA
+BRANCH  21  24
+ATOM     24  O3A GNP A 250      26.762  -0.843   3.331  0.00  0.00    +0.000 OA
+BRANCH  24  25
+ATOM     25  PB  GNP A 250      27.168  -2.082   4.278  0.00  0.00    +0.000 P 
+ATOM     26  O1B GNP A 250      26.061  -3.008   4.141  0.00  0.00    +0.000 OA
+ATOM     27  O2B GNP A 250      27.237  -1.492   5.621  0.00  0.00    +0.000 OA
+BRANCH  25  28
+ATOM     28  N3B GNP A 250      28.602  -2.630   3.680  0.00  0.00    +0.000 NA
+BRANCH  28  29
+ATOM     29  PG  GNP A 250      29.966  -1.745   3.723  0.00  0.00    +0.000 P 
+ATOM     30  O1G GNP A 250      30.166  -0.901   2.566  0.00  0.00    +0.000 OA
+ATOM     31  O2G GNP A 250      30.129  -0.971   4.953  0.00  0.00    +0.000 OA
+ATOM     32  O3G GNP A 250      31.192  -2.678   3.685  0.00  0.00    +0.000 OA
+ENDBRANCH  28  29
+ENDBRANCH  25  28
+ENDBRANCH  24  25
+ENDBRANCH  21  24
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 8
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -4.2      3.442      6.390
+REMARK  Name = ligand_pdbs\GNP.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: PG_1  and  N3B_5
+REMARK    2  A    between atoms: N3B_5  and  PB_6
+REMARK    3  A    between atoms: PB_6  and  O3A_9
+REMARK    4  A    between atoms: O3A_9  and  PA_10
+REMARK    5  A    between atoms: PA_10  and  O5'_13
+REMARK    6  A    between atoms: O5'_13  and  C5'_14
+REMARK    7  A    between atoms: C5'_14  and  C4'_15
+REMARK    8  A    between atoms: C1'_21  and  N9_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4' GNP A 250      26.169   4.888   4.049  0.00  0.00    +0.000 C 
+ATOM      2  O4' GNP A 250      26.979   3.856   3.466  0.00  0.00    +0.000 OA
+ATOM      3  C3' GNP A 250      25.311   4.209   5.141  0.00  0.00    +0.000 C 
+ATOM      4  O3' GNP A 250      24.030   3.863   4.612  0.00  0.00    +0.000 OA
+ATOM      5  C2' GNP A 250      26.122   2.936   5.437  0.00  0.00    +0.000 C 
+ATOM      6  O2' GNP A 250      25.280   1.884   5.930  0.00  0.00    +0.000 OA
+ATOM      7  C1' GNP A 250      26.635   2.596   4.044  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   7   8
+ATOM      8  N9  GNP A 250      27.827   1.720   4.102  0.00  0.00    +0.000 N 
+ATOM      9  C8  GNP A 250      29.174   2.059   3.988  0.00  0.00    +0.000 C 
+ATOM     10  N7  GNP A 250      29.997   1.073   4.144  0.00  0.00    +0.000 NA
+ATOM     11  C5  GNP A 250      29.159  -0.057   4.043  0.00  0.00    +0.000 C 
+ATOM     12  C6  GNP A 250      29.468  -1.480   3.941  0.00  0.00    +0.000 C 
+ATOM     13  O6  GNP A 250      30.567  -2.028   3.912  0.00  0.00    +0.000 OA
+ATOM     14  N1  GNP A 250      28.315  -2.278   3.873  0.00  0.00    +0.000 NA
+ATOM     15  C2  GNP A 250      27.011  -1.823   3.917  0.00  0.00    +0.000 C 
+ATOM     16  N2  GNP A 250      26.006  -2.718   3.876  0.00  0.00    +0.000 NA
+ATOM     17  N3  GNP A 250      26.707  -0.478   3.999  0.00  0.00    +0.000 NA
+ATOM     18  C4  GNP A 250      27.816   0.340   4.046  0.00  0.00    +0.000 C 
+ENDBRANCH   7   8
+BRANCH   1  19
+ATOM     19  C5' GNP A 250      27.058   6.047   4.562  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  O5' GNP A 250      26.374   6.814   5.599  0.00  0.00    +0.000 OA
+BRANCH  20  21
+ATOM     21  PA  GNP A 250      25.391   8.045   5.206  0.00  0.00    +0.000 P 
+ATOM     22  O1A GNP A 250      24.062   7.489   4.805  0.00  0.00    +0.000 OA
+ATOM     23  O2A GNP A 250      26.077   8.956   4.244  0.00  0.00    +0.000 OA
+BRANCH  21  24
+ATOM     24  O3A GNP A 250      25.258   8.772   6.638  0.00  0.00    +0.000 OA
+BRANCH  24  25
+ATOM     25  PB  GNP A 250      24.259   9.959   7.074  0.00  0.00    +0.000 P 
+ATOM     26  O1B GNP A 250      22.937   9.411   6.839  0.00  0.00    +0.000 OA
+ATOM     27  O2B GNP A 250      24.581  11.050   6.145  0.00  0.00    +0.000 OA
+BRANCH  25  28
+ATOM     28  N3B GNP A 250      24.608  10.259   8.656  0.00  0.00    +0.000 NA
+BRANCH  28  29
+ATOM     29  PG  GNP A 250      23.888  11.446   9.503  0.00  0.00    +0.000 P 
+ATOM     30  O1G GNP A 250      23.287  12.480   8.689  0.00  0.00    +0.000 OA
+ATOM     31  O2G GNP A 250      22.933  10.964  10.502  0.00  0.00    +0.000 OA
+ATOM     32  O3G GNP A 250      24.945  12.218  10.317  0.00  0.00    +0.000 OA
+ENDBRANCH  28  29
+ENDBRANCH  25  28
+ENDBRANCH  24  25
+ENDBRANCH  21  24
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 8
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.2      2.762      5.003
+REMARK  Name = ligand_pdbs\GNP.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: PG_1  and  N3B_5
+REMARK    2  A    between atoms: N3B_5  and  PB_6
+REMARK    3  A    between atoms: PB_6  and  O3A_9
+REMARK    4  A    between atoms: O3A_9  and  PA_10
+REMARK    5  A    between atoms: PA_10  and  O5'_13
+REMARK    6  A    between atoms: O5'_13  and  C5'_14
+REMARK    7  A    between atoms: C5'_14  and  C4'_15
+REMARK    8  A    between atoms: C1'_21  and  N9_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4' GNP A 250      29.922   1.524   5.405  0.00  0.00    +0.000 C 
+ATOM      2  O4' GNP A 250      28.699   1.993   4.817  0.00  0.00    +0.000 OA
+ATOM      3  C3' GNP A 250      30.257   2.499   6.557  0.00  0.00    +0.000 C 
+ATOM      4  O3' GNP A 250      31.165   3.502   6.101  0.00  0.00    +0.000 OA
+ATOM      5  C2' GNP A 250      28.885   3.125   6.855  0.00  0.00    +0.000 C 
+ATOM      6  O2' GNP A 250      29.021   4.437   7.419  0.00  0.00    +0.000 OA
+ATOM      7  C1' GNP A 250      28.301   3.210   5.451  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   7   8
+ATOM      8  N9  GNP A 250      26.825   3.310   5.480  0.00  0.00    +0.000 N 
+ATOM      9  C8  GNP A 250      25.879   2.310   5.709  0.00  0.00    +0.000 C 
+ATOM     10  N7  GNP A 250      24.653   2.720   5.734  0.00  0.00    +0.000 NA
+ATOM     11  C5  GNP A 250      24.739   4.012   5.177  0.00  0.00    +0.000 C 
+ATOM     12  C6  GNP A 250      23.704   4.948   4.746  0.00  0.00    +0.000 C 
+ATOM     13  O6  GNP A 250      22.483   4.807   4.767  0.00  0.00    +0.000 OA
+ATOM     14  N1  GNP A 250      24.235   6.150   4.255  0.00  0.00    +0.000 NA
+ATOM     15  C2  GNP A 250      25.576   6.475   4.186  0.00  0.00    +0.000 C 
+ATOM     16  N2  GNP A 250      25.931   7.688   3.720  0.00  0.00    +0.000 NA
+ATOM     17  N3  GNP A 250      26.565   5.594   4.578  0.00  0.00    +0.000 NA
+ATOM     18  C4  GNP A 250      26.081   4.390   5.047  0.00  0.00    +0.000 C 
+ENDBRANCH   7   8
+BRANCH   1  19
+ATOM     19  C5' GNP A 250      29.781   0.045   5.838  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  O5' GNP A 250      30.387  -0.850   4.857  0.00  0.00    +0.000 OA
+BRANCH  20  21
+ATOM     21  PA  GNP A 250      29.479  -1.570   3.720  0.00  0.00    +0.000 P 
+ATOM     22  O1A GNP A 250      30.045  -2.926   3.443  0.00  0.00    +0.000 OA
+ATOM     23  O2A GNP A 250      29.291  -0.649   2.561  0.00  0.00    +0.000 OA
+BRANCH  21  24
+ATOM     24  O3A GNP A 250      28.088  -1.722   4.519  0.00  0.00    +0.000 OA
+BRANCH  24  25
+ATOM     25  PB  GNP A 250      26.611  -1.268   4.063  0.00  0.00    +0.000 P 
+ATOM     26  O1B GNP A 250      26.046  -0.660   5.251  0.00  0.00    +0.000 OA
+ATOM     27  O2B GNP A 250      25.946  -2.530   3.714  0.00  0.00    +0.000 OA
+BRANCH  25  28
+ATOM     28  N3B GNP A 250      26.848  -0.231   2.805  0.00  0.00    +0.000 NA
+BRANCH  28  29
+ATOM     29  PG  GNP A 250      25.778   0.929   2.412  0.00  0.00    +0.000 P 
+ATOM     30  O1G GNP A 250      24.505   0.821   3.089  0.00  0.00    +0.000 OA
+ATOM     31  O2G GNP A 250      26.307   2.288   2.534  0.00  0.00    +0.000 OA
+ATOM     32  O3G GNP A 250      25.390   0.796   0.926  0.00  0.00    +0.000 OA
+ENDBRANCH  28  29
+ENDBRANCH  25  28
+ENDBRANCH  24  25
+ENDBRANCH  21  24
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 8
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -4.0      2.700      4.338
+REMARK  Name = ligand_pdbs\GNP.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: PG_1  and  N3B_5
+REMARK    2  A    between atoms: N3B_5  and  PB_6
+REMARK    3  A    between atoms: PB_6  and  O3A_9
+REMARK    4  A    between atoms: O3A_9  and  PA_10
+REMARK    5  A    between atoms: PA_10  and  O5'_13
+REMARK    6  A    between atoms: O5'_13  and  C5'_14
+REMARK    7  A    between atoms: C5'_14  and  C4'_15
+REMARK    8  A    between atoms: C1'_21  and  N9_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4' GNP A 250      27.403  -0.223   2.249  0.00  0.00    +0.000 C 
+ATOM      2  O4' GNP A 250      28.446   0.460   2.961  0.00  0.00    +0.000 OA
+ATOM      3  C3' GNP A 250      27.089  -1.505   3.054  0.00  0.00    +0.000 C 
+ATOM      4  O3' GNP A 250      27.820  -2.610   2.521  0.00  0.00    +0.000 OA
+ATOM      5  C2' GNP A 250      27.621  -1.143   4.450  0.00  0.00    +0.000 C 
+ATOM      6  O2' GNP A 250      28.001  -2.316   5.184  0.00  0.00    +0.000 OA
+ATOM      7  C1' GNP A 250      28.854  -0.328   4.081  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   7   8
+ATOM      8  N9  GNP A 250      29.278   0.551   5.194  0.00  0.00    +0.000 N 
+ATOM      9  C8  GNP A 250      29.743   0.203   6.462  0.00  0.00    +0.000 C 
+ATOM     10  N7  GNP A 250      30.099   1.202   7.202  0.00  0.00    +0.000 NA
+ATOM     11  C5  GNP A 250      29.551   2.310   6.524  0.00  0.00    +0.000 C 
+ATOM     12  C6  GNP A 250      29.421   3.711   6.913  0.00  0.00    +0.000 C 
+ATOM     13  O6  GNP A 250      29.767   4.253   7.960  0.00  0.00    +0.000 OA
+ATOM     14  N1  GNP A 250      28.815   4.493   5.917  0.00  0.00    +0.000 NA
+ATOM     15  C2  GNP A 250      28.393   4.044   4.680  0.00  0.00    +0.000 C 
+ATOM     16  N2  GNP A 250      27.860   4.927   3.813  0.00  0.00    +0.000 NA
+ATOM     17  N3  GNP A 250      28.498   2.719   4.306  0.00  0.00    +0.000 NA
+ATOM     18  C4  GNP A 250      29.069   1.914   5.270  0.00  0.00    +0.000 C 
+ENDBRANCH   7   8
+BRANCH   1  19
+ATOM     19  C5' GNP A 250      26.190   0.714   2.038  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  O5' GNP A 250      26.273   1.884   2.906  0.00  0.00    +0.000 OA
+BRANCH  20  21
+ATOM     21  PA  GNP A 250      25.103   2.199   3.987  0.00  0.00    +0.000 P 
+ATOM     22  O1A GNP A 250      25.569   1.761   5.339  0.00  0.00    +0.000 OA
+ATOM     23  O2A GNP A 250      23.801   1.659   3.498  0.00  0.00    +0.000 OA
+BRANCH  21  24
+ATOM     24  O3A GNP A 250      25.079   3.808   3.922  0.00  0.00    +0.000 OA
+BRANCH  24  25
+ATOM     25  PB  GNP A 250      24.133   4.833   4.730  0.00  0.00    +0.000 P 
+ATOM     26  O1B GNP A 250      24.524   4.657   6.115  0.00  0.00    +0.000 OA
+ATOM     27  O2B GNP A 250      22.774   4.339   4.469  0.00  0.00    +0.000 OA
+BRANCH  25  28
+ATOM     28  N3B GNP A 250      24.469   6.319   4.102  0.00  0.00    +0.000 NA
+BRANCH  28  29
+ATOM     29  PG  GNP A 250      25.410   7.401   4.869  0.00  0.00    +0.000 P 
+ATOM     30  O1G GNP A 250      26.387   6.818   5.760  0.00  0.00    +0.000 OA
+ATOM     31  O2G GNP A 250      26.048   8.369   3.975  0.00  0.00    +0.000 OA
+ATOM     32  O3G GNP A 250      24.548   8.259   5.816  0.00  0.00    +0.000 OA
+ENDBRANCH  28  29
+ENDBRANCH  25  28
+ENDBRANCH  24  25
+ENDBRANCH  21  24
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 8
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -3.8      2.422      4.487
+REMARK  Name = ligand_pdbs\GNP.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: PG_1  and  N3B_5
+REMARK    2  A    between atoms: N3B_5  and  PB_6
+REMARK    3  A    between atoms: PB_6  and  O3A_9
+REMARK    4  A    between atoms: O3A_9  and  PA_10
+REMARK    5  A    between atoms: PA_10  and  O5'_13
+REMARK    6  A    between atoms: O5'_13  and  C5'_14
+REMARK    7  A    between atoms: C5'_14  and  C4'_15
+REMARK    8  A    between atoms: C1'_21  and  N9_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4' GNP A 250      25.466   1.950   3.255  0.00  0.00    +0.000 C 
+ATOM      2  O4' GNP A 250      26.850   1.992   3.637  0.00  0.00    +0.000 OA
+ATOM      3  C3' GNP A 250      25.309   0.737   2.309  0.00  0.00    +0.000 C 
+ATOM      4  O3' GNP A 250      25.404   1.160   0.949  0.00  0.00    +0.000 OA
+ATOM      5  C2' GNP A 250      26.531  -0.119   2.683  0.00  0.00    +0.000 C 
+ATOM      6  O2' GNP A 250      26.945  -0.945   1.585  0.00  0.00    +0.000 OA
+ATOM      7  C1' GNP A 250      27.566   0.966   2.948  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   7   8
+ATOM      8  N9  GNP A 250      28.675   0.466   3.791  0.00  0.00    +0.000 N 
+ATOM      9  C8  GNP A 250      29.241  -0.808   3.836  0.00  0.00    +0.000 C 
+ATOM     10  N7  GNP A 250      30.248  -0.926   4.639  0.00  0.00    +0.000 NA
+ATOM     11  C5  GNP A 250      30.168   0.244   5.422  0.00  0.00    +0.000 C 
+ATOM     12  C6  GNP A 250      30.883   0.647   6.629  0.00  0.00    +0.000 C 
+ATOM     13  O6  GNP A 250      31.739   0.029   7.258  0.00  0.00    +0.000 OA
+ATOM     14  N1  GNP A 250      30.501   1.919   7.082  0.00  0.00    +0.000 NA
+ATOM     15  C2  GNP A 250      29.577   2.750   6.479  0.00  0.00    +0.000 C 
+ATOM     16  N2  GNP A 250      29.341   3.963   7.015  0.00  0.00    +0.000 NA
+ATOM     17  N3  GNP A 250      28.884   2.374   5.345  0.00  0.00    +0.000 NA
+ATOM     18  C4  GNP A 250      29.217   1.118   4.881  0.00  0.00    +0.000 C 
+ENDBRANCH   7   8
+BRANCH   1  19
+ATOM     19  C5' GNP A 250      24.560   1.907   4.508  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  O5' GNP A 250      25.304   2.277   5.707  0.00  0.00    +0.000 OA
+BRANCH  20  21
+ATOM     21  PA  GNP A 250      25.233   3.791   6.292  0.00  0.00    +0.000 P 
+ATOM     22  O1A GNP A 250      25.318   3.733   7.784  0.00  0.00    +0.000 OA
+ATOM     23  O2A GNP A 250      24.073   4.513   5.693  0.00  0.00    +0.000 OA
+BRANCH  21  24
+ATOM     24  O3A GNP A 250      26.607   4.390   5.700  0.00  0.00    +0.000 OA
+BRANCH  24  25
+ATOM     25  PB  GNP A 250      26.807   5.594   4.647  0.00  0.00    +0.000 P 
+ATOM     26  O1B GNP A 250      25.821   5.330   3.617  0.00  0.00    +0.000 OA
+ATOM     27  O2B GNP A 250      28.181   5.413   4.162  0.00  0.00    +0.000 OA
+BRANCH  25  28
+ATOM     28  N3B GNP A 250      26.546   6.972   5.512  0.00  0.00    +0.000 NA
+BRANCH  28  29
+ATOM     29  PG  GNP A 250      25.450   8.090   5.071  0.00  0.00    +0.000 P 
+ATOM     30  O1G GNP A 250      25.950   9.083   4.147  0.00  0.00    +0.000 OA
+ATOM     31  O2G GNP A 250      24.193   7.524   4.581  0.00  0.00    +0.000 OA
+ATOM     32  O3G GNP A 250      25.045   8.932   6.297  0.00  0.00    +0.000 OA
+ENDBRANCH  28  29
+ENDBRANCH  25  28
+ENDBRANCH  24  25
+ENDBRANCH  21  24
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 8
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -3.4      2.309      5.057
+REMARK  Name = ligand_pdbs\GNP.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: PG_1  and  N3B_5
+REMARK    2  A    between atoms: N3B_5  and  PB_6
+REMARK    3  A    between atoms: PB_6  and  O3A_9
+REMARK    4  A    between atoms: O3A_9  and  PA_10
+REMARK    5  A    between atoms: PA_10  and  O5'_13
+REMARK    6  A    between atoms: O5'_13  and  C5'_14
+REMARK    7  A    between atoms: C5'_14  and  C4'_15
+REMARK    8  A    between atoms: C1'_21  and  N9_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4' GNP A 250      25.171   2.298   6.278  0.00  0.00    +0.000 C 
+ATOM      2  O4' GNP A 250      26.124   1.225   6.241  0.00  0.00    +0.000 OA
+ATOM      3  C3' GNP A 250      25.945   3.558   6.730  0.00  0.00    +0.000 C 
+ATOM      4  O3' GNP A 250      25.811   3.735   8.141  0.00  0.00    +0.000 OA
+ATOM      5  C2' GNP A 250      27.395   3.184   6.380  0.00  0.00    +0.000 C 
+ATOM      6  O2' GNP A 250      28.330   3.875   7.220  0.00  0.00    +0.000 OA
+ATOM      7  C1' GNP A 250      27.390   1.696   6.706  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   7   8
+ATOM      8  N9  GNP A 250      28.485   0.983   6.011  0.00  0.00    +0.000 N 
+ATOM      9  C8  GNP A 250      29.757   1.443   5.670  0.00  0.00    +0.000 C 
+ATOM     10  N7  GNP A 250      30.522   0.559   5.117  0.00  0.00    +0.000 NA
+ATOM     11  C5  GNP A 250      29.622  -0.470   4.772  0.00  0.00    +0.000 C 
+ATOM     12  C6  GNP A 250      29.793  -1.669   3.958  0.00  0.00    +0.000 C 
+ATOM     13  O6  GNP A 250      30.796  -2.058   3.364  0.00  0.00    +0.000 OA
+ATOM     14  N1  GNP A 250      28.623  -2.441   3.884  0.00  0.00    +0.000 NA
+ATOM     15  C2  GNP A 250      27.425  -2.159   4.509  0.00  0.00    +0.000 C 
+ATOM     16  N2  GNP A 250      26.397  -3.018   4.370  0.00  0.00    +0.000 NA
+ATOM     17  N3  GNP A 250      27.246  -1.020   5.270  0.00  0.00    +0.000 NA
+ATOM     18  C4  GNP A 250      28.369  -0.223   5.349  0.00  0.00    +0.000 C 
+ENDBRANCH   7   8
+BRANCH   1  19
+ATOM     19  C5' GNP A 250      24.461   2.439   4.910  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  O5' GNP A 250      25.059   1.554   3.915  0.00  0.00    +0.000 OA
+BRANCH  20  21
+ATOM     21  PA  GNP A 250      26.070   2.140   2.787  0.00  0.00    +0.000 P 
+ATOM     22  O1A GNP A 250      25.495   1.857   1.436  0.00  0.00    +0.000 OA
+ATOM     23  O2A GNP A 250      27.460   1.670   3.058  0.00  0.00    +0.000 OA
+BRANCH  21  24
+ATOM     24  O3A GNP A 250      25.962   3.717   3.097  0.00  0.00    +0.000 OA
+BRANCH  24  25
+ATOM     25  PB  GNP A 250      27.150   4.792   3.264  0.00  0.00    +0.000 P 
+ATOM     26  O1B GNP A 250      27.290   5.372   1.942  0.00  0.00    +0.000 OA
+ATOM     27  O2B GNP A 250      28.313   3.977   3.639  0.00  0.00    +0.000 OA
+BRANCH  25  28
+ATOM     28  N3B GNP A 250      26.626   5.839   4.423  0.00  0.00    +0.000 NA
+BRANCH  28  29
+ATOM     29  PG  GNP A 250      25.201   6.616   4.323  0.00  0.00    +0.000 P 
+ATOM     30  O1G GNP A 250      24.981   7.302   3.069  0.00  0.00    +0.000 OA
+ATOM     31  O2G GNP A 250      24.047   5.779   4.655  0.00  0.00    +0.000 OA
+ATOM     32  O3G GNP A 250      25.159   7.761   5.354  0.00  0.00    +0.000 OA
+ENDBRANCH  28  29
+ENDBRANCH  25  28
+ENDBRANCH  24  25
+ENDBRANCH  21  24
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 8
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -3.2      4.258      7.319
+REMARK  Name = ligand_pdbs\GNP.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: PG_1  and  N3B_5
+REMARK    2  A    between atoms: N3B_5  and  PB_6
+REMARK    3  A    between atoms: PB_6  and  O3A_9
+REMARK    4  A    between atoms: O3A_9  and  PA_10
+REMARK    5  A    between atoms: PA_10  and  O5'_13
+REMARK    6  A    between atoms: O5'_13  and  C5'_14
+REMARK    7  A    between atoms: C5'_14  and  C4'_15
+REMARK    8  A    between atoms: C1'_21  and  N9_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4' GNP A 250      25.596   6.433   4.358  0.00  0.00    +0.000 C 
+ATOM      2  O4' GNP A 250      26.672   5.488   4.263  0.00  0.00    +0.000 OA
+ATOM      3  C3' GNP A 250      24.428   5.700   5.057  0.00  0.00    +0.000 C 
+ATOM      4  O3' GNP A 250      23.530   5.168   4.083  0.00  0.00    +0.000 OA
+ATOM      5  C2' GNP A 250      25.158   4.558   5.783  0.00  0.00    +0.000 C 
+ATOM      6  O2' GNP A 250      24.294   3.429   5.982  0.00  0.00    +0.000 OA
+ATOM      7  C1' GNP A 250      26.241   4.222   4.766  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   7   8
+ATOM      8  N9  GNP A 250      27.376   3.511   5.395  0.00  0.00    +0.000 N 
+ATOM      9  C8  GNP A 250      28.511   4.036   6.012  0.00  0.00    +0.000 C 
+ATOM     10  N7  GNP A 250      29.305   3.155   6.528  0.00  0.00    +0.000 NA
+ATOM     11  C5  GNP A 250      28.852   1.948   5.956  0.00  0.00    +0.000 C 
+ATOM     12  C6  GNP A 250      29.421   0.603   5.966  0.00  0.00    +0.000 C 
+ATOM     13  O6  GNP A 250      30.463   0.213   6.488  0.00  0.00    +0.000 OA
+ATOM     14  N1  GNP A 250      28.625  -0.323   5.275  0.00  0.00    +0.000 NA
+ATOM     15  C2  GNP A 250      27.420  -0.054   4.657  0.00  0.00    +0.000 C 
+ATOM     16  N2  GNP A 250      26.752  -1.060   4.060  0.00  0.00    +0.000 NA
+ATOM     17  N3  GNP A 250      26.879   1.217   4.628  0.00  0.00    +0.000 NA
+ATOM     18  C4  GNP A 250      27.644   2.161   5.280  0.00  0.00    +0.000 C 
+ENDBRANCH   7   8
+BRANCH   1  19
+ATOM     19  C5' GNP A 250      26.067   7.719   5.078  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  O5' GNP A 250      25.253   7.989   6.259  0.00  0.00    +0.000 OA
+BRANCH  20  21
+ATOM     21  PA  GNP A 250      24.511   9.421   6.444  0.00  0.00    +0.000 P 
+ATOM     22  O1A GNP A 250      23.032   9.208   6.366  0.00  0.00    +0.000 OA
+ATOM     23  O2A GNP A 250      25.112  10.428   5.523  0.00  0.00    +0.000 OA
+BRANCH  21  24
+ATOM     24  O3A GNP A 250      24.924   9.762   7.963  0.00  0.00    +0.000 OA
+BRANCH  24  25
+ATOM     25  PB  GNP A 250      24.389  10.955   8.906  0.00  0.00    +0.000 P 
+ATOM     26  O1B GNP A 250      23.597  11.781   8.016  0.00  0.00    +0.000 OA
+ATOM     27  O2B GNP A 250      25.615  11.632   9.348  0.00  0.00    +0.000 OA
+BRANCH  25  28
+ATOM     28  N3B GNP A 250      23.531  10.210  10.100  0.00  0.00    +0.000 NA
+BRANCH  28  29
+ATOM     29  PG  GNP A 250      23.125  10.959  11.485  0.00  0.00    +0.000 P 
+ATOM     30  O1G GNP A 250      21.867  10.525  12.051  0.00  0.00    +0.000 OA
+ATOM     31  O2G GNP A 250      24.177  10.936  12.501  0.00  0.00    +0.000 OA
+ATOM     32  O3G GNP A 250      22.881  12.457  11.213  0.00  0.00    +0.000 OA
+ENDBRANCH  28  29
+ENDBRANCH  25  28
+ENDBRANCH  24  25
+ENDBRANCH  21  24
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 8
+ENDMDL

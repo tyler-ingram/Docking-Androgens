@@ -1,0 +1,40 @@
+REMARK  Name = ligand_pdbs\FLF.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_9
+REMARK    2  A    between atoms: C6_8  and  N_10
+REMARK    3  A    between atoms: N_10  and  C1'_11
+REMARK    4  A    between atoms: C3'_13  and  C7'_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   FLF A2386      18.860  16.672  29.664  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   7
+ATOM      2  C1  FLF A2386      20.084  15.662  31.394  0.00  0.00    +0.000 A 
+ATOM      3  C2  FLF A2386      20.461  14.532  32.099  0.00  0.00    +0.000 A 
+ATOM      4  C3  FLF A2386      20.028  13.268  31.690  0.00  0.00    +0.000 A 
+ATOM      5  C4  FLF A2386      19.219  13.149  30.571  0.00  0.00    +0.000 A 
+ATOM      6  C5  FLF A2386      18.842  14.298  29.858  0.00  0.00    +0.000 A 
+ATOM      7  C6  FLF A2386      19.277  15.548  30.263  0.00  0.00    +0.000 A 
+BRANCH   2  10
+ATOM      8  O1  FLF A2386      20.742  17.912  30.934  0.00  0.00    +0.000 OA
+ATOM      9  O2  FLF A2386      20.905  17.195  33.024  0.00  0.00    +0.000 OA
+ATOM     10  C7  FLF A2386      20.629  17.032  31.810  0.00  0.00    +0.000 C 
+ENDBRANCH   2  10
+ENDBRANCH   1   7
+BRANCH   1  11
+ATOM     11  C1' FLF A2386      18.094  16.738  28.581  0.00  0.00    +0.000 A 
+ATOM     12  C2' FLF A2386      17.706  17.987  28.138  0.00  0.00    +0.000 A 
+ATOM     13  C3' FLF A2386      16.860  18.120  27.027  0.00  0.00    +0.000 A 
+ATOM     14  C4' FLF A2386      16.415  16.987  26.361  0.00  0.00    +0.000 A 
+ATOM     15  C5' FLF A2386      16.805  15.729  26.810  0.00  0.00    +0.000 A 
+ATOM     16  C6' FLF A2386      17.633  15.603  27.909  0.00  0.00    +0.000 A 
+BRANCH  13  17
+ATOM     17  C7' FLF A2386      16.409  19.519  26.582  0.00  0.00    +0.000 C 
+ATOM     18  F1  FLF A2386      16.024  20.238  27.637  0.00  0.00    +0.000 F 
+ATOM     19  F2  FLF A2386      15.389  19.419  25.730  0.00  0.00    +0.000 F 
+ATOM     20  F3  FLF A2386      17.424  20.134  25.976  0.00  0.00    +0.000 F 
+ENDBRANCH  13  17
+ENDBRANCH   1  11
+TORSDOF 4

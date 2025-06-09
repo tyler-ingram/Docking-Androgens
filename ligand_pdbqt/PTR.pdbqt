@@ -1,0 +1,39 @@
+REMARK  Name = ligand_pdbs\PTR.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CG_6
+REMARK    4  A    between atoms: CZ_11  and  OH_12
+REMARK    5  A    between atoms: OH_12  and  P_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CG  PTR A 359     -54.634  22.724 -29.458  0.00  0.00    +0.000 A 
+ATOM      2  CD1 PTR A 359     -55.975  22.793 -29.803  0.00  0.00    +0.000 A 
+ATOM      3  CD2 PTR A 359     -54.294  22.905 -28.127  0.00  0.00    +0.000 A 
+ATOM      4  CE1 PTR A 359     -56.958  23.024 -28.855  0.00  0.00    +0.000 A 
+ATOM      5  CE2 PTR A 359     -55.254  23.139 -27.157  0.00  0.00    +0.000 A 
+ATOM      6  CZ  PTR A 359     -56.584  23.199 -27.535  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  CB  PTR A 359     -53.575  22.479 -30.503  0.00  0.00    +0.000 C 
+BRANCH   7   9
+ATOM      8  N   PTR A 359     -53.788  24.923 -30.833  0.00  0.00    +0.000 NA
+ATOM      9  CA  PTR A 359     -52.904  23.745 -31.043  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C   PTR A 359     -52.612  23.613 -32.541  0.00  0.00    +0.000 C 
+ATOM     11  O   PTR A 359     -53.354  24.215 -33.343  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+ENDBRANCH   7   9
+ENDBRANCH   1   7
+BRANCH   6  12
+ATOM     12  OH  PTR A 359     -57.591  23.430 -26.590  0.00  0.00    +0.000 OA
+BRANCH  12  13
+ATOM     13  P   PTR A 359     -57.387  24.085 -25.150  0.00  0.00    +0.000 P 
+ATOM     14  O1P PTR A 359     -56.676  25.407 -25.313  0.00  0.00    +0.000 OA
+ATOM     15  O2P PTR A 359     -58.753  24.295 -24.547  0.00  0.00    +0.000 OA
+ATOM     16  O3P PTR A 359     -56.574  23.151 -24.285  0.00  0.00    +0.000 OA
+ENDBRANCH  12  13
+ENDBRANCH   6  12
+TORSDOF 5

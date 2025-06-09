@@ -8,8 +8,8 @@ Run this script after running the separate.py, seperateligands.py, and pdbtopdbq
 
 input_dir = "ligand_pdbqt"
 output_dir = "results"
-receptor = "other_pdbs/protein.pdbqt"
-pdb_file = "./other_pdbs/protein.pdb"  
+receptor = "Project1_Data/protein.pdbqt"
+pdb_file = "Project1_Data/protein.pdb"  
 #Got from coach for their rank 1 pocket for protein.pdb
 #See the metadata folder to see all pockets
 residue_ids = [33, 36, 37, 40, 43, 74, 77, 81, 84, 96, 112, 115, 116, 119, 205, 208, 209, 212, 227]

@@ -1,0 +1,927 @@
+MODEL 1
+REMARK VINA RESULT:      -5.6      0.000      0.000
+REMARK  Name = ligand_pdbs\AA8.pdb
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C24_2  and  C23_4
+REMARK    2  A    between atoms: C22_5  and  C21_7
+REMARK    3  A    between atoms: C21_7  and  C20_8
+REMARK    4  A    between atoms: C20_8  and  C19_10
+REMARK    5  A    between atoms: C19_10  and  C18_12
+REMARK    6  A    between atoms: C18_12  and  C17_14
+REMARK    7  A    between atoms: C17_14  and  C16_16
+REMARK    8  A    between atoms: C16_16  and  C15_18
+REMARK    9  A    between atoms: C14_19  and  C13_21
+REMARK   10  A    between atoms: C12_22  and  C11_23
+REMARK   11  A    between atoms: C11_23  and  C10_24
+REMARK   12  A    between atoms: C10_24  and  C9_26
+REMARK   13  A    between atoms: C9_26  and  C8_27
+REMARK   14  A    between atoms: C7_29  and  C6_30
+REMARK   15  A    between atoms: C6_30  and  C5_31
+REMARK   16  A    between atoms: C5_31  and  C4_33
+REMARK   17  A    between atoms: C4_33  and  C3_34
+REMARK   18  A    between atoms: C2_35  and  C1_36
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C15 AA8 C1101      29.267   1.212   5.003  0.00  0.00    +0.000 C 
+ATOM      2  C14 AA8 C1101      29.910   2.302   5.460  0.00  0.00    +0.000 C 
+ATOM      3  C27 AA8 C1101      31.153   2.189   6.301  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C16 AA8 C1101      29.724  -0.198   5.289  0.00  0.00    +0.000 C 
+ATOM      5  C28 AA8 C1101      29.112  -0.658   6.606  0.00  0.00    +0.000 C 
+BRANCH   4   6
+ATOM      6  C17 AA8 C1101      29.288  -1.105   4.181  0.00  0.00    +0.000 C 
+ATOM      7  O3  AA8 C1101      30.100  -1.873   3.692  0.00  0.00    +0.000 OA
+BRANCH   6   8
+ATOM      8  C18 AA8 C1101      27.865  -1.038   3.693  0.00  0.00    +0.000 C 
+ATOM      9  C29 AA8 C1101      27.265  -2.439   3.827  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM     10  C19 AA8 C1101      27.025   0.007   4.445  0.00  0.00    +0.000 C 
+ATOM     11  O4  AA8 C1101      26.063  -0.664   5.270  0.00  0.00    +0.000 OA
+BRANCH  10  12
+ATOM     12  C20 AA8 C1101      26.275   0.989   3.535  0.00  0.00    +0.000 C 
+ATOM     13  C30 AA8 C1101      26.547   0.719   2.058  0.00  0.00    +0.000 C 
+BRANCH  12  14
+ATOM     14  C21 AA8 C1101      24.771   0.949   3.799  0.00  0.00    +0.000 C 
+BRANCH  14  16
+ATOM     15  C23 AA8 C1101      23.509   3.076   3.797  0.00  0.00    +0.000 C 
+ATOM     16  C22 AA8 C1101      24.306   2.222   4.471  0.00  0.00    +0.000 C 
+ATOM     17  C31 AA8 C1101      24.732   2.489   5.884  0.00  0.00    +0.000 C 
+BRANCH  15  19
+ATOM     18  O6  AA8 C1101      23.800   5.304   4.568  0.00  0.00    +0.000 OA
+ATOM     19  C24 AA8 C1101      23.030   4.345   4.378  0.00  0.00    +0.000 C 
+ATOM     20  O5  AA8 C1101      21.825   4.439   4.667  0.00  0.00    +0.000 OA
+ENDBRANCH  15  19
+ENDBRANCH  14  16
+ENDBRANCH  12  14
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   8
+ENDBRANCH   4   6
+ENDBRANCH   1   4
+BRANCH   2  21
+ATOM     21  C13 AA8 C1101      29.339   3.626   5.115  0.00  0.00    +0.000 C 
+ATOM     22  C12 AA8 C1101      28.211   3.747   4.418  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C11 AA8 C1101      27.674   5.118   4.082  0.00  0.00    +0.000 C 
+BRANCH  23  24
+ATOM     24  C10 AA8 C1101      26.681   5.575   5.140  0.00  0.00    +0.000 C 
+ATOM     25  C26 AA8 C1101      26.961   4.882   6.468  0.00  0.00    +0.000 C 
+BRANCH  24  26
+ATOM     26  C9  AA8 C1101      26.771   7.077   5.338  0.00  0.00    +0.000 C 
+BRANCH  26  27
+ATOM     27  C8  AA8 C1101      25.723   7.920   5.195  0.00  0.00    +0.000 C 
+ATOM     28  C25 AA8 C1101      25.102   8.037   3.832  0.00  0.00    +0.000 C 
+ATOM     29  C7  AA8 C1101      25.219   8.722   6.347  0.00  0.00    +0.000 C 
+BRANCH  29  30
+ATOM     30  C6  AA8 C1101      24.266   9.656   6.290  0.00  0.00    +0.000 C 
+BRANCH  30  31
+ATOM     31  C5  AA8 C1101      23.941  10.295   7.624  0.00  0.00    +0.000 C 
+ATOM     32  O2  AA8 C1101      23.890  11.705   7.366  0.00  0.00    +0.000 OA
+BRANCH  31  33
+ATOM     33  C4  AA8 C1101      24.928  10.045   8.758  0.00  0.00    +0.000 C 
+BRANCH  33  34
+ATOM     34  C3  AA8 C1101      24.296  10.280  10.136  0.00  0.00    +0.000 C 
+ATOM     35  C2  AA8 C1101      23.913  11.722  10.458  0.00  0.00    +0.000 C 
+BRANCH  35  36
+ATOM     36  C1  AA8 C1101      23.290  11.936  11.824  0.00  0.00    +0.000 C 
+ATOM     37  O1  AA8 C1101      23.363  13.085  12.309  0.00  0.00    +0.000 OA
+ATOM     38  O1' AA8 C1101      22.732  11.002  12.439  0.00  0.00    +0.000 OA
+ENDBRANCH  35  36
+ENDBRANCH  33  34
+ENDBRANCH  31  33
+ENDBRANCH  30  31
+ENDBRANCH  29  30
+ENDBRANCH  26  27
+ENDBRANCH  24  26
+ENDBRANCH  23  24
+ENDBRANCH  22  23
+ENDBRANCH   2  21
+TORSDOF 18
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.1      1.700      9.835
+REMARK  Name = ligand_pdbs\AA8.pdb
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C24_2  and  C23_4
+REMARK    2  A    between atoms: C22_5  and  C21_7
+REMARK    3  A    between atoms: C21_7  and  C20_8
+REMARK    4  A    between atoms: C20_8  and  C19_10
+REMARK    5  A    between atoms: C19_10  and  C18_12
+REMARK    6  A    between atoms: C18_12  and  C17_14
+REMARK    7  A    between atoms: C17_14  and  C16_16
+REMARK    8  A    between atoms: C16_16  and  C15_18
+REMARK    9  A    between atoms: C14_19  and  C13_21
+REMARK   10  A    between atoms: C12_22  and  C11_23
+REMARK   11  A    between atoms: C11_23  and  C10_24
+REMARK   12  A    between atoms: C10_24  and  C9_26
+REMARK   13  A    between atoms: C9_26  and  C8_27
+REMARK   14  A    between atoms: C7_29  and  C6_30
+REMARK   15  A    between atoms: C6_30  and  C5_31
+REMARK   16  A    between atoms: C5_31  and  C4_33
+REMARK   17  A    between atoms: C4_33  and  C3_34
+REMARK   18  A    between atoms: C2_35  and  C1_36
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C15 AA8 C1101      26.021   4.603   4.952  0.00  0.00    +0.000 C 
+ATOM      2  C14 AA8 C1101      25.913   3.849   6.061  0.00  0.00    +0.000 C 
+ATOM      3  C27 AA8 C1101      24.571   3.494   6.644  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C16 AA8 C1101      24.829   5.153   4.206  0.00  0.00    +0.000 C 
+ATOM      5  C28 AA8 C1101      23.557   4.740   4.935  0.00  0.00    +0.000 C 
+BRANCH   4   6
+ATOM      6  C17 AA8 C1101      24.917   6.645   4.142  0.00  0.00    +0.000 C 
+ATOM      7  O3  AA8 C1101      24.665   7.207   3.089  0.00  0.00    +0.000 OA
+BRANCH   6   8
+ATOM      8  C18 AA8 C1101      25.324   7.412   5.373  0.00  0.00    +0.000 C 
+ATOM      9  C29 AA8 C1101      26.853   7.450   5.407  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM     10  C19 AA8 C1101      24.726   8.827   5.419  0.00  0.00    +0.000 C 
+ATOM     11  O4  AA8 C1101      25.640   9.747   4.807  0.00  0.00    +0.000 OA
+BRANCH  10  12
+ATOM     12  C20 AA8 C1101      24.408   9.334   6.832  0.00  0.00    +0.000 C 
+ATOM     13  C30 AA8 C1101      25.653   9.381   7.713  0.00  0.00    +0.000 C 
+BRANCH  12  14
+ATOM     14  C21 AA8 C1101      23.753  10.713   6.790  0.00  0.00    +0.000 C 
+BRANCH  14  16
+ATOM     15  C23 AA8 C1101      23.613  10.564   9.255  0.00  0.00    +0.000 C 
+ATOM     16  C22 AA8 C1101      23.738  11.346   8.164  0.00  0.00    +0.000 C 
+ATOM     17  C31 AA8 C1101      23.885  12.836   8.273  0.00  0.00    +0.000 C 
+BRANCH  15  19
+ATOM     18  O6  AA8 C1101      24.312  12.049  10.972  0.00  0.00    +0.000 OA
+ATOM     19  C24 AA8 C1101      23.573  11.109  10.625  0.00  0.00    +0.000 C 
+ATOM     20  O5  AA8 C1101      22.770  10.610  11.431  0.00  0.00    +0.000 OA
+ENDBRANCH  15  19
+ENDBRANCH  14  16
+ENDBRANCH  12  14
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   8
+ENDBRANCH   4   6
+ENDBRANCH   1   4
+BRANCH   2  21
+ATOM     21  C13 AA8 C1101      27.169   3.390   6.699  0.00  0.00    +0.000 C 
+ATOM     22  C12 AA8 C1101      28.349   3.498   6.093  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C11 AA8 C1101      29.601   3.007   6.780  0.00  0.00    +0.000 C 
+BRANCH  23  24
+ATOM     24  C10 AA8 C1101      30.364   2.050   5.877  0.00  0.00    +0.000 C 
+ATOM     25  C26 AA8 C1101      30.729   0.780   6.636  0.00  0.00    +0.000 C 
+BRANCH  24  26
+ATOM     26  C9  AA8 C1101      29.525   1.679   4.668  0.00  0.00    +0.000 C 
+BRANCH  26  27
+ATOM     27  C8  AA8 C1101      29.621   0.497   4.018  0.00  0.00    +0.000 C 
+ATOM     28  C25 AA8 C1101      29.878   0.533   2.538  0.00  0.00    +0.000 C 
+ATOM     29  C7  AA8 C1101      29.453  -0.795   4.743  0.00  0.00    +0.000 C 
+BRANCH  29  30
+ATOM     30  C6  AA8 C1101      29.423  -2.007   4.182  0.00  0.00    +0.000 C 
+BRANCH  30  31
+ATOM     31  C5  AA8 C1101      28.029  -2.548   3.944  0.00  0.00    +0.000 C 
+ATOM     32  O2  AA8 C1101      27.806  -2.412   2.534  0.00  0.00    +0.000 OA
+BRANCH  31  33
+ATOM     33  C4  AA8 C1101      26.892  -1.853   4.684  0.00  0.00    +0.000 C 
+BRANCH  33  34
+ATOM     34  C3  AA8 C1101      26.131  -0.873   3.784  0.00  0.00    +0.000 C 
+ATOM     35  C2  AA8 C1101      25.975   0.547   4.324  0.00  0.00    +0.000 C 
+BRANCH  35  36
+ATOM     36  C1  AA8 C1101      25.220   1.504   3.421  0.00  0.00    +0.000 C 
+ATOM     37  O1  AA8 C1101      24.015   1.701   3.684  0.00  0.00    +0.000 OA
+ATOM     38  O1' AA8 C1101      25.779   2.065   2.455  0.00  0.00    +0.000 OA
+ENDBRANCH  35  36
+ENDBRANCH  33  34
+ENDBRANCH  31  33
+ENDBRANCH  30  31
+ENDBRANCH  29  30
+ENDBRANCH  26  27
+ENDBRANCH  24  26
+ENDBRANCH  23  24
+ENDBRANCH  22  23
+ENDBRANCH   2  21
+TORSDOF 18
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -3.7      1.903      8.789
+REMARK  Name = ligand_pdbs\AA8.pdb
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C24_2  and  C23_4
+REMARK    2  A    between atoms: C22_5  and  C21_7
+REMARK    3  A    between atoms: C21_7  and  C20_8
+REMARK    4  A    between atoms: C20_8  and  C19_10
+REMARK    5  A    between atoms: C19_10  and  C18_12
+REMARK    6  A    between atoms: C18_12  and  C17_14
+REMARK    7  A    between atoms: C17_14  and  C16_16
+REMARK    8  A    between atoms: C16_16  and  C15_18
+REMARK    9  A    between atoms: C14_19  and  C13_21
+REMARK   10  A    between atoms: C12_22  and  C11_23
+REMARK   11  A    between atoms: C11_23  and  C10_24
+REMARK   12  A    between atoms: C10_24  and  C9_26
+REMARK   13  A    between atoms: C9_26  and  C8_27
+REMARK   14  A    between atoms: C7_29  and  C6_30
+REMARK   15  A    between atoms: C6_30  and  C5_31
+REMARK   16  A    between atoms: C5_31  and  C4_33
+REMARK   17  A    between atoms: C4_33  and  C3_34
+REMARK   18  A    between atoms: C2_35  and  C1_36
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C15 AA8 C1101      25.666   2.527   4.789  0.00  0.00    +0.000 C 
+ATOM      2  C14 AA8 C1101      25.568   1.721   3.716  0.00  0.00    +0.000 C 
+ATOM      3  C27 AA8 C1101      24.239   1.411   3.081  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C16 AA8 C1101      24.473   3.180   5.443  0.00  0.00    +0.000 C 
+ATOM      5  C28 AA8 C1101      24.821   3.508   6.890  0.00  0.00    +0.000 C 
+BRANCH   4   6
+ATOM      6  C17 AA8 C1101      24.117   4.435   4.709  0.00  0.00    +0.000 C 
+ATOM      7  O3  AA8 C1101      22.986   4.561   4.269  0.00  0.00    +0.000 OA
+BRANCH   6   8
+ATOM      8  C18 AA8 C1101      25.165   5.501   4.524  0.00  0.00    +0.000 C 
+ATOM      9  C29 AA8 C1101      25.731   5.350   3.111  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM     10  C19 AA8 C1101      24.621   6.919   4.763  0.00  0.00    +0.000 C 
+ATOM     11  O4  AA8 C1101      24.648   7.650   3.530  0.00  0.00    +0.000 OA
+BRANCH  10  12
+ATOM     12  C20 AA8 C1101      25.394   7.724   5.816  0.00  0.00    +0.000 C 
+ATOM     13  C30 AA8 C1101      26.897   7.477   5.731  0.00  0.00    +0.000 C 
+BRANCH  12  14
+ATOM     14  C21 AA8 C1101      25.109   9.219   5.688  0.00  0.00    +0.000 C 
+BRANCH  14  16
+ATOM     15  C23 AA8 C1101      25.002  10.085   8.002  0.00  0.00    +0.000 C 
+ATOM     16  C22 AA8 C1101      24.336   9.726   6.886  0.00  0.00    +0.000 C 
+ATOM     17  C31 AA8 C1101      22.843   9.836   6.788  0.00  0.00    +0.000 C 
+BRANCH  15  19
+ATOM     18  O6  AA8 C1101      23.981   9.793  10.127  0.00  0.00    +0.000 OA
+ATOM     19  C24 AA8 C1101      24.318  10.571   9.216  0.00  0.00    +0.000 C 
+ATOM     20  O5  AA8 C1101      24.093  11.789   9.313  0.00  0.00    +0.000 OA
+ENDBRANCH  15  19
+ENDBRANCH  14  16
+ENDBRANCH  12  14
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   8
+ENDBRANCH   4   6
+ENDBRANCH   1   4
+BRANCH   2  21
+ATOM     21  C13 AA8 C1101      26.822   1.135   3.186  0.00  0.00    +0.000 C 
+ATOM     22  C12 AA8 C1101      26.872  -0.104   2.701  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C11 AA8 C1101      28.176  -0.661   2.182  0.00  0.00    +0.000 C 
+BRANCH  23  24
+ATOM     24  C10 AA8 C1101      28.441  -2.037   2.772  0.00  0.00    +0.000 C 
+ATOM     25  C26 AA8 C1101      29.918  -2.195   3.112  0.00  0.00    +0.000 C 
+BRANCH  24  26
+ATOM     26  C9  AA8 C1101      27.620  -2.240   4.032  0.00  0.00    +0.000 C 
+BRANCH  26  27
+ATOM     27  C8  AA8 C1101      27.756  -1.489   5.149  0.00  0.00    +0.000 C 
+ATOM     28  C25 AA8 C1101      26.545  -1.312   6.021  0.00  0.00    +0.000 C 
+ATOM     29  C7  AA8 C1101      29.055  -0.842   5.488  0.00  0.00    +0.000 C 
+BRANCH  29  30
+ATOM     30  C6  AA8 C1101      29.267  -0.001   6.503  0.00  0.00    +0.000 C 
+BRANCH  30  31
+ATOM     31  C5  AA8 C1101      30.729   0.244   6.813  0.00  0.00    +0.000 C 
+ATOM     32  O2  AA8 C1101      30.785   0.458   8.230  0.00  0.00    +0.000 OA
+BRANCH  31  33
+ATOM     33  C4  AA8 C1101      31.384   1.432   6.117  0.00  0.00    +0.000 C 
+BRANCH  33  34
+ATOM     34  C3  AA8 C1101      30.526   2.700   6.211  0.00  0.00    +0.000 C 
+ATOM     35  C2  AA8 C1101      29.342   2.777   5.250  0.00  0.00    +0.000 C 
+BRANCH  35  36
+ATOM     36  C1  AA8 C1101      28.504   4.037   5.355  0.00  0.00    +0.000 C 
+ATOM     37  O1  AA8 C1101      27.985   4.284   6.463  0.00  0.00    +0.000 OA
+ATOM     38  O1' AA8 C1101      28.339   4.793   4.373  0.00  0.00    +0.000 OA
+ENDBRANCH  35  36
+ENDBRANCH  33  34
+ENDBRANCH  31  33
+ENDBRANCH  30  31
+ENDBRANCH  29  30
+ENDBRANCH  26  27
+ENDBRANCH  24  26
+ENDBRANCH  23  24
+ENDBRANCH  22  23
+ENDBRANCH   2  21
+TORSDOF 18
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -3.7      1.888      9.222
+REMARK  Name = ligand_pdbs\AA8.pdb
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C24_2  and  C23_4
+REMARK    2  A    between atoms: C22_5  and  C21_7
+REMARK    3  A    between atoms: C21_7  and  C20_8
+REMARK    4  A    between atoms: C20_8  and  C19_10
+REMARK    5  A    between atoms: C19_10  and  C18_12
+REMARK    6  A    between atoms: C18_12  and  C17_14
+REMARK    7  A    between atoms: C17_14  and  C16_16
+REMARK    8  A    between atoms: C16_16  and  C15_18
+REMARK    9  A    between atoms: C14_19  and  C13_21
+REMARK   10  A    between atoms: C12_22  and  C11_23
+REMARK   11  A    between atoms: C11_23  and  C10_24
+REMARK   12  A    between atoms: C10_24  and  C9_26
+REMARK   13  A    between atoms: C9_26  and  C8_27
+REMARK   14  A    between atoms: C7_29  and  C6_30
+REMARK   15  A    between atoms: C6_30  and  C5_31
+REMARK   16  A    between atoms: C5_31  and  C4_33
+REMARK   17  A    between atoms: C4_33  and  C3_34
+REMARK   18  A    between atoms: C2_35  and  C1_36
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C15 AA8 C1101      24.953   3.221   4.980  0.00  0.00    +0.000 C 
+ATOM      2  C14 AA8 C1101      24.109   2.458   4.263  0.00  0.00    +0.000 C 
+ATOM      3  C27 AA8 C1101      22.650   2.804   4.134  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C16 AA8 C1101      24.522   4.470   5.710  0.00  0.00    +0.000 C 
+ATOM      5  C28 AA8 C1101      25.173   4.487   7.087  0.00  0.00    +0.000 C 
+BRANCH   4   6
+ATOM      6  C17 AA8 C1101      24.941   5.679   4.935  0.00  0.00    +0.000 C 
+ATOM      7  O3  AA8 C1101      24.704   5.726   3.739  0.00  0.00    +0.000 OA
+BRANCH   6   8
+ATOM      8  C18 AA8 C1101      25.654   6.799   5.647  0.00  0.00    +0.000 C 
+ATOM      9  C29 AA8 C1101      27.094   6.831   5.130  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM     10  C19 AA8 C1101      24.962   8.159   5.463  0.00  0.00    +0.000 C 
+ATOM     11  O4  AA8 C1101      25.775   8.995   4.629  0.00  0.00    +0.000 OA
+BRANCH  10  12
+ATOM     12  C20 AA8 C1101      24.683   8.909   6.772  0.00  0.00    +0.000 C 
+ATOM     13  C30 AA8 C1101      25.961   9.165   7.564  0.00  0.00    +0.000 C 
+BRANCH  12  14
+ATOM     14  C21 AA8 C1101      23.965  10.232   6.508  0.00  0.00    +0.000 C 
+BRANCH  14  16
+ATOM     15  C23 AA8 C1101      23.831  10.423   8.970  0.00  0.00    +0.000 C 
+ATOM     16  C22 AA8 C1101      23.856  11.049   7.776  0.00  0.00    +0.000 C 
+ATOM     17  C31 AA8 C1101      23.799  12.545   7.669  0.00  0.00    +0.000 C 
+BRANCH  15  19
+ATOM     18  O6  AA8 C1101      22.743  10.961  11.012  0.00  0.00    +0.000 OA
+ATOM     19  C24 AA8 C1101      23.708  11.149  10.249  0.00  0.00    +0.000 C 
+ATOM     20  O5  AA8 C1101      24.604  11.954  10.554  0.00  0.00    +0.000 OA
+ENDBRANCH  15  19
+ENDBRANCH  14  16
+ENDBRANCH  12  14
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   8
+ENDBRANCH   4   6
+ENDBRANCH   1   4
+BRANCH   2  21
+ATOM     21  C13 AA8 C1101      24.668   1.250   3.611  0.00  0.00    +0.000 C 
+ATOM     22  C12 AA8 C1101      25.718   0.602   4.109  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C11 AA8 C1101      26.258  -0.620   3.404  0.00  0.00    +0.000 C 
+BRANCH  23  24
+ATOM     24  C10 AA8 C1101      26.899  -1.572   4.401  0.00  0.00    +0.000 C 
+ATOM     25  C26 AA8 C1101      26.312  -2.971   4.254  0.00  0.00    +0.000 C 
+BRANCH  24  26
+ATOM     26  C9  AA8 C1101      28.399  -1.640   4.181  0.00  0.00    +0.000 C 
+BRANCH  26  27
+ATOM     27  C8  AA8 C1101      29.255  -0.647   4.514  0.00  0.00    +0.000 C 
+ATOM     28  C25 AA8 C1101      29.964   0.066   3.398  0.00  0.00    +0.000 C 
+ATOM     29  C7  AA8 C1101      29.503  -0.291   5.941  0.00  0.00    +0.000 C 
+BRANCH  29  30
+ATOM     30  C6  AA8 C1101      30.401   0.595   6.379  0.00  0.00    +0.000 C 
+BRANCH  30  31
+ATOM     31  C5  AA8 C1101      30.221   1.992   5.823  0.00  0.00    +0.000 C 
+ATOM     32  O2  AA8 C1101      31.490   2.635   5.997  0.00  0.00    +0.000 OA
+BRANCH  31  33
+ATOM     33  C4  AA8 C1101      29.147   2.853   6.477  0.00  0.00    +0.000 C 
+BRANCH  33  34
+ATOM     34  C3  AA8 C1101      28.333   3.644   5.445  0.00  0.00    +0.000 C 
+ATOM     35  C2  AA8 C1101      28.379   3.117   4.013  0.00  0.00    +0.000 C 
+BRANCH  35  36
+ATOM     36  C1  AA8 C1101      27.569   3.911   3.006  0.00  0.00    +0.000 C 
+ATOM     37  O1  AA8 C1101      27.869   5.113   2.856  0.00  0.00    +0.000 OA
+ATOM     38  O1' AA8 C1101      26.639   3.384   2.358  0.00  0.00    +0.000 OA
+ENDBRANCH  35  36
+ENDBRANCH  33  34
+ENDBRANCH  31  33
+ENDBRANCH  30  31
+ENDBRANCH  29  30
+ENDBRANCH  26  27
+ENDBRANCH  24  26
+ENDBRANCH  23  24
+ENDBRANCH  22  23
+ENDBRANCH   2  21
+TORSDOF 18
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -3.7      1.759      8.415
+REMARK  Name = ligand_pdbs\AA8.pdb
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C24_2  and  C23_4
+REMARK    2  A    between atoms: C22_5  and  C21_7
+REMARK    3  A    between atoms: C21_7  and  C20_8
+REMARK    4  A    between atoms: C20_8  and  C19_10
+REMARK    5  A    between atoms: C19_10  and  C18_12
+REMARK    6  A    between atoms: C18_12  and  C17_14
+REMARK    7  A    between atoms: C17_14  and  C16_16
+REMARK    8  A    between atoms: C16_16  and  C15_18
+REMARK    9  A    between atoms: C14_19  and  C13_21
+REMARK   10  A    between atoms: C12_22  and  C11_23
+REMARK   11  A    between atoms: C11_23  and  C10_24
+REMARK   12  A    between atoms: C10_24  and  C9_26
+REMARK   13  A    between atoms: C9_26  and  C8_27
+REMARK   14  A    between atoms: C7_29  and  C6_30
+REMARK   15  A    between atoms: C6_30  and  C5_31
+REMARK   16  A    between atoms: C5_31  and  C4_33
+REMARK   17  A    between atoms: C4_33  and  C3_34
+REMARK   18  A    between atoms: C2_35  and  C1_36
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C15 AA8 C1101      27.976   2.818   5.665  0.00  0.00    +0.000 C 
+ATOM      2  C14 AA8 C1101      29.036   2.081   6.044  0.00  0.00    +0.000 C 
+ATOM      3  C27 AA8 C1101      30.425   2.659   6.079  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C16 AA8 C1101      28.082   4.264   5.246  0.00  0.00    +0.000 C 
+ATOM      5  C28 AA8 C1101      28.296   4.327   3.739  0.00  0.00    +0.000 C 
+BRANCH   4   6
+ATOM      6  C17 AA8 C1101      26.824   4.989   5.611  0.00  0.00    +0.000 C 
+ATOM      7  O3  AA8 C1101      26.142   4.564   6.529  0.00  0.00    +0.000 OA
+BRANCH   6   8
+ATOM      8  C18 AA8 C1101      26.429   6.214   4.830  0.00  0.00    +0.000 C 
+ATOM      9  C29 AA8 C1101      26.081   5.764   3.411  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM     10  C19 AA8 C1101      25.264   6.983   5.476  0.00  0.00    +0.000 C 
+ATOM     11  O4  AA8 C1101      24.112   6.896   4.628  0.00  0.00    +0.000 OA
+BRANCH  10  12
+ATOM     12  C20 AA8 C1101      25.555   8.466   5.742  0.00  0.00    +0.000 C 
+ATOM     13  C30 AA8 C1101      26.217   9.140   4.544  0.00  0.00    +0.000 C 
+BRANCH  12  14
+ATOM     14  C21 AA8 C1101      24.281   9.220   6.119  0.00  0.00    +0.000 C 
+BRANCH  14  16
+ATOM     15  C23 AA8 C1101      23.629  10.987   7.722  0.00  0.00    +0.000 C 
+ATOM     16  C22 AA8 C1101      24.463   9.971   7.419  0.00  0.00    +0.000 C 
+ATOM     17  C31 AA8 C1101      25.561   9.548   8.350  0.00  0.00    +0.000 C 
+BRANCH  15  19
+ATOM     18  O6  AA8 C1101      23.344  11.342  10.054  0.00  0.00    +0.000 OA
+ATOM     19  C24 AA8 C1101      23.754  11.777   8.962  0.00  0.00    +0.000 C 
+ATOM     20  O5  AA8 C1101      24.292  12.894   8.893  0.00  0.00    +0.000 OA
+ENDBRANCH  15  19
+ENDBRANCH  14  16
+ENDBRANCH  12  14
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   8
+ENDBRANCH   4   6
+ENDBRANCH   1   4
+BRANCH   2  21
+ATOM     21  C13 AA8 C1101      28.788   0.668   6.415  0.00  0.00    +0.000 C 
+ATOM     22  C12 AA8 C1101      28.095  -0.156   5.631  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C11 AA8 C1101      27.859  -1.586   6.056  0.00  0.00    +0.000 C 
+BRANCH  23  24
+ATOM     24  C10 AA8 C1101      28.051  -2.531   4.880  0.00  0.00    +0.000 C 
+ATOM     25  C26 AA8 C1101      26.713  -2.835   4.218  0.00  0.00    +0.000 C 
+BRANCH  24  26
+ATOM     26  C9  AA8 C1101      28.982  -1.915   3.852  0.00  0.00    +0.000 C 
+BRANCH  26  27
+ATOM     27  C8  AA8 C1101      28.642  -0.877   3.053  0.00  0.00    +0.000 C 
+ATOM     28  C25 AA8 C1101      29.667   0.199   2.833  0.00  0.00    +0.000 C 
+ATOM     29  C7  AA8 C1101      27.289  -0.795   2.433  0.00  0.00    +0.000 C 
+BRANCH  29  30
+ATOM     30  C6  AA8 C1101      26.818   0.231   1.720  0.00  0.00    +0.000 C 
+BRANCH  30  31
+ATOM     31  C5  AA8 C1101      25.761   1.051   2.431  0.00  0.00    +0.000 C 
+ATOM     32  O2  AA8 C1101      26.276   2.388   2.460  0.00  0.00    +0.000 OA
+BRANCH  31  33
+ATOM     33  C4  AA8 C1101      25.419   0.631   3.856  0.00  0.00    +0.000 C 
+BRANCH  33  34
+ATOM     34  C3  AA8 C1101      24.770   1.770   4.652  0.00  0.00    +0.000 C 
+ATOM     35  C2  AA8 C1101      23.771   2.635   3.888  0.00  0.00    +0.000 C 
+BRANCH  35  36
+ATOM     36  C1  AA8 C1101      23.139   3.757   4.690  0.00  0.00    +0.000 C 
+ATOM     37  O1  AA8 C1101      23.680   4.054   5.775  0.00  0.00    +0.000 OA
+ATOM     38  O1' AA8 C1101      22.119   4.353   4.283  0.00  0.00    +0.000 OA
+ENDBRANCH  35  36
+ENDBRANCH  33  34
+ENDBRANCH  31  33
+ENDBRANCH  30  31
+ENDBRANCH  29  30
+ENDBRANCH  26  27
+ENDBRANCH  24  26
+ENDBRANCH  23  24
+ENDBRANCH  22  23
+ENDBRANCH   2  21
+TORSDOF 18
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -3.6      1.936      8.770
+REMARK  Name = ligand_pdbs\AA8.pdb
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C24_2  and  C23_4
+REMARK    2  A    between atoms: C22_5  and  C21_7
+REMARK    3  A    between atoms: C21_7  and  C20_8
+REMARK    4  A    between atoms: C20_8  and  C19_10
+REMARK    5  A    between atoms: C19_10  and  C18_12
+REMARK    6  A    between atoms: C18_12  and  C17_14
+REMARK    7  A    between atoms: C17_14  and  C16_16
+REMARK    8  A    between atoms: C16_16  and  C15_18
+REMARK    9  A    between atoms: C14_19  and  C13_21
+REMARK   10  A    between atoms: C12_22  and  C11_23
+REMARK   11  A    between atoms: C11_23  and  C10_24
+REMARK   12  A    between atoms: C10_24  and  C9_26
+REMARK   13  A    between atoms: C9_26  and  C8_27
+REMARK   14  A    between atoms: C7_29  and  C6_30
+REMARK   15  A    between atoms: C6_30  and  C5_31
+REMARK   16  A    between atoms: C5_31  and  C4_33
+REMARK   17  A    between atoms: C4_33  and  C3_34
+REMARK   18  A    between atoms: C2_35  and  C1_36
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C15 AA8 C1101      25.473   3.008   3.654  0.00  0.00    +0.000 C 
+ATOM      2  C14 AA8 C1101      24.702   1.917   3.815  0.00  0.00    +0.000 C 
+ATOM      3  C27 AA8 C1101      23.243   2.029   4.167  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C16 AA8 C1101      24.956   4.417   3.812  0.00  0.00    +0.000 C 
+ATOM      5  C28 AA8 C1101      24.010   4.465   5.006  0.00  0.00    +0.000 C 
+BRANCH   4   6
+ATOM      6  C17 AA8 C1101      26.101   5.354   4.034  0.00  0.00    +0.000 C 
+ATOM      7  O3  AA8 C1101      27.070   5.287   3.296  0.00  0.00    +0.000 OA
+BRANCH   6   8
+ATOM      8  C18 AA8 C1101      26.033   6.345   5.165  0.00  0.00    +0.000 C 
+ATOM      9  C29 AA8 C1101      27.400   7.022   5.269  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM     10  C19 AA8 C1101      24.908   7.378   4.987  0.00  0.00    +0.000 C 
+ATOM     11  O4  AA8 C1101      24.680   7.593   3.588  0.00  0.00    +0.000 OA
+BRANCH  10  12
+ATOM     12  C20 AA8 C1101      25.186   8.737   5.643  0.00  0.00    +0.000 C 
+ATOM     13  C30 AA8 C1101      25.765   9.740   4.651  0.00  0.00    +0.000 C 
+BRANCH  12  14
+ATOM     14  C21 AA8 C1101      23.921   9.311   6.280  0.00  0.00    +0.000 C 
+BRANCH  14  16
+ATOM     15  C23 AA8 C1101      23.562  11.268   7.750  0.00  0.00    +0.000 C 
+ATOM     16  C22 AA8 C1101      24.260  10.142   7.499  0.00  0.00    +0.000 C 
+ATOM     17  C31 AA8 C1101      25.357   9.672   8.409  0.00  0.00    +0.000 C 
+BRANCH  15  19
+ATOM     18  O6  AA8 C1101      24.740  13.003   8.866  0.00  0.00    +0.000 OA
+ATOM     19  C24 AA8 C1101      23.846  12.138   8.908  0.00  0.00    +0.000 C 
+ATOM     20  O5  AA8 C1101      23.158  11.994   9.932  0.00  0.00    +0.000 OA
+ENDBRANCH  15  19
+ENDBRANCH  14  16
+ENDBRANCH  12  14
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   8
+ENDBRANCH   4   6
+ENDBRANCH   1   4
+BRANCH   2  21
+ATOM     21  C13 AA8 C1101      25.347   0.594   3.644  0.00  0.00    +0.000 C 
+ATOM     22  C12 AA8 C1101      26.439   0.432   2.901  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C11 AA8 C1101      27.055  -0.938   2.749  0.00  0.00    +0.000 C 
+BRANCH  23  24
+ATOM     24  C10 AA8 C1101      26.826  -1.767   4.004  0.00  0.00    +0.000 C 
+ATOM     25  C26 AA8 C1101      25.992  -3.001   3.681  0.00  0.00    +0.000 C 
+BRANCH  24  26
+ATOM     26  C9  AA8 C1101      28.151  -2.208   4.597  0.00  0.00    +0.000 C 
+BRANCH  26  27
+ATOM     27  C8  AA8 C1101      29.240  -1.410   4.688  0.00  0.00    +0.000 C 
+ATOM     28  C25 AA8 C1101      30.370  -1.660   3.730  0.00  0.00    +0.000 C 
+ATOM     29  C7  AA8 C1101      29.321  -0.336   5.718  0.00  0.00    +0.000 C 
+BRANCH  29  30
+ATOM     30  C6  AA8 C1101      30.385   0.434   5.962  0.00  0.00    +0.000 C 
+BRANCH  30  31
+ATOM     31  C5  AA8 C1101      30.491   1.651   5.066  0.00  0.00    +0.000 C 
+ATOM     32  O2  AA8 C1101      31.022   2.689   5.900  0.00  0.00    +0.000 OA
+BRANCH  31  33
+ATOM     33  C4  AA8 C1101      29.196   2.148   4.437  0.00  0.00    +0.000 C 
+BRANCH  33  34
+ATOM     34  C3  AA8 C1101      28.427   3.093   5.369  0.00  0.00    +0.000 C 
+ATOM     35  C2  AA8 C1101      27.374   2.440   6.261  0.00  0.00    +0.000 C 
+BRANCH  35  36
+ATOM     36  C1  AA8 C1101      26.623   3.389   7.176  0.00  0.00    +0.000 C 
+ATOM     37  O1  AA8 C1101      27.262   4.355   7.641  0.00  0.00    +0.000 OA
+ATOM     38  O1' AA8 C1101      25.418   3.207   7.455  0.00  0.00    +0.000 OA
+ENDBRANCH  35  36
+ENDBRANCH  33  34
+ENDBRANCH  31  33
+ENDBRANCH  30  31
+ENDBRANCH  29  30
+ENDBRANCH  26  27
+ENDBRANCH  24  26
+ENDBRANCH  23  24
+ENDBRANCH  22  23
+ENDBRANCH   2  21
+TORSDOF 18
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -3.4      1.984      9.027
+REMARK  Name = ligand_pdbs\AA8.pdb
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C24_2  and  C23_4
+REMARK    2  A    between atoms: C22_5  and  C21_7
+REMARK    3  A    between atoms: C21_7  and  C20_8
+REMARK    4  A    between atoms: C20_8  and  C19_10
+REMARK    5  A    between atoms: C19_10  and  C18_12
+REMARK    6  A    between atoms: C18_12  and  C17_14
+REMARK    7  A    between atoms: C17_14  and  C16_16
+REMARK    8  A    between atoms: C16_16  and  C15_18
+REMARK    9  A    between atoms: C14_19  and  C13_21
+REMARK   10  A    between atoms: C12_22  and  C11_23
+REMARK   11  A    between atoms: C11_23  and  C10_24
+REMARK   12  A    between atoms: C10_24  and  C9_26
+REMARK   13  A    between atoms: C9_26  and  C8_27
+REMARK   14  A    between atoms: C7_29  and  C6_30
+REMARK   15  A    between atoms: C6_30  and  C5_31
+REMARK   16  A    between atoms: C5_31  and  C4_33
+REMARK   17  A    between atoms: C4_33  and  C3_34
+REMARK   18  A    between atoms: C2_35  and  C1_36
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C15 AA8 C1101      24.658   3.026   4.739  0.00  0.00    +0.000 C 
+ATOM      2  C14 AA8 C1101      24.932   1.843   4.160  0.00  0.00    +0.000 C 
+ATOM      3  C27 AA8 C1101      24.636   1.590   2.706  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C16 AA8 C1101      24.038   4.186   3.998  0.00  0.00    +0.000 C 
+ATOM      5  C28 AA8 C1101      22.733   4.570   4.683  0.00  0.00    +0.000 C 
+BRANCH   4   6
+ATOM      6  C17 AA8 C1101      24.977   5.351   4.005  0.00  0.00    +0.000 C 
+ATOM      7  O3  AA8 C1101      25.480   5.711   2.953  0.00  0.00    +0.000 OA
+BRANCH   6   8
+ATOM      8  C18 AA8 C1101      25.286   6.039   5.309  0.00  0.00    +0.000 C 
+ATOM      9  C29 AA8 C1101      25.647   4.957   6.327  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM     10  C19 AA8 C1101      26.405   7.085   5.181  0.00  0.00    +0.000 C 
+ATOM     11  O4  AA8 C1101      27.399   6.840   6.185  0.00  0.00    +0.000 OA
+BRANCH  10  12
+ATOM     12  C20 AA8 C1101      25.931   8.538   5.318  0.00  0.00    +0.000 C 
+ATOM     13  C30 AA8 C1101      25.844   9.239   3.966  0.00  0.00    +0.000 C 
+BRANCH  12  14
+ATOM     14  C21 AA8 C1101      24.579   8.614   6.026  0.00  0.00    +0.000 C 
+BRANCH  14  16
+ATOM     15  C23 AA8 C1101      23.796  10.798   6.881  0.00  0.00    +0.000 C 
+ATOM     16  C22 AA8 C1101      24.575   9.713   7.065  0.00  0.00    +0.000 C 
+ATOM     17  C31 AA8 C1101      25.427   9.553   8.289  0.00  0.00    +0.000 C 
+BRANCH  15  19
+ATOM     18  O6  AA8 C1101      23.598  11.724   9.060  0.00  0.00    +0.000 OA
+ATOM     19  C24 AA8 C1101      23.751  11.919   7.840  0.00  0.00    +0.000 C 
+ATOM     20  O5  AA8 C1101      23.882  13.073   7.400  0.00  0.00    +0.000 OA
+ENDBRANCH  15  19
+ENDBRANCH  14  16
+ENDBRANCH  12  14
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   8
+ENDBRANCH   4   6
+ENDBRANCH   1   4
+BRANCH   2  21
+ATOM     21  C13 AA8 C1101      25.526   0.787   5.014  0.00  0.00    +0.000 C 
+ATOM     22  C12 AA8 C1101      26.174  -0.255   4.498  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C11 AA8 C1101      26.753  -1.311   5.408  0.00  0.00    +0.000 C 
+BRANCH  23  24
+ATOM     24  C10 AA8 C1101      27.287  -2.481   4.596  0.00  0.00    +0.000 C 
+ATOM     25  C26 AA8 C1101      26.154  -3.167   3.843  0.00  0.00    +0.000 C 
+BRANCH  24  26
+ATOM     26  C9  AA8 C1101      28.325  -2.003   3.597  0.00  0.00    +0.000 C 
+BRANCH  26  27
+ATOM     27  C8  AA8 C1101      29.191  -0.991   3.835  0.00  0.00    +0.000 C 
+ATOM     28  C25 AA8 C1101      29.469  -0.032   2.713  0.00  0.00    +0.000 C 
+ATOM     29  C7  AA8 C1101      29.862  -0.849   5.159  0.00  0.00    +0.000 C 
+BRANCH  29  30
+ATOM     30  C6  AA8 C1101      30.806   0.045   5.463  0.00  0.00    +0.000 C 
+BRANCH  30  31
+ATOM     31  C5  AA8 C1101      30.645   0.681   6.829  0.00  0.00    +0.000 C 
+ATOM     32  O2  AA8 C1101      29.654  -0.110   7.499  0.00  0.00    +0.000 OA
+BRANCH  31  33
+ATOM     33  C4  AA8 C1101      30.201   2.138   6.853  0.00  0.00    +0.000 C 
+BRANCH  33  34
+ATOM     34  C3  AA8 C1101      29.874   2.667   5.450  0.00  0.00    +0.000 C 
+ATOM     35  C2  AA8 C1101      28.477   3.253   5.266  0.00  0.00    +0.000 C 
+BRANCH  35  36
+ATOM     36  C1  AA8 C1101      28.171   3.770   3.874  0.00  0.00    +0.000 C 
+ATOM     37  O1  AA8 C1101      27.735   2.945   3.044  0.00  0.00    +0.000 OA
+ATOM     38  O1' AA8 C1101      28.352   4.969   3.570  0.00  0.00    +0.000 OA
+ENDBRANCH  35  36
+ENDBRANCH  33  34
+ENDBRANCH  31  33
+ENDBRANCH  30  31
+ENDBRANCH  29  30
+ENDBRANCH  26  27
+ENDBRANCH  24  26
+ENDBRANCH  23  24
+ENDBRANCH  22  23
+ENDBRANCH   2  21
+TORSDOF 18
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -3.3      1.510      9.111
+REMARK  Name = ligand_pdbs\AA8.pdb
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C24_2  and  C23_4
+REMARK    2  A    between atoms: C22_5  and  C21_7
+REMARK    3  A    between atoms: C21_7  and  C20_8
+REMARK    4  A    between atoms: C20_8  and  C19_10
+REMARK    5  A    between atoms: C19_10  and  C18_12
+REMARK    6  A    between atoms: C18_12  and  C17_14
+REMARK    7  A    between atoms: C17_14  and  C16_16
+REMARK    8  A    between atoms: C16_16  and  C15_18
+REMARK    9  A    between atoms: C14_19  and  C13_21
+REMARK   10  A    between atoms: C12_22  and  C11_23
+REMARK   11  A    between atoms: C11_23  and  C10_24
+REMARK   12  A    between atoms: C10_24  and  C9_26
+REMARK   13  A    between atoms: C9_26  and  C8_27
+REMARK   14  A    between atoms: C7_29  and  C6_30
+REMARK   15  A    between atoms: C6_30  and  C5_31
+REMARK   16  A    between atoms: C5_31  and  C4_33
+REMARK   17  A    between atoms: C4_33  and  C3_34
+REMARK   18  A    between atoms: C2_35  and  C1_36
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C15 AA8 C1101      27.713   4.984   5.348  0.00  0.00    +0.000 C 
+ATOM      2  C14 AA8 C1101      27.553   3.781   5.929  0.00  0.00    +0.000 C 
+ATOM      3  C27 AA8 C1101      26.793   3.623   7.219  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C16 AA8 C1101      27.157   6.262   5.928  0.00  0.00    +0.000 C 
+ATOM      5  C28 AA8 C1101      28.298   7.062   6.544  0.00  0.00    +0.000 C 
+BRANCH   4   6
+ATOM      6  C17 AA8 C1101      26.500   7.064   4.848  0.00  0.00    +0.000 C 
+ATOM      7  O3  AA8 C1101      26.379   6.571   3.738  0.00  0.00    +0.000 OA
+BRANCH   6   8
+ATOM      8  C18 AA8 C1101      26.018   8.457   5.155  0.00  0.00    +0.000 C 
+ATOM      9  C29 AA8 C1101      25.734   9.150   3.821  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM     10  C19 AA8 C1101      24.784   8.473   6.070  0.00  0.00    +0.000 C 
+ATOM     11  O4  AA8 C1101      23.618   8.154   5.299  0.00  0.00    +0.000 OA
+BRANCH  10  12
+ATOM     12  C20 AA8 C1101      24.540   9.811   6.781  0.00  0.00    +0.000 C 
+ATOM     13  C30 AA8 C1101      23.059  10.175   6.815  0.00  0.00    +0.000 C 
+BRANCH  12  14
+ATOM     14  C21 AA8 C1101      25.101   9.791   8.202  0.00  0.00    +0.000 C 
+BRANCH  14  16
+ATOM     15  C23 AA8 C1101      23.946  10.303  10.329  0.00  0.00    +0.000 C 
+ATOM     16  C22 AA8 C1101      24.319  10.723   9.103  0.00  0.00    +0.000 C 
+ATOM     17  C31 AA8 C1101      24.000  12.103   8.610  0.00  0.00    +0.000 C 
+BRANCH  15  19
+ATOM     18  O6  AA8 C1101      23.364  12.373  11.339  0.00  0.00    +0.000 OA
+ATOM     19  C24 AA8 C1101      23.168  11.146  11.257  0.00  0.00    +0.000 C 
+ATOM     20  O5  AA8 C1101      22.297  10.601  11.954  0.00  0.00    +0.000 OA
+ENDBRANCH  15  19
+ENDBRANCH  14  16
+ENDBRANCH  12  14
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   8
+ENDBRANCH   4   6
+ENDBRANCH   1   4
+BRANCH   2  21
+ATOM     21  C13 AA8 C1101      28.167   2.612   5.257  0.00  0.00    +0.000 C 
+ATOM     22  C12 AA8 C1101      29.465   2.337   5.365  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C11 AA8 C1101      30.047   1.139   4.653  0.00  0.00    +0.000 C 
+BRANCH  23  24
+ATOM     24  C10 AA8 C1101      30.248  -0.013   5.625  0.00  0.00    +0.000 C 
+ATOM     25  C26 AA8 C1101      30.881   0.486   6.918  0.00  0.00    +0.000 C 
+BRANCH  24  26
+ATOM     26  C9  AA8 C1101      28.919  -0.672   5.948  0.00  0.00    +0.000 C 
+BRANCH  26  27
+ATOM     27  C8  AA8 C1101      28.042  -1.099   5.011  0.00  0.00    +0.000 C 
+ATOM     28  C25 AA8 C1101      28.422  -2.303   4.197  0.00  0.00    +0.000 C 
+ATOM     29  C7  AA8 C1101      26.754  -0.384   4.780  0.00  0.00    +0.000 C 
+BRANCH  29  30
+ATOM     30  C6  AA8 C1101      25.872  -0.657   3.816  0.00  0.00    +0.000 C 
+BRANCH  30  31
+ATOM     31  C5  AA8 C1101      26.042   0.176   2.563  0.00  0.00    +0.000 C 
+ATOM     32  O2  AA8 C1101      27.282  -0.255   1.988  0.00  0.00    +0.000 OA
+BRANCH  31  33
+ATOM     33  C4  AA8 C1101      26.094   1.688   2.751  0.00  0.00    +0.000 C 
+BRANCH  33  34
+ATOM     34  C3  AA8 C1101      24.886   2.214   3.536  0.00  0.00    +0.000 C 
+ATOM     35  C2  AA8 C1101      24.919   3.697   3.898  0.00  0.00    +0.000 C 
+BRANCH  35  36
+ATOM     36  C1  AA8 C1101      23.718   4.201   4.674  0.00  0.00    +0.000 C 
+ATOM     37  O1  AA8 C1101      23.944   4.808   5.741  0.00  0.00    +0.000 OA
+ATOM     38  O1' AA8 C1101      22.552   4.011   4.265  0.00  0.00    +0.000 OA
+ENDBRANCH  35  36
+ENDBRANCH  33  34
+ENDBRANCH  31  33
+ENDBRANCH  30  31
+ENDBRANCH  29  30
+ENDBRANCH  26  27
+ENDBRANCH  24  26
+ENDBRANCH  23  24
+ENDBRANCH  22  23
+ENDBRANCH   2  21
+TORSDOF 18
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -3.3      1.873      9.260
+REMARK  Name = ligand_pdbs\AA8.pdb
+REMARK  18 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C24_2  and  C23_4
+REMARK    2  A    between atoms: C22_5  and  C21_7
+REMARK    3  A    between atoms: C21_7  and  C20_8
+REMARK    4  A    between atoms: C20_8  and  C19_10
+REMARK    5  A    between atoms: C19_10  and  C18_12
+REMARK    6  A    between atoms: C18_12  and  C17_14
+REMARK    7  A    between atoms: C17_14  and  C16_16
+REMARK    8  A    between atoms: C16_16  and  C15_18
+REMARK    9  A    between atoms: C14_19  and  C13_21
+REMARK   10  A    between atoms: C12_22  and  C11_23
+REMARK   11  A    between atoms: C11_23  and  C10_24
+REMARK   12  A    between atoms: C10_24  and  C9_26
+REMARK   13  A    between atoms: C9_26  and  C8_27
+REMARK   14  A    between atoms: C7_29  and  C6_30
+REMARK   15  A    between atoms: C6_30  and  C5_31
+REMARK   16  A    between atoms: C5_31  and  C4_33
+REMARK   17  A    between atoms: C4_33  and  C3_34
+REMARK   18  A    between atoms: C2_35  and  C1_36
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C15 AA8 C1101      24.981   3.335   4.843  0.00  0.00    +0.000 C 
+ATOM      2  C14 AA8 C1101      24.123   2.531   4.189  0.00  0.00    +0.000 C 
+ATOM      3  C27 AA8 C1101      22.651   2.840   4.119  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      4  C16 AA8 C1101      24.554   4.596   5.555  0.00  0.00    +0.000 C 
+ATOM      5  C28 AA8 C1101      25.126   4.584   6.967  0.00  0.00    +0.000 C 
+BRANCH   4   6
+ATOM      6  C17 AA8 C1101      25.059   5.792   4.812  0.00  0.00    +0.000 C 
+ATOM      7  O3  AA8 C1101      24.941   5.827   3.598  0.00  0.00    +0.000 OA
+BRANCH   6   8
+ATOM      8  C18 AA8 C1101      25.709   6.914   5.578  0.00  0.00    +0.000 C 
+ATOM      9  C29 AA8 C1101      27.158   7.020   5.100  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM     10  C19 AA8 C1101      24.968   8.252   5.422  0.00  0.00    +0.000 C 
+ATOM     11  O4  AA8 C1101      25.750   9.134   4.607  0.00  0.00    +0.000 OA
+BRANCH  10  12
+ATOM     12  C20 AA8 C1101      24.662   8.964   6.746  0.00  0.00    +0.000 C 
+ATOM     13  C30 AA8 C1101      25.923   9.196   7.572  0.00  0.00    +0.000 C 
+BRANCH  12  14
+ATOM     14  C21 AA8 C1101      23.949  10.294   6.506  0.00  0.00    +0.000 C 
+BRANCH  14  16
+ATOM     15  C23 AA8 C1101      23.827  10.442   8.972  0.00  0.00    +0.000 C 
+ATOM     16  C22 AA8 C1101      23.843  11.089   7.789  0.00  0.00    +0.000 C 
+ATOM     17  C31 AA8 C1101      23.780  12.586   7.707  0.00  0.00    +0.000 C 
+BRANCH  15  19
+ATOM     18  O6  AA8 C1101      22.714  10.994  10.996  0.00  0.00    +0.000 OA
+ATOM     19  C24 AA8 C1101      23.708  11.146  10.263  0.00  0.00    +0.000 C 
+ATOM     20  O5  AA8 C1101      24.636  11.895  10.610  0.00  0.00    +0.000 OA
+ENDBRANCH  15  19
+ENDBRANCH  14  16
+ENDBRANCH  12  14
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   8
+ENDBRANCH   4   6
+ENDBRANCH   1   4
+BRANCH   2  21
+ATOM     21  C13 AA8 C1101      24.680   1.316   3.549  0.00  0.00    +0.000 C 
+ATOM     22  C12 AA8 C1101      25.396   0.425   4.230  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C11 AA8 C1101      25.951  -0.793   3.531  0.00  0.00    +0.000 C 
+BRANCH  23  24
+ATOM     24  C10 AA8 C1101      27.032  -1.448   4.378  0.00  0.00    +0.000 C 
+ATOM     25  C26 AA8 C1101      26.771  -2.943   4.509  0.00  0.00    +0.000 C 
+BRANCH  24  26
+ATOM     26  C9  AA8 C1101      28.397  -1.238   3.750  0.00  0.00    +0.000 C 
+BRANCH  26  27
+ATOM     27  C8  AA8 C1101      28.839  -0.045   3.288  0.00  0.00    +0.000 C 
+ATOM     28  C25 AA8 C1101      30.154  -0.023   2.561  0.00  0.00    +0.000 C 
+ATOM     29  C7  AA8 C1101      28.058   1.204   3.513  0.00  0.00    +0.000 C 
+BRANCH  29  30
+ATOM     30  C6  AA8 C1101      28.452   2.439   3.194  0.00  0.00    +0.000 C 
+BRANCH  30  31
+ATOM     31  C5  AA8 C1101      27.857   3.527   4.065  0.00  0.00    +0.000 C 
+ATOM     32  O2  AA8 C1101      28.010   4.738   3.314  0.00  0.00    +0.000 OA
+BRANCH  31  33
+ATOM     33  C4  AA8 C1101      28.491   3.724   5.437  0.00  0.00    +0.000 C 
+BRANCH  33  34
+ATOM     34  C3  AA8 C1101      28.824   2.389   6.116  0.00  0.00    +0.000 C 
+ATOM     35  C2  AA8 C1101      30.293   1.973   6.085  0.00  0.00    +0.000 C 
+BRANCH  35  36
+ATOM     36  C1  AA8 C1101      30.605   0.651   6.761  0.00  0.00    +0.000 C 
+ATOM     37  O1  AA8 C1101      31.810   0.363   6.916  0.00  0.00    +0.000 OA
+ATOM     38  O1' AA8 C1101      29.695  -0.117   7.140  0.00  0.00    +0.000 OA
+ENDBRANCH  35  36
+ENDBRANCH  33  34
+ENDBRANCH  31  33
+ENDBRANCH  30  31
+ENDBRANCH  29  30
+ENDBRANCH  26  27
+ENDBRANCH  24  26
+ENDBRANCH  23  24
+ENDBRANCH  22  23
+ENDBRANCH   2  21
+TORSDOF 18
+ENDMDL

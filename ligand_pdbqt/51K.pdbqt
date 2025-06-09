@@ -1,0 +1,52 @@
+REMARK  Name = ligand_pdbs\51K.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C23_2  and  C17_5
+REMARK    2  A    between atoms: C13_8  and  C10_15
+REMARK    3  A    between atoms: C15_10  and  C19_11
+REMARK    4  A    between atoms: N8_17  and  C7_20
+REMARK    5  A    between atoms: C7_20  and  C6_21
+REMARK    6  A    between atoms: C6_21  and  C5_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C17 51K C1101     -33.659  69.757  26.872  0.00  0.00    +0.000 A 
+ATOM      2  C16 51K C1101     -35.006  69.990  26.765  0.00  0.00    +0.000 A 
+ATOM      3  C18 51K C1101     -32.794  70.753  27.319  0.00  0.00    +0.000 A 
+ATOM      4  C13 51K C1101     -33.309  71.993  27.656  0.00  0.00    +0.000 A 
+ATOM      5  C14 51K C1101     -34.667  72.235  27.545  0.00  0.00    +0.000 A 
+ATOM      6  C15 51K C1101     -35.503  71.228  27.088  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  C10 51K C1101     -32.442  73.077  28.156  0.00  0.00    +0.000 C 
+ATOM      8  N9  51K C1101     -31.225  72.901  28.689  0.00  0.00    +0.000 NA
+ATOM      9  N8  51K C1101     -30.813  74.179  29.018  0.00  0.00    +0.000 N 
+ATOM     10  C12 51K C1101     -31.742  75.075  28.695  0.00  0.00    +0.000 C 
+ATOM     11  N11 51K C1101     -32.761  74.392  28.149  0.00  0.00    +0.000 NA
+BRANCH   9  12
+ATOM     12  C7  51K C1101     -29.487  74.268  29.648  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  C6  51K C1101     -28.408  73.613  28.797  0.00  0.00    +0.000 C 
+BRANCH  13  14
+ATOM     14  C5  51K C1101     -28.090  74.491  27.617  0.00  0.00    +0.000 A 
+ATOM     15  N4  51K C1101     -26.974  74.427  26.857  0.00  0.00    +0.000 NA
+ATOM     16  N3  51K C1101     -27.062  75.415  25.861  0.00  0.00    +0.000 NA
+ATOM     17  C2  51K C1101     -28.240  76.057  26.056  0.00  0.00    +0.000 A 
+ATOM     18  O1  51K C1101     -28.891  75.488  27.142  0.00  0.00    +0.000 OA
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   9  12
+ENDBRANCH   4   7
+BRANCH   1  20
+ATOM     19  F26 51K C1101     -31.955  68.201  26.872  0.00  0.00    +0.000 F 
+ATOM     20  C23 51K C1101     -33.192  68.409  26.464  0.00  0.00    +0.000 C 
+ATOM     21  F24 51K C1101     -34.064  67.515  26.908  0.00  0.00    +0.000 F 
+ATOM     22  F25 51K C1101     -33.191  68.370  25.155  0.00  0.00    +0.000 F 
+ENDBRANCH   1  20
+BRANCH   6  23
+ATOM     23  C19 51K C1101     -36.964  71.449  26.963  0.00  0.00    +0.000 C 
+ATOM     24  F22 51K C1101     -37.558  70.890  28.000  0.00  0.00    +0.000 F 
+ATOM     25  F20 51K C1101     -37.200  72.751  26.869  0.00  0.00    +0.000 F 
+ATOM     26  F21 51K C1101     -37.417  70.819  25.908  0.00  0.00    +0.000 F 
+ENDBRANCH   6  23
+TORSDOF 6

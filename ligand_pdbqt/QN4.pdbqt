@@ -1,0 +1,50 @@
+REMARK  Name = ligand_pdbs\QN4.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_3  and  C5_4
+REMARK    2  A    between atoms: C6_3  and  N1_16
+REMARK    3  A    between atoms: C4_5  and  N_12
+REMARK    4  A    between atoms: C1_8  and  C_13
+REMARK    5  A    between atoms: C12_9  and  S_22
+REMARK    6  A    between atoms: N3_18  and  S_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4  QN4 A 701     -49.367 -63.493 -30.230  0.00  0.00    +0.000 A 
+ATOM      2  C3  QN4 A 701     -48.004 -63.312 -30.414  0.00  0.00    +0.000 A 
+ATOM      3  C2  QN4 A 701     -47.362 -63.921 -31.474  0.00  0.00    +0.000 A 
+ATOM      4  C1  QN4 A 701     -48.032 -64.751 -32.374  0.00  0.00    +0.000 A 
+ATOM      5  C12 QN4 A 701     -49.407 -64.938 -32.155  0.00  0.00    +0.000 A 
+ATOM      6  C11 QN4 A 701     -50.078 -64.297 -31.117  0.00  0.00    +0.000 A 
+ATOM      7  C   QN4 A 701     -47.263 -65.360 -33.517  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   9
+ATOM      8  C5  QN4 A 701     -49.920 -61.630 -28.682  0.00  0.00    +0.000 C 
+ATOM      9  N   QN4 A 701     -50.042 -62.898 -29.136  0.00  0.00    +0.000 N 
+ATOM     10  O   QN4 A 701     -49.124 -60.812 -29.133  0.00  0.00    +0.000 OA
+ATOM     11  H5  QN4 A 701     -50.685 -63.525 -28.664  0.00  0.00    +0.000 HD
+BRANCH   8  12
+ATOM     12  C6  QN4 A 701     -50.879 -61.261 -27.562  0.00  0.00    +0.000 C 
+BRANCH  12  17
+ATOM     13  C8  QN4 A 701     -49.494 -57.771 -25.800  0.00  0.00    +0.000 A 
+ATOM     14  C7  QN4 A 701     -49.277 -59.042 -25.246  0.00  0.00    +0.000 A 
+ATOM     15  C9  QN4 A 701     -50.241 -57.637 -26.920  0.00  0.00    +0.000 A 
+ATOM     16  C10 QN4 A 701     -50.809 -58.807 -27.560  0.00  0.00    +0.000 A 
+ATOM     17  N1  QN4 A 701     -50.500 -60.005 -26.934  0.00  0.00    +0.000 N 
+ATOM     18  N2  QN4 A 701     -49.770 -60.149 -25.798  0.00  0.00    +0.000 NA
+ATOM     19  O1  QN4 A 701     -51.510 -58.792 -28.568  0.00  0.00    +0.000 OA
+ATOM     20 CL   QN4 A 701     -50.556 -56.100 -27.643  0.00  0.00    +0.000 Cl
+ENDBRANCH  12  17
+ENDBRANCH   8  12
+ENDBRANCH   1   9
+BRANCH   5  23
+ATOM     21  O2  QN4 A 701     -49.712 -66.250 -34.397  0.00  0.00    +0.000 OA
+ATOM     22  O3  QN4 A 701     -51.711 -65.608 -33.134  0.00  0.00    +0.000 OA
+ATOM     23  S   QN4 A 701     -50.359 -66.081 -33.132  0.00  0.00    +0.000 S 
+BRANCH  23  24
+ATOM     24  N3  QN4 A 701     -50.349 -67.510 -32.404  0.00  0.00    +0.000 NA
+ATOM     25  H12 QN4 A 701     -50.660 -68.377 -32.831  0.00  0.00    +0.000 HD
+ATOM     26  H11 QN4 A 701     -50.031 -67.699 -31.459  0.00  0.00    +0.000 HD
+ENDBRANCH  23  24
+ENDBRANCH   5  23
+TORSDOF 5

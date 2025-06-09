@@ -1,0 +1,14 @@
+HETATM    1  CAD DQL A2102       8.962   9.252   2.710  1.00 13.49           C  
+HETATM    2  CAJ DQL A2102       8.459   9.856   3.850  1.00 14.30           C  
+HETATM    3  OAB DQL A2102       7.415   9.218   4.546  1.00 12.53           O  
+HETATM    4  CAL DQL A2102       9.007  11.085   4.294  1.00 13.93           C  
+HETATM    5  NAF DQL A2102       8.588  11.785   5.422  1.00 14.37           N  
+HETATM    6  CAI DQL A2102       9.239  12.925   5.657  1.00 15.52           C  
+HETATM    7  NAA DQL A2102       8.996  13.829   6.751  1.00 18.11           N  
+HETATM    8  SAG DQL A2102      10.425  13.133   4.447  1.00 16.14           S  
+HETATM    9  CAK DQL A2102      10.049  11.692   3.593  1.00 16.59           C  
+HETATM   10  CAE DQL A2102      10.548  11.087   2.440  1.00 14.13           C  
+HETATM   11  CAH DQL A2102       9.996   9.879   2.013  1.00 14.61           C  
+HETATM   12  SAC DQL A2102      10.646   9.106   0.518  1.00 14.94           S  
+TER      13      DQL A2102                                                       
+END   

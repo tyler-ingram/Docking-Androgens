@@ -1,0 +1,315 @@
+MODEL 1
+REMARK VINA RESULT:      -7.7      0.000      0.000
+REMARK  Name = ligand_pdbs\77T.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_5  and  N4_9
+REMARK    2  A    between atoms: C13_6  and  C14_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C10 77T A1002      27.970   2.378   4.539  0.00  0.00    +0.000 A 
+ATOM      2  C13 77T A1002      28.902  -0.235   4.096  0.00  0.00    +0.000 A 
+ATOM      3  C11 77T A1002      27.467   1.585   3.498  0.00  0.00    +0.000 A 
+ATOM      4  C12 77T A1002      27.909   0.311   3.279  0.00  0.00    +0.000 A 
+ATOM      5  C16 77T A1002      29.454   0.521   5.163  0.00  0.00    +0.000 A 
+ATOM      6  F17 77T A1002      30.428  -0.012   5.962  0.00  0.00    +0.000 F 
+ATOM      7  C18 77T A1002      28.990   1.828   5.385  0.00  0.00    +0.000 A 
+ATOM      8  C19 77T A1002      29.639   2.545   6.546  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  15
+ATOM      9  C5  77T A1002      27.618   4.515   3.367  0.00  0.00    +0.000 C 
+ATOM     10  C6  77T A1002      26.346   5.392   3.205  0.00  0.00    +0.000 C 
+ATOM     11  C7  77T A1002      25.656   5.295   4.587  0.00  0.00    +0.000 C 
+ATOM     12  C8  77T A1002      24.138   5.495   4.538  0.00  0.00    +0.000 C 
+ATOM     13  C1  77T A1002      25.766   3.695   6.486  0.00  0.00    +0.000 C 
+ATOM     14  C2  77T A1002      25.957   3.848   4.980  0.00  0.00    +0.000 C 
+ATOM     15  N4  77T A1002      27.360   3.660   4.571  0.00  0.00    +0.000 N 
+ATOM     16  O9  77T A1002      26.250   6.235   5.481  0.00  0.00    +0.000 OA
+ENDBRANCH   1  15
+BRANCH   2  17
+ATOM     17  C14 77T A1002      29.302  -1.567   3.773  0.00  0.00    +0.000 C 
+ATOM     18  N15 77T A1002      29.614  -2.631   3.539  0.00  0.00    +0.000 NA
+ENDBRANCH   2  17
+TORSDOF 2
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -7.5      3.156      6.256
+REMARK  Name = ligand_pdbs\77T.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_5  and  N4_9
+REMARK    2  A    between atoms: C13_6  and  C14_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C10 77T A1002      27.179   3.100   4.817  0.00  0.00    +0.000 A 
+ATOM      2  C13 77T A1002      26.356   5.785   4.780  0.00  0.00    +0.000 A 
+ATOM      3  C11 77T A1002      28.082   4.142   4.562  0.00  0.00    +0.000 A 
+ATOM      4  C12 77T A1002      27.692   5.451   4.549  0.00  0.00    +0.000 A 
+ATOM      5  C16 77T A1002      25.394   4.774   5.038  0.00  0.00    +0.000 A 
+ATOM      6  F17 77T A1002      24.084   5.101   5.262  0.00  0.00    +0.000 F 
+ATOM      7  C18 77T A1002      25.804   3.431   5.055  0.00  0.00    +0.000 A 
+ATOM      8  C19 77T A1002      24.705   2.435   5.342  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  15
+ATOM      9  C5  77T A1002      28.678   1.518   5.965  0.00  0.00    +0.000 C 
+ATOM     10  C6  77T A1002      28.590  -0.023   6.145  0.00  0.00    +0.000 C 
+ATOM     11  C7  77T A1002      28.051  -0.520   4.783  0.00  0.00    +0.000 C 
+ATOM     12  C8  77T A1002      27.275  -1.838   4.866  0.00  0.00    +0.000 C 
+ATOM     13  C1  77T A1002      26.807   0.533   2.906  0.00  0.00    +0.000 C 
+ATOM     14  C2  77T A1002      27.086   0.605   4.404  0.00  0.00    +0.000 C 
+ATOM     15  N4  77T A1002      27.812   1.830   4.781  0.00  0.00    +0.000 N 
+ATOM     16  O9  77T A1002      29.133  -0.641   3.859  0.00  0.00    +0.000 OA
+ENDBRANCH   1  15
+BRANCH   2  17
+ATOM     17  C14 77T A1002      26.052   7.180   4.730  0.00  0.00    +0.000 C 
+ATOM     18  N15 77T A1002      25.833   8.291   4.697  0.00  0.00    +0.000 NA
+ENDBRANCH   2  17
+TORSDOF 2
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -7.4      1.346      2.161
+REMARK  Name = ligand_pdbs\77T.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_5  and  N4_9
+REMARK    2  A    between atoms: C13_6  and  C14_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C10 77T A1002      27.649   2.407   4.012  0.00  0.00    +0.000 A 
+ATOM      2  C13 77T A1002      28.916  -0.088   3.773  0.00  0.00    +0.000 A 
+ATOM      3  C11 77T A1002      28.854   2.129   4.672  0.00  0.00    +0.000 A 
+ATOM      4  C12 77T A1002      29.481   0.921   4.556  0.00  0.00    +0.000 A 
+ATOM      5  C16 77T A1002      27.695   0.132   3.085  0.00  0.00    +0.000 A 
+ATOM      6  F17 77T A1002      27.140  -0.858   2.320  0.00  0.00    +0.000 F 
+ATOM      7  C18 77T A1002      27.058   1.378   3.205  0.00  0.00    +0.000 A 
+ATOM      8  C19 77T A1002      25.768   1.511   2.432  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  15
+ATOM      9  C5  77T A1002      27.525   4.739   3.230  0.00  0.00    +0.000 C 
+ATOM     10  C6  77T A1002      26.359   5.765   3.261  0.00  0.00    +0.000 C 
+ATOM     11  C7  77T A1002      25.682   5.508   4.629  0.00  0.00    +0.000 C 
+ATOM     12  C8  77T A1002      24.197   5.879   4.666  0.00  0.00    +0.000 C 
+ATOM     13  C1  77T A1002      25.637   3.604   6.226  0.00  0.00    +0.000 C 
+ATOM     14  C2  77T A1002      25.823   3.991   4.762  0.00  0.00    +0.000 C 
+ATOM     15  N4  77T A1002      27.189   3.723   4.281  0.00  0.00    +0.000 N 
+ATOM     16  O9  77T A1002      26.392   6.211   5.649  0.00  0.00    +0.000 OA
+ENDBRANCH   1  15
+BRANCH   2  17
+ATOM     17  C14 77T A1002      29.645  -1.316   3.730  0.00  0.00    +0.000 C 
+ATOM     18  N15 77T A1002      30.218  -2.291   3.674  0.00  0.00    +0.000 NA
+ENDBRANCH   2  17
+TORSDOF 2
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -7.3      3.258      6.290
+REMARK  Name = ligand_pdbs\77T.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_5  and  N4_9
+REMARK    2  A    between atoms: C13_6  and  C14_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C10 77T A1002      26.407   2.865   4.281  0.00  0.00    +0.000 A 
+ATOM      2  C13 77T A1002      26.127   5.655   4.450  0.00  0.00    +0.000 A 
+ATOM      3  C11 77T A1002      27.518   3.719   4.234  0.00  0.00    +0.000 A 
+ATOM      4  C12 77T A1002      27.393   5.076   4.323  0.00  0.00    +0.000 A 
+ATOM      5  C16 77T A1002      24.965   4.842   4.497  0.00  0.00    +0.000 A 
+ATOM      6  F17 77T A1002      23.725   5.409   4.618  0.00  0.00    +0.000 F 
+ATOM      7  C18 77T A1002      25.103   3.447   4.411  0.00  0.00    +0.000 A 
+ATOM      8  C19 77T A1002      23.806   2.675   4.473  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  15
+ATOM      9  C5  77T A1002      26.466   0.857   2.856  0.00  0.00    +0.000 C 
+ATOM     10  C6  77T A1002      27.576  -0.209   2.640  0.00  0.00    +0.000 C 
+ATOM     11  C7  77T A1002      28.175  -0.405   4.054  0.00  0.00    +0.000 C 
+ATOM     12  C8  77T A1002      29.635  -0.868   4.052  0.00  0.00    +0.000 C 
+ATOM     13  C1  77T A1002      28.210   0.946   6.140  0.00  0.00    +0.000 C 
+ATOM     14  C2  77T A1002      28.101   1.014   4.619  0.00  0.00    +0.000 C 
+ATOM     15  N4  77T A1002      26.783   1.500   4.173  0.00  0.00    +0.000 N 
+ATOM     16  O9  77T A1002      27.366  -1.325   4.788  0.00  0.00    +0.000 OA
+ENDBRANCH   1  15
+BRANCH   2  17
+ATOM     17  C14 77T A1002      26.107   7.081   4.521  0.00  0.00    +0.000 C 
+ATOM     18  N15 77T A1002      26.068   8.212   4.577  0.00  0.00    +0.000 NA
+ENDBRANCH   2  17
+TORSDOF 2
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -7.2      1.860      2.353
+REMARK  Name = ligand_pdbs\77T.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_5  and  N4_9
+REMARK    2  A    between atoms: C13_6  and  C14_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C10 77T A1002      26.173   2.507   4.479  0.00  0.00    +0.000 A 
+ATOM      2  C13 77T A1002      26.745  -0.241   4.618  0.00  0.00    +0.000 A 
+ATOM      3  C11 77T A1002      25.526   1.578   3.651  0.00  0.00    +0.000 A 
+ATOM      4  C12 77T A1002      25.792   0.240   3.716  0.00  0.00    +0.000 A 
+ATOM      5  C16 77T A1002      27.436   0.651   5.479  0.00  0.00    +0.000 A 
+ATOM      6  F17 77T A1002      28.371   0.181   6.361  0.00  0.00    +0.000 F 
+ATOM      7  C18 77T A1002      27.153   2.025   5.409  0.00  0.00    +0.000 A 
+ATOM      8  C19 77T A1002      27.941   2.886   6.368  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  15
+ATOM      9  C5  77T A1002      24.304   4.105   4.594  0.00  0.00    +0.000 C 
+ATOM     10  C6  77T A1002      24.264   5.599   5.020  0.00  0.00    +0.000 C 
+ATOM     11  C7  77T A1002      25.573   6.181   4.437  0.00  0.00    +0.000 C 
+ATOM     12  C8  77T A1002      26.111   7.392   5.205  0.00  0.00    +0.000 C 
+ATOM     13  C1  77T A1002      27.739   5.212   3.695  0.00  0.00    +0.000 C 
+ATOM     14  C2  77T A1002      26.538   5.007   4.614  0.00  0.00    +0.000 C 
+ATOM     15  N4  77T A1002      25.733   3.834   4.232  0.00  0.00    +0.000 N 
+ATOM     16  O9  77T A1002      25.374   6.517   3.064  0.00  0.00    +0.000 OA
+ENDBRANCH   1  15
+BRANCH   2  17
+ATOM     17  C14 77T A1002      26.956  -1.653   4.596  0.00  0.00    +0.000 C 
+ATOM     18  N15 77T A1002      27.105  -2.775   4.567  0.00  0.00    +0.000 NA
+ENDBRANCH   2  17
+TORSDOF 2
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -6.6      2.038      3.043
+REMARK  Name = ligand_pdbs\77T.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_5  and  N4_9
+REMARK    2  A    between atoms: C13_6  and  C14_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C10 77T A1002      27.188   3.609   4.829  0.00  0.00    +0.000 A 
+ATOM      2  C13 77T A1002      28.997   1.735   5.883  0.00  0.00    +0.000 A 
+ATOM      3  C11 77T A1002      27.926   3.873   5.991  0.00  0.00    +0.000 A 
+ATOM      4  C12 77T A1002      28.813   2.972   6.507  0.00  0.00    +0.000 A 
+ATOM      5  C16 77T A1002      28.274   1.408   4.706  0.00  0.00    +0.000 A 
+ATOM      6  F17 77T A1002      28.452   0.196   4.096  0.00  0.00    +0.000 F 
+ATOM      7  C18 77T A1002      27.368   2.342   4.179  0.00  0.00    +0.000 A 
+ATOM      8  C19 77T A1002      26.653   1.897   2.925  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  15
+ATOM      9  C5  77T A1002      24.885   4.337   4.349  0.00  0.00    +0.000 C 
+ATOM     10  C6  77T A1002      24.109   5.613   4.777  0.00  0.00    +0.000 C 
+ATOM     11  C7  77T A1002      25.171   6.735   4.686  0.00  0.00    +0.000 C 
+ATOM     12  C8  77T A1002      24.907   7.917   5.623  0.00  0.00    +0.000 C 
+ATOM     13  C1  77T A1002      27.656   6.794   4.692  0.00  0.00    +0.000 C 
+ATOM     14  C2  77T A1002      26.432   6.003   5.146  0.00  0.00    +0.000 C 
+ATOM     15  N4  77T A1002      26.336   4.691   4.484  0.00  0.00    +0.000 N 
+ATOM     16  O9  77T A1002      25.268   7.188   3.335  0.00  0.00    +0.000 OA
+ENDBRANCH   1  15
+BRANCH   2  17
+ATOM     17  C14 77T A1002      29.936   0.862   6.511  0.00  0.00    +0.000 C 
+ATOM     18  N15 77T A1002      30.698   0.185   7.006  0.00  0.00    +0.000 NA
+ENDBRANCH   2  17
+TORSDOF 2
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -6.6      2.943      5.785
+REMARK  Name = ligand_pdbs\77T.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_5  and  N4_9
+REMARK    2  A    between atoms: C13_6  and  C14_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C10 77T A1002      27.756   2.341   4.150  0.00  0.00    +0.000 A 
+ATOM      2  C13 77T A1002      27.151   5.041   4.636  0.00  0.00    +0.000 A 
+ATOM      3  C11 77T A1002      27.047   3.114   3.219  0.00  0.00    +0.000 A 
+ATOM      4  C12 77T A1002      26.755   4.429   3.444  0.00  0.00    +0.000 A 
+ATOM      5  C16 77T A1002      27.867   4.308   5.618  0.00  0.00    +0.000 A 
+ATOM      6  F17 77T A1002      28.253   4.906   6.787  0.00  0.00    +0.000 F 
+ATOM      7  C18 77T A1002      28.168   2.958   5.378  0.00  0.00    +0.000 A 
+ATOM      8  C19 77T A1002      28.934   2.270   6.483  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  15
+ATOM      9  C5  77T A1002      29.372   0.572   3.579  0.00  0.00    +0.000 C 
+ATOM     10  C6  77T A1002      29.365  -0.952   3.880  0.00  0.00    +0.000 C 
+ATOM     11  C7  77T A1002      27.881  -1.354   3.700  0.00  0.00    +0.000 C 
+ATOM     12  C8  77T A1002      27.465  -2.576   4.523  0.00  0.00    +0.000 C 
+ATOM     13  C1  77T A1002      25.722  -0.123   3.731  0.00  0.00    +0.000 C 
+ATOM     14  C2  77T A1002      27.160  -0.117   4.240  0.00  0.00    +0.000 C 
+ATOM     15  N4  77T A1002      27.942   1.007   3.698  0.00  0.00    +0.000 N 
+ATOM     16  O9  77T A1002      27.614  -1.576   2.315  0.00  0.00    +0.000 OA
+ENDBRANCH   1  15
+BRANCH   2  17
+ATOM     17  C14 77T A1002      26.783   6.414   4.776  0.00  0.00    +0.000 C 
+ATOM     18  N15 77T A1002      26.476   7.496   4.901  0.00  0.00    +0.000 NA
+ENDBRANCH   2  17
+TORSDOF 2
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -6.5      3.350      6.413
+REMARK  Name = ligand_pdbs\77T.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_5  and  N4_9
+REMARK    2  A    between atoms: C13_6  and  C14_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C10 77T A1002      26.500   3.695   4.503  0.00  0.00    +0.000 A 
+ATOM      2  C13 77T A1002      25.668   6.306   5.121  0.00  0.00    +0.000 A 
+ATOM      3  C11 77T A1002      27.421   4.710   4.796  0.00  0.00    +0.000 A 
+ATOM      4  C12 77T A1002      27.026   5.981   5.104  0.00  0.00    +0.000 A 
+ATOM      5  C16 77T A1002      24.687   5.322   4.827  0.00  0.00    +0.000 A 
+ATOM      6  F17 77T A1002      23.357   5.642   4.840  0.00  0.00    +0.000 F 
+ATOM      7  C18 77T A1002      25.101   4.017   4.517  0.00  0.00    +0.000 A 
+ATOM      8  C19 77T A1002      23.981   3.047   4.223  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  15
+ATOM      9  C5  77T A1002      28.501   2.585   3.594  0.00  0.00    +0.000 C 
+ATOM     10  C6  77T A1002      29.295   1.346   4.093  0.00  0.00    +0.000 C 
+ATOM     11  C7  77T A1002      28.193   0.380   4.590  0.00  0.00    +0.000 C 
+ATOM     12  C8  77T A1002      28.661  -0.588   5.681  0.00  0.00    +0.000 C 
+ATOM     13  C1  77T A1002      25.829   0.648   5.310  0.00  0.00    +0.000 C 
+ATOM     14  C2  77T A1002      27.176   1.354   5.187  0.00  0.00    +0.000 C 
+ATOM     15  N4  77T A1002      27.142   2.462   4.217  0.00  0.00    +0.000 N 
+ATOM     16  O9  77T A1002      27.663  -0.346   3.481  0.00  0.00    +0.000 OA
+ENDBRANCH   1  15
+BRANCH   2  17
+ATOM     17  C14 77T A1002      25.363   7.664   5.441  0.00  0.00    +0.000 C 
+ATOM     18  N15 77T A1002      25.102   8.739   5.685  0.00  0.00    +0.000 NA
+ENDBRANCH   2  17
+TORSDOF 2
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -6.3      2.977      5.977
+REMARK  Name = ligand_pdbs\77T.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_5  and  N4_9
+REMARK    2  A    between atoms: C13_6  and  C14_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C10 77T A1002      26.815   2.028   4.413  0.00  0.00    +0.000 A 
+ATOM      2  C13 77T A1002      25.763   4.614   4.724  0.00  0.00    +0.000 A 
+ATOM      3  C11 77T A1002      25.460   2.302   4.183  0.00  0.00    +0.000 A 
+ATOM      4  C12 77T A1002      24.941   3.558   4.325  0.00  0.00    +0.000 A 
+ATOM      5  C16 77T A1002      27.143   4.397   4.977  0.00  0.00    +0.000 A 
+ATOM      6  F17 77T A1002      27.948   5.431   5.371  0.00  0.00    +0.000 F 
+ATOM      7  C18 77T A1002      27.670   3.104   4.824  0.00  0.00    +0.000 A 
+ATOM      8  C19 77T A1002      29.147   2.981   5.114  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  15
+ATOM      9  C5  77T A1002      26.738   0.123   2.854  0.00  0.00    +0.000 C 
+ATOM     10  C6  77T A1002      27.789  -0.975   2.532  0.00  0.00    +0.000 C 
+ATOM     11  C7  77T A1002      28.416  -1.297   3.910  0.00  0.00    +0.000 C 
+ATOM     12  C8  77T A1002      29.851  -1.825   3.832  0.00  0.00    +0.000 C 
+ATOM     13  C1  77T A1002      28.573  -0.096   6.081  0.00  0.00    +0.000 C 
+ATOM     14  C2  77T A1002      28.426   0.082   4.573  0.00  0.00    +0.000 C 
+ATOM     15  N4  77T A1002      27.122   0.658   4.201  0.00  0.00    +0.000 N 
+ATOM     16  O9  77T A1002      27.584  -2.227   4.605  0.00  0.00    +0.000 OA
+ENDBRANCH   1  15
+BRANCH   2  17
+ATOM     17  C14 77T A1002      25.119   5.882   4.855  0.00  0.00    +0.000 C 
+ATOM     18  N15 77T A1002      24.613   6.892   4.937  0.00  0.00    +0.000 NA
+ENDBRANCH   2  17
+TORSDOF 2
+ENDMDL

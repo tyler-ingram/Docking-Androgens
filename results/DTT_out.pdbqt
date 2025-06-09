@@ -1,0 +1,252 @@
+MODEL 1
+REMARK VINA RESULT:      -3.4      0.000      0.000
+REMARK  Name = ligand_pdbs\DTT.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_2  and  C2_3
+REMARK    2  A    between atoms: C2_3  and  C3_5
+REMARK    3  A    between atoms: C3_5  and  C4_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  DTT A1003      24.439   5.285   5.018  0.00  0.00    +0.000 C 
+ATOM      2  O2  DTT A1003      23.510   4.859   4.634  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   4
+ATOM      3  S1  DTT A1003      26.031   7.340   5.045  0.00  0.00    +0.000 S 
+ATOM      4  C1  DTT A1003      24.571   6.607   4.290  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   5
+ATOM      5  C3  DTT A1003      25.616   4.439   5.063  0.00  0.00    +0.000 C 
+ATOM      6  O3  DTT A1003      25.595   3.659   3.937  0.00  0.00    +0.000 OA
+BRANCH   5   7
+ATOM      7  C4  DTT A1003      25.769   3.476   6.141  0.00  0.00    +0.000 C 
+ATOM      8  S4  DTT A1003      27.476   3.684   6.103  0.00  0.00    +0.000 S 
+ENDBRANCH   5   7
+ENDBRANCH   1   5
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -3.4      0.269      3.200
+REMARK  Name = ligand_pdbs\DTT.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_2  and  C2_3
+REMARK    2  A    between atoms: C2_3  and  C3_5
+REMARK    3  A    between atoms: C3_5  and  C4_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  DTT A1003      25.722   4.579   4.903  0.00  0.00    +0.000 C 
+ATOM      2  O2  DTT A1003      25.675   3.845   4.097  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   4
+ATOM      3  S1  DTT A1003      27.811   3.633   6.130  0.00  0.00    +0.000 S 
+ATOM      4  C1  DTT A1003      26.015   3.756   6.140  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   5
+ATOM      5  C3  DTT A1003      24.659   5.561   5.003  0.00  0.00    +0.000 C 
+ATOM      6  O3  DTT A1003      23.493   4.927   4.663  0.00  0.00    +0.000 OA
+BRANCH   5   7
+ATOM      7  C4  DTT A1003      24.675   6.729   4.138  0.00  0.00    +0.000 C 
+ATOM      8  S4  DTT A1003      25.921   7.434   5.089  0.00  0.00    +0.000 S 
+ENDBRANCH   5   7
+ENDBRANCH   1   5
+TORSDOF 3
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -3.3      2.236      2.712
+REMARK  Name = ligand_pdbs\DTT.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_2  and  C2_3
+REMARK    2  A    between atoms: C2_3  and  C3_5
+REMARK    3  A    between atoms: C3_5  and  C4_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  DTT A1003      25.116   5.465   4.557  0.00  0.00    +0.000 C 
+ATOM      2  O2  DTT A1003      24.503   6.352   4.386  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   4
+ATOM      3  S1  DTT A1003      24.315   2.992   4.495  0.00  0.00    +0.000 S 
+ATOM      4  C1  DTT A1003      24.233   4.555   5.385  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   5
+ATOM      5  C3  DTT A1003      26.481   5.651   5.013  0.00  0.00    +0.000 C 
+ATOM      6  O3  DTT A1003      26.684   7.000   5.134  0.00  0.00    +0.000 OA
+BRANCH   5   7
+ATOM      7  C4  DTT A1003      27.585   5.215   4.174  0.00  0.00    +0.000 C 
+ATOM      8  S4  DTT A1003      27.984   3.989   5.312  0.00  0.00    +0.000 S 
+ENDBRANCH   5   7
+ENDBRANCH   1   5
+TORSDOF 3
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -3.3      2.245      2.466
+REMARK  Name = ligand_pdbs\DTT.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_2  and  C2_3
+REMARK    2  A    between atoms: C2_3  and  C3_5
+REMARK    3  A    between atoms: C3_5  and  C4_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  DTT A1003      26.316   4.618   5.668  0.00  0.00    +0.000 C 
+ATOM      2  O2  DTT A1003      25.644   3.761   5.745  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   4
+ATOM      3  S1  DTT A1003      23.910   4.855   4.711  0.00  0.00    +0.000 S 
+ATOM      4  C1  DTT A1003      25.498   5.670   4.949  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   5
+ATOM      5  C3  DTT A1003      27.666   4.393   5.188  0.00  0.00    +0.000 C 
+ATOM      6  O3  DTT A1003      27.939   5.379   4.277  0.00  0.00    +0.000 OA
+BRANCH   5   7
+ATOM      7  C4  DTT A1003      27.980   3.169   4.468  0.00  0.00    +0.000 C 
+ATOM      8  S4  DTT A1003      29.104   2.722   5.689  0.00  0.00    +0.000 S 
+ENDBRANCH   5   7
+ENDBRANCH   1   5
+TORSDOF 3
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -3.3      2.094      3.660
+REMARK  Name = ligand_pdbs\DTT.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_2  and  C2_3
+REMARK    2  A    between atoms: C2_3  and  C3_5
+REMARK    3  A    between atoms: C3_5  and  C4_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  DTT A1003      27.489   4.893   4.819  0.00  0.00    +0.000 C 
+ATOM      2  O2  DTT A1003      27.907   5.388   3.940  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   4
+ATOM      3  S1  DTT A1003      28.849   2.867   5.716  0.00  0.00    +0.000 S 
+ATOM      4  C1  DTT A1003      27.625   3.416   4.516  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   5
+ATOM      5  C3  DTT A1003      26.205   5.347   5.319  0.00  0.00    +0.000 C 
+ATOM      6  O3  DTT A1003      25.476   4.229   5.628  0.00  0.00    +0.000 OA
+BRANCH   5   7
+ATOM      7  C4  DTT A1003      25.319   6.100   4.446  0.00  0.00    +0.000 C 
+ATOM      8  S4  DTT A1003      24.055   4.969   4.731  0.00  0.00    +0.000 S 
+ENDBRANCH   5   7
+ENDBRANCH   1   5
+TORSDOF 3
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -3.3      2.404      2.631
+REMARK  Name = ligand_pdbs\DTT.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_2  and  C2_3
+REMARK    2  A    between atoms: C2_3  and  C3_5
+REMARK    3  A    between atoms: C3_5  and  C4_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  DTT A1003      26.641   5.233   4.576  0.00  0.00    +0.000 C 
+ATOM      2  O2  DTT A1003      27.464   4.704   4.093  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   4
+ATOM      3  S1  DTT A1003      25.883   7.665   5.094  0.00  0.00    +0.000 S 
+ATOM      4  C1  DTT A1003      27.268   6.515   5.083  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   5
+ATOM      5  C3  DTT A1003      25.803   4.498   5.505  0.00  0.00    +0.000 C 
+ATOM      6  O3  DTT A1003      26.638   3.895   6.409  0.00  0.00    +0.000 OA
+BRANCH   5   7
+ATOM      7  C4  DTT A1003      24.979   3.403   5.021  0.00  0.00    +0.000 C 
+ATOM      8  S4  DTT A1003      23.700   4.499   4.676  0.00  0.00    +0.000 S 
+ENDBRANCH   5   7
+ENDBRANCH   1   5
+TORSDOF 3
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -3.3      2.528      2.634
+REMARK  Name = ligand_pdbs\DTT.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_2  and  C2_3
+REMARK    2  A    between atoms: C2_3  and  C3_5
+REMARK    3  A    between atoms: C3_5  and  C4_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  DTT A1003      27.286   5.214   4.694  0.00  0.00    +0.000 C 
+ATOM      2  O2  DTT A1003      27.891   5.296   3.790  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   4
+ATOM      3  S1  DTT A1003      25.253   6.836   4.695  0.00  0.00    +0.000 S 
+ATOM      4  C1  DTT A1003      27.001   6.650   5.084  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   5
+ATOM      5  C3  DTT A1003      27.739   4.324   5.747  0.00  0.00    +0.000 C 
+ATOM      6  O3  DTT A1003      28.640   3.460   5.182  0.00  0.00    +0.000 OA
+BRANCH   5   7
+ATOM      7  C4  DTT A1003      26.788   3.442   6.403  0.00  0.00    +0.000 C 
+ATOM      8  S4  DTT A1003      27.685   2.069   5.889  0.00  0.00    +0.000 S 
+ENDBRANCH   5   7
+ENDBRANCH   1   5
+TORSDOF 3
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -3.2      2.738      3.010
+REMARK  Name = ligand_pdbs\DTT.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_2  and  C2_3
+REMARK    2  A    between atoms: C2_3  and  C3_5
+REMARK    3  A    between atoms: C3_5  and  C4_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  DTT A1003      27.057   4.946   4.418  0.00  0.00    +0.000 C 
+ATOM      2  O2  DTT A1003      27.933   5.570   4.234  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   4
+ATOM      3  S1  DTT A1003      24.506   5.033   4.912  0.00  0.00    +0.000 S 
+ATOM      4  C1  DTT A1003      26.087   5.865   5.131  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   5
+ATOM      5  C3  DTT A1003      27.259   3.629   4.994  0.00  0.00    +0.000 C 
+ATOM      6  O3  DTT A1003      27.916   3.807   6.183  0.00  0.00    +0.000 OA
+BRANCH   5   7
+ATOM      7  C4  DTT A1003      28.081   2.656   4.294  0.00  0.00    +0.000 C 
+ATOM      8  S4  DTT A1003      26.730   2.175   3.346  0.00  0.00    +0.000 S 
+ENDBRANCH   5   7
+ENDBRANCH   1   5
+TORSDOF 3
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -3.2      2.736      3.939
+REMARK  Name = ligand_pdbs\DTT.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_2  and  C2_3
+REMARK    2  A    between atoms: C2_3  and  C3_5
+REMARK    3  A    between atoms: C3_5  and  C4_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  DTT A1003      27.393   3.703   5.379  0.00  0.00    +0.000 C 
+ATOM      2  O2  DTT A1003      27.967   3.936   6.278  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   4
+ATOM      3  S1  DTT A1003      27.099   2.028   3.412  0.00  0.00    +0.000 S 
+ATOM      4  C1  DTT A1003      28.228   2.661   4.664  0.00  0.00    +0.000 C 
+ENDBRANCH   1   4
+BRANCH   1   5
+ATOM      5  C3  DTT A1003      26.889   4.804   4.580  0.00  0.00    +0.000 C 
+ATOM      6  O3  DTT A1003      27.975   5.522   4.154  0.00  0.00    +0.000 OA
+BRANCH   5   7
+ATOM      7  C4  DTT A1003      26.038   5.809   5.195  0.00  0.00    +0.000 C 
+ATOM      8  S4  DTT A1003      24.656   4.821   4.930  0.00  0.00    +0.000 S 
+ENDBRANCH   5   7
+ENDBRANCH   1   5
+TORSDOF 3
+ENDMDL

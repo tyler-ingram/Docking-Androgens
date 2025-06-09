@@ -1,0 +1,630 @@
+MODEL 1
+REMARK VINA RESULT:       0.7      0.000      0.000
+REMARK  Name = ligand_pdbs\85K.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N12_2  and  C19_14
+REMARK    2  A    between atoms: C13_3  and  C12_10
+REMARK    3  A    between atoms: N_6  and  C_7
+REMARK    4  A    between atoms: C18_13  and  C19_14
+REMARK    5  A    between atoms: C1C_17  and  C1D_18
+REMARK    6  A    between atoms: C1H_22  and  O1_32
+REMARK    7  A    between atoms: C1I_23  and  O1_32
+REMARK    8  A    between atoms: C1M_26  and  C1N_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  85K A 702      23.345   1.767   2.703  0.00  0.00    +0.000 NA
+ATOM      2  N   85K A 702      23.840   2.670   3.568  0.00  0.00    +0.000 N 
+ATOM      3  C   85K A 702      23.190   3.869   4.046  0.00  0.00    +0.000 C 
+ATOM      4  C1  85K A 702      24.303   0.874   2.612  0.00  0.00    +0.000 A 
+ATOM      5  C12 85K A 702      25.406   1.190   3.416  0.00  0.00    +0.000 A 
+ATOM      6  C1C 85K A 702      25.065   2.360   4.027  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   5   7
+ATOM      7  C13 85K A 702      26.666   0.467   3.596  0.00  0.00    +0.000 A 
+ATOM      8  C15 85K A 702      28.112  -1.390   3.007  0.00  0.00    +0.000 A 
+ATOM      9  C17 85K A 702      28.843   0.202   4.702  0.00  0.00    +0.000 A 
+ATOM     10  O   85K A 702      30.671  -2.697   3.527  0.00  0.00    +0.000 OA
+ATOM     11  C14 85K A 702      26.933  -0.693   2.843  0.00  0.00    +0.000 A 
+ATOM     12  C16 85K A 702      27.625   0.894   4.513  0.00  0.00    +0.000 A 
+ATOM     13  C18 85K A 702      29.865   0.623   5.652  0.00  0.00    +0.000 A 
+ATOM     14  C1A 85K A 702      29.077  -0.956   3.929  0.00  0.00    +0.000 A 
+ATOM     15  C1B 85K A 702      30.315  -1.677   4.114  0.00  0.00    +0.000 A 
+ATOM     16  N13 85K A 702      30.966  -0.048   5.788  0.00  0.00    +0.000 NA
+ATOM     17  N14 85K A 702      31.194  -1.179   5.036  0.00  0.00    +0.000 N 
+ATOM     18 H125 85K A 702      32.048  -1.689   5.148  0.00  0.00    +0.000 HD
+BRANCH  13  19
+ATOM     19  C19 85K A 702      29.669   1.876   6.528  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  N12 85K A 702      30.095   3.080   5.789  0.00  0.00    +0.000 N 
+ATOM     21  H31 85K A 702      29.319   3.444   5.271  0.00  0.00    +0.000 HD
+ATOM     22 H212 85K A 702      30.833   2.840   5.158  0.00  0.00    +0.000 HD
+ATOM     23 H112 85K A 702      30.419   3.771   6.436  0.00  0.00    +0.000 HD
+ENDBRANCH  19  20
+ENDBRANCH  13  19
+ENDBRANCH   5   7
+BRANCH   6  24
+ATOM     24  C1D 85K A 702      25.711   3.263   4.958  0.00  0.00    +0.000 A 
+ATOM     25  C1E 85K A 702      25.613   2.985   6.325  0.00  0.00    +0.000 A 
+ATOM     26  C1F 85K A 702      26.215   3.782   7.294  0.00  0.00    +0.000 A 
+ATOM     27  C1G 85K A 702      26.967   4.878   6.889  0.00  0.00    +0.000 A 
+ATOM     28  C1H 85K A 702      27.104   5.152   5.530  0.00  0.00    +0.000 A 
+ATOM     29  C1M 85K A 702      26.500   4.354   4.547  0.00  0.00    +0.000 A 
+ATOM     30  F   85K A 702      24.879   1.919   6.721  0.00  0.00    +0.000 F 
+ATOM     31 CL   85K A 702      26.043   3.432   8.980  0.00  0.00    +0.000 Cl
+BRANCH  29  32
+ATOM     32  C1N 85K A 702      26.654   4.664   3.153  0.00  0.00    +0.000 C 
+ATOM     33  N15 85K A 702      26.786   4.912   2.048  0.00  0.00    +0.000 NA
+ENDBRANCH  29  32
+BRANCH  28  34
+ATOM     34  O1  85K A 702      27.850   6.239   5.126  0.00  0.00    +0.000 OA
+BRANCH  34  35
+ATOM     35  C1I 85K A 702      27.376   7.596   5.035  0.00  0.00    +0.000 C 
+ATOM     36  C1K 85K A 702      26.116   7.802   4.252  0.00  0.00    +0.000 C 
+ATOM     37  C1L 85K A 702      26.083   7.807   5.764  0.00  0.00    +0.000 C 
+ENDBRANCH  34  35
+ENDBRANCH  28  34
+ENDBRANCH   6  24
+TORSDOF 7
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:       1.1      2.160      7.378
+REMARK  Name = ligand_pdbs\85K.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N12_2  and  C19_14
+REMARK    2  A    between atoms: C13_3  and  C12_10
+REMARK    3  A    between atoms: N_6  and  C_7
+REMARK    4  A    between atoms: C18_13  and  C19_14
+REMARK    5  A    between atoms: C1C_17  and  C1D_18
+REMARK    6  A    between atoms: C1H_22  and  O1_32
+REMARK    7  A    between atoms: C1I_23  and  O1_32
+REMARK    8  A    between atoms: C1M_26  and  C1N_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  85K A 702      30.026   2.452   7.443  0.00  0.00    +0.000 NA
+ATOM      2  N   85K A 702      29.234   1.679   6.679  0.00  0.00    +0.000 N 
+ATOM      3  C   85K A 702      29.248   0.237   6.587  0.00  0.00    +0.000 C 
+ATOM      4  C1  85K A 702      29.608   3.669   7.183  0.00  0.00    +0.000 A 
+ATOM      5  C12 85K A 702      28.551   3.686   6.263  0.00  0.00    +0.000 A 
+ATOM      6  C1C 85K A 702      28.332   2.373   5.965  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   5   7
+ATOM      7  C13 85K A 702      27.814   4.823   5.711  0.00  0.00    +0.000 A 
+ATOM      8  C15 85K A 702      27.741   7.172   5.108  0.00  0.00    +0.000 A 
+ATOM      9  C17 85K A 702      25.772   5.784   4.742  0.00  0.00    +0.000 A 
+ATOM     10  O   85K A 702      26.098   9.313   3.996  0.00  0.00    +0.000 OA
+ATOM     11  C14 85K A 702      28.425   6.088   5.619  0.00  0.00    +0.000 A 
+ATOM     12  C16 85K A 702      26.498   4.692   5.272  0.00  0.00    +0.000 A 
+ATOM     13  C18 85K A 702      24.395   5.678   4.275  0.00  0.00    +0.000 A 
+ATOM     14  C1A 85K A 702      26.417   7.037   4.664  0.00  0.00    +0.000 A 
+ATOM     15  C1B 85K A 702      25.687   8.163   4.130  0.00  0.00    +0.000 A 
+ATOM     16  N13 85K A 702      23.773   6.711   3.797  0.00  0.00    +0.000 NA
+ATOM     17  N14 85K A 702      24.401   7.935   3.723  0.00  0.00    +0.000 N 
+ATOM     18 H125 85K A 702      23.911   8.725   3.353  0.00  0.00    +0.000 HD
+BRANCH  13  19
+ATOM     19  C19 85K A 702      23.634   4.341   4.335  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  N12 85K A 702      22.231   4.575   4.728  0.00  0.00    +0.000 N 
+ATOM     21  H31 85K A 702      21.623   4.234   4.010  0.00  0.00    +0.000 HD
+ATOM     22 H212 85K A 702      22.080   5.556   4.856  0.00  0.00    +0.000 HD
+ATOM     23 H112 85K A 702      22.040   4.093   5.585  0.00  0.00    +0.000 HD
+ENDBRANCH  19  20
+ENDBRANCH  13  19
+ENDBRANCH   5   7
+BRANCH   6  24
+ATOM     24  C1D 85K A 702      27.428   1.653   5.092  0.00  0.00    +0.000 A 
+ATOM     25  C1E 85K A 702      26.052   1.781   5.311  0.00  0.00    +0.000 A 
+ATOM     26  C1F 85K A 702      25.105   1.143   4.516  0.00  0.00    +0.000 A 
+ATOM     27  C1G 85K A 702      25.540   0.374   3.443  0.00  0.00    +0.000 A 
+ATOM     28  C1H 85K A 702      26.905   0.261   3.188  0.00  0.00    +0.000 A 
+ATOM     29  C1M 85K A 702      27.865   0.900   3.985  0.00  0.00    +0.000 A 
+ATOM     30  F   85K A 702      25.628   2.529   6.357  0.00  0.00    +0.000 F 
+ATOM     31 CL   85K A 702      23.412   1.293   4.838  0.00  0.00    +0.000 Cl
+BRANCH  29  32
+ATOM     32  C1N 85K A 702      29.266   0.761   3.701  0.00  0.00    +0.000 C 
+ATOM     33  N15 85K A 702      30.376   0.649   3.466  0.00  0.00    +0.000 NA
+ENDBRANCH  29  32
+BRANCH  28  34
+ATOM     34  O1  85K A 702      27.338  -0.502   2.124  0.00  0.00    +0.000 OA
+BRANCH  34  35
+ATOM     35  C1I 85K A 702      27.648  -1.908   2.168  0.00  0.00    +0.000 C 
+ATOM     36  C1K 85K A 702      28.702  -2.317   3.150  0.00  0.00    +0.000 C 
+ATOM     37  C1L 85K A 702      27.241  -2.548   3.462  0.00  0.00    +0.000 C 
+ENDBRANCH  34  35
+ENDBRANCH  28  34
+ENDBRANCH   6  24
+TORSDOF 7
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:       1.1      2.625      7.615
+REMARK  Name = ligand_pdbs\85K.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N12_2  and  C19_14
+REMARK    2  A    between atoms: C13_3  and  C12_10
+REMARK    3  A    between atoms: N_6  and  C_7
+REMARK    4  A    between atoms: C18_13  and  C19_14
+REMARK    5  A    between atoms: C1C_17  and  C1D_18
+REMARK    6  A    between atoms: C1H_22  and  O1_32
+REMARK    7  A    between atoms: C1I_23  and  O1_32
+REMARK    8  A    between atoms: C1M_26  and  C1N_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  85K A 702      31.207   2.598   5.764  0.00  0.00    +0.000 NA
+ATOM      2  N   85K A 702      30.296   1.716   5.317  0.00  0.00    +0.000 N 
+ATOM      3  C   85K A 702      30.488   0.302   5.089  0.00  0.00    +0.000 C 
+ATOM      4  C1  85K A 702      30.540   3.727   5.814  0.00  0.00    +0.000 A 
+ATOM      5  C12 85K A 702      29.207   3.579   5.410  0.00  0.00    +0.000 A 
+ATOM      6  C1C 85K A 702      29.084   2.257   5.102  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   5   7
+ATOM      7  C13 85K A 702      28.144   4.581   5.318  0.00  0.00    +0.000 A 
+ATOM      8  C15 85K A 702      27.439   6.899   5.456  0.00  0.00    +0.000 A 
+ATOM      9  C17 85K A 702      25.791   5.178   4.941  0.00  0.00    +0.000 A 
+ATOM     10  O   85K A 702      25.179   8.735   5.245  0.00  0.00    +0.000 OA
+ATOM     11  C14 85K A 702      28.431   5.943   5.532  0.00  0.00    +0.000 A 
+ATOM     12  C16 85K A 702      26.829   4.221   5.026  0.00  0.00    +0.000 A 
+ATOM     13  C18 85K A 702      24.408   4.833   4.638  0.00  0.00    +0.000 A 
+ATOM     14  C1A 85K A 702      26.116   6.534   5.160  0.00  0.00    +0.000 A 
+ATOM     15  C1B 85K A 702      25.066   7.523   5.080  0.00  0.00    +0.000 A 
+ATOM     16  N13 85K A 702      23.492   5.749   4.571  0.00  0.00    +0.000 NA
+ATOM     17  N14 85K A 702      23.808   7.072   4.787  0.00  0.00    +0.000 N 
+ATOM     18 H125 85K A 702      23.094   7.771   4.733  0.00  0.00    +0.000 HD
+BRANCH  13  19
+ATOM     19  C19 85K A 702      23.987   3.372   4.391  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  N12 85K A 702      24.472   2.514   5.489  0.00  0.00    +0.000 N 
+ATOM     21  H31 85K A 702      25.178   1.895   5.141  0.00  0.00    +0.000 HD
+ATOM     22 H212 85K A 702      23.710   1.979   5.855  0.00  0.00    +0.000 HD
+ATOM     23 H112 85K A 702      24.858   3.087   6.214  0.00  0.00    +0.000 HD
+ENDBRANCH  19  20
+ENDBRANCH  13  19
+ENDBRANCH   5   7
+BRANCH   6  24
+ATOM     24  C1D 85K A 702      28.018   1.409   4.607  0.00  0.00    +0.000 A 
+ATOM     25  C1E 85K A 702      27.397   1.760   3.404  0.00  0.00    +0.000 A 
+ATOM     26  C1F 85K A 702      26.378   1.000   2.839  0.00  0.00    +0.000 A 
+ATOM     27  C1G 85K A 702      25.981  -0.170   3.478  0.00  0.00    +0.000 A 
+ATOM     28  C1H 85K A 702      26.610  -0.553   4.660  0.00  0.00    +0.000 A 
+ATOM     29  C1M 85K A 702      27.638   0.207   5.236  0.00  0.00    +0.000 A 
+ATOM     30  F   85K A 702      27.782   2.899   2.782  0.00  0.00    +0.000 F 
+ATOM     31 CL   85K A 702      25.606   1.482   1.369  0.00  0.00    +0.000 Cl
+BRANCH  29  32
+ATOM     32  C1N 85K A 702      28.265  -0.211   6.459  0.00  0.00    +0.000 C 
+ATOM     33  N15 85K A 702      28.771  -0.537   7.426  0.00  0.00    +0.000 NA
+ENDBRANCH  29  32
+BRANCH  28  34
+ATOM     34  O1  85K A 702      26.218  -1.713   5.295  0.00  0.00    +0.000 OA
+BRANCH  34  35
+ATOM     35  C1I 85K A 702      26.646  -3.045   4.952  0.00  0.00    +0.000 C 
+ATOM     36  C1K 85K A 702      26.619  -3.389   3.495  0.00  0.00    +0.000 C 
+ATOM     37  C1L 85K A 702      27.928  -3.057   4.174  0.00  0.00    +0.000 C 
+ENDBRANCH  34  35
+ENDBRANCH  28  34
+ENDBRANCH   6  24
+TORSDOF 7
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:       1.2      2.753      6.899
+REMARK  Name = ligand_pdbs\85K.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N12_2  and  C19_14
+REMARK    2  A    between atoms: C13_3  and  C12_10
+REMARK    3  A    between atoms: N_6  and  C_7
+REMARK    4  A    between atoms: C18_13  and  C19_14
+REMARK    5  A    between atoms: C1C_17  and  C1D_18
+REMARK    6  A    between atoms: C1H_22  and  O1_32
+REMARK    7  A    between atoms: C1I_23  and  O1_32
+REMARK    8  A    between atoms: C1M_26  and  C1N_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  85K A 702      30.296   2.778   7.362  0.00  0.00    +0.000 NA
+ATOM      2  N   85K A 702      29.981   1.743   6.565  0.00  0.00    +0.000 N 
+ATOM      3  C   85K A 702      30.764   0.551   6.331  0.00  0.00    +0.000 C 
+ATOM      4  C1  85K A 702      29.265   3.582   7.241  0.00  0.00    +0.000 A 
+ATOM      5  C12 85K A 702      28.287   3.070   6.378  0.00  0.00    +0.000 A 
+ATOM      6  C1C 85K A 702      28.786   1.871   5.964  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   5   7
+ATOM      7  C13 85K A 702      27.005   3.649   5.974  0.00  0.00    +0.000 A 
+ATOM      8  C15 85K A 702      24.636   3.374   5.528  0.00  0.00    +0.000 A 
+ATOM      9  C17 85K A 702      25.661   5.566   5.231  0.00  0.00    +0.000 A 
+ATOM     10  O   85K A 702      22.184   4.713   4.681  0.00  0.00    +0.000 OA
+ATOM     11  C14 85K A 702      25.850   2.846   5.915  0.00  0.00    +0.000 A 
+ATOM     12  C16 85K A 702      26.892   4.995   5.630  0.00  0.00    +0.000 A 
+ATOM     13  C18 85K A 702      25.510   6.969   4.867  0.00  0.00    +0.000 A 
+ATOM     14  C1A 85K A 702      24.523   4.731   5.185  0.00  0.00    +0.000 A 
+ATOM     15  C1B 85K A 702      23.260   5.298   4.776  0.00  0.00    +0.000 A 
+ATOM     16  N13 85K A 702      24.358   7.444   4.507  0.00  0.00    +0.000 NA
+ATOM     17  N14 85K A 702      23.249   6.629   4.460  0.00  0.00    +0.000 N 
+ATOM     18 H125 85K A 702      22.364   7.006   4.181  0.00  0.00    +0.000 HD
+BRANCH  13  19
+ATOM     19  C19 85K A 702      26.712   7.933   4.893  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  N12 85K A 702      26.339   9.222   4.282  0.00  0.00    +0.000 N 
+ATOM     21  H31 85K A 702      26.403   9.948   4.969  0.00  0.00    +0.000 HD
+ATOM     22 H212 85K A 702      25.401   9.169   3.939  0.00  0.00    +0.000 HD
+ATOM     23 H112 85K A 702      26.961   9.424   3.524  0.00  0.00    +0.000 HD
+ENDBRANCH  19  20
+ENDBRANCH  13  19
+ENDBRANCH   5   7
+BRANCH   6  24
+ATOM     24  C1D 85K A 702      28.338   0.823   5.068  0.00  0.00    +0.000 A 
+ATOM     25  C1E 85K A 702      28.276  -0.485   5.558  0.00  0.00    +0.000 A 
+ATOM     26  C1F 85K A 702      27.842  -1.555   4.781  0.00  0.00    +0.000 A 
+ATOM     27  C1G 85K A 702      27.425  -1.311   3.477  0.00  0.00    +0.000 A 
+ATOM     28  C1H 85K A 702      27.449  -0.009   2.982  0.00  0.00    +0.000 A 
+ATOM     29  C1M 85K A 702      27.885   1.074   3.759  0.00  0.00    +0.000 A 
+ATOM     30  F   85K A 702      28.683  -0.724   6.827  0.00  0.00    +0.000 F 
+ATOM     31 CL   85K A 702      27.812  -3.167   5.406  0.00  0.00    +0.000 Cl
+BRANCH  29  32
+ATOM     32  C1N 85K A 702      27.903   2.405   3.219  0.00  0.00    +0.000 C 
+ATOM     33  N15 85K A 702      27.924   3.465   2.799  0.00  0.00    +0.000 NA
+ENDBRANCH  29  32
+BRANCH  28  34
+ATOM     34  O1  85K A 702      27.036   0.235   1.689  0.00  0.00    +0.000 OA
+BRANCH  34  35
+ATOM     35  C1I 85K A 702      25.725   0.685   1.296  0.00  0.00    +0.000 C 
+ATOM     36  C1K 85K A 702      24.646   0.546   2.326  0.00  0.00    +0.000 C 
+ATOM     37  C1L 85K A 702      25.277   1.895   2.061  0.00  0.00    +0.000 C 
+ENDBRANCH  34  35
+ENDBRANCH  28  34
+ENDBRANCH   6  24
+TORSDOF 7
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:       1.8      2.046      2.498
+REMARK  Name = ligand_pdbs\85K.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N12_2  and  C19_14
+REMARK    2  A    between atoms: C13_3  and  C12_10
+REMARK    3  A    between atoms: N_6  and  C_7
+REMARK    4  A    between atoms: C18_13  and  C19_14
+REMARK    5  A    between atoms: C1C_17  and  C1D_18
+REMARK    6  A    between atoms: C1H_22  and  O1_32
+REMARK    7  A    between atoms: C1I_23  and  O1_32
+REMARK    8  A    between atoms: C1M_26  and  C1N_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  85K A 702      22.859   1.661   4.192  0.00  0.00    +0.000 NA
+ATOM      2  N   85K A 702      23.598   2.782   4.144  0.00  0.00    +0.000 N 
+ATOM      3  C   85K A 702      23.118   4.145   4.131  0.00  0.00    +0.000 C 
+ATOM      4  C1  85K A 702      23.756   0.703   4.201  0.00  0.00    +0.000 A 
+ATOM      5  C12 85K A 702      25.066   1.197   4.165  0.00  0.00    +0.000 A 
+ATOM      6  C1C 85K A 702      24.923   2.553   4.136  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   5   7
+ATOM      7  C13 85K A 702      26.337   0.471   4.155  0.00  0.00    +0.000 A 
+ATOM      8  C15 85K A 702      27.656  -1.422   3.405  0.00  0.00    +0.000 A 
+ATOM      9  C17 85K A 702      28.671   0.233   4.880  0.00  0.00    +0.000 A 
+ATOM     10  O   85K A 702      30.264  -2.728   3.531  0.00  0.00    +0.000 OA
+ATOM     11  C14 85K A 702      26.468  -0.721   3.418  0.00  0.00    +0.000 A 
+ATOM     12  C16 85K A 702      27.440   0.928   4.875  0.00  0.00    +0.000 A 
+ATOM     13  C18 85K A 702      29.843   0.684   5.621  0.00  0.00    +0.000 A 
+ATOM     14  C1A 85K A 702      28.767  -0.958   4.128  0.00  0.00    +0.000 A 
+ATOM     15  C1B 85K A 702      30.017  -1.682   4.126  0.00  0.00    +0.000 A 
+ATOM     16  N13 85K A 702      30.950   0.009   5.593  0.00  0.00    +0.000 NA
+ATOM     17  N14 85K A 702      31.042  -1.154   4.861  0.00  0.00    +0.000 N 
+ATOM     18 H125 85K A 702      31.902  -1.667   4.847  0.00  0.00    +0.000 HD
+BRANCH  13  19
+ATOM     19  C19 85K A 702      29.803   1.974   6.463  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  N12 85K A 702      30.400   3.090   5.705  0.00  0.00    +0.000 N 
+ATOM     21  H31 85K A 702      30.209   2.969   4.730  0.00  0.00    +0.000 HD
+ATOM     22 H212 85K A 702      31.389   3.102   5.853  0.00  0.00    +0.000 HD
+ATOM     23 H112 85K A 702      30.004   3.955   6.019  0.00  0.00    +0.000 HD
+ENDBRANCH  19  20
+ENDBRANCH  13  19
+ENDBRANCH   5   7
+BRANCH   6  24
+ATOM     24  C1D 85K A 702      25.827   3.683   4.073  0.00  0.00    +0.000 A 
+ATOM     25  C1E 85K A 702      26.477   3.945   2.863  0.00  0.00    +0.000 A 
+ATOM     26  C1F 85K A 702      27.349   5.016   2.698  0.00  0.00    +0.000 A 
+ATOM     27  C1G 85K A 702      27.560   5.880   3.767  0.00  0.00    +0.000 A 
+ATOM     28  C1H 85K A 702      26.896   5.655   4.971  0.00  0.00    +0.000 A 
+ATOM     29  C1M 85K A 702      26.016   4.577   5.145  0.00  0.00    +0.000 A 
+ATOM     30  F   85K A 702      26.274   3.104   1.821  0.00  0.00    +0.000 F 
+ATOM     31 CL   85K A 702      28.166   5.289   1.198  0.00  0.00    +0.000 Cl
+BRANCH  29  32
+ATOM     32  C1N 85K A 702      25.349   4.367   6.400  0.00  0.00    +0.000 C 
+ATOM     33  N15 85K A 702      24.825   4.192   7.397  0.00  0.00    +0.000 NA
+ENDBRANCH  29  32
+BRANCH  28  34
+ATOM     34  O1  85K A 702      27.104   6.510   6.033  0.00  0.00    +0.000 OA
+BRANCH  34  35
+ATOM     35  C1I 85K A 702      26.618   7.863   6.130  0.00  0.00    +0.000 C 
+ATOM     36  C1K 85K A 702      26.208   8.508   4.843  0.00  0.00    +0.000 C 
+ATOM     37  C1L 85K A 702      25.160   7.978   5.796  0.00  0.00    +0.000 C 
+ENDBRANCH  34  35
+ENDBRANCH  28  34
+ENDBRANCH   6  24
+TORSDOF 7
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:       2.5      2.041      2.588
+REMARK  Name = ligand_pdbs\85K.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N12_2  and  C19_14
+REMARK    2  A    between atoms: C13_3  and  C12_10
+REMARK    3  A    between atoms: N_6  and  C_7
+REMARK    4  A    between atoms: C18_13  and  C19_14
+REMARK    5  A    between atoms: C1C_17  and  C1D_18
+REMARK    6  A    between atoms: C1H_22  and  O1_32
+REMARK    7  A    between atoms: C1I_23  and  O1_32
+REMARK    8  A    between atoms: C1M_26  and  C1N_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  85K A 702      23.157   2.476   4.047  0.00  0.00    +0.000 NA
+ATOM      2  N   85K A 702      23.960   3.416   4.577  0.00  0.00    +0.000 N 
+ATOM      3  C   85K A 702      23.561   4.671   5.171  0.00  0.00    +0.000 C 
+ATOM      4  C1  85K A 702      23.993   1.539   3.665  0.00  0.00    +0.000 A 
+ATOM      5  C12 85K A 702      25.326   1.864   3.950  0.00  0.00    +0.000 A 
+ATOM      6  C1C 85K A 702      25.263   3.088   4.548  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   5   7
+ATOM      7  C13 85K A 702      26.548   1.104   3.685  0.00  0.00    +0.000 A 
+ATOM      8  C15 85K A 702      28.798   1.013   2.782  0.00  0.00    +0.000 A 
+ATOM      9  C17 85K A 702      27.833  -0.987   3.787  0.00  0.00    +0.000 A 
+ATOM     10  O   85K A 702      31.134  -0.679   2.327  0.00  0.00    +0.000 OA
+ATOM     11  C14 85K A 702      27.642   1.719   3.046  0.00  0.00    +0.000 A 
+ATOM     12  C16 85K A 702      26.661  -0.239   4.043  0.00  0.00    +0.000 A 
+ATOM     13  C18 85K A 702      27.982  -2.391   4.150  0.00  0.00    +0.000 A 
+ATOM     14  C1A 85K A 702      28.911  -0.338   3.147  0.00  0.00    +0.000 A 
+ATOM     15  C1B 85K A 702      30.113  -1.090   2.874  0.00  0.00    +0.000 A 
+ATOM     16  N13 85K A 702      29.079  -3.033   3.892  0.00  0.00    +0.000 NA
+ATOM     17  N14 85K A 702      30.130  -2.400   3.265  0.00  0.00    +0.000 N 
+ATOM     18 H125 85K A 702      30.972  -2.906   3.071  0.00  0.00    +0.000 HD
+BRANCH  13  19
+ATOM     19  C19 85K A 702      26.843  -3.158   4.848  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  N12 85K A 702      25.771  -3.460   3.881  0.00  0.00    +0.000 N 
+ATOM     21  H31 85K A 702      25.281  -4.283   4.172  0.00  0.00    +0.000 HD
+ATOM     22 H212 85K A 702      26.171  -3.612   2.977  0.00  0.00    +0.000 HD
+ATOM     23 H112 85K A 702      25.133  -2.689   3.839  0.00  0.00    +0.000 HD
+ENDBRANCH  19  20
+ENDBRANCH  13  19
+ENDBRANCH   5   7
+BRANCH   6  24
+ATOM     24  C1D 85K A 702      26.231   4.025   5.080  0.00  0.00    +0.000 A 
+ATOM     25  C1E 85K A 702      27.156   3.561   6.020  0.00  0.00    +0.000 A 
+ATOM     26  C1F 85K A 702      28.136   4.380   6.574  0.00  0.00    +0.000 A 
+ATOM     27  C1G 85K A 702      28.219   5.703   6.154  0.00  0.00    +0.000 A 
+ATOM     28  C1H 85K A 702      27.327   6.175   5.194  0.00  0.00    +0.000 A 
+ATOM     29  C1M 85K A 702      26.338   5.357   4.632  0.00  0.00    +0.000 A 
+ATOM     30  F   85K A 702      27.075   2.273   6.430  0.00  0.00    +0.000 F 
+ATOM     31 CL   85K A 702      29.241   3.782   7.762  0.00  0.00    +0.000 Cl
+BRANCH  29  32
+ATOM     32  C1N 85K A 702      25.428   5.873   3.647  0.00  0.00    +0.000 C 
+ATOM     33  N15 85K A 702      24.709   6.293   2.869  0.00  0.00    +0.000 NA
+ENDBRANCH  29  32
+BRANCH  28  34
+ATOM     34  O1  85K A 702      27.408   7.487   4.777  0.00  0.00    +0.000 OA
+BRANCH  34  35
+ATOM     35  C1I 85K A 702      26.669   8.593   5.332  0.00  0.00    +0.000 C 
+ATOM     36  C1K 85K A 702      25.458   9.025   4.563  0.00  0.00    +0.000 C 
+ATOM     37  C1L 85K A 702      25.308   8.192   5.816  0.00  0.00    +0.000 C 
+ENDBRANCH  34  35
+ENDBRANCH  28  34
+ENDBRANCH   6  24
+TORSDOF 7
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:       2.5      2.397      3.725
+REMARK  Name = ligand_pdbs\85K.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N12_2  and  C19_14
+REMARK    2  A    between atoms: C13_3  and  C12_10
+REMARK    3  A    between atoms: N_6  and  C_7
+REMARK    4  A    between atoms: C18_13  and  C19_14
+REMARK    5  A    between atoms: C1C_17  and  C1D_18
+REMARK    6  A    between atoms: C1H_22  and  O1_32
+REMARK    7  A    between atoms: C1I_23  and  O1_32
+REMARK    8  A    between atoms: C1M_26  and  C1N_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  85K A 702      23.053   2.485   3.765  0.00  0.00    +0.000 NA
+ATOM      2  N   85K A 702      23.852   3.406   4.329  0.00  0.00    +0.000 N 
+ATOM      3  C   85K A 702      23.456   4.667   4.913  0.00  0.00    +0.000 C 
+ATOM      4  C1  85K A 702      23.884   1.533   3.412  0.00  0.00    +0.000 A 
+ATOM      5  C12 85K A 702      25.211   1.830   3.750  0.00  0.00    +0.000 A 
+ATOM      6  C1C 85K A 702      25.149   3.052   4.351  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   5   7
+ATOM      7  C13 85K A 702      26.428   1.047   3.530  0.00  0.00    +0.000 A 
+ATOM      8  C15 85K A 702      28.696   0.904   2.681  0.00  0.00    +0.000 A 
+ATOM      9  C17 85K A 702      27.679  -1.060   3.708  0.00  0.00    +0.000 A 
+ATOM     10  O   85K A 702      31.016  -0.831   2.317  0.00  0.00    +0.000 OA
+ATOM     11  C14 85K A 702      27.545   1.631   2.903  0.00  0.00    +0.000 A 
+ATOM     12  C16 85K A 702      26.513  -0.289   3.920  0.00  0.00    +0.000 A 
+ATOM     13  C18 85K A 702      27.799  -2.457   4.105  0.00  0.00    +0.000 A 
+ATOM     14  C1A 85K A 702      28.781  -0.440   3.078  0.00  0.00    +0.000 A 
+ATOM     15  C1B 85K A 702      29.978  -1.215   2.850  0.00  0.00    +0.000 A 
+ATOM     16  N13 85K A 702      28.892  -3.120   3.887  0.00  0.00    +0.000 NA
+ATOM     17  N14 85K A 702      29.966  -2.517   3.270  0.00  0.00    +0.000 N 
+ATOM     18 H125 85K A 702      30.804  -3.038   3.107  0.00  0.00    +0.000 HD
+BRANCH  13  19
+ATOM     19  C19 85K A 702      26.633  -3.192   4.793  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  N12 85K A 702      25.633  -3.602   3.790  0.00  0.00    +0.000 N 
+ATOM     21  H31 85K A 702      26.100  -3.908   2.959  0.00  0.00    +0.000 HD
+ATOM     22 H212 85K A 702      25.040  -2.826   3.573  0.00  0.00    +0.000 HD
+ATOM     23 H112 85K A 702      25.080  -4.352   4.158  0.00  0.00    +0.000 HD
+ENDBRANCH  19  20
+ENDBRANCH  13  19
+ENDBRANCH   5   7
+BRANCH   6  24
+ATOM     24  C1D 85K A 702      26.114   3.969   4.924  0.00  0.00    +0.000 A 
+ATOM     25  C1E 85K A 702      26.022   5.323   4.587  0.00  0.00    +0.000 A 
+ATOM     26  C1F 85K A 702      26.890   6.282   5.100  0.00  0.00    +0.000 A 
+ATOM     27  C1G 85K A 702      27.867   5.885   6.006  0.00  0.00    +0.000 A 
+ATOM     28  C1H 85K A 702      27.953   4.546   6.380  0.00  0.00    +0.000 A 
+ATOM     29  C1M 85K A 702      27.083   3.575   5.867  0.00  0.00    +0.000 A 
+ATOM     30  F   85K A 702      25.072   5.710   3.703  0.00  0.00    +0.000 F 
+ATOM     31 CL   85K A 702      26.773   7.943   4.633  0.00  0.00    +0.000 Cl
+BRANCH  29  32
+ATOM     32  C1N 85K A 702      27.198   2.199   6.267  0.00  0.00    +0.000 C 
+ATOM     33  N15 85K A 702      27.299   1.110   6.588  0.00  0.00    +0.000 NA
+ENDBRANCH  29  32
+BRANCH  28  34
+ATOM     34  O1  85K A 702      28.922   4.151   7.279  0.00  0.00    +0.000 OA
+BRANCH  34  35
+ATOM     35  C1I 85K A 702      30.227   3.644   6.939  0.00  0.00    +0.000 C 
+ATOM     36  C1K 85K A 702      30.360   2.153   6.893  0.00  0.00    +0.000 C 
+ATOM     37  C1L 85K A 702      30.248   2.947   5.611  0.00  0.00    +0.000 C 
+ENDBRANCH  34  35
+ENDBRANCH  28  34
+ENDBRANCH   6  24
+TORSDOF 7
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:       2.6      2.533      6.788
+REMARK  Name = ligand_pdbs\85K.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N12_2  and  C19_14
+REMARK    2  A    between atoms: C13_3  and  C12_10
+REMARK    3  A    between atoms: N_6  and  C_7
+REMARK    4  A    between atoms: C18_13  and  C19_14
+REMARK    5  A    between atoms: C1C_17  and  C1D_18
+REMARK    6  A    between atoms: C1H_22  and  O1_32
+REMARK    7  A    between atoms: C1I_23  and  O1_32
+REMARK    8  A    between atoms: C1M_26  and  C1N_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  85K A 702      31.012   2.121   7.170  0.00  0.00    +0.000 NA
+ATOM      2  N   85K A 702      30.326   1.207   6.462  0.00  0.00    +0.000 N 
+ATOM      3  C   85K A 702      30.642  -0.195   6.306  0.00  0.00    +0.000 C 
+ATOM      4  C1  85K A 702      30.314   3.220   7.008  0.00  0.00    +0.000 A 
+ATOM      5  C12 85K A 702      29.181   3.021   6.207  0.00  0.00    +0.000 A 
+ATOM      6  C1C 85K A 702      29.219   1.698   5.878  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   5   7
+ATOM      7  C13 85K A 702      28.157   3.977   5.786  0.00  0.00    +0.000 A 
+ATOM      8  C15 85K A 702      27.574   6.168   4.919  0.00  0.00    +0.000 A 
+ATOM      9  C17 85K A 702      25.800   4.582   5.449  0.00  0.00    +0.000 A 
+ATOM     10  O   85K A 702      25.383   7.936   4.145  0.00  0.00    +0.000 OA
+ATOM     11  C14 85K A 702      28.527   5.251   5.313  0.00  0.00    +0.000 A 
+ATOM     12  C16 85K A 702      26.800   3.665   5.847  0.00  0.00    +0.000 A 
+ATOM     13  C18 85K A 702      24.374   4.284   5.501  0.00  0.00    +0.000 A 
+ATOM     14  C1A 85K A 702      26.208   5.849   4.979  0.00  0.00    +0.000 A 
+ATOM     15  C1B 85K A 702      25.199   6.798   4.573  0.00  0.00    +0.000 A 
+ATOM     16  N13 85K A 702      23.496   5.161   5.124  0.00  0.00    +0.000 NA
+ATOM     17  N14 85K A 702      23.894   6.398   4.668  0.00  0.00    +0.000 N 
+ATOM     18 H125 85K A 702      23.208   7.068   4.379  0.00  0.00    +0.000 HD
+BRANCH  13  19
+ATOM     19  C19 85K A 702      23.863   2.921   6.006  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  N12 85K A 702      24.007   2.840   7.472  0.00  0.00    +0.000 N 
+ATOM     21  H31 85K A 702      24.856   2.360   7.697  0.00  0.00    +0.000 HD
+ATOM     22 H212 85K A 702      23.230   2.341   7.856  0.00  0.00    +0.000 HD
+ATOM     23 H112 85K A 702      24.034   3.764   7.856  0.00  0.00    +0.000 HD
+ENDBRANCH  19  20
+ENDBRANCH  13  19
+ENDBRANCH   5   7
+BRANCH   6  24
+ATOM     24  C1D 85K A 702      28.400   0.812   5.076  0.00  0.00    +0.000 A 
+ATOM     25  C1E 85K A 702      28.105  -0.457   5.583  0.00  0.00    +0.000 A 
+ATOM     26  C1F 85K A 702      27.312  -1.371   4.896  0.00  0.00    +0.000 A 
+ATOM     27  C1G 85K A 702      26.766  -0.999   3.673  0.00  0.00    +0.000 A 
+ATOM     28  C1H 85K A 702      27.022   0.273   3.166  0.00  0.00    +0.000 A 
+ATOM     29  C1M 85K A 702      27.820   1.199   3.852  0.00  0.00    +0.000 A 
+ATOM     30  F   85K A 702      28.637  -0.821   6.774  0.00  0.00    +0.000 F 
+ATOM     31 CL   85K A 702      26.997  -2.947   5.535  0.00  0.00    +0.000 Cl
+BRANCH  29  32
+ATOM     32  C1N 85K A 702      28.071   2.503   3.302  0.00  0.00    +0.000 C 
+ATOM     33  N15 85K A 702      28.272   3.541   2.876  0.00  0.00    +0.000 NA
+ENDBRANCH  29  32
+BRANCH  28  34
+ATOM     34  O1  85K A 702      26.482   0.644   1.953  0.00  0.00    +0.000 OA
+BRANCH  34  35
+ATOM     35  C1I 85K A 702      25.150   1.152   1.746  0.00  0.00    +0.000 C 
+ATOM     36  C1K 85K A 702      24.194   0.973   2.884  0.00  0.00    +0.000 C 
+ATOM     37  C1L 85K A 702      24.834   2.320   2.632  0.00  0.00    +0.000 C 
+ENDBRANCH  34  35
+ENDBRANCH  28  34
+ENDBRANCH   6  24
+TORSDOF 7
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:       3.1      3.095      6.363
+REMARK  Name = ligand_pdbs\85K.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N12_2  and  C19_14
+REMARK    2  A    between atoms: C13_3  and  C12_10
+REMARK    3  A    between atoms: N_6  and  C_7
+REMARK    4  A    between atoms: C18_13  and  C19_14
+REMARK    5  A    between atoms: C1C_17  and  C1D_18
+REMARK    6  A    between atoms: C1H_22  and  O1_32
+REMARK    7  A    between atoms: C1I_23  and  O1_32
+REMARK    8  A    between atoms: C1M_26  and  C1N_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  85K A 702      23.846  -0.006   3.511  0.00  0.00    +0.000 NA
+ATOM      2  N   85K A 702      25.181  -0.037   3.658  0.00  0.00    +0.000 N 
+ATOM      3  C   85K A 702      26.050  -1.182   3.507  0.00  0.00    +0.000 C 
+ATOM      4  C1  85K A 702      23.543   1.252   3.733  0.00  0.00    +0.000 A 
+ATOM      5  C12 85K A 702      24.673   2.032   4.014  0.00  0.00    +0.000 A 
+ATOM      6  C1C 85K A 702      25.719   1.160   3.949  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   5   7
+ATOM      7  C13 85K A 702      24.767   3.460   4.319  0.00  0.00    +0.000 A 
+ATOM      8  C15 85K A 702      23.673   5.568   4.816  0.00  0.00    +0.000 A 
+ATOM      9  C17 85K A 702      26.105   5.488   4.679  0.00  0.00    +0.000 A 
+ATOM     10  O   85K A 702      24.074   8.402   5.391  0.00  0.00    +0.000 OA
+ATOM     11  C14 85K A 702      23.601   4.219   4.536  0.00  0.00    +0.000 A 
+ATOM     12  C16 85K A 702      26.000   4.108   4.393  0.00  0.00    +0.000 A 
+ATOM     13  C18 85K A 702      27.378   6.193   4.765  0.00  0.00    +0.000 A 
+ATOM     14  C1A 85K A 702      24.915   6.217   4.894  0.00  0.00    +0.000 A 
+ATOM     15  C1B 85K A 702      25.006   7.629   5.183  0.00  0.00    +0.000 A 
+ATOM     16  N13 85K A 702      27.421   7.462   5.031  0.00  0.00    +0.000 NA
+ATOM     17  N14 85K A 702      26.260   8.173   5.237  0.00  0.00    +0.000 N 
+ATOM     18 H125 85K A 702      26.305   9.152   5.442  0.00  0.00    +0.000 HD
+BRANCH  13  19
+ATOM     19  C19 85K A 702      28.713   5.457   4.539  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  N12 85K A 702      28.676   4.726   3.259  0.00  0.00    +0.000 N 
+ATOM     21  H31 85K A 702      28.844   3.753   3.425  0.00  0.00    +0.000 HD
+ATOM     22 H212 85K A 702      29.382   5.087   2.648  0.00  0.00    +0.000 HD
+ATOM     23 H112 85K A 702      27.776   4.841   2.834  0.00  0.00    +0.000 HD
+ENDBRANCH  19  20
+ENDBRANCH  13  19
+ENDBRANCH   5   7
+BRANCH   6  24
+ATOM     24  C1D 85K A 702      27.152   1.254   4.143  0.00  0.00    +0.000 A 
+ATOM     25  C1E 85K A 702      27.990   0.845   3.100  0.00  0.00    +0.000 A 
+ATOM     26  C1F 85K A 702      29.377   0.915   3.184  0.00  0.00    +0.000 A 
+ATOM     27  C1G 85K A 702      29.953   1.439   4.336  0.00  0.00    +0.000 A 
+ATOM     28  C1H 85K A 702      29.134   1.882   5.372  0.00  0.00    +0.000 A 
+ATOM     29  C1M 85K A 702      27.736   1.815   5.295  0.00  0.00    +0.000 A 
+ATOM     30  F   85K A 702      27.429   0.333   1.979  0.00  0.00    +0.000 F 
+ATOM     31 CL   85K A 702      30.385   0.365   1.890  0.00  0.00    +0.000 Cl
+BRANCH  29  32
+ATOM     32  C1N 85K A 702      26.917   2.275   6.382  0.00  0.00    +0.000 C 
+ATOM     33  N15 85K A 702      26.272   2.649   7.244  0.00  0.00    +0.000 NA
+ENDBRANCH  29  32
+BRANCH  28  34
+ATOM     34  O1  85K A 702      29.704   2.402   6.515  0.00  0.00    +0.000 OA
+BRANCH  34  35
+ATOM     35  C1I 85K A 702      30.514   1.672   7.457  0.00  0.00    +0.000 C 
+ATOM     36  C1K 85K A 702      30.342   0.184   7.458  0.00  0.00    +0.000 C 
+ATOM     37  C1L 85K A 702      31.544   0.811   6.789  0.00  0.00    +0.000 C 
+ENDBRANCH  34  35
+ENDBRANCH  28  34
+ENDBRANCH   6  24
+TORSDOF 7
+ENDMDL

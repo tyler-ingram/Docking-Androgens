@@ -14,34 +14,40 @@ class SingleLigandSelect(Select):
 
 # Load structure
 parser = PDBParser(QUIET=True)
-structure = parser.get_structure("complex", "ligands-2.pdb")  # <-- your file
+#structure = parser.get_structure("complex", "ligands-2.pdb")
 
 # Prepare output directory
-output_dir = "ligands"
+input_dir = "Dataset"
+output_dir = "ligand_pdbs"
 os.makedirs(output_dir, exist_ok=True)
 
 # Loop through and extract individual ligands
 ligands_seen = set()
 io = PDBIO()
-
-for model in structure:
-    for chain in model:
-        for residue in chain:
-            # Check if the residue is a ligand (not water or standard residue)
-            hetfield, resseq, icode = residue.id
-            resname = residue.resname.strip()
-            if hetfield != " " and resname != "HOH": 
-                #Make sure no duplicates are saved
-                ligand_key = (resname, chain.id, resseq, icode)
-                if ligand_key in ligands_seen:
-                    continue
-                ligands_seen.add(ligand_key)
-
-                # Build filename and write file
-                filename = f"{resname}_{chain.id}_{resseq}{icode or ''}".strip() + ".pdb"
-                filepath = os.path.join(output_dir, filename)
-                # Save the ligand
-                io.set_structure(structure)
-                io.save(filepath, SingleLigandSelect(residue))
+for filename in os.listdir(input_dir):
+    filepath = os.path.join(input_dir, filename)
+    try:
+        structure = parser.get_structure(filename, filepath)
+    except Exception as e:
+        print(f"Failed to parse {filename}: {e}")
+        continue
+    for model in structure:
+        for chain in model:
+            for residue in chain:
+                # Check if the residue is a ligand (not water or standard residue)
+                hetfield, resseq, icode = residue.id
+                resname = residue.resname.strip()
+                if hetfield != " " and resname != "HOH": 
+                    #Make sure no duplicates are saved
+                    ligand_key = (resname)
+                    if ligand_key in ligands_seen:
+                        continue
+                    ligands_seen.add(ligand_key)
+                    # Build filename and write file
+                    outfile = f"{resname}" + ".pdb"
+                    filepath = os.path.join(output_dir, outfile)
+                    # Save the ligand
+                    io.set_structure(structure)
+                    io.save(filepath, SingleLigandSelect(residue))
 
 print(f"Saved {len(ligands_seen)} ligands to folder '{output_dir}'")

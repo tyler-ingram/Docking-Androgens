@@ -1,0 +1,14 @@
+HETATM    1  CAA ICO L 935      16.112  50.669  28.639  1.00 58.20           C  
+HETATM    2  CAD ICO L 935      15.059  51.569  28.748  1.00 59.00           C  
+HETATM    3  CAI ICO L 935      14.873  52.261  29.944  1.00 58.34           C  
+HETATM    4  CAJ ICO L 935      15.738  52.047  31.012  1.00 58.92           C  
+HETATM    5  CAF ICO L 935      16.789  51.144  30.894  1.00 58.58           C  
+HETATM    6  CAB ICO L 935      16.978  50.449  29.704  1.00 58.21           C  
+HETATM    7  NAE ICO L 935      17.879  49.548  29.317  1.00 58.37           N  
+HETATM    8  CAG ICO L 935      17.638  49.170  28.061  1.00 57.85           C  
+HETATM    9  CAC ICO L 935      16.571  49.838  27.625  1.00 58.06           C  
+HETATM   10  CAH ICO L 935      15.947  49.678  26.240  1.00 58.06           C  
+HETATM   11  OAL ICO L 935      16.464  48.954  25.402  1.00 59.76           O  
+HETATM   12  OAK ICO L 935      14.903  50.284  25.949  1.00 58.13           O  
+TER      13      ICO L 935                                                       
+END   

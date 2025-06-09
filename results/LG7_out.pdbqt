@@ -1,0 +1,360 @@
+MODEL 1
+REMARK VINA RESULT:      -8.4      0.000      0.000
+REMARK  Name = ligand_pdbs\LG7.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C15_5  and  C22_9
+REMARK    2  A    between atoms: C12_10  and  N9_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 LG7 A  90      25.540   1.790   3.776  0.00  0.00    +0.000 A 
+ATOM      2  C18 LG7 A  90      29.865   0.700   6.567  0.00  0.00    +0.000 A 
+ATOM      3  C17 LG7 A  90      28.938  -0.083   5.958  0.00  0.00    +0.000 A 
+ATOM      4  C16 LG7 A  90      27.855   0.638   5.253  0.00  0.00    +0.000 A 
+ATOM      5  C15 LG7 A  90      26.790  -0.159   4.558  0.00  0.00    +0.000 A 
+ATOM      6  C19 LG7 A  90      29.785   2.132   6.539  0.00  0.00    +0.000 A 
+ATOM      7  C20 LG7 A  90      28.735   2.878   5.858  0.00  0.00    +0.000 A 
+ATOM      8  C21 LG7 A  90      27.727   2.049   5.192  0.00  0.00    +0.000 A 
+ATOM      9  C12 LG7 A  90      26.581   2.601   4.449  0.00  0.00    +0.000 A 
+ATOM     10  C14 LG7 A  90      25.662   0.414   3.820  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   9  19
+ATOM     11  O1  LG7 A  90      27.470   6.579   5.772  0.00  0.00    +0.000 OA
+ATOM     12  C2  LG7 A  90      26.828   7.198   4.694  0.00  0.00    +0.000 C 
+ATOM     13  C3  LG7 A  90      25.487   7.905   5.303  0.00  0.00    +0.000 C 
+ATOM     14  C4  LG7 A  90      24.267   6.855   5.066  0.00  0.00    +0.000 C 
+ATOM     15  N5  LG7 A  90      25.217   5.758   4.594  0.00  0.00    +0.000 N 
+ATOM     16  C6  LG7 A  90      26.199   6.102   3.686  0.00  0.00    +0.000 C 
+ATOM     17  C7  LG7 A  90      26.959   4.809   3.476  0.00  0.00    +0.000 C 
+ATOM     18  O8  LG7 A  90      28.026   4.747   2.652  0.00  0.00    +0.000 OA
+ATOM     19  N9  LG7 A  90      26.284   3.906   4.287  0.00  0.00    +0.000 N 
+ATOM     20  C10 LG7 A  90      25.250   4.490   4.946  0.00  0.00    +0.000 C 
+ATOM     21  O11 LG7 A  90      24.468   3.980   5.734  0.00  0.00    +0.000 OA
+ENDBRANCH   9  19
+BRANCH   5  22
+ATOM     22  C22 LG7 A  90      26.886  -1.600   4.690  0.00  0.00    +0.000 C 
+ATOM     23  N23 LG7 A  90      26.963  -2.787   4.798  0.00  0.00    +0.000 NA
+ENDBRANCH   5  22
+TORSDOF 2
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -8.4      2.378      6.659
+REMARK  Name = ligand_pdbs\LG7.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C15_5  and  C22_9
+REMARK    2  A    between atoms: C12_10  and  N9_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 LG7 A  90      28.040   3.685   4.559  0.00  0.00    +0.000 A 
+ATOM      2  C18 LG7 A  90      22.861   4.607   4.462  0.00  0.00    +0.000 A 
+ATOM      3  C17 LG7 A  90      23.944   5.425   4.469  0.00  0.00    +0.000 A 
+ATOM      4  C16 LG7 A  90      25.258   4.747   4.490  0.00  0.00    +0.000 A 
+ATOM      5  C15 LG7 A  90      26.504   5.585   4.501  0.00  0.00    +0.000 A 
+ATOM      6  C19 LG7 A  90      22.989   3.179   4.491  0.00  0.00    +0.000 A 
+ATOM      7  C20 LG7 A  90      24.264   2.473   4.514  0.00  0.00    +0.000 A 
+ATOM      8  C21 LG7 A  90      25.445   3.341   4.518  0.00  0.00    +0.000 A 
+ATOM      9  C12 LG7 A  90      26.827   2.835   4.543  0.00  0.00    +0.000 A 
+ATOM     10  C14 LG7 A  90      27.870   5.056   4.520  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   9  19
+ATOM     11  O1  LG7 A  90      30.023   0.102   3.716  0.00  0.00    +0.000 OA
+ATOM     12  C2  LG7 A  90      29.461  -0.948   4.451  0.00  0.00    +0.000 C 
+ATOM     13  C3  LG7 A  90      28.983  -2.067   3.360  0.00  0.00    +0.000 C 
+ATOM     14  C4  LG7 A  90      27.404  -1.788   3.081  0.00  0.00    +0.000 C 
+ATOM     15  N5  LG7 A  90      27.424  -0.491   3.887  0.00  0.00    +0.000 N 
+ATOM     16  C6  LG7 A  90      28.055  -0.505   5.114  0.00  0.00    +0.000 C 
+ATOM     17  C7  LG7 A  90      27.917   0.922   5.602  0.00  0.00    +0.000 C 
+ATOM     18  O8  LG7 A  90      28.436   1.315   6.784  0.00  0.00    +0.000 OA
+ATOM     19  N9  LG7 A  90      27.206   1.541   4.581  0.00  0.00    +0.000 N 
+ATOM     20  C10 LG7 A  90      26.922   0.683   3.568  0.00  0.00    +0.000 C 
+ATOM     21  O11 LG7 A  90      26.321   0.909   2.528  0.00  0.00    +0.000 OA
+ENDBRANCH   9  19
+BRANCH   5  22
+ATOM     22  C22 LG7 A  90      26.304   7.021   4.550  0.00  0.00    +0.000 C 
+ATOM     23  N23 LG7 A  90      26.137   8.202   4.590  0.00  0.00    +0.000 NA
+ENDBRANCH   5  22
+TORSDOF 2
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -8.3      2.473      6.680
+REMARK  Name = ligand_pdbs\LG7.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C15_5  and  C22_9
+REMARK    2  A    between atoms: C12_10  and  N9_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 LG7 A  90      28.062   3.932   3.732  0.00  0.00    +0.000 A 
+ATOM      2  C18 LG7 A  90      22.915   4.516   4.651  0.00  0.00    +0.000 A 
+ATOM      3  C17 LG7 A  90      23.952   5.392   4.619  0.00  0.00    +0.000 A 
+ATOM      4  C16 LG7 A  90      25.274   4.807   4.306  0.00  0.00    +0.000 A 
+ATOM      5  C15 LG7 A  90      26.471   5.711   4.255  0.00  0.00    +0.000 A 
+ATOM      6  C19 LG7 A  90      23.099   3.114   4.412  0.00  0.00    +0.000 A 
+ATOM      7  C20 LG7 A  90      24.383   2.499   4.104  0.00  0.00    +0.000 A 
+ATOM      8  C21 LG7 A  90      25.514   3.430   4.061  0.00  0.00    +0.000 A 
+ATOM      9  C12 LG7 A  90      26.897   3.019   3.770  0.00  0.00    +0.000 A 
+ATOM     10  C14 LG7 A  90      27.838   5.277   3.957  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   9  19
+ATOM     11  O1  LG7 A  90      26.320  -1.122   4.714  0.00  0.00    +0.000 OA
+ATOM     12  C2  LG7 A  90      27.074  -1.586   3.632  0.00  0.00    +0.000 C 
+ATOM     13  C3  LG7 A  90      28.442  -2.220   4.262  0.00  0.00    +0.000 C 
+ATOM     14  C4  LG7 A  90      29.568  -1.048   4.184  0.00  0.00    +0.000 C 
+ATOM     15  N5  LG7 A  90      28.544  -0.004   3.744  0.00  0.00    +0.000 N 
+ATOM     16  C6  LG7 A  90      27.649  -0.356   2.754  0.00  0.00    +0.000 C 
+ATOM     17  C7  LG7 A  90      26.782   0.876   2.602  0.00  0.00    +0.000 C 
+ATOM     18  O8  LG7 A  90      25.759   0.912   1.723  0.00  0.00    +0.000 OA
+ATOM     19  N9  LG7 A  90      27.325   1.764   3.523  0.00  0.00    +0.000 N 
+ATOM     20  C10 LG7 A  90      28.374   1.221   4.194  0.00  0.00    +0.000 C 
+ATOM     21  O11 LG7 A  90      29.061   1.730   5.067  0.00  0.00    +0.000 OA
+ENDBRANCH   9  19
+BRANCH   5  22
+ATOM     22  C22 LG7 A  90      26.230   7.104   4.582  0.00  0.00    +0.000 C 
+ATOM     23  N23 LG7 A  90      26.033   8.251   4.849  0.00  0.00    +0.000 NA
+ENDBRANCH   5  22
+TORSDOF 2
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -7.7      1.286      2.212
+REMARK  Name = ligand_pdbs\LG7.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C15_5  and  C22_9
+REMARK    2  A    between atoms: C12_10  and  N9_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 LG7 A  90      26.165   2.325   3.448  0.00  0.00    +0.000 A 
+ATOM      2  C18 LG7 A  90      30.251   0.366   6.122  0.00  0.00    +0.000 A 
+ATOM      3  C17 LG7 A  90      29.496  -0.121   5.104  0.00  0.00    +0.000 A 
+ATOM      4  C16 LG7 A  90      28.421   0.774   4.621  0.00  0.00    +0.000 A 
+ATOM      5  C15 LG7 A  90      27.541   0.305   3.499  0.00  0.00    +0.000 A 
+ATOM      6  C19 LG7 A  90      30.008   1.656   6.698  0.00  0.00    +0.000 A 
+ATOM      7  C20 LG7 A  90      28.959   2.565   6.252  0.00  0.00    +0.000 A 
+ATOM      8  C21 LG7 A  90      28.136   2.058   5.151  0.00  0.00    +0.000 A 
+ATOM      9  C12 LG7 A  90      27.023   2.814   4.552  0.00  0.00    +0.000 A 
+ATOM     10  C14 LG7 A  90      26.442   1.080   2.916  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   9  19
+ATOM     11  O1  LG7 A  90      24.431   6.069   3.525  0.00  0.00    +0.000 OA
+ATOM     12  C2  LG7 A  90      24.520   6.679   4.781  0.00  0.00    +0.000 C 
+ATOM     13  C3  LG7 A  90      25.387   8.047   4.566  0.00  0.00    +0.000 C 
+ATOM     14  C4  LG7 A  90      26.925   7.679   4.945  0.00  0.00    +0.000 C 
+ATOM     15  N5  LG7 A  90      26.607   6.191   5.070  0.00  0.00    +0.000 N 
+ATOM     16  C6  LG7 A  90      25.475   5.831   5.772  0.00  0.00    +0.000 C 
+ATOM     17  C7  LG7 A  90      25.452   4.320   5.662  0.00  0.00    +0.000 C 
+ATOM     18  O8  LG7 A  90      24.464   3.589   6.217  0.00  0.00    +0.000 OA
+ATOM     19  N9  LG7 A  90      26.594   4.038   4.922  0.00  0.00    +0.000 N 
+ATOM     20  C10 LG7 A  90      27.268   5.165   4.578  0.00  0.00    +0.000 C 
+ATOM     21  O11 LG7 A  90      28.299   5.264   3.929  0.00  0.00    +0.000 OA
+ENDBRANCH   9  19
+BRANCH   5  22
+ATOM     22  C22 LG7 A  90      27.790  -1.039   3.014  0.00  0.00    +0.000 C 
+ATOM     23  N23 LG7 A  90      27.996  -2.146   2.616  0.00  0.00    +0.000 NA
+ENDBRANCH   5  22
+TORSDOF 2
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -7.6      1.105      2.170
+REMARK  Name = ligand_pdbs\LG7.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C15_5  and  C22_9
+REMARK    2  A    between atoms: C12_10  and  N9_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 LG7 A  90      25.521   1.483   4.528  0.00  0.00    +0.000 A 
+ATOM      2  C18 LG7 A  90      30.324   0.366   6.364  0.00  0.00    +0.000 A 
+ATOM      3  C17 LG7 A  90      29.338  -0.401   5.832  0.00  0.00    +0.000 A 
+ATOM      4  C16 LG7 A  90      28.114   0.323   5.423  0.00  0.00    +0.000 A 
+ATOM      5  C15 LG7 A  90      26.978  -0.456   4.828  0.00  0.00    +0.000 A 
+ATOM      6  C19 LG7 A  90      30.176   1.782   6.532  0.00  0.00    +0.000 A 
+ATOM      7  C20 LG7 A  90      28.988   2.531   6.143  0.00  0.00    +0.000 A 
+ATOM      8  C21 LG7 A  90      27.914   1.720   5.563  0.00  0.00    +0.000 A 
+ATOM      9  C12 LG7 A  90      26.630   2.277   5.106  0.00  0.00    +0.000 A 
+ATOM     10  C14 LG7 A  90      25.711   0.122   4.375  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   9  19
+ATOM     11  O1  LG7 A  90      23.578   5.077   4.007  0.00  0.00    +0.000 OA
+ATOM     12  C2  LG7 A  90      24.035   6.080   4.868  0.00  0.00    +0.000 C 
+ATOM     13  C3  LG7 A  90      24.659   7.254   3.917  0.00  0.00    +0.000 C 
+ATOM     14  C4  LG7 A  90      26.260   6.977   3.839  0.00  0.00    +0.000 C 
+ATOM     15  N5  LG7 A  90      26.130   5.638   4.562  0.00  0.00    +0.000 N 
+ATOM     16  C6  LG7 A  90      25.338   5.590   5.691  0.00  0.00    +0.000 C 
+ATOM     17  C7  LG7 A  90      25.407   4.137   6.113  0.00  0.00    +0.000 C 
+ATOM     18  O8  LG7 A  90      24.731   3.684   7.189  0.00  0.00    +0.000 OA
+ATOM     19  N9  LG7 A  90      26.250   3.569   5.165  0.00  0.00    +0.000 N 
+ATOM     20  C10 LG7 A  90      26.670   4.480   4.249  0.00  0.00    +0.000 C 
+ATOM     21  O11 LG7 A  90      27.407   4.306   3.290  0.00  0.00    +0.000 OA
+ENDBRANCH   9  19
+BRANCH   5  22
+ATOM     22  C22 LG7 A  90      27.161  -1.894   4.758  0.00  0.00    +0.000 C 
+ATOM     23  N23 LG7 A  90      27.310  -3.077   4.699  0.00  0.00    +0.000 NA
+ENDBRANCH   5  22
+TORSDOF 2
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -7.4      2.354      6.503
+REMARK  Name = ligand_pdbs\LG7.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C15_5  and  C22_9
+REMARK    2  A    between atoms: C12_10  and  N9_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 LG7 A  90      28.123   5.385   5.228  0.00  0.00    +0.000 A 
+ATOM      2  C18 LG7 A  90      23.024   4.318   4.488  0.00  0.00    +0.000 A 
+ATOM      3  C17 LG7 A  90      23.702   5.472   4.715  0.00  0.00    +0.000 A 
+ATOM      4  C16 LG7 A  90      25.168   5.335   4.862  0.00  0.00    +0.000 A 
+ATOM      5  C15 LG7 A  90      25.987   6.567   5.117  0.00  0.00    +0.000 A 
+ATOM      6  C19 LG7 A  90      23.689   3.050   4.414  0.00  0.00    +0.000 A 
+ATOM      7  C20 LG7 A  90      25.129   2.873   4.555  0.00  0.00    +0.000 A 
+ATOM      8  C21 LG7 A  90      25.878   4.109   4.797  0.00  0.00    +0.000 A 
+ATOM      9  C12 LG7 A  90      27.339   4.155   4.970  0.00  0.00    +0.000 A 
+ATOM     10  C14 LG7 A  90      27.443   6.587   5.281  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   9  19
+ATOM     11  O1  LG7 A  90      27.732  -0.026   5.828  0.00  0.00    +0.000 OA
+ATOM     12  C2  LG7 A  90      28.926  -0.172   5.114  0.00  0.00    +0.000 C 
+ATOM     13  C3  LG7 A  90      30.099  -0.414   6.225  0.00  0.00    +0.000 C 
+ATOM     14  C4  LG7 A  90      30.771   1.040   6.506  0.00  0.00    +0.000 C 
+ATOM     15  N5  LG7 A  90      29.711   1.763   5.679  0.00  0.00    +0.000 N 
+ATOM     16  C6  LG7 A  90      29.380   1.230   4.449  0.00  0.00    +0.000 C 
+ATOM     17  C7  LG7 A  90      28.298   2.159   3.938  0.00  0.00    +0.000 C 
+ATOM     18  O8  LG7 A  90      27.697   1.951   2.748  0.00  0.00    +0.000 OA
+ATOM     19  N9  LG7 A  90      28.182   3.102   4.952  0.00  0.00    +0.000 N 
+ATOM     20  C10 LG7 A  90      29.032   2.849   5.980  0.00  0.00    +0.000 C 
+ATOM     21  O11 LG7 A  90      29.174   3.477   7.018  0.00  0.00    +0.000 OA
+ENDBRANCH   9  19
+BRANCH   5  22
+ATOM     22  C22 LG7 A  90      25.245   7.805   5.259  0.00  0.00    +0.000 C 
+ATOM     23  N23 LG7 A  90      24.636   8.826   5.377  0.00  0.00    +0.000 NA
+ENDBRANCH   5  22
+TORSDOF 2
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -7.3      1.773      2.939
+REMARK  Name = ligand_pdbs\LG7.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C15_5  and  C22_9
+REMARK    2  A    between atoms: C12_10  and  N9_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 LG7 A  90      28.703   3.451   5.950  0.00  0.00    +0.000 A 
+ATOM      2  C18 LG7 A  90      28.802  -1.184   3.463  0.00  0.00    +0.000 A 
+ATOM      3  C17 LG7 A  90      29.545  -0.662   4.472  0.00  0.00    +0.000 A 
+ATOM      4  C16 LG7 A  90      29.178   0.707   4.894  0.00  0.00    +0.000 A 
+ATOM      5  C15 LG7 A  90      29.956   1.354   6.003  0.00  0.00    +0.000 A 
+ATOM      6  C19 LG7 A  90      27.743  -0.445   2.840  0.00  0.00    +0.000 A 
+ATOM      7  C20 LG7 A  90      27.352   0.906   3.225  0.00  0.00    +0.000 A 
+ATOM      8  C21 LG7 A  90      28.142   1.484   4.316  0.00  0.00    +0.000 A 
+ATOM      9  C12 LG7 A  90      27.915   2.834   4.858  0.00  0.00    +0.000 A 
+ATOM     10  C14 LG7 A  90      29.707   2.699   6.529  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   9  19
+ATOM     11  O1  LG7 A  90      26.396   6.808   5.372  0.00  0.00    +0.000 OA
+ATOM     12  C2  LG7 A  90      25.653   6.795   4.187  0.00  0.00    +0.000 C 
+ATOM     13  C3  LG7 A  90      24.081   6.748   4.631  0.00  0.00    +0.000 C 
+ATOM     14  C4  LG7 A  90      23.642   5.182   4.595  0.00  0.00    +0.000 C 
+ATOM     15  N5  LG7 A  90      25.077   4.717   4.359  0.00  0.00    +0.000 N 
+ATOM     16  C6  LG7 A  90      25.824   5.387   3.410  0.00  0.00    +0.000 C 
+ATOM     17  C7  LG7 A  90      27.173   4.702   3.469  0.00  0.00    +0.000 C 
+ATOM     18  O8  LG7 A  90      28.197   5.097   2.684  0.00  0.00    +0.000 OA
+ATOM     19  N9  LG7 A  90      26.991   3.722   4.437  0.00  0.00    +0.000 N 
+ATOM     20  C10 LG7 A  90      25.737   3.748   4.956  0.00  0.00    +0.000 C 
+ATOM     21  O11 LG7 A  90      25.260   3.030   5.823  0.00  0.00    +0.000 OA
+ENDBRANCH   9  19
+BRANCH   5  22
+ATOM     22  C22 LG7 A  90      31.063   0.583   6.537  0.00  0.00    +0.000 C 
+ATOM     23  N23 LG7 A  90      31.975  -0.049   6.976  0.00  0.00    +0.000 NA
+ENDBRANCH   5  22
+TORSDOF 2
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -6.3      2.412      5.856
+REMARK  Name = ligand_pdbs\LG7.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C15_5  and  C22_9
+REMARK    2  A    between atoms: C12_10  and  N9_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 LG7 A  90      25.692   1.999   4.765  0.00  0.00    +0.000 A 
+ATOM      2  C18 LG7 A  90      25.542   7.257   4.660  0.00  0.00    +0.000 A 
+ATOM      3  C17 LG7 A  90      24.575   6.305   4.609  0.00  0.00    +0.000 A 
+ATOM      4  C16 LG7 A  90      25.051   4.906   4.677  0.00  0.00    +0.000 A 
+ATOM      5  C15 LG7 A  90      24.042   3.796   4.623  0.00  0.00    +0.000 A 
+ATOM      6  C19 LG7 A  90      26.932   6.921   4.757  0.00  0.00    +0.000 A 
+ATOM      7  C20 LG7 A  90      27.441   5.557   4.824  0.00  0.00    +0.000 A 
+ATOM      8  C21 LG7 A  90      26.411   4.516   4.774  0.00  0.00    +0.000 A 
+ATOM      9  C12 LG7 A  90      26.708   3.075   4.826  0.00  0.00    +0.000 A 
+ATOM     10  C14 LG7 A  90      24.363   2.368   4.682  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   9  19
+ATOM     11  O1  LG7 A  90      28.894  -0.348   6.194  0.00  0.00    +0.000 OA
+ATOM     12  C2  LG7 A  90      30.043  -0.045   5.455  0.00  0.00    +0.000 C 
+ATOM     13  C3  LG7 A  90      31.180   0.405   6.539  0.00  0.00    +0.000 C 
+ATOM     14  C4  LG7 A  90      31.133   2.030   6.605  0.00  0.00    +0.000 C 
+ATOM     15  N5  LG7 A  90      29.879   2.093   5.736  0.00  0.00    +0.000 N 
+ATOM     16  C6  LG7 A  90      29.842   1.311   4.599  0.00  0.00    +0.000 C 
+ATOM     17  C7  LG7 A  90      28.472   1.590   4.018  0.00  0.00    +0.000 C 
+ATOM     18  O8  LG7 A  90      28.049   0.982   2.890  0.00  0.00    +0.000 OA
+ATOM     19  N9  LG7 A  90      27.930   2.510   4.907  0.00  0.00    +0.000 N 
+ATOM     20  C10 LG7 A  90      28.783   2.797   5.924  0.00  0.00    +0.000 C 
+ATOM     21  O11 LG7 A  90      28.612   3.555   6.867  0.00  0.00    +0.000 OA
+ENDBRANCH   9  19
+BRANCH   5  22
+ATOM     22  C22 LG7 A  90      22.660   4.201   4.447  0.00  0.00    +0.000 C 
+ATOM     23  N23 LG7 A  90      21.522   4.533   4.304  0.00  0.00    +0.000 NA
+ENDBRANCH   5  22
+TORSDOF 2
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -6.2      1.604      3.422
+REMARK  Name = ligand_pdbs\LG7.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C15_5  and  C22_9
+REMARK    2  A    between atoms: C12_10  and  N9_19
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 LG7 A  90      28.677   2.567   5.675  0.00  0.00    +0.000 A 
+ATOM      2  C18 LG7 A  90      26.243  -0.109   1.854  0.00  0.00    +0.000 A 
+ATOM      3  C17 LG7 A  90      27.342  -0.370   2.608  0.00  0.00    +0.000 A 
+ATOM      4  C16 LG7 A  90      27.695   0.666   3.604  0.00  0.00    +0.000 A 
+ATOM      5  C15 LG7 A  90      28.900   0.451   4.473  0.00  0.00    +0.000 A 
+ATOM      6  C19 LG7 A  90      25.488   1.100   2.007  0.00  0.00    +0.000 A 
+ATOM      7  C20 LG7 A  90      25.804   2.144   2.974  0.00  0.00    +0.000 A 
+ATOM      8  C21 LG7 A  90      26.986   1.878   3.799  0.00  0.00    +0.000 A 
+ATOM      9  C12 LG7 A  90      27.480   2.801   4.834  0.00  0.00    +0.000 A 
+ATOM     10  C14 LG7 A  90      29.369   1.383   5.501  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   9  19
+ATOM     11  O1  LG7 A  90      24.467   5.680   3.836  0.00  0.00    +0.000 OA
+ATOM     12  C2  LG7 A  90      24.595   6.391   5.034  0.00  0.00    +0.000 C 
+ATOM     13  C3  LG7 A  90      25.283   7.822   4.648  0.00  0.00    +0.000 C 
+ATOM     14  C4  LG7 A  90      26.880   7.646   4.907  0.00  0.00    +0.000 C 
+ATOM     15  N5  LG7 A  90      26.740   6.147   5.160  0.00  0.00    +0.000 N 
+ATOM     16  C6  LG7 A  90      25.718   5.725   5.987  0.00  0.00    +0.000 C 
+ATOM     17  C7  LG7 A  90      25.853   4.217   5.981  0.00  0.00    +0.000 C 
+ATOM     18  O8  LG7 A  90      25.003   3.432   6.674  0.00  0.00    +0.000 OA
+ATOM     19  N9  LG7 A  90      26.952   3.998   5.159  0.00  0.00    +0.000 N 
+ATOM     20  C10 LG7 A  90      27.466   5.161   4.679  0.00  0.00    +0.000 C 
+ATOM     21  O11 LG7 A  90      28.420   5.316   3.932  0.00  0.00    +0.000 OA
+ENDBRANCH   9  19
+BRANCH   5  22
+ATOM     22  C22 LG7 A  90      29.664  -0.755   4.215  0.00  0.00    +0.000 C 
+ATOM     23  N23 LG7 A  90      30.292  -1.747   4.000  0.00  0.00    +0.000 NA
+ENDBRANCH   5  22
+TORSDOF 2
+ENDMDL

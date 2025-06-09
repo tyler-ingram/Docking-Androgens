@@ -1,0 +1,48 @@
+REMARK  Name = ligand_pdbs\CUX.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_3  and  NAA_8
+REMARK    2  A    between atoms: NAG_12  and  CAK_13
+REMARK    3  A    between atoms: CAM_19  and  CAR_20
+REMARK    4  A    between atoms: CAR_20  and  CAT_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAK CUX A 700     -16.991-101.285  -3.621  0.00  0.00    +0.000 C 
+ATOM      2  OAL CUX A 700     -17.472-101.261  -4.939  0.00  0.00    +0.000 OA
+ATOM      3  CAP CUX A 700     -17.275 -99.894  -3.139  0.00  0.00    +0.000 C 
+ATOM      4  OAQ CUX A 700     -17.213 -99.805  -1.711  0.00  0.00    +0.000 OA
+ATOM      5  CAN CUX A 700     -18.678 -99.655  -3.654  0.00  0.00    +0.000 C 
+ATOM      6  OAO CUX A 700     -19.691-100.041  -2.696  0.00  0.00    +0.000 OA
+ATOM      7  CAM CUX A 700     -18.733-100.573  -4.871  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1  16
+ATOM      8  C4  CUX A 700     -14.915-102.555  -3.260  0.00  0.00    +0.000 C 
+ATOM      9  C5  CUX A 700     -13.614-102.448  -3.554  0.00  0.00    +0.000 C 
+ATOM     10  C6  CUX A 700     -12.773-103.438  -3.167  0.00  0.00    +0.000 C 
+ATOM     11  N1  CUX A 700     -13.205-104.471  -2.428  0.00  0.00    +0.000 NA
+ATOM     12  N3  CUX A 700     -15.393-103.575  -2.542  0.00  0.00    +0.000 NA
+ATOM     13  C2  CUX A 700     -14.551-104.588  -2.093  0.00  0.00    +0.000 C 
+ATOM     14  CAI CUX A 700     -13.466-101.315  -4.263  0.00  0.00    +0.000 C 
+ATOM     15  CAH CUX A 700     -14.651-100.751  -4.403  0.00  0.00    +0.000 C 
+ATOM     16  NAG CUX A 700     -15.547-101.514  -3.769  0.00  0.00    +0.000 N 
+BRANCH  10  19
+ATOM     17  CBB CUX A 700     -11.542-102.983  -5.946  0.00  0.00    +0.000 C 
+ATOM     18  CBA CUX A 700     -10.841-103.136  -4.588  0.00  0.00    +0.000 C 
+ATOM     19  NAA CUX A 700     -11.453-103.345  -3.398  0.00  0.00    +0.000 NA
+ENDBRANCH  10  19
+ENDBRANCH   1  16
+BRANCH   7  20
+ATOM     20  CAR CUX A 700     -18.945 -99.782  -6.184  0.00  0.00    +0.000 C 
+ATOM     21  OAS CUX A 700     -17.866 -98.845  -6.367  0.00  0.00    +0.000 OA
+BRANCH  20  22
+ATOM     22  CAT CUX A 700     -20.253 -99.207  -6.224  0.00  0.00    +0.000 A 
+ATOM     23  CAU CUX A 700     -21.356-100.077  -6.259  0.00  0.00    +0.000 A 
+ATOM     24  CAV CUX A 700     -22.659 -99.611  -6.299  0.00  0.00    +0.000 A 
+ATOM     25  CAW CUX A 700     -22.891 -98.254  -6.311  0.00  0.00    +0.000 A 
+ATOM     26 CLA  CUX A 700     -24.502 -97.702  -6.366  0.00  0.00    +0.000 Cl
+ATOM     27  CAX CUX A 700     -21.819 -97.359  -6.273  0.00  0.00    +0.000 A 
+ATOM     28  CAY CUX A 700     -20.498 -97.828  -6.236  0.00  0.00    +0.000 A 
+ENDBRANCH  20  22
+ENDBRANCH   7  20
+TORSDOF 4

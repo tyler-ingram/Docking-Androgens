@@ -1,0 +1,207 @@
+MODEL 1
+REMARK VINA RESULT:      -5.6      0.000      0.000
+REMARK  Name = ligand_pdbs\NK.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAD_2  and  CAA_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA NK  A 933      23.657  12.274   9.860  0.00  0.00    +0.000 A 
+ATOM      2  CAC NK  A 933      23.285  12.922  11.023  0.00  0.00    +0.000 A 
+ATOM      3  CAG NK  A 933      23.107  12.208  12.201  0.00  0.00    +0.000 A 
+ATOM      4  CAI NK  A 933      23.305  10.830  12.210  0.00  0.00    +0.000 A 
+ATOM      5  CAE NK  A 933      23.680  10.177  11.042  0.00  0.00    +0.000 A 
+ATOM      6  CAB NK  A 933      23.858  10.894   9.865  0.00  0.00    +0.000 A 
+ATOM      7  OAF NK  A 933      24.223  10.255   8.734  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   9
+ATOM      8  OAH NK  A 933      22.962  13.180   7.738  0.00  0.00    +0.000 OA
+ATOM      9  CAD NK  A 933      23.848  13.071   8.562  0.00  0.00    +0.000 C 
+ENDBRANCH   1   9
+TORSDOF 1
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -5.1      7.958      8.892
+REMARK  Name = ligand_pdbs\NK.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAD_2  and  CAA_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA NK  A 933      25.037   5.133   4.806  0.00  0.00    +0.000 A 
+ATOM      2  CAC NK  A 933      24.734   6.477   4.687  0.00  0.00    +0.000 A 
+ATOM      3  CAG NK  A 933      25.731   7.436   4.811  0.00  0.00    +0.000 A 
+ATOM      4  CAI NK  A 933      27.042   7.042   5.057  0.00  0.00    +0.000 A 
+ATOM      5  CAE NK  A 933      27.348   5.692   5.177  0.00  0.00    +0.000 A 
+ATOM      6  CAB NK  A 933      26.350   4.734   5.052  0.00  0.00    +0.000 A 
+ATOM      7  OAF NK  A 933      26.652   3.424   5.168  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   9
+ATOM      8  OAH NK  A 933      22.795   4.376   4.349  0.00  0.00    +0.000 OA
+ATOM      9  CAD NK  A 933      23.928   4.080   4.671  0.00  0.00    +0.000 C 
+ENDBRANCH   1   9
+TORSDOF 1
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -5.0      8.048      9.488
+REMARK  Name = ligand_pdbs\NK.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAD_2  and  CAA_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA NK  A 933      25.079   5.027   4.456  0.00  0.00    +0.000 A 
+ATOM      2  CAC NK  A 933      25.805   3.972   3.937  0.00  0.00    +0.000 A 
+ATOM      3  CAG NK  A 933      27.181   4.073   3.780  0.00  0.00    +0.000 A 
+ATOM      4  CAI NK  A 933      27.833   5.245   4.150  0.00  0.00    +0.000 A 
+ATOM      5  CAE NK  A 933      27.105   6.307   4.674  0.00  0.00    +0.000 A 
+ATOM      6  CAB NK  A 933      25.729   6.203   4.829  0.00  0.00    +0.000 A 
+ATOM      7  OAF NK  A 933      25.026   7.236   5.339  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   9
+ATOM      8  OAH NK  A 933      22.948   3.917   4.269  0.00  0.00    +0.000 OA
+ATOM      9  CAD NK  A 933      23.557   4.907   4.622  0.00  0.00    +0.000 C 
+ENDBRANCH   1   9
+TORSDOF 1
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -4.9      7.819      9.157
+REMARK  Name = ligand_pdbs\NK.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAD_2  and  CAA_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA NK  A 933      25.833   4.772   4.982  0.00  0.00    +0.000 A 
+ATOM      2  CAC NK  A 933      27.058   5.393   5.143  0.00  0.00    +0.000 A 
+ATOM      3  CAG NK  A 933      27.161   6.776   5.073  0.00  0.00    +0.000 A 
+ATOM      4  CAI NK  A 933      26.023   7.542   4.840  0.00  0.00    +0.000 A 
+ATOM      5  CAE NK  A 933      24.791   6.920   4.678  0.00  0.00    +0.000 A 
+ATOM      6  CAB NK  A 933      24.691   5.536   4.750  0.00  0.00    +0.000 A 
+ATOM      7  OAF NK  A 933      23.492   4.937   4.593  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   9
+ATOM      8  OAH NK  A 933      26.485   2.580   5.741  0.00  0.00    +0.000 OA
+ATOM      9  CAD NK  A 933      25.730   3.243   5.058  0.00  0.00    +0.000 C 
+ENDBRANCH   1   9
+TORSDOF 1
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.9      8.924     10.288
+REMARK  Name = ligand_pdbs\NK.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAD_2  and  CAA_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA NK  A 933      25.974   3.916   3.820  0.00  0.00    +0.000 A 
+ATOM      2  CAC NK  A 933      26.493   5.180   3.605  0.00  0.00    +0.000 A 
+ATOM      3  CAG NK  A 933      25.760   6.309   3.945  0.00  0.00    +0.000 A 
+ATOM      4  CAI NK  A 933      24.495   6.168   4.506  0.00  0.00    +0.000 A 
+ATOM      5  CAE NK  A 933      23.971   4.899   4.723  0.00  0.00    +0.000 A 
+ATOM      6  CAB NK  A 933      24.707   3.771   4.383  0.00  0.00    +0.000 A 
+ATOM      7  OAF NK  A 933      24.195   2.541   4.597  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   9
+ATOM      8  OAH NK  A 933      27.998   2.634   3.561  0.00  0.00    +0.000 OA
+ATOM      9  CAD NK  A 933      26.790   2.674   3.438  0.00  0.00    +0.000 C 
+ENDBRANCH   1   9
+TORSDOF 1
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -4.9      8.077      9.211
+REMARK  Name = ligand_pdbs\NK.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAD_2  and  CAA_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA NK  A 933      25.327   5.753   4.346  0.00  0.00    +0.000 A 
+ATOM      2  CAC NK  A 933      24.057   5.334   4.698  0.00  0.00    +0.000 A 
+ATOM      3  CAG NK  A 933      23.715   3.990   4.628  0.00  0.00    +0.000 A 
+ATOM      4  CAI NK  A 933      24.657   3.059   4.202  0.00  0.00    +0.000 A 
+ATOM      5  CAE NK  A 933      25.934   3.478   3.850  0.00  0.00    +0.000 A 
+ATOM      6  CAB NK  A 933      26.274   4.823   3.921  0.00  0.00    +0.000 A 
+ATOM      7  OAF NK  A 933      27.516   5.225   3.578  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   9
+ATOM      8  OAH NK  A 933      25.700   7.850   5.474  0.00  0.00    +0.000 OA
+ATOM      9  CAD NK  A 933      25.695   7.241   4.422  0.00  0.00    +0.000 C 
+ENDBRANCH   1   9
+TORSDOF 1
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -4.8      9.128     10.339
+REMARK  Name = ligand_pdbs\NK.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAD_2  and  CAA_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA NK  A 933      25.048   3.686   4.289  0.00  0.00    +0.000 A 
+ATOM      2  CAC NK  A 933      24.103   4.635   4.633  0.00  0.00    +0.000 A 
+ATOM      3  CAG NK  A 933      24.379   5.989   4.490  0.00  0.00    +0.000 A 
+ATOM      4  CAI NK  A 933      25.616   6.392   3.996  0.00  0.00    +0.000 A 
+ATOM      5  CAE NK  A 933      26.567   5.440   3.649  0.00  0.00    +0.000 A 
+ATOM      6  CAB NK  A 933      26.288   4.087   3.793  0.00  0.00    +0.000 A 
+ATOM      7  OAF NK  A 933      27.214   3.166   3.454  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   9
+ATOM      8  OAH NK  A 933      24.296   1.522   3.541  0.00  0.00    +0.000 OA
+ATOM      9  CAD NK  A 933      24.734   2.193   4.455  0.00  0.00    +0.000 C 
+ENDBRANCH   1   9
+TORSDOF 1
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -4.8      8.317      9.544
+REMARK  Name = ligand_pdbs\NK.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAD_2  and  CAA_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA NK  A 933      25.498   5.575   4.224  0.00  0.00    +0.000 A 
+ATOM      2  CAC NK  A 933      26.794   5.440   3.761  0.00  0.00    +0.000 A 
+ATOM      3  CAG NK  A 933      27.309   4.185   3.467  0.00  0.00    +0.000 A 
+ATOM      4  CAI NK  A 933      26.515   3.055   3.637  0.00  0.00    +0.000 A 
+ATOM      5  CAE NK  A 933      25.212   3.189   4.100  0.00  0.00    +0.000 A 
+ATOM      6  CAB NK  A 933      24.698   4.446   4.394  0.00  0.00    +0.000 A 
+ATOM      7  OAF NK  A 933      23.432   4.570   4.843  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   9
+ATOM      8  OAH NK  A 933      25.446   7.682   5.391  0.00  0.00    +0.000 OA
+ATOM      9  CAD NK  A 933      24.939   6.966   4.551  0.00  0.00    +0.000 C 
+ENDBRANCH   1   9
+TORSDOF 1
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -4.8      8.491      9.378
+REMARK  Name = ligand_pdbs\NK.pdb
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAD_2  and  CAA_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CAA NK  A 933      26.130   4.501   5.646  0.00  0.00    +0.000 A 
+ATOM      2  CAC NK  A 933      24.824   4.050   5.598  0.00  0.00    +0.000 A 
+ATOM      3  CAG NK  A 933      23.851   4.781   4.929  0.00  0.00    +0.000 A 
+ATOM      4  CAI NK  A 933      24.194   5.975   4.302  0.00  0.00    +0.000 A 
+ATOM      5  CAE NK  A 933      25.507   6.429   4.348  0.00  0.00    +0.000 A 
+ATOM      6  CAB NK  A 933      26.478   5.696   5.018  0.00  0.00    +0.000 A 
+ATOM      7  OAF NK  A 933      27.751   6.140   5.059  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   9
+ATOM      8  OAH NK  A 933      27.841   2.815   5.843  0.00  0.00    +0.000 OA
+ATOM      9  CAD NK  A 933      27.198   3.688   6.391  0.00  0.00    +0.000 C 
+ENDBRANCH   1   9
+TORSDOF 1
+ENDMDL

@@ -1,0 +1,19 @@
+REMARK  Name = ligand_pdbs\PWL.pdb
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C2  PWL A 701     -29.062 -41.816  -9.832  0.00  0.00    +0.000 C 
+ATOM      2  C3  PWL A 701     -28.291 -42.880 -10.265  0.00  0.00    +0.000 C 
+ATOM      3  C4  PWL A 701     -28.923 -44.083 -10.558  0.00  0.00    +0.000 C 
+ATOM      4  C6  PWL A 701     -29.514 -46.159 -11.107  0.00  0.00    +0.000 C 
+ATOM      5  C7  PWL A 701     -30.666 -45.537 -10.785  0.00  0.00    +0.000 C 
+ATOM      6  C8  PWL A 701     -30.321 -44.169 -10.410  0.00  0.00    +0.000 C 
+ATOM      7 BR1  PWL A 701     -28.147 -40.236  -9.447  0.00  0.00    +0.000 Br
+ATOM      8  N5  PWL A 701     -28.465 -45.298 -10.981  0.00  0.00    +0.000 NA
+ATOM      9  N9  PWL A 701     -31.014 -43.097 -10.000  0.00  0.00    +0.000 NA
+ATOM     10  C10 PWL A 701     -30.454 -41.933  -9.695  0.00  0.00    +0.000 C 
+ATOM     11  N11 PWL A 701     -31.252 -40.863  -9.263  0.00  0.00    +0.000 NA
+ENDROOT
+TORSDOF 0

@@ -1,0 +1,38 @@
+REMARK  Name = ligand_pdbs\JAD.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_3  and  C7_4
+REMARK    2  A    between atoms: C5_8  and  C9_11
+REMARK    3  A    between atoms: C11_12  and  O2_13
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C9  JAD A1001      27.649   1.472   4.124  0.00  0.00    +0.000 C 
+ATOM      2  C11 JAD A1001      29.069   1.190   4.471  0.00  0.00    +0.000 C 
+ATOM      3  C10 JAD A1001      29.107  -0.321   4.408  0.00  0.00    +0.000 C 
+ATOM      4  C14 JAD A1001      29.797  -0.883   3.169  0.00  0.00    +0.000 C 
+ATOM      5  O1  JAD A1001      30.987  -1.598   3.509  0.00  0.00    +0.000 OA
+ATOM      6  C13 JAD A1001      28.799  -1.812   2.503  0.00  0.00    +0.000 C 
+ATOM      7  C12 JAD A1001      27.546  -1.803   3.371  0.00  0.00    +0.000 C 
+ATOM      8  N3  JAD A1001      27.689  -0.707   4.343  0.00  0.00    +0.000 N 
+ATOM      9  N2  JAD A1001      27.021   0.389   3.959  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1  15
+ATOM     10 CL1  JAD A1001      23.641   5.021   4.081  0.00  0.00    +0.000 Cl
+ATOM     11  C3  JAD A1001      25.371   4.557   3.988  0.00  0.00    +0.000 A 
+ATOM     12  C2  JAD A1001      26.314   5.559   3.810  0.00  0.00    +0.000 A 
+ATOM     13  C4  JAD A1001      25.749   3.216   4.098  0.00  0.00    +0.000 A 
+ATOM     14  C8  JAD A1001      24.655   2.188   4.291  0.00  0.00    +0.000 C 
+ATOM     15  C5  JAD A1001      27.108   2.879   4.019  0.00  0.00    +0.000 A 
+ATOM     16  C6  JAD A1001      28.045   3.902   3.843  0.00  0.00    +0.000 A 
+ATOM     17  C1  JAD A1001      27.659   5.230   3.737  0.00  0.00    +0.000 A 
+BRANCH  12  18
+ATOM     18  C7  JAD A1001      25.962   6.793   3.713  0.00  0.00    +0.000 C 
+ATOM     19  N1  JAD A1001      25.664   7.912   3.662  0.00  0.00    +0.000 NA
+ENDBRANCH  12  18
+ENDBRANCH   1  15
+BRANCH   2  20
+ATOM     20  O2  JAD A1001      29.319   1.676   5.785  0.00  0.00    +0.000 OA
+ATOM     21  C15 JAD A1001      30.699   1.822   6.104  0.00  0.00    +0.000 C 
+ENDBRANCH   2  20
+TORSDOF 3

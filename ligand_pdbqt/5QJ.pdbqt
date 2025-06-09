@@ -1,0 +1,54 @@
+REMARK  Name = ligand_pdbs\5QJ.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: NAU_10  and  CAT_11
+REMARK    2  A    between atoms: CAT_11  and  CAR_12
+REMARK    3  A    between atoms: CAR_12  and  CAQ_14
+REMARK    4  A    between atoms: CAQ_14  and  NAP_15
+REMARK    5  A    between atoms: CAK_21  and  CAH_22
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  NAP 5QJ A 702      19.749 -48.895 -10.758  0.00  0.00    +0.000 NA
+ATOM      2  CAO 5QJ A 702      19.682 -49.718  -9.716  0.00  0.00    +0.000 A 
+ATOM      3  CBE 5QJ A 702      20.890 -50.062  -9.113  0.00  0.00    +0.000 A 
+ATOM      4  NAN 5QJ A 702      18.509 -50.246  -9.283  0.00  0.00    +0.000 NA
+ATOM      5  CAM 5QJ A 702      18.505 -51.155  -8.190  0.00  0.00    +0.000 A 
+ATOM      6  CAL 5QJ A 702      19.723 -51.493  -7.574  0.00  0.00    +0.000 A 
+ATOM      7  CAK 5QJ A 702      20.938 -50.940  -8.029  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   7   8
+ATOM      8  CAH 5QJ A 702      22.179 -51.268  -7.433  0.00  0.00    +0.000 C 
+ATOM      9  CAG 5QJ A 702      23.201 -51.935  -8.145  0.00  0.00    +0.000 C 
+ATOM     10  CAF 5QJ A 702      24.371 -52.238  -7.548  0.00  0.00    +0.000 C 
+ATOM     11  NAB 5QJ A 702      25.479 -52.857  -7.987  0.00  0.00    +0.000 N 
+ATOM     12  CAA 5QJ A 702      25.802 -53.443  -9.317  0.00  0.00    +0.000 C 
+ATOM     13  CAC 5QJ A 702      26.354 -52.911  -6.991  0.00  0.00    +0.000 C 
+ATOM     14  NAD 5QJ A 702      25.802 -52.327  -5.930  0.00  0.00    +0.000 NA
+ATOM     15  CAE 5QJ A 702      24.589 -51.911  -6.257  0.00  0.00    +0.000 C 
+ATOM     16  CAJ 5QJ A 702      23.670 -51.274  -5.525  0.00  0.00    +0.000 C 
+ATOM     17  CAI 5QJ A 702      22.432 -50.932  -6.097  0.00  0.00    +0.000 C 
+ENDBRANCH   7   8
+BRANCH   1  18
+ATOM     18  CAQ 5QJ A 702      19.043 -47.627 -10.910  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  CAR 5QJ A 702      19.751 -46.551 -10.111  0.00  0.00    +0.000 C 
+ATOM     20  OAS 5QJ A 702      19.071 -45.351 -10.382  0.00  0.00    +0.000 OA
+BRANCH  19  21
+ATOM     21  CAT 5QJ A 702      21.240 -46.396 -10.504  0.00  0.00    +0.000 C 
+BRANCH  21  31
+ATOM     22  CAV 5QJ A 702      23.045 -44.779 -10.556  0.00  0.00    +0.000 C 
+ATOM     23  CAW 5QJ A 702      23.597 -43.498  -9.931  0.00  0.00    +0.000 C 
+ATOM     24  CAX 5QJ A 702      23.405 -43.459  -8.523  0.00  0.00    +0.000 A 
+ATOM     25  CBD 5QJ A 702      24.129 -42.503  -7.789  0.00  0.00    +0.000 A 
+ATOM     26  CBC 5QJ A 702      23.990 -42.435  -6.399  0.00  0.00    +0.000 A 
+ATOM     27  CBB 5QJ A 702      23.103 -43.296  -5.720  0.00  0.00    +0.000 A 
+ATOM     28  CBA 5QJ A 702      22.356 -44.239  -6.440  0.00  0.00    +0.000 A 
+ATOM     29  CAY 5QJ A 702      22.505 -44.324  -7.834  0.00  0.00    +0.000 A 
+ATOM     30  CAZ 5QJ A 702      21.767 -45.295  -8.491  0.00  0.00    +0.000 C 
+ATOM     31  NAU 5QJ A 702      21.750 -45.135  -9.952  0.00  0.00    +0.000 NA
+ENDBRANCH  21  31
+ENDBRANCH  19  21
+ENDBRANCH  18  19
+ENDBRANCH   1  18
+TORSDOF 5
