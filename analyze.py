@@ -31,7 +31,7 @@ def tanimoto_similarity(id1, id2):
     Calculate the Tanimoto similarity between two molecules.
     """
     mol1 = Chem.MolFromMolFile(f'ligand_mols/{id1}.mol')
-    mol2 = Chem.MolFromMolFile(f'ligand_mols/{id2}.mol')
+    mol2 = Chem.MolFromMolFile(f'ligand_mols/DHT.mol')
     fp1 = AllChem.GetMorganFingerprint(mol1, radius=2)
     fp2 = AllChem.GetMorganFingerprint(mol2,radius=2)
     return DataStructs.TanimotoSimilarity(fp1, fp2)
@@ -42,12 +42,12 @@ def get_binding_affinity(id):
     :param id: The id of the docked ligand, which corresponds to a PDBQT file.
     :return: The binding affinity as a float.
     """
-    pdbqt_file = f'./results/{id}_out.pdbqt'
+    pdbqt_file = f'./results/{id}_log.txt'
     if not os.path.exists(pdbqt_file):
         raise FileNotFoundError(f"PDBQT file for {id} does not exist.")
     with open(pdbqt_file) as f:
         for line in f:
             if line.strip().startswith("1 "):
-                affinity = float(line.split()[1])
+                affinity = float(line.split()[0])
                 break
     return affinity

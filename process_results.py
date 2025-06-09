@@ -9,7 +9,7 @@ with open('results.csv', mode='w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(['ID', 'Binding Affinity','Tanimoto Similarity', 'Centroid Distance'])
     for filename in os.listdir(results_dir):
-        if filename.endswith("_pdbqt.txt"):
+        if filename.endswith(".pdbqt"):
             id = filename.split("_")[0]
             tanimoto_similarity = analyze.tanimoto_similarity('DHT', id)
             binding_affinity = analyze.get_binding_affinity(id)
