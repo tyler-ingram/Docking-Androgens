@@ -14,16 +14,17 @@ class SingleLigandSelect(Select):
 
 # Load structure
 parser = PDBParser(QUIET=True)
-#structure = parser.get_structure("complex", "ligands-2.pdb")
+
 
 # Prepare output directory
 input_dir = "Dataset"
 output_dir = "ligand_pdbs"
 os.makedirs(output_dir, exist_ok=True)
 
-# Loop through and extract individual ligands
+# Want unique ligands
 ligands_seen = set()
 io = PDBIO()
+# Loop through all PDB files in the input directory
 for filename in os.listdir(input_dir):
     filepath = os.path.join(input_dir, filename)
     try:
@@ -31,6 +32,7 @@ for filename in os.listdir(input_dir):
     except Exception as e:
         print(f"Failed to parse {filename}: {e}")
         continue
+    #Try to extract ligands from the structure
     for model in structure:
         for chain in model:
             for residue in chain:
